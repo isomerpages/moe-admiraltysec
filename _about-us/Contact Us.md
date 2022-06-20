@@ -6,8 +6,7 @@ description: ""
 <div class="pagecontent_box">
 <h1 class="ive_editable" id="_ptoh_27641">Contact Us</h1>
 <div class="description ive_editable ive_ptod ive_content" id="_ptod_27641">
-<h3>&nbsp;Shoud you have any enquiries, please contact us here.</h3>
-</div>
+<h3>Shoud you have any enquiries, please contact us here.</h3>
 </div>
 <div id="_ptoo_block_start">&nbsp;</div>
 <div class="pageblock_box" id="_ptoo_27711">
@@ -25,4 +24,4 @@ description: ""
 <div class="pageblock_box" id="_ptoo_52970">
 <h2 class="ive_editable ive_ptoh" id="_ptoh_52970">Feedback</h2>
 <div class="ive_editable ive_ptod ive_content" id="_ptod_52970">Click&nbsp;<a rel="noopener" target="_blank" href="http://forms.cwp.sg/Feedback_form/Form3AZH7">here</a>&nbsp;to assess to feedback form</div>
-</div>
+</div></div>
