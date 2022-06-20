@@ -2,6 +2,7 @@ collections:
   student-dev-and-llp:
     output: true
     order:
+      - Character & Citizenship Edu/Education and Career Guidance.md
       - Character & Citizenship Edu/Student Leadership.md
       - Character & Citizenship Edu/Values In Action.md
       - Character & Citizenship Edu/.keep
