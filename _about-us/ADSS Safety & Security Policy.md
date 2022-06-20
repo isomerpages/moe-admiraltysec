@@ -13,27 +13,27 @@ Guided by our school’s core values (LIGHTS), our students and staff contribute
 <table>
 	<tr> 
 		<td> Learning </td>
-		<td> Learning and familiarising safety and security procedures and practices
+		<td> Learning and familiarising safety and security procedures and practices </td>
 </tr> 
 	<tr>
-	<td> Integrity 
-		<td> Knowing and doing the right things to keep the environment safe and secure
+	<td> Integrity </td>
+		<td> Knowing and doing the right things to keep the environment safe and secure </td>
 </tr> 
 	<tr>
-<td> Graciousness 
-	<td> Demonstrating care for the safety and security of self and others
+<td> Graciousness </td>
+	<td> Demonstrating care for the safety and security of self and others </td>
 </tr> 
 	<tr>
-<td> High Expectations  
-<td> putting in effort to maintain high standards of vigilance and safety and security practices
+<td> High Expectations </td>
+<td> putting in effort to maintain high standards of vigilance and safety and security practices </td>
 	</tr> 
 	<tr>
-<td> Teamwork
-<td> Cooperating with the school by reporting defects and safety and security hazards
+<td> Teamwork </td>
+<td> Cooperating with the school by reporting defects and safety and security hazards </td>
 </tr> 
 	<tr>
-<td> Self-discipline
-<td> Taking responsibility for own safety and security at all times
+<td> Self-discipline </td>
+<td> Taking responsibility for own safety and security at all times </td>
 	</tr>
 </table>
 			 
