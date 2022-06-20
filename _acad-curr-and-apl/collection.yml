@@ -2,6 +2,9 @@ collections:
   acad-curr-and-apl:
     output: true
     order:
+      - Academic Curriculum/.keep
+      - Academic Curriculum/Computing.md
+      - Academic Curriculum/Computer Application.md
       - Academic Curriculum/Craft & Technology Department.md
       - Academic Curriculum/English Language & Literature Department.md
       - Academic Curriculum/Humanities.md
@@ -11,6 +14,3 @@ collections:
       - Academic Curriculum/Physical Education.md
       - Academic Curriculum/Principles of Accounts.md
       - Academic Curriculum/Science.md
-      - Academic Curriculum/.keep
-      - Academic Curriculum/Computer Application.md
-      - Academic Curriculum/Computing.md
