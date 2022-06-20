@@ -2,6 +2,6 @@ collections:
   acad-curr-and-apl:
     output: true
     order:
-      - Academic Curriculum/Computing.md
-      - Academic Curriculum/Computer Application.md
       - Academic Curriculum/.keep
+      - Academic Curriculum/Computer Application.md
+      - Academic Curriculum/Computing.md
