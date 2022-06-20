@@ -17,3 +17,17 @@ links:
         url: /permalink
       - title: Contact Us
         url: /permalink
+  - title: acad curriculum & alp
+    url: /permalink
+    sublinks:
+      - title: Academic Curriculum
+        url: /permalink
+      - title: Applied Learning Program
+        url: /permalink
+  - title: student development & llp
+    url: /permalink
+    sublinks:
+      - title: Student Curriculum
+        url: /permalink
+      - title: Learning for Life Program
+        url: /permalink
