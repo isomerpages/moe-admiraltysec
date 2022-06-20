@@ -29,3 +29,23 @@ Basically, POA enables students to:
 *   It is closely related to daily life. For e.g. Students need simple form of accounting knowledge to deal with monthly allowance given.
 
 It is a good subject foundation for students who wish to further their post-secondary studies in accountancy or business related courses.
+
+Organisation
+------------
+
+<table border="0" style="margin: 0px; outline: 0px; padding: 0px; height: 102px; width: 632.333px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px; width: 114px;">IP Head &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :</td><td style="margin: 0px; outline: 0px; padding: 0px; width: 518px;">Ms Carol Chuen Wei Tan (Mrs Goh) (HOD Mathematics)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">Teachers &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :</td><td style="margin: 0px; outline: 0px; padding: 0px;">Mdm Jessie Gee Wai Hoo (Mrs Chow)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px;">Mdm Ng Jing Min</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;">Mdm Ong Lay Khim</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px;">Mr Danny Goh Koon Teck&nbsp;</td></tr></tbody></table>
+
+Programmes
+----------
+
+ **Upper Secondary**
+
+**Financial Literacy for Youths (FLY) Race 2015**
+
+On 31 October 2015, a team of 9 students participated in the FLY Race 2015, which is a nationwide inter-school competition with the aim to instill entrepreneurial spirit in students. The students displayed perseverance, discipline and enthusiasm during the race despite facing strong competition, and enjoyed themselves through the process.
+
+![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Principle%20of%20Accounts/Picture1.png)_Students taking a break after a long day of competition_
+
+![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Principle%20of%20Accounts/Picture2.png)
+
+_All ended the day with a smile._
