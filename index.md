@@ -16,12 +16,9 @@ sections:
         - title: ADSS Good Stories
           description: ""
           url: https://gmail.com
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - resources:
-      title: Latest News & Announcements
+      title: Latest News & Announcement
+  - infopic:
+      title: ADSS Good Stories
+      alt: Image alt text
 ---
