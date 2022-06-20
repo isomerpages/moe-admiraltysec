@@ -2,4 +2,5 @@ collections:
   about-us-page:
     output: true
     order:
+      - Example Title.md
       - example-page.md
