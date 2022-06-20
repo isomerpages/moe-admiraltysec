@@ -36,10 +36,6 @@ Guided by our school’s core values (LIGHTS), our students and staff contribute
 <td> Taking responsibility for own safety and security at all times </td>
 	</tr>
 </table>
-			 
-			 
-
-  
 
 The following strategies operationalise the Safety and Security Vision and Mission:
 
