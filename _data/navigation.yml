@@ -4,19 +4,19 @@ links:
     url: about-us/permalink
     sublinks:
       - title: Principal's Message
-        url: principalmessage/permalink
+        url: /principalmessage/permalink
       - title: Vision, Mission, Values
-        url: visionmissionvalues/permalink
+        url: /visionmissionvalues/permalink
       - title: School Management Committee
-        url: schmanagementcomm/permalink
+        url: /schmanagementcomm/permalink
       - title: School Staff
-        url: schoolstaff/permalink
+        url: /schoolstaff/permalink
       - title: Total Curriculum
-        url: /permalink
+        url: /totalcurriculum/permalink
       - title: ADSS Safety & Safety Policy
-        url: /permalink
+        url: /adsssafety/permalink
       - title: Contact Us
-        url: /permalink
+        url: /contact-us/permalink
   - title: acad curriculum & alp
     url: /permalink
     sublinks:
