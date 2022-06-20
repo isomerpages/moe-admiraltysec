@@ -1,5 +1,4 @@
 collections:
   student-dev-and-llp:
     output: true
-    order:
-      - Example Title.md
+    order: []
