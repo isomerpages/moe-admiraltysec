@@ -1,16 +1,16 @@
 logo: /images/admiralty logo.png
 links:
   - title: About us
-    url: /permalink
+    url: about-us/permalink
     sublinks:
       - title: Principal's Message
-        url: /permalink
+        url: principalmessage/permalink
       - title: Vision, Mission, Values
-        url: /permalink
+        url: visionmissionvalues/permalink
       - title: School Management Committee
-        url: /permalink
+        url: schmanagementcomm/permalink
       - title: School Staff
-        url: /permalink
+        url: schoolstaff/permalink
       - title: Total Curriculum
         url: /permalink
       - title: ADSS Safety & Safety Policy
