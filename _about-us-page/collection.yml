@@ -1,0 +1,4 @@
+collections:
+  about-us-page:
+    output: true
+    order: []
