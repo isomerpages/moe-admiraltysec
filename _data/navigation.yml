@@ -44,4 +44,6 @@ links:
         url: /permalink
   - title: Stakeholders & Partners
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: School Advisory Committee
+        url: /permalink
