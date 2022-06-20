@@ -35,3 +35,13 @@ links:
         url: /permalink
       - title: Co-Curricular Activities (CCA)
         url: /permalink
+  - title: Learning with Technology
+    url: /permalink
+    sublinks:
+      - title: 1:1 Computing
+        url: /permalink
+      - title: Newslink
+        url: /permalink
+  - title: Stakeholders & Partners
+    url: /permalink
+    sublinks: []
