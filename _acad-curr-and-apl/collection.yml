@@ -2,4 +2,5 @@ collections:
   acad-curr-and-apl:
     output: true
     order:
+      - Applied Learning Program.md
       - Academic Curriculum.md
