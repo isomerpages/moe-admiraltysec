@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - ADSS Safety & Security Policy.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - School Management Committee.md
       - School Staff.md
       - Total Curriculum.md
+      - ADSS Safety & Security Policy.md
