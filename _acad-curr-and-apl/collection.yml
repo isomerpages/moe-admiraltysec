@@ -2,10 +2,6 @@ collections:
   acad-curr-and-apl:
     output: true
     order:
-      - Applied Learning Program/.keep
-      - Applied Learning Program/Introduction.md
-      - Applied Learning Program/ALP Committee.md
-      - Applied Learning Program/Outreach.md
       - Academic Curriculum/.keep
       - Academic Curriculum/Computing.md
       - Academic Curriculum/Computer Application.md
@@ -18,3 +14,7 @@ collections:
       - Academic Curriculum/Physical Education.md
       - Academic Curriculum/Principles of Accounts.md
       - Academic Curriculum/Science.md
+      - Applied Learning Program/.keep
+      - Applied Learning Program/Introduction.md
+      - Applied Learning Program/ALP Committee.md
+      - Applied Learning Program/Outreach.md
