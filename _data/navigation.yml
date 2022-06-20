@@ -17,14 +17,14 @@ links:
         url: /adsssafety/permalink
       - title: Contact Us
         url: /contact-us/permalink
-  - title: acad curriculum & alp
+  - title: acad curr & alp
     url: /permalink
     sublinks:
       - title: Academic Curriculum
         url: /permalink
       - title: Applied Learning Program
         url: /permalink
-  - title: student development & llp
+  - title: student dev & llp
     url: /permalink
     sublinks:
       - title: Character & Citizenship Edu
@@ -35,7 +35,7 @@ links:
         url: /permalink
       - title: Co-Curricular Activities (CCA)
         url: /permalink
-  - title: Learning with Technology
+  - title: Learning with Tech
     url: /permalink
     sublinks:
       - title: 1:1 Computing
@@ -55,7 +55,7 @@ links:
         url: /permalink
       - title: Alumni
         url: /permalink
-  - title: Useful Information
+  - title: Useful Info
     url: /permalink
     sublinks:
       - title: 2022 Direct School Admission
