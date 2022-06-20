@@ -1,5 +1,4 @@
 collections:
   acad-curr-and-apl:
     output: true
-    order:
-      - Academic Curriculum.md
+    order: []
