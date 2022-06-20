@@ -40,4 +40,3 @@ Students are also taught to read tabs and play chords by strumming them. They re
 ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Music/Picture2.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Music/Picture3.png)
 
 _Students practicing on their guitar as a class_
-
