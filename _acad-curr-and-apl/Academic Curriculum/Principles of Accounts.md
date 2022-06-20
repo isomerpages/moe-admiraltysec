@@ -15,14 +15,14 @@ POA syllabus codes 7088 (Normal Academic) and 7175 (Express) are designed to pro
 
 ![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
 
-Aim
+**Aim**
 
 Basically, POA enables students to:
 
 *   acquire knowledge and understanding of fundamental accounting concepts, principles and procedures
 *   develop skills in preparing, analyzing and interpreting accounting information for decision making, develop skills of numeracy and an attitude of accuracy, orderliness, logical thought and an appreciation of professional ethics.
 
-Benefits:
+**Benefits:**
 
 *   To be prepared for future career development. For e.g. Accountant, auditor, banker.
 *   All managers or owners need accounting knowledge for their work and business respectively.
