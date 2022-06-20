@@ -11,22 +11,11 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Latest News & Annoucements
-          description: Important highlight A is important
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: ADSS Good Stories
+          description: ""
           url: https://gmail.com
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
@@ -34,7 +23,5 @@ sections:
       button: Button Text
       alt: Image alt text
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Latest News & Announcements
 ---
