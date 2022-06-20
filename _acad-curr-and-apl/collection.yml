@@ -2,7 +2,6 @@ collections:
   acad-curr-and-apl:
     output: true
     order:
-      - Academic Curriculum/Example Title.md
       - Academic Curriculum/Craft & Technology Department.md
       - Academic Curriculum/English Language & Literature Department.md
       - Academic Curriculum/Humanities.md
