@@ -4,7 +4,6 @@ permalink: /computing/Academic-Curriculum/permalink
 description: ""
 third_nav_title: Academic Curriculum
 ---
-
 Introduction
 ------------
 
@@ -69,4 +68,3 @@ Experiential Learning for students through the integrative use of software and h
 _![CS 2.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Computer%20Studies/CS%202.png)_
 
 _Photo 2_
-
