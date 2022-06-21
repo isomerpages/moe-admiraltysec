@@ -2,7 +2,6 @@ collections:
   student-dev-and-llp:
     output: true
     order:
-      - Example Title.md
       - Learning for Life Program/.keep
       - Co Curricular Activities (CCA)/.keep
       - Character & Citizenship Edu/Character & Citizenship Education.md
