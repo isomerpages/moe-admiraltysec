@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - Parents Gateway.md
       - Library OPAC.md
       - Frequently Asked Questions (FAQ).md
       - Parent Handbooks on Learning with a Personal Learning Device.md
