@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - 1:1 Computing/ICT Policy.md
-      - 1:1 Computing/1:1 Computing.md
+      - 1:1 Computing/NEU PC.md
       - 1:1 Computing/.keep
       - Learning with Technology.md
