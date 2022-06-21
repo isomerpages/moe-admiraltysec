@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - School Book List 2022.md
       - 2022 Admiralty Sec Sch Student Handbook.md
       - School Uniform.md
       - eOpen House.md
