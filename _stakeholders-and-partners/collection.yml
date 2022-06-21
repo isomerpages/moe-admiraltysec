@@ -2,6 +2,7 @@ collections:
   stakeholders-and-partners:
     output: true
     order:
+      - Strategic Partners.md
       - Family Matters@School.md
       - Alumni.md
       - School Advisory Committee.md
