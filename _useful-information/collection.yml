@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - Prospective Students and Parents.md
       - COVID19 Vaccination Exercise for Students.md
       - CCA Prospectus 2022.md
       - Cyberwellness Partnership.md
