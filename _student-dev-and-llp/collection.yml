@@ -2,12 +2,12 @@ collections:
   student-dev-and-llp:
     output: true
     order:
-      - Student Development/.keep
-      - Learning for Life Program/.keep
-      - Co Curricular Activities (CCA)/.keep
+      - Character & Citizenship Edu/.keep
       - Character & Citizenship Edu/Character & Citizenship Education.md
       - Character & Citizenship Edu/Cyber Wellness.md
       - Character & Citizenship Edu/Education and Career Guidance.md
       - Character & Citizenship Edu/Student Leadership.md
       - Character & Citizenship Edu/Values In Action.md
-      - Character & Citizenship Edu/.keep
+      - Student Development/.keep
+      - Learning for Life Program/.keep
+      - Co Curricular Activities (CCA)/.keep
