@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - Full Subject Based Banding.md
       - Appeal to Admiralty Sec School.md
       - Prospective Students and Parents.md
       - COVID19 Vaccination Exercise for Students.md
