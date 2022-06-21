@@ -2,7 +2,6 @@ collections:
   student-dev-and-llp:
     output: true
     order:
-      - Student Development.md
       - Character & Citizenship Edu/.keep
       - Character & Citizenship Edu/Character & Citizenship Education.md
       - Character & Citizenship Edu/Cyber Wellness.md
