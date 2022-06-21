@@ -3,6 +3,7 @@ title: Learning for Life Programme
 permalink: /learning-for-life-programme/permalink
 description: ""
 ---
+ An integral part of the Student Development curriculum is the LLP where Admirals are nurtured into Mindful Leaders through Community Outreach. Through this programme, students are equipped with essential lifeskills including ‘The Leadership Challenge’ practices and Design Thinking which are then applied in solving authentic community issues. 21st Century Competencies including Civic Literacy and Cross-cultural skills, Critical and Inventive Thinking as well as Communication, Collaboration and Information skills would be enhanced through this programme.
 
 Objectives
 ----------
@@ -69,4 +70,3 @@ Admirals collaborated with NWCDC to engage the community.
 ![2019_LLP_photo5.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&%20Learning%20for%20Life/llp/2019_LLP_photo5.png)  
 
 Admirals in the community as members of Youth Assembly, NWCDC to serve the community beyond school projects.
-
