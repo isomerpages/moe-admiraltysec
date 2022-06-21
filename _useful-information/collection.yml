@@ -2,4 +2,5 @@ collections:
   useful-information:
     output: true
     order:
+      - Parent Handbooks on Learning with a Personal Learning Device.md
       - 2022 Secondary 2 MPS.md
