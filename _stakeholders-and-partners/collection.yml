@@ -2,5 +2,6 @@ collections:
   stakeholders-and-partners:
     output: true
     order:
+      - Family Matters@School.md
       - Alumni.md
       - School Advisory Committee.md
