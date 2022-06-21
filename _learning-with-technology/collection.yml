@@ -2,7 +2,7 @@ collections:
   learning-with-technology:
     output: true
     order:
+      - 1:1 Computing/.keep
       - 1:1 Computing/ICT Policy.md
       - 1:1 Computing/NEU PC.md
-      - 1:1 Computing/.keep
       - Learning with Technology.md
