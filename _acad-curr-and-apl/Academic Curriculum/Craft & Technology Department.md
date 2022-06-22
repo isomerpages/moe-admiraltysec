@@ -21,7 +21,7 @@ Organisation 
 Programmes
 ----------
 
- **Upper Secondary**
+<p style="text-align: center;">&nbsp;<strong style="background-color: transparent;"><u>Upper Secondary</u></strong></p>
 
 **DesignRete for Secondary 3 D&T students**
 
@@ -81,4 +81,3 @@ Students engage in ideation process using the Sketchbook Pro software on their T
 ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Design%20&%20Technology/Picture8.png)_Sketching in progress using the Tablet PC_
 
 ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Design%20&%20Technology/Picture9.png)_Seri presenting her idea of a bag that originated from a shoe_
-
