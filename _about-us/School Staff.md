@@ -3,10 +3,6 @@ title: School Staff
 permalink: /schoolstaff/permalink
 description: ""
 ---
-
-
-
-      
 <div id="_ptoo_block_start" style="font-size:1px;border:1px solid transparent"></div>
 
 <div id="_ptoo_PTOID" class="pageblock_box " style="display:none">
@@ -17,15 +13,14 @@ description: ""
     <h2 id="_ptoh_58127" class="ive_editable ive_ptoh">Sec 1 Form Teachers</h2>
     <div id="_ptod_58127" class="ive_editable ive_ptod ive_content"><table class="ive_eobj_center iveo_table ives_tab_blue" style="text-align: center; width: 868px; height: 412px;">
 <tbody>
-<tr>
-<th style="width: 109px;">Class
+<th style="width: 109px; height: auto;">Class
 </th>
 <th style="width: 259px;">Form Teacher 1
 </th>
 <th style="width: 283px;">Form Teacher 2<img id="ive_eobj_carrier" src="https://admiraltysec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif" width="16"></th>
 <th style="width: 207px;">Form Teacher 3
 </th>
-</tr>
+
 <tr>
 <td style="width: 60px;">Orion 1</td>
 <td><p class="MsoNormal" style="margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
