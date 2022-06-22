@@ -2,6 +2,7 @@ collections:
   latest-news-and-announcements:
     output: true
     order:
+      - 2022 Direct School Admissions (DSA).md
       - Timetable for Term 2 2022.md
       - Total Defence Day Commemoration.md
       - Chinese New Year Celebration 2022.md
