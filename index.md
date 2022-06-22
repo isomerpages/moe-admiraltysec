@@ -23,5 +23,5 @@ sections:
         achievements of our staff and students, a hybrid model, with
         face-to-face and  livestreaming.
       button: Find out more
-      url: /20th-anniversary-speech-day/latest-news-and-annoucements/permalink/
+      url: /20th-anniversary-speech-day/latest-news-and-announcements/permalink
 ---
