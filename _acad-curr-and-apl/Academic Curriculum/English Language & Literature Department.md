@@ -4,7 +4,6 @@ permalink: /english-language-and-literature-department/Academic-Curriculum/perma
 description: ""
 third_nav_title: Academic Curriculum
 ---
-
 Introduction
 ------------
 
@@ -12,7 +11,53 @@ Tagline: Every Admiral, an ever learning individual who communicates effectively
 
 With the undeniable importance of the English Language in the 21st century, it is imperative for citizens of the world to be equipped with a high level of proficiency in the use and appreciation of Standard English. As such, in Admiralty Secondary School, we aim to prepare and provide our Admirals with a competitive edge in the employment of the language, both in terms of comprehension and construction of meaning, pivotal in ensuring their success in this ever progressing world.   
 
-<table border="1" cellspacing="0" cellpadding="0" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; clear: both; height: 399px; width: 546px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="78" valign="top" style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Skill</strong></p></td><td width="184" valign="top" style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Approach</strong></p></td><td width="170" valign="top" style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Strategy</strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="78" valign="top" style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">General framework</p></td><td width="354" colspan="2" valign="top" style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">Based on the latest 2010 MOE EL syllabus, the ADSS ELL department focuses all strategies with the guiding principles of (1) spiral progression in terms of learning from Secondary 1 to 5, (2) contextualisation of the learning of skills in real-life and authentic situations and issues, (3) learner-centeredness to ensure that students’ learning needs are met and (4) integration of all skills such that learning is seamless.&nbsp;</p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">&nbsp;</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="78" valign="top" style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">Reading Listening</p></td><td width="184" valign="top" style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">In alignment with the school’s vision and mission, the English Language and Lietrature Department adopts the Langlit Approach introduced by MOE’s Curriculum and Planning Division to enhance the critical thinking skills of all Admirals. By studying rich texts and performing such critical analyses, Admirals are also able to appreciate the language and its nuances, making sense of the world.</p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">&nbsp;</p></td><td width="170" valign="top" style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">By teaching the critical analysis of all multi-modal texts, Admirals are taught to question texts in a multi-faceted way by understanding the different aspects of the text from a macro to a micro level. This is done through the strategies of annotation of texts – a strategy with a unique ADSS framework to enhance the understanding of the construction of meaning (semantics) through language devices and the manipulation of linguistic techniques.</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="78" valign="top" style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">Speaking/ Writing</p></td><td width="184" valign="top" style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">In order to make sense of the world and be involved in societal and global issues, Admirals are given the chance to critically analyse global issues of the world. They are taught to think through the issues, question assumptions and generate their opinions and possible solutions.</p></td><td width="170" valign="top" style="margin: 0px; outline: 0px; padding: 0px;"><p align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px; text-align: left;">In Admiralty Secondary School, Admirals are encouraged to use thinking routines such as logic flow to aid in their analysis of real-world issues and consider multiple and alternative perspectives in authentic situations in a mindful manner. They also hone their presentation skills to articulate their opinions clearly and confidently.</p></td></tr></tbody></table>
+<table style="height: 399px; width: 546px;" border="1" cellspacing="0" cellpadding="0" class="ive_eobj_center">
+<tbody>
+<tr>
+<td width="78" valign="top">
+<p><strong>Skill</strong></p>
+</td>
+<td width="184" valign="top">
+<p><strong>Approach</strong></p>
+</td>
+<td width="170" valign="top">
+<p><strong>Strategy</strong></p>
+</td>
+</tr>
+<tr>
+<td width="78" valign="top">
+<p>General framework</p>
+</td>
+<td width="354" colspan="2" valign="top">
+<p>Based on the latest 2010 MOE EL syllabus, the ADSS ELL department focuses all strategies with the guiding principles of (1) spiral progression in terms of learning from Secondary 1 to 5, (2) contextualisation of the learning of skills in real-life and authentic situations and issues, (3) learner-centeredness to ensure that students’ learning needs are met and (4) integration of all skills such that learning is seamless.&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="78" valign="top">
+<p>Reading Listening</p>
+</td>
+<td width="184" valign="top">
+<p>In alignment with the school’s vision and mission, the English Language and Lietrature Department adopts the Langlit Approach introduced by MOE’s Curriculum and Planning Division to enhance the critical thinking skills of all Admirals. By studying rich texts and performing such critical analyses, Admirals are also able to appreciate the language and its nuances, making sense of the world.</p>
+<p>&nbsp;</p>
+</td>
+<td width="170" valign="top">
+<p>By teaching the critical analysis of all multi-modal texts, Admirals are taught to question texts in a multi-faceted way by understanding the different aspects of the text from a macro to a micro level. This is done through the strategies of annotation of texts – a strategy with a unique ADSS framework to enhance the understanding of the construction of meaning (semantics) through language devices and the manipulation of linguistic techniques.</p>
+</td>
+</tr>
+<tr>
+<td width="78" valign="top">
+<p>Speaking/ Writing</p>
+</td>
+<td width="184" valign="top">
+<p style="text-align: left;">In order to make sense of the world and be involved in societal and global issues, Admirals are given the chance to critically analyse global issues of the world. They are taught to think through the issues, question assumptions and generate their opinions and possible solutions.</p>
+</td>
+<td width="170" valign="top">
+<p style="text-align: left;" align="center">In Admiralty Secondary School, Admirals are encouraged to use thinking routines such as logic flow to aid in their analysis of real-world issues and consider multiple and alternative perspectives in authentic situations in a mindful manner. They also hone their presentation skills to articulate their opinions clearly and confidently.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Organisation
 ------------
