@@ -12,16 +12,10 @@ sections:
       key_highlights:
         - title: Latest News & Annoucements
           description: ""
-          url: https://google.com
+          url: /20th-anniversary-speech-day/latest-news-and-annoucements/permalink/
         - title: ADSS Good Stories
           description: ""
-          url: https://gmail.com
-  - infopic:
-      title: 20th Anniversary Speech Day
-      subtitle: Latest News and Annoucements
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+          url: /adss-good-stories/permalink/
   - infobar:
       title: 20th Anniversary Speech Day
       subtitle: Latest News and Announcements
