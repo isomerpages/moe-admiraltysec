@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Latest News & Annoucements
           description: ""
-          url: /20th-anniversary-speech-day/latest-news-and-annoucements/permalink/
+          url: /20th-anniversary-speech-day/latest-news-and-announcements/permalink
         - title: ADSS Good Stories
           description: ""
           url: /adss-good-stories/permalink/
