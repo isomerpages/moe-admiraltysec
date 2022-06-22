@@ -60,7 +60,7 @@ Using the Electronics Snap Circuit, students learn the various electronics compo
 
 ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Design%20&%20Technology/Picture5.png) _Students busy completing the many different circuits and seeing the results_
 
-**Lower Secondary**
+<p align="center"><strong><u>Lower Secondary</u></strong></p>
 
 **Directed Design Journal**
 
