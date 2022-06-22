@@ -4,12 +4,10 @@ permalink: /computer-application/Academic-Curriculum/permalink
 description: ""
 third_nav_title: Academic Curriculum
 ---
-
-
 Introduction
 ------------
 
- The Computer Applications department aims to provide our Normal Technical students essential knowledge of computing that are necessary for the new IT multimedia era.
+The Computer Applications department aims to provide our Normal Technical students essential knowledge of computing that are necessary for the new IT multimedia era.
 
 Our approach to teaching and learning is student-centric and uses an authentic problem set to trigger to motivate learning. The trigger may be an object, event or topic that students may find interesting.
 
@@ -24,7 +22,7 @@ Organisation
 Programmes
 ----------
 
- **Upper Secondary**
+**Upper Secondary**
 
 **Upper Secondary:** **Lesson Outline**
 
@@ -53,5 +51,3 @@ Animation that students have created using Scratch software (Example 1)
 Animation that students have created using Scratch software (Example 2)  
   
 ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Computer%20Application/Picture3.png)_Tangrams was used in introduce students to concepts like rotate, flip, group and ungroup._
-
-
