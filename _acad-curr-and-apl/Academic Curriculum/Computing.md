@@ -4,21 +4,10 @@ permalink: /computing/Academic-Curriculum/permalink
 description: ""
 third_nav_title: Academic Curriculum
 ---
-
 Introduction
 ------------
 
-**Objectives**
-
-Admiralty Secondary School offers Computing as an 'O' Level subject to provide students with the foundation in logical thinking, computational thinking and skills to participate in a rapidly changing technological environment.
-
-In alignment with the school's vision -- Values-centric, Thinking School, the subject involves formal reasoning, logic and algorithmic thinking, and the reformulation of a problem so that a computer-based solution is viable. It allows students to develop their ideas and creativity through the use of information and communication technology (ICT) and hence contribute to society.
-
-**Approaches**
-
-The teaching of Computing is largely anchored by applied learning. Students approach the learning based on solving open-ended problems and learn by doing. With integrative use of hardware and software, students created new artefacts to solve real-world problems. They devise solutions using Phyton and Excel Spreadsheets.  
-
-Students are also required to produce a programming project that involves the use of Raspberry Pi to carry certain tasks such as temperature monitoring and word display. They have to read datasheets, connect the electronic components together and code solutions to achieve the objectives.
+<div id="_ptod_27731" class="ive_editable ive_ptod ive_content" style=""><p><span style="background-color: transparent;"><b><u>Objectives<br></u></b></span><span style="background-color: transparent;">Admiralty Secondary School offers Computing as an 'O' Level subject to provide students with the foundation in logical thinking, computational thinking and skills to participate in a rapidly changing technological environment.</span></p><p><span style="background-color: transparent;">In alignment with the school's vision -- Values-centric, Thinking School, the subject involves formal reasoning, logic and algorithmic thinking, and the reformulation of a problem so that a computer-based solution is viable. It allows students to develop their ideas and creativity through the use of information and communication technology (ICT) and hence contribute to society.</span></p><p><span style="background-color: transparent;"><b><u>Approaches<br></u></b>The teaching of Computing is largely anchored by applied learning. Students approach the learning based on solving open-ended problems and learn by doing. With integrative use of hardware and software, students created new artefacts to solve real-world problems. They devise solutions using Phyton and Excel Spreadsheets.</span><br></p><p>Students are also required to produce a programming project that involves the use of Raspberry Pi to carry certain tasks such as temperature monitoring and word display. They have to read datasheets, connect the electronic components together and code solutions to achieve the objectives.</p></div>
 
 Organisation
 ------------
@@ -28,7 +17,7 @@ Organisation
 Programmes
 ----------
 
- Secondary Three  
+<p style="text-align: center;" class="">&nbsp;<span style="background-color: transparent;"><u style="font-weight: bold;">Secondary Three</u><br></span></p>
 
 **Python Programming**  
   
@@ -52,20 +41,20 @@ Students learning programming with Raspberry Pi and SenseHat at the Young Tech M
 
 ![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
 
-**Secondary Four**
+<p style="text-align: center;"><strong style="background-color: transparent;"><u>Secondary Four</u></strong></p>
 
 **Experiential Learning**
 
 As ICT can be sometimes abstract to students, the use of ICT could be appreciated better with experiential learning through reflection.  Students experience actively the integrative use of software and hardware that open up ways for work, play and living.  They consciously reflect on the experience and conceptualize a theory and model of what is observed.  They articulate and present their theory and extend their learning to solve more problems in real world context.  These are critical leading to more meaningful learning.
 
 ![CS 1.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Computer%20Studies/CS%201.png)
-
-Photo 1
+<div style="text-align: center;"><em style="background-color: initial;">Photo 1</em></div>
 
 
 
 Experiential Learning for students through the integrative use of software and hardware that open up ways for work, play and living (Photo 1 and 2 above and below)
 
 _![CS 2.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Computer%20Studies/CS%202.png)_
+<div style="text-align: center;"><em style="background-color: transparent;">Photo 2</em></div>
 
-_Photo 2_
+
