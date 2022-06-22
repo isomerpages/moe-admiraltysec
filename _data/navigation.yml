@@ -1,7 +1,7 @@
 logo: /images/admiralty logo.png
 links:
   - title: About us
-    url: about-us/permalink
+    url: /principalmessage/permalink
     sublinks:
       - title: Principal's Message
         url: /principalmessage/permalink
