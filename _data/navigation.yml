@@ -18,10 +18,10 @@ links:
       - title: Contact Us
         url: /contact-us/permalink
   - title: Acad Curr & ALP
-    url: /computing/Academic-Curriculum/permalink
+    url: /computer-application/Academic-Curriculum/permalink
     sublinks:
       - title: Academic Curriculum
-        url: /computing/Academic-Curriculum/permalink
+        url: /computer-application/Academic-Curriculum/permalink
       - title: Applied Learning Program
         url: /introduction/Applied-Learning-Program/permalink
   - title: Student Dev & LLP
