@@ -1,4 +1,5 @@
 collections:
   adss-good-stories:
     output: true
-    order: []
+    order:
+      - Our ADSS Good Stories (2021 Term 3).md
