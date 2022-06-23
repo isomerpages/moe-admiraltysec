@@ -7,7 +7,7 @@ third_nav_title: Academic Curriculum
 Our Vision: Values Driven, Analytical Voyager <br>
 Our Mission: Developing Voyagers to conquer the Sea of Mathematics
 
-<img src="/images/math1.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/math1.png" style="width:183px;height:240px;margin-right:15px;" align = "right">
 
 The Mathematics Department adopts a student-centric approach with a focus in instilling a sense of Responsibility and Self Discipline for students taking Mathematics and Additional Mathematics. 
 
