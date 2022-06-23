@@ -51,8 +51,12 @@ Programmes
 
 On 31 October 2015, a team of 9 students participated in the FLY Race 2015, which is a nationwide inter-school competition with the aim to instill entrepreneurial spirit in students. The students displayed perseverance, discipline and enthusiasm during the race despite facing strong competition, and enjoyed themselves through the process.
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Principle%20of%20Accounts/Picture1.png)_Students taking a break after a long day of competition_
+<img src="/images/poa1.png"
+		 style="width:75%">
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Principle%20of%20Accounts/Picture2.png)
+<p style="text-align: center;">Students taking a break after a long day of competition</p>
 
-_All ended the day with a smile._
+<img src="/images/poa1.png"
+		 style="width:75%">
+
+<p style="text-align: center;">All ended the day with a smile.</p>
