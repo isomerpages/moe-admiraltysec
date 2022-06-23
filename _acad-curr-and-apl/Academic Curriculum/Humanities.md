@@ -107,7 +107,7 @@ For the Upper Sec Humanities, students are also involved in competitions like th
 <p style="text-align: center;">Sec 3 students giving their best at the National Earthquake Competition 2017 and the Model UN Conference 2017.</p>
 
 <p dir="ltr" style="text-align: center; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:12pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Elements of Business Skills (EBS)</span></p>
-	<p dir="ltr" style="text-align: center; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:12pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">(Authentic Learning Experience)</span></p>
+<p dir="ltr" style="text-align: center; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:12pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">(Authentic Learning Experience)</span></p>
 
 
 EBS provides an authentic learning experience by getting students involved in the EBS Learning Journey and the 2 Day 1 Night Travel and Tourism Learning Journey. These enable our students to experience first-hand what they have learnt in EBS, particularly in the Travel and Tourism industry.
