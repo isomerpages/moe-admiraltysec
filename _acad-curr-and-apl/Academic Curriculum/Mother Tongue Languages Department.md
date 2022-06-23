@@ -93,7 +93,7 @@ Our MT learning journeys include visits to local cultural sites, participation i
 
 **Learning Journeys in 2016**  
 
-**Chinese Language Unit**
+<p><span style="background-color: transparent;"><u><b>Chinese Language Unit</b></u></span></p>
 
 **August 2017:**
 
@@ -171,7 +171,7 @@ Our MT learning journeys include visits to local cultural sites, participation i
 
 
 
-<u>**Malay Language Unit**</u>
+<p><span style="background-color: transparent;"><u><b>Malay Language Unit</b></u></span></p>
 
 	
 **September 2017:**
