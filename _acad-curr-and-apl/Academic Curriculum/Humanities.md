@@ -65,6 +65,8 @@ The IHGI combines the processes for the Geographical and Historical Investigatio
 
 Inquiry is recommended for the learning of concepts, skills and the exploration of issues in the SS N(T) syllabus. Inquiry-based learning helps students to become more critical about their thinking and their actions. Hence, they will be able to deliberate and offer well-grounded answers based on evidence in the study of issues. It also sustains the N(T) students’ interest as they would have the opportunity to investigate into an area of focus that is related to the world outside the classroom.
 
+
+
  ![](https://lh3.googleusercontent.com/DyHJR6XjVXKBL7IjjKONYnJd3YcMRdswU3HDDXGVSA6kH-PLnA4vsP6E4FdLKYodfEcm2IUX_cJ57zy4Xof3kQFVj3TnKu7LMrVzJaWEJ2mZDugXfNmSV5n-bgpSf9dRyBY14dY0N9TH0S6lDw)Sec 1 students using the Water Test Kit to find out the alkalinity of the water @ the Singapore River during their IHGI,  
 under the guidance of the Humanities - Geography Unit.
 
