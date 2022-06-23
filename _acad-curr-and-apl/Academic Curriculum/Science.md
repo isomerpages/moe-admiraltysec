@@ -39,21 +39,23 @@ Programmes
 
 All lower secondary students are exposed to real world solutioning through STEM and Design Thinking (DT) in ALP.  These subjects are integrated respectively in science and design and technology lessons. In STEM, students learn about microcontroller construction and coding therefore linking the content of electronics and electricity to real world.  
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/.tn.Picture1.png.2.jpg) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/.tn.Picture2.png.2.jpg) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/.tn.Picture3.png.2.jpg) 
+<img src="/images/sci1.png"
+		 style="width:90%">
+
 
 As part of the learning and exposure in STEM – DT ALP, students visit the assistive technology laboratory at Nanyang Polytechnic to appreciative how STEM is applied in real world authentic context.  They also interact with practicing engineers through visits to engineering exhibitions to appreciate applications of engineering in today’s world.  
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/.tn.Picture4.png.2.jpg) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/.tn.Picture5.png.2.jpg) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/.tn.Picture6.png.2.jpg) 
+<img src="/images/sci2.png"
+		 style="width:90%">
 
 Through the ALP, students had a total learning experience from hands on construction, to programming to learning journeys to real world applications to possibilities of STEM careers
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/.tn.Picture7.png.2.jpg) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/.tn.Picture8.png.2.jpg) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/.tn.Picture9.png.2.jpg)
+<img src="/images/sci3.png"
+		 style="width:90%">
 
-  
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
-
-  
 
 **One-one computing using iPAD to access online resources and create content**
 
@@ -61,16 +63,17 @@ Students use personal iPAD tools eg imovie to capture their learning and reflect
 
 Teachers use iPAD to design science lessons for students by using open tools or relevant apps or they infuse apps in their lessons.  These allow students to interact with peers and with content as they are engaged in the lessons.  Thinking routines are used to structure and guide students as they solve problems and to make the thinking process explicit
 
-                          ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/.tn.Picture13.png.mid.jpg)  ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/.tn.Picture11.png.2.jpg)  ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/.tn.Picture12.png.2.jpg)
+<img src="/images/sci4.png"
+		 style="width:90%">
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
-  
-
-**Upper Secondary** 
+<p style="text-align: center;">&nbsp;<strong style="background-color: transparent; text-align: left;"><span style="text-decoration: underline;">Upper Secondary</span></strong></p> 
 
 **Stretching more able students through competitions**
 
 High performing students have opportunities to be stretched beyond their syllabus through participation in science competitions at national level eg National Science Challenge or the ACJC Science Quiz  Teachers use exploratory approach using laboratory materials to expand and deepen students’ grasp of new highly abstract science concepts. 
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/Picture14.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Science/Picture15.png)
+<img src="/images/sci5.png"
+		 style="width:90%">
