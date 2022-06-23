@@ -57,6 +57,7 @@ Programmes
 <br>
 <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;text-align: justify;"><span style="font-size: 12pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Integrated Humanities Group Investigation (IHGI)</span></p>
 
+<br>
 The IHGI combines the processes for the Geographical and Historical Investigations (GI & HI) where our students investigate both the geographical and historical issues in one location. Students will analyse the GI and HI questions and plan their research, gather and select data, analyse data and construct their geographical and historical interpretations. The IHGI gives our students opportunities to appreciate the connection between Geography and History in the real – world application of geographical and historical knowledge and skills.  
 
   
@@ -79,10 +80,10 @@ under the guidance of the Humanities - Geography Unit.</p>
 		 
 <p style="text-align: center;">Sec 2 students learning about the importance of public housing, its development and history, in the overall progress of Singapore as an independent country.</p>
 
-<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;text-align: center;"><span style="font-size:12pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:underline;vertical-align:baseline;white-space:pre-wrap;">Upper Secondary </span></p>
-<div> <br>
+<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;text-align: center;"><span style="font-size: 12pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; text-decoration-line: underline; vertical-align: baseline; white-space: pre-wrap;">Upper Secondary</span></p> <br>
 <p dir="ltr" style="text-align: left; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:12pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Combined Humanities: Social Studies, Geography and History Electives</span></p>
 	<span style="font-size:12pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">(Inquiry within an Authentic Issue)</span>
+<br>
 
 Inquiry-based learning in the Combined Humanities seeks to spark and build on students’ curiosity, so as to create meaningful learning. Questions are used to activate students’ prior knowledge and challenge their assumptions, as multiple perspectives are presented for their consideration. This in turn leads to the eliciting of students’ own questions out of curiosity. Thus, learning in the Combined Humanities is achieved through inquiry as it is driven by teachers’ and students’ questions to investigate, extract, analyse and synthesise information regarding issues, be they societal, geographical or historical in nature.
 
