@@ -25,7 +25,7 @@ Organisation
 Programmes
 ----------
 
- **Upper Secondary**
+<p style="text-align: center;">&nbsp;<strong style="background-color: transparent; text-align: left;"><span style="text-decoration: underline;">Upper Secondary</span></strong></p>
 
 **Secondary 3 Annual Cohort Camp**
 
