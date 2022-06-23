@@ -11,8 +11,7 @@ The school reaches out to all schools in Singapore through its annual National R
 
 This year was extra special for the NRPC as school celebrated the 10th NRPC by having as its Guest of Honour Mr Khaw Boon Wan to officiate the opening of iCt Space, which also stands for "I can tinker".  The space is designed to be an interactive learning space for students to come up with solutions to real- life problems faced by industry or the community. The hope is that the space will encourage students to be more willing to experiment and go beyond conventional constraints.  Students can look forward to work with industry partners such as the Robotics and Maker Academy (RMA), Kurve Automation, GoFlyKite and Intel Singapore to learn to apply skills such as robotics and programming.
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Applied%20Learning%20Progam/Picture7.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Applied%20Learning%20Progam/Picture8.png)
-
- ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Applied%20Learning%20Progam/Picture9.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Applied%20Learning%20Progam/Picture10.png)
+<img src="/images/alp3.png"
+		 style="width:75%">
 
 The NRPC outreach carnival comprises robotics programming, drone air race and robotics creative design competitions and is co-organised and co-hosted with Nanyang Polytechnic
