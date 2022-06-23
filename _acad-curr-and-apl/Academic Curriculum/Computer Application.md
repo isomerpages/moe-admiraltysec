@@ -43,16 +43,25 @@ SST – Spreadsheets
 
 MMC – Multimedia Communication
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:50%">
+		 
 
 Our approach to teaching and learning is student-centric and uses an authentic problem set to trigger to motivate learning. The trigger may be an object, event or topic that students may find interesting. Through the trigger, concepts and skills covering the desired learning outcomes are taught. The learning outcomes in a problem set may span two or more modules and the concepts and skills learnt are revisited and reinforced through instruction, hands-on practice and assignments.    
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Computer%20Application/Picture1.png)
+<img src="/images/compapp1.png"
+		 style="width:75%">
 
-Animation that students have created using Scratch software (Example 1)
+<p style="text-align: center;">Animation that students have created using Scratch software (Example 1)</p>
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Computer%20Application/Picture2.png)
+<img src="/images/compapp2.png"
+		 style="width:75%">
 
-Animation that students have created using Scratch software (Example 2)  
-  
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Computer%20Application/Picture3.png)_Tangrams was used in introduce students to concepts like rotate, flip, group and ungroup._
+<p style="text-align: center;">Animation that students have created using Scratch software (Example 2)</p>
+
+
+<img src="/images/compapp3.png"
+		 style="width:75%">
+
+
+<p style="text-align: center;"><em>Tangrams was used in introduce students to concepts like rotate, flip, group and ungroup.</em></p>
