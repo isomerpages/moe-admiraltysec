@@ -54,9 +54,9 @@ On 31 October 2015, a team of 9 students participated in the FLY Race 2015, whic
 <img src="/images/poa1.png"
 		 style="width:75%">
 
-<p style="text-align: center;">Students taking a break after a long day of competition</p>
+<p style="text-align: center;"><em>Students taking a break after a long day of competition</em></p>
 
 <img src="/images/poa1.png"
 		 style="width:75%">
 
-<p style="text-align: center;">All ended the day with a smile.</p>
+<p style="text-align: center;"><em>All ended the day with a smile.</em></p>
