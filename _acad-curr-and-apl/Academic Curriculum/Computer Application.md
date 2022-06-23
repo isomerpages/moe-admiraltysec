@@ -27,7 +27,7 @@ Organisation
 Programmes
 ----------
 
-**Upper Secondary**
+<p style="text-align: center;">&nbsp;<span style="background-color: transparent;"><u style="font-weight: bold;">Upper Secondary</u><br></span></p>
 
 **Upper Secondary:** **Lesson Outline**
 
