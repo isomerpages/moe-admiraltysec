@@ -60,7 +60,6 @@ Programmes
 The IHGI combines the processes for the Geographical and Historical Investigations (GI & HI) where our students investigate both the geographical and historical issues in one location. Students will analyse the GI and HI questions and plan their research, gather and select data, analyse data and construct their geographical and historical interpretations. The IHGI gives our students opportunities to appreciate the connection between Geography and History in the real – world application of geographical and historical knowledge and skills.  
 
   
-
 Inquiry is recommended for the learning of concepts, skills and the exploration of issues in the SS N(T) syllabus. Inquiry-based learning helps students to become more critical about their thinking and their actions. Hence, they will be able to deliberate and offer well-grounded answers based on evidence in the study of issues. It also sustains the N(T) students’ interest as they would have the opportunity to investigate into an area of focus that is related to the world outside the classroom.
 
 <img src="/images/humans2.jpg"
@@ -83,7 +82,7 @@ under the guidance of the Humanities - Geography Unit.</p>
 <p dir="ltr" style="text-align: left; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:12pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Combined Humanities: Social Studies, Geography and History Electives</span></p>
 	<span style="font-size:12pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">(Inquiry within an Authentic Issue)</span>
 <br>
-
+<br>
 Inquiry-based learning in the Combined Humanities seeks to spark and build on students’ curiosity, so as to create meaningful learning. Questions are used to activate students’ prior knowledge and challenge their assumptions, as multiple perspectives are presented for their consideration. This in turn leads to the eliciting of students’ own questions out of curiosity. Thus, learning in the Combined Humanities is achieved through inquiry as it is driven by teachers’ and students’ questions to investigate, extract, analyse and synthesise information regarding issues, be they societal, geographical or historical in nature.
 
   
