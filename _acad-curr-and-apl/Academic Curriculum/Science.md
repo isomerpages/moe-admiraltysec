@@ -33,7 +33,7 @@ Organisation
 Programmes
 ----------
 
- **Lower Secondary**
+<p style="text-align: center;">&nbsp;<strong style="background-color: transparent; text-align: left;"><span style="text-decoration: underline;">Lower Secondary</span></strong></p>
 
 **Problem Solving and Connecting with Real World** **\- Robotics and Engineering STEM-ALP lesson within science curriculum**
 
