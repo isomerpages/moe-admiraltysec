@@ -33,7 +33,7 @@ Organisation
 |  |  |
 |---|---|
 | IP Head           :  | Ms Ong Xu Ying Aysel (HOD/MTL)<br>Ms Amizah Bte Mohamed Azhar (SH/ML) |
-| Teachers          : | <u>**Chinese Language Unit**</u> |
+| Teachers          : | **Chinese Language Unit** |
 |  |  Ms Leong Mun Yi |
 |  | Ms Mok Kaie See |
 |  | Ms Nge Hui Peng |
@@ -41,7 +41,7 @@ Organisation
 |  | Ms Tay Yi Rong |
 |   | Ms Wong Jie Yi Andrea |
 |   |  Ms Zhuo Yanping  |
-|   |  <u>**Malay Language Unit**</u> |
+|   |  **Malay Language Unit** |
 |  | Mdm Lisda Bte Mohd Amin  |
 |  | Mdm Mas Ayu Binte Abdul Malek  |
 |  | Mdm Noor Hasnah Binte Adam |
