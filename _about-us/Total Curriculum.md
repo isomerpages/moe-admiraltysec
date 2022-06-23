@@ -3,15 +3,11 @@ title: Total Curriculum
 permalink: /totalcurriculum/permalink
 description: ""
 ---
-
 Total Curriculum
 ================
-
-![Total Curriculum_1.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/About%20Us/Total%20Curriculum/Total%20Curriculum_1.png)
-
-  
-
-ADSS Total Curriculum Framework 
+<img src="https://admiraltysec.moe.edu.sg/qql/slot/u752/About%20Us/Total%20Curriculum/Total%20Curriculum_1.png"
+		 style="width:70%">
+<p style="text-align: center;">ADSS Total Curriculum Framework&nbsp;</p>
 
 **Objectives**
 
@@ -43,8 +39,9 @@ In order to function effectively in a knowledge economy and digital world, our s
 
 Indeed our iconic programmes such as Applied Learning Programme (ALP) and Learning for Life Programme (LLP) are themselves focused on the development of students’ 21st century competencies
 
-![Total Curriculum_2.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/About%20Us/Total%20Curriculum/Total%20Curriculum_2.png)  
-
+<img src="https://admiraltysec.moe.edu.sg/qql/slot/u752/About%20Us/Total%20Curriculum/Total%20Curriculum_2.png"
+		 style="width:70%">
+		 
 **Four Desired Student Outcomes**  
 
 The four desired students outcomes epitomises the interrelationship between all the domains reflected in the Total Curriculum framework and the manner in which each domain function reframes curriculum as a coherent experience with the primary focus on the Learner. 
