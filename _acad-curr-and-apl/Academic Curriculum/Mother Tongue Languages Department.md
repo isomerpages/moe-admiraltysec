@@ -52,7 +52,7 @@ Organisation
 Programmes
 ----------
 
- **Upper & Lower Secondary**
+<p align="center"><u>&nbsp;<strong style="background-color: transparent; text-align: left;">Upper &amp; Lower Secondary</strong></u></p>
 
 **Reading Programme**
 
@@ -60,19 +60,20 @@ The Mother Tongue Reading Programme aims to increase students’ cultural unders
 
 In 2017, the Chinese Unit embarked on a journey with then Committee to Promote Chinese Language Learning as a "Chinese Language Reading Ambassador". More students will benefit from an enhanced Reading Programme in 2019.
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
 **Mother Tongue Language Fortnight**
 
-![MT Fortnight (1).jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/MT%20Fortnight%20(1).jpg)
+<img src="/images/mtd2.jpg"
+		 style="width:75%">
 
-Photo 1  
+<p style="text-align: center;">Photo 1<br>MTL Fortnight seeks to create an environment conducive to the learning of our mother tongues through cultural activities and camp (Photo 1 & 2 above and below)</p>
 
-MTL Fortnight seeks to create an environment conducive to the learning of our mother tongues through cultural activities and camp (Photo 1 & 2 above and below)  
+<img src="/images/mtd3.jpg"
+		 style="width:75%">
 
-![MT Fortnight (2).jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/MT%20Fortnight%20(2).jpg)  
-
-Photo 2  
+<p style="text-align: center;">Photo 2</p>  
 
 An initiative by the Ministry of Education, the MTL Fortnight seeks to create an environment conducive to the learning of our mother tongues through cultural activities and camp. At Admiralty Secondary School, activities are designed according to the interests of the students while complementing the school curriculum.  
 
@@ -82,19 +83,17 @@ In Jan-Feb 2016, our students participated in the following main activities:
 *   Chinese Fold-fan Painting: Secondary 3 Chinese students learnt the delicate strokes and colour blending in Chinese painting by painting on paper fold-fans.
 *   Dikir Barat: Secondary 3 Malay students experienced singing and music making during a dikir barat workshop.
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
-  
 
 **Learning Journeys**
 
 Our MT learning journeys include visits to local cultural sites, participation in cultural activities, watching of theatre plays, etc. These journeys offer students out-of-school contexts to understand and appreciate their mother tongue and culture.
 
-  
-
 **Learning Journeys in 2016**  
 
-**Chinese Language Unit**
+<u>**Chinese Language Unit**</u>
 
 **August 2017:**
 
@@ -108,50 +107,52 @@ Our MT learning journeys include visits to local cultural sites, participation i
 
   
 
-**April 2017:  
-**
+**April 2017:**
 
 *   Xinyao Performance (新谣表演)
 *   World Book Day (世界书香日) at Nanyang Girls' High School
 
-![World Book Day.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/World%20Book%20Day.jpg)  
+<img src="/images/mtd4.jpg"
+		 style="width:75%">
 
-World Book Day (世界书香日) at Nanyang Girls' High School   
+<p style="text-align: center;">World Book Day (世界书香日) at Nanyang Girls' High School</p>
 
-![Lao Jiu (1).jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Lao%20Jiu%20(1).jpg)
+<img src="/images/mtd5.jpg"
+		 style="width:75%">
 
-Photo 1  
+<p style="text-align: center;">Photo 1<br>Watching of "Lau Jiu" （《老九》）at Drama Centre (Photo 1 & 2 above and below)</p>
 
-Watching of "Lau Jiu" （《老九》）at Drama Centre (Photo 1 & 2 above and below)  
+<img src="/images/mtd6.jpg"
+		 style="width:75%">
 
-![Lao Jiu (2).jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Lao%20Jiu%20(2).jpg)  
-
-Photo 2
+<p style="text-align: center;">Photo 2</p>
 
 **March 2017:**
 
 *   National Secondary Schools Translation Competition (全国中学现场翻译比赛) at Nanyang Junior College
 
-![Translation Competition.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Translation%20Competition.jpg)  
+<img src="/images/mtd7.jpg"
+		 style="width:75%"> 
 
 *   National Chinese Language Challenge (华文大比拼) at Nanyang Girls' High School
 
-![Chinese Challenge.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Chinese%20Challenge.jpg)
-
-  
+<img src="/images/mtd8.jpg"
+		 style="width:75%">
 
 **February 2016:**  
 
 *   River Angbao – Malay students also visited the River Angbao to get to know Chinese culture through the translation of their Chinese buddies.
 *   Watching of “Savage Land” (《原野》) at Esplanade Theatre
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Picture5.png)_This musical has given a new lease of life to the old Xinjiang folk tale, Afandi,__and our students are_ _intrigued by the internationally recognized performance._
-
- _![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Picture6.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Picture7.png)_
-
-_A learning journey at SOTA Studio Theatre on The Silly Girl and The Funny Old Tree_
-
-  
+<img src="/images/mtd9.png"
+		 style="width:75%">
+		 
+<p style="text-align: center;"><em>This musical has given a new lease of life to the old Xinjiang folk tale, Afandi, and our students are intrigued by the internationally recognized performance.<em></p>
+	
+<img src="/images/mtd10.png"
+		 style="width:75%">
+		 
+<p style="text-align: center;"><em>A learning journey at SOTA Studio Theatre on The Silly Girl and The Funny Old Tree<em></p>
 
 **April 2016:**  
 
@@ -159,24 +160,25 @@ _A learning journey at SOTA Studio Theatre on The Silly Girl and The Funny Old T
 *   Chinese Literature Seminar at Jurong Junior College
 *   Watching of “Red Demon”（《赤鬼》）at Drama Centre Black Box
 *   Watching of “Liao Zhai Rocks”（《摇滚聊斋》）at Drama Centre
+	
+<img src="/images/mtd11.png"
+		 style="width:75%">
+		 
+<p style="text-align: center;"><em>A learning journey at Drama Centre NLB on Legends of the Southern Arc<em></p>
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Picture8.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Picture9.png)
 
-_A learning journey at Drama Centre NLB on Legends of the Southern Arc_ 
 
-Malay Language Unit
+<u>**Malay Language Unit**</u>
 
 **September 2017:**
 
 *   Teater Pelajar @ The Heartlands
 
   
-
 **April 2017:**
 
 *   Youth Seminar at Raffles Institution
 
-  
 
 **February 2016:**
 
@@ -189,17 +191,21 @@ Malay Language Unit
 *   Translation Competition at National Junior College
 *   Youth Seminar at Raffles Institution
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Picture10.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Picture11.png)
+	<img src="/images/mtd12.png"
+		 style="width:75%">
+		 
+<p style="text-align: center;"><em>Blackarena was a national competition that incorporated poems, songs and culture into a skit based_ on short stories from Malay Literature Textbook ‘TEKAD.’<em></p>
+	
+<img src="/images/mtd13.png"
+		 style="width:75%">
+		 
+<p style="text-align: center;"><em>A theatre performance by KHALID SALLEH, an actor, from Malaysia<em></p>
 
-_Blackarena was a national competition that incorporated poems, songs and culture_
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
-_into a skit based_ _on short stories from Malay Literature Textbook ‘TEKAD.’_
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Picture13.png)_A theatre performance by KHALID SALLEH, an actor, from Malaysia_
-
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
-
-**Overseas Immersion Trip**
+<u>**Overseas Immersion Trip**</u>
 
 Through cultural immersion in Brunei and China, as well as hosting of friends from Brunei and China, our students will be able to gain exposure and understanding of the education system, social culture and development in Singapore/Brunei/China. They will also develop their 21st Century Competencies in global awareness, and cross-cultural skills and sensitivities. Along the way, they will develop personal qualities such as resilience, responsibility and teamwork.
 
@@ -215,8 +221,7 @@ Through cultural immersion in Brunei and China, as well as hosting of friends fr
 
 Selected Secondary 3 students will be participating in immersion trips to either China or Brunei.
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Picture14.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/Picture15.png)
-
-_A cultural visit, VIA in a local island school in Indonesia, leadership_
-
-_camp, learn about literature and history._
+<img src="/images/mtd14.png"
+		 style="width:75%">
+		 
+<p style="text-align: center;"><em>A cultural visit, VIA in a local island school in Indonesia, leadership camp, learn about literature and history.<em></p>
