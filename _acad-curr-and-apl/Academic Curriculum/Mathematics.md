@@ -4,19 +4,26 @@ permalink: /mathematics/Academic-Curriculum/permalink
 description: ""
 third_nav_title: Academic Curriculum
 ---
-Our Vision: Values Driven, Analytical Voyager
-
-![](https://lh6.googleusercontent.com/uvCCJyczvZY1LcrcwyNOikPsRJkL0EM6oGCs1CbtGrMpdlOODh-8XJC_aW4-brQMaPNR4PeCohy3V4aB3-lDmekJGouDd_QKPRP7TowQ1tMkq1FCiDBF-LLN-2zAfN7S4Fj5nB53XTV1-bi-RA)
-
+Our Vision: Values Driven, Analytical Voyager <br>
 Our Mission: Developing Voyagers to conquer the Sea of Mathematics
 
-  
+<img src="/images/math1.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
 
 The Mathematics Department adopts a student-centric approach with a focus in instilling a sense of Responsibility and Self Discipline for students taking Mathematics and Additional Mathematics. 
 
 Students will go through a 3 stages process where they will be first exposed to programmes to promote Awareness and create Interest in the learning of Mathematics. An example of one such programme is the infused Experiential Learning Trip to Malacca. After which, they will be given ample opportunities to Build Confidence by applying what they learn in the likes of taking part in Mathematics competitions like SAMO and Math Competition for Normal Stream. The last lap of the 3 stages process involves the building of Rigor in preparing the student for their final goal in their Secondary School Education. Students are stretched based on their level of preparedness with specially selected teachers providing the guidance in order to achieve their dreamed outcome.  
 
 In alignment school’s direction of 1-1 computing, ICT enriched lessons with the use of videos and quizzes are conducted to enhance the engagement of the lessons. E-learning portal (Ace-Learning) is also used to further reinforce the concept taught in class. We would like students to view the study of mathematics not just about route learning but about seeking the beauty of patterns and solving real life problem through mathematical modelling.
+
+</div>
+</div>
+
+![](https://lh6.googleusercontent.com/uvCCJyczvZY1LcrcwyNOikPsRJkL0EM6oGCs1CbtGrMpdlOODh-8XJC_aW4-brQMaPNR4PeCohy3V4aB3-lDmekJGouDd_QKPRP7TowQ1tMkq1FCiDBF-LLN-2zAfN7S4Fj5nB53XTV1-bi-RA)
+
+
+
+  
+
 
 Organisation
 ------------
