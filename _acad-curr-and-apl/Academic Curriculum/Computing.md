@@ -30,7 +30,8 @@ In GCE O-level Computing, students are taught how to go through a systematic pro
   
 Python programming is used extensively especially for modules on Abstraction, Algorithm and Programming. Students learn to code computer solutions for various real-world problems so that they could develop computational thinking skills, as well as apply concepts and skills taught.
 
-![](/images/comp1.png)
+<img src="/images/comp1.png"
+		 style="width:75%">
 
 <p style="text-align: center;">Students learn to code computer solutions for various real-world problems using Python  </p>
 
@@ -40,11 +41,13 @@ Python programming is used extensively especially for modules on Abstraction, Al
 
 As part of the initiative to develop an appreciation to value-creation through programming, students attended Young Tech Makerfest 2017 and learned programming with Raspberry Pi and SenseHat. In this workshop, participants are introduced to basic python commands and data structures to access and control the various elements on a SenseHat. The hands-on sessions allows students to learn as they construct, and even hone their troubleshooting skills to manipulating different lines of codes to arrive at a desired outcome.
 
-![CS4.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Computer%20Studies/CS4.png)
+<img src="/images/comp2.png"
+		 style="width:75%">
+		 
+<p style="text-align: center;">Students learning programming with Raspberry Pi and SenseHat at the Young Tech Makerfest 2017 </p>
 
-Students learning programming with Raspberry Pi and SenseHat at the Young Tech Makerfest 2017  
-
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<img src="https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
 <p style="text-align: center;"><strong style="background-color: transparent;"><u>Secondary Four</u></strong></p>
 
@@ -52,12 +55,17 @@ Students learning programming with Raspberry Pi and SenseHat at the Young Tech M
 
 As ICT can be sometimes abstract to students, the use of ICT could be appreciated better with experiential learning through reflection.  Students experience actively the integrative use of software and hardware that open up ways for work, play and living.  They consciously reflect on the experience and conceptualize a theory and model of what is observed.  They articulate and present their theory and extend their learning to solve more problems in real world context.  These are critical leading to more meaningful learning.
 
-![CS 1.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Computer%20Studies/CS%201.png)
+
+<img src="/images/comp3.png"
+		 style="width:75%">
+		 
 <div style="text-align: center;"><em style="background-color: initial;">Photo 1</em></div>
 
 
 
 Experiential Learning for students through the integrative use of software and hardware that open up ways for work, play and living (Photo 1 and 2 above and below)
 
-_![CS 2.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Computer%20Studies/CS%202.png)_
+<img src="/images/comp4.png"
+		 style="width:75%">
+		 
 <div style="text-align: center;"><em style="background-color: transparent;">Photo 2</em></div>
