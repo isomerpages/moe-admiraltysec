@@ -93,7 +93,7 @@ Our MT learning journeys include visits to local cultural sites, participation i
 
 **Learning Journeys in 2016**  
 
-<u>**Chinese Language Unit**</u>
+**Chinese Language Unit**
 
 **August 2017:**
 
@@ -147,12 +147,14 @@ Our MT learning journeys include visits to local cultural sites, participation i
 <img src="/images/mtd9.png"
 		 style="width:75%">
 		 
-<p style="text-align: center;"><em>This musical has given a new lease of life to the old Xinjiang folk tale, Afandi, and our students are intrigued by the internationally recognized performance.<em></p>
+<p style="text-align: center;"><em>This musical has given a new lease of life to the old Xinjiang folk tale, Afandi, and our students are intrigued by the internationally recognized performance.</em></p>
+	
+	
 	
 <img src="/images/mtd10.png"
 		 style="width:75%">
 		 
-<p style="text-align: center;"><em>A learning journey at SOTA Studio Theatre on The Silly Girl and The Funny Old Tree<em></p>
+<p style="text-align: center;"><em>A learning journey at SOTA Studio Theatre on The Silly Girl and The Funny Old Tree</em></p>
 
 **April 2016:**  
 
@@ -168,8 +170,8 @@ Our MT learning journeys include visits to local cultural sites, participation i
 
 
 
-<u>**Malay Language Unit**</u>
-
+**Malay Language Unit**
+	
 **September 2017:**
 
 *   Teater Pelajar @ The Heartlands
