@@ -33,21 +33,23 @@ Every year, secondary 3 students from Admiralty Secondary will get a taste of li
 
 This year, the camp was held at Changi Coast MOE Adventure Centre. Our students got to experience high rope elements, low obstacle courses, team-building games, kayaking, and many others! What is a camp without a campfire? The finale of the camp was the campfire lighted up by our vice-principals. Students had loads of fun and many went home with new gained knowledge.
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Physical%20Education/Picture1.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Physical%20Education/Picture2.png)
+<img src="/images/pe1.png"
+		 style="width:75%">
 
-_Instructors going through the techniques of belaying with the students, in preparation for rock climbing (over the right)_  
+<p style="text-align: center;"><em>Instructors going through the techniques of belaying with the students, in preparation for rock climbing (over the right)</em></p>
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Physical%20Education/Picture3.png)
+<img src="/images/pe2.png"
+		 style="width:75%">
 
-_Students’ holding on to each other’s kayaks to form a chain to withstand the strong waves_  
+<p style="text-align: center;"><em>Students’ holding on to each other’s kayaks to form a chain to withstand the strong waves</em></p>
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Physical%20Education/Picture4.png)
+<img src="/images/pe3.png"
+		 style="width:75%">
 
-_Students displaying one of our lights value, Graciousness by serving their fellow school mates lunch._ 
+<p style="text-align: center;"><em>Students displaying one of our lights value, Graciousness by serving their fellow school mates lunch.</em></p>
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
-
-  
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
 **Weekly Fun & Fitness Club (FFC)**
 
@@ -57,11 +59,8 @@ The PE department organised our inaugural fun camp for our Fun & Fitness Club me
 
 The campers engaged in activities such as "ADSS Running Man", "Amazing Race", shopping for their own ingredients for their outdoor cooking and a health talk on diet and exercising. The finale of the camp was a "Treasure Hunt" on Pulau Ubin on the second day. The campers trekked to various checkpoints across Pulau Ubin while appreciating the beauty of the nature. Their perseverance paid off as they strove to complete the entire hike of 8-10 km.  
 
-  
-
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
-
-  
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
 **Sports Carnival**
 
@@ -69,32 +68,36 @@ The ADSS Sports Carnival is organized yearly to promote mass participation in sp
 
 At the end of the day, points will be calculated from every victory and a house champion will be named for the year. 
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Physical%20Education/Picture5.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Physical%20Education/Picture6.png)
+<img src="/images/pe4.png"
+		 style="width:75%">
 
-_Students and teachers participating in all kinds of sports such as floor ball and captain’s ball during sports carnival_  
+<p style="text-align: center;"><em>Students and teachers participating in all kinds of sports such as floor ball and captain’s ball during sports carnival</em></p>
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
-  
-
-**Lower Secondary**
+<p style="text-align: center;">&nbsp;<strong style="background-color: transparent; text-align: left;"><span style="text-decoration: underline;">Lower Secondary</span></strong></p>
 
 **Healthy Lifestyle Week**
 
 The healthy activities and events held for the students, staff and parents were well received. The focus for the Healthy Lifestyle Week was the students, staff and parents’ well-being at heart. The school organized two workshop sessions for students and parents to pick up tips on healthy eating and how to cook healthily. There was an Inter-House Quiz during the school assembly to provide our teachers and students with useful tips on leading a healthy lifestyle. These events are in line with our school objectives of ensuring that the students, staff and parents are engaged in activities that promote and develop physical and social health.
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Physical%20Education/Picture7.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Physical%20Education/Picture8.png)
+<img src="/images/pe5.png"
+		 style="width:75%">
 
-_Parents and students working together to prepare healthy meals for the teachers_ 
+<p style="text-align: center;"><em>Parents and students working together to prepare healthy meals for the teachers</em></p>
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
-
-  
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
 **NAPFA Test**
 
 As part of the Ministry of Education (MOE) Sports For Life programme, students of Admiralty are required to participate in the National Physical Fitness Assessment (NAPFA) annually. In Admiralty, students spent a sporty afternoon challenging themselves at each station while teachers and staff of Admiralty gear up to assist and encourage our students in their NAPFA.
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Physical%20Education/Picture9.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Physical%20Education/Picture10.png) 
+<img src="/images/pe6.png"
+		 style="width:75%">
+		 
+<img src="/images/pe7.png"
+		 style="width:50%">
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Physical%20Education/Picture11.png)_Students being assessed on their sit up (left), standing board jump (right) and shuttle run (down) during NAPFA testing_
+<p style="text-align: center;"><em>Students being assessed on their sit up (left), standing board jump (right) and shuttle run (down) during NAPFA testing</em></p>
