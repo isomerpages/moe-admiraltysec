@@ -172,10 +172,12 @@ Our MT learning journeys include visits to local cultural sites, participation i
 
 
 **Malay Language Unit**
+
 	
 **September 2017:**
 
 *   Teater Pelajar @ The Heartlands
+
 
   
 **April 2017:**
@@ -183,9 +185,12 @@ Our MT learning journeys include visits to local cultural sites, participation i
 *   Youth Seminar at Raffles Institution
 
 
+
 **February 2016:**
 
 *   River Angbao – Malay students also visited the River Angbao to get to know Chinese culture through the translation of their Chinese buddies.
+
+
 
 **April 2016:**
 
@@ -208,7 +213,7 @@ Our MT learning journeys include visits to local cultural sites, participation i
 		 style="width:40%">
 
 
-<u>**Overseas Immersion Trip**</u>
+**Overseas Immersion Trip**
 
 Through cultural immersion in Brunei and China, as well as hosting of friends from Brunei and China, our students will be able to gain exposure and understanding of the education system, social culture and development in Singapore/Brunei/China. They will also develop their 21st Century Competencies in global awareness, and cross-cultural skills and sensitivities. Along the way, they will develop personal qualities such as resilience, responsibility and teamwork.
 
@@ -216,9 +221,11 @@ Through cultural immersion in Brunei and China, as well as hosting of friends fr
 
 19 students participated in a 7-day trip to Hangzhou, China. In addition to visits to cultural sites such as the West Lake and Wan Song Academy, students also experienced school life in Hangzhou No. 11 High School.
 
+
 **12-15 March 2016**
 
 23 students participated in a 4-day trip to Brunei to visit cultural sites and experience school life. Students used iPads to capture their memories and reflections during the trip. The trip was co-developed with the Humanities Department to expand the learning for our students. 
+
 
 **November 2017**
 
