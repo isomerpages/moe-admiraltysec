@@ -4,7 +4,6 @@ permalink: /music/Academic-Curriculum/permalink
 description: ""
 third_nav_title: Academic Curriculum
 ---
-
 Introduction
 ------------
 
@@ -17,27 +16,35 @@ Music lessons focus primarily on music listening, movement and performance. In a
 Organisation
 ------------
 
-<table border="0" style="margin: 0px; outline: 0px; padding: 0px; height: 82px; width: 354px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">IP Head &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :</td><td style="margin: 0px; outline: 0px; padding: 0px;">Mr Phua Tian Peng (HOD/KM)</td></tr></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">Teachers &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px;">Ms Lynette Yeo Yan Teng</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">Teachers &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px;">Mr Marcus Goh Wei Ming</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;">Ms Thein Ying Jie Elena&nbsp;</td></tr></tbody></table>
+|  |  |
+|---|---|
+| IP Head         : | Mr Phua Tian Peng (HOD/KM) |
+| Teachers       :  | Ms Lynette Yeo Yan Teng |
+| Teachers       :  | Mr Marcus Goh Wei Ming |
+|  | Ms Thein Ying Jie Elena  |
 
 Programmes
 ----------
 
- **Lower Secondary** 
+<p style="text-align: center;">&nbsp;<strong style="background-color: transparent; text-align: left;"><span style="text-decoration: underline;">Lower Secondary</span></strong><span style="background-color: transparent; text-align: left;">&nbsp;</span></p>
 
 **Boomwhackers**
 
 Students play the notes by hitting the boomwhacker onto any surface, mainly the palms of their hands to produce sound. Each boomwhacker produces different sounds/ pitches depending on the length of the boomwhacker. Students are assigned one boomwhacker each to play a note that is assigned. Students work as a class and in groups to play a piece of music. Each individual plays a part in performing a complete piece.
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Music/Picture1.png)_Students are playing the boomwhackers in class. Different colours and different length of boomwhackers produce different pitches of sound. Students work together as a team to play a piece of music._
+<img src="/images/music1.png"
+		 style="width:75%">
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<p style="text-align: center;"><em>Students are playing the boomwhackers in class. Different colours and different length of boomwhackers produce different pitches of sound. Students work together as a team to play a piece of music.</em></p>
 
-  
-
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
+	
 **Guitar plucking and strumming**
 
 Students are also taught to read tabs and play chords by strumming them. They recognize the chords, and strum pieces alongside the accompaniment.
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Music/Picture2.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Music/Picture3.png)
+<img src="/images/music2.png"
+		 style="width:75%">
 
-_Students practicing on their guitar as a class_
+<p style="text-align: center;"><em>Students practicing on their guitar as a class</em></p>
