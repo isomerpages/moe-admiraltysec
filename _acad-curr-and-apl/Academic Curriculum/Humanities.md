@@ -4,7 +4,6 @@ permalink: /humanities/Academic-Curriculum/permalink
 description: ""
 third_nav_title: Academic Curriculum
 ---
-
 Introduction
 ------------
 
@@ -19,9 +18,11 @@ The Humanities Department hinges an inquiry – based learning set within an aut
 
 Inquiry – based learning teaches our students how to gather accurate and relevant information, and to analyse them meaningfully through lenses that can provide new insights and understandings to these issues. This helps our students make well-reasoned, evidence-based conclusions that can be used to improve or better understand something, and to take action that benefits our society. Also, inquiry-based learning takes on a more reflective character as the Humanities invite different perspectives from people and different solutions to problems. Our Admirals are required to think critically about the evidences being used to support different conclusions and decisions.
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Humanities/Picture1.png)
+<img src="/images/humans1.png"
+		 style="width:75%">
 
-Humanities Inquiry Approach
+<p style="text-align: center;">Humanities Inquiry Approach</p>
+
 
 Organisation
 ------------
