@@ -4,7 +4,6 @@ permalink: /principles-of-accounts/Academic-Curriculum/permalink
 description: ""
 third_nav_title: Academic Curriculum
 ---
-
 Introduction
 ------------
 
@@ -12,11 +11,12 @@ Principles of Accounts (POA) is a subject offered to selected Secondary 3 and 4 
 
 POA syllabus codes 7088 (Normal Academic) and 7175 (Express) are designed to provide students with a meaningful basic introduction to financial accounting and to develop an appreciation in the discipline of accounting. It is grounded in preparing, communicating and using financial information, and thus appreciating the need for ethical conduct.
 
-  
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
-**Aim**
+
+<p><span style="text-decoration: underline;">Aim</span></p>
 
 Basically, POA enables students to:
 
@@ -34,7 +34,13 @@ It is a good subject foundation for students who wish to further their post-seco
 Organisation
 ------------
 
-<table border="0" style="margin: 0px; outline: 0px; padding: 0px; height: 102px; width: 632.333px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px; width: 114px;">IP Head &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :</td><td style="margin: 0px; outline: 0px; padding: 0px; width: 518px;">Ms Carol Chuen Wei Tan (Mrs Goh) (HOD Mathematics)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">Teachers &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :</td><td style="margin: 0px; outline: 0px; padding: 0px;">Mdm Jessie Gee Wai Hoo (Mrs Chow)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px;">Mdm Ng Jing Min</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;">Mdm Ong Lay Khim</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px;">Mr Danny Goh Koon Teck&nbsp;</td></tr></tbody></table>
+|  |  |
+|---|---|
+| IP Head         : | Ms Carol Chuen Wei Tan (Mrs Goh) (HOD Mathematics) |
+| Teachers       : | Mdm Jessie Gee Wai Hoo (Mrs Chow) |
+|   | Mdm Ng Jing Min |
+|  | Mdm Ong Lay Khim |
+|   | Mr Danny Goh Koon Teck  |
 
 Programmes
 ----------
