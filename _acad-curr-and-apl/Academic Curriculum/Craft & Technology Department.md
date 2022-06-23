@@ -58,11 +58,9 @@ Students were excited playing with LEGO during lesson. The LEGO manipulative all
 <p style="text-align: center;"><em>Electronics workshop on the 555 Timer IC at Nanyang Polytechnic</em></p>
 
 
-<img src="https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg"
+<img src="/images/diamonds%20in%20triplicate.jpg"
 		 style="width:40%">
 
-
-  
 
 **Co-operative Learning of Mechanism using Lego Education Kit**
 
@@ -73,10 +71,10 @@ Students learn the topic of Mechanism using the Lego Education Kit. They follow 
 
 <p style="text-align: center;"><em>Co-operative Learning using Lego Education Kit</em></p>
 
-<img src="https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg"
-		 style="width:40%"> 
-  
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
+  
  **Electronics Lesson using Manipulatives**
 
 Using the Electronics Snap Circuit, students learn the various electronics components and how they are connected to form different circuits that do interesting things, for example, making a siren sound and causing a propeller to fly upwards. 
@@ -107,8 +105,7 @@ In the D&T curriculum, Lower secondary students in ADSS go through a directed de
 <p style="text-align: center;">Autodesk Inventor Workshop held at Singapore Polytechnic in preparation for the Toy Design competition.</p>
 
   
-
-<img src="https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg"
+<img src="/images/diamonds%20in%20triplicate.jpg"
 		 style="width:40%">
 
 **Ideation, Conceptualisation and Development using Tablet PC**
