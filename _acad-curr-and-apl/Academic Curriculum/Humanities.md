@@ -30,22 +30,22 @@ Organisation
 |  |  |
 |---|---|
 | IP Head             : | Mdm Julianah Othman (HOD Humanities) |
-| Teachers           : | <u>**Geography Unit**</u> |
+| Teachers           : | **Geography Unit** |
 |  | Mdm Chia Ji Ying Nik |
 |  | Mr Lai Kuok Liang  |
 |  | Ms Ng Su Yin, Andrea |
 |  | Mdm Noor Shidah Hassan <br>Mr Tung Cheng Boon Adrian |
-|  | <u>**History Unit**</u> |
+|  | **History Unit** |
 |  | Ms Dorothy Phua Hui Hong   |
 |  | Ms Fazylah Binte Abd Rahman |
 |  | Mr Tay Peiyong |
-|  | <u>**Social Studies Unit**</u> |
+|  | **Social Studies Unit**|
 |  | Mdm Chew Wei Xin |
 |   | Mr Chung Wee Seng (SS NT)  |
 |  | Ms Koh Kia Li Charmaine<br>Ms Lee Kai Ling |
 |   |  Mdm Tiong Rui Shan |
 |  | Mdm Nurzafirah Binte Mohamad Zainal |
-|  | <u>**Elements of Business Skills Unit**</u> |
+|  | **Elements of Business Skills Unit** |
 |  | Mr Abdul Salem Bin Samat |
 |  | Ms Najla Banu Binte Feroz Akbar Abdullah |
 |  | Mr Danny Goh Koon Teck |
