@@ -7,8 +7,11 @@ third_nav_title: Academic Curriculum
 Our Vision: Values Driven, Analytical Voyager <br>
 Our Mission: Developing Voyagers to conquer the Sea of Mathematics
 
-<img src="/images/math1.png" style="width:250px;height:250px;margin-right:15px;" align = "right">
+<img src="/images/math1.png" style="width:250px;height:260px;margin-right:25px;" align = "right">
 
+<div>
+<div>
+	
 The Mathematics Department adopts a student-centric approach with a focus in instilling a sense of Responsibility and Self Discipline for students taking Mathematics and Additional Mathematics. 
 
 Students will go through a 3 stages process where they will be first exposed to programmes to promote Awareness and create Interest in the learning of Mathematics. An example of one such programme is the infused Experiential Learning Trip to Malacca. After which, they will be given ample opportunities to Build Confidence by applying what they learn in the likes of taking part in Mathematics competitions like SAMO and Math Competition for Normal Stream. The last lap of the 3 stages process involves the building of Rigor in preparing the student for their final goal in their Secondary School Education. Students are stretched based on their level of preparedness with specially selected teachers providing the guidance in order to achieve their dreamed outcome.  
