@@ -44,7 +44,7 @@ SST – Spreadsheets
 MMC – Multimedia Communication
 
 <img src="/images/diamonds%20in%20triplicate.jpg"
-		 style="width:35%">
+		 style="width:40%">
 		 
 
 Our approach to teaching and learning is student-centric and uses an authentic problem set to trigger to motivate learning. The trigger may be an object, event or topic that students may find interesting. Through the trigger, concepts and skills covering the desired learning outcomes are taught. The learning outcomes in a problem set may span two or more modules and the concepts and skills learnt are revisited and reinforced through instruction, hands-on practice and assignments.    
