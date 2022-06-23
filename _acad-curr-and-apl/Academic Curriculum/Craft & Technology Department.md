@@ -66,8 +66,7 @@ Students were excited playing with LEGO during lesson. The LEGO manipulative all
 
 Students learn the topic of Mechanism using the Lego Education Kit. They follow the instruction booklet to construct various types of mechanisms and then manipulate them to understand their input, process and output. 
 
-<img src="/images/craft3.png"
-		 style="width:75%">
+<img src= "/images/craft3.png" style = "width: 75%">
 
 <p style="text-align: center;"><em>Co-operative Learning using Lego Education Kit</em></p>
 
@@ -123,4 +122,3 @@ Students engage in ideation process using the Sketchbook Pro software on their T
 
 
 <p style="text-align: center;"><em>Seri presenting her idea of a bag that originated from a shoe</em></p>
-
