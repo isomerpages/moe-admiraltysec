@@ -65,54 +65,52 @@ The IHGI combines the processes for the Geographical and Historical Investigatio
 
 Inquiry is recommended for the learning of concepts, skills and the exploration of issues in the SS N(T) syllabus. Inquiry-based learning helps students to become more critical about their thinking and their actions. Hence, they will be able to deliberate and offer well-grounded answers based on evidence in the study of issues. It also sustains the N(T) students’ interest as they would have the opportunity to investigate into an area of focus that is related to the world outside the classroom.
 
+<img src="/images/humans2.jpg"
+		 style="width:75%">
 
+<p style="text-align: center;">Sec 1 students using the Water Test Kit to find out the alkalinity of the water @ the Singapore River during their IHGI,  
+under the guidance of the Humanities - Geography Unit.</p>
 
- ![](https://lh3.googleusercontent.com/DyHJR6XjVXKBL7IjjKONYnJd3YcMRdswU3HDDXGVSA6kH-PLnA4vsP6E4FdLKYodfEcm2IUX_cJ57zy4Xof3kQFVj3TnKu7LMrVzJaWEJ2mZDugXfNmSV5n-bgpSf9dRyBY14dY0N9TH0S6lDw)Sec 1 students using the Water Test Kit to find out the alkalinity of the water @ the Singapore River during their IHGI,  
-under the guidance of the Humanities - Geography Unit.
+<img src="/images/humans3.jpg"
+		 style="width:75%">
 
- ![](https://lh6.googleusercontent.com/kSACCOcbTrT5YWLBbw0jmv8RVg8YdHFeu96b5BM3BYctIG-8vJRwkSltB2ZIaZe75LJGMQThUpPlGC2-pSomwzvYJxPXc8HeG_nEK5dMnYcVYHryj0l4NWFblHwo53KOaDTkruYh8zY3PXLjgQ) Sec 1 students learning about the History of the Singapore River through the eyes of the various groups such as the Indian chettiar and Chinese coolies. The Humanities – History Unit conducted the role play for the learning of the students during their IHGI.
+<p style="text-align: center;">Sec 1 students learning about the History of the Singapore River through the eyes of the various groups such as the Indian chettiar and Chinese coolies. The Humanities – History Unit conducted the role play for the learning of the students during their IHGI.</p>
 
-| ![C:\Users\S7438420Z\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\IMG-20170215-WA0012.jpg](https://lh3.googleusercontent.com/5kC5bDlGDib2yFx1bEjbKSN_f2c1n8dETGdR74J4dWg2lhY6iSY-VP_GZcBf31vpoeX8jQ8DFCzyVJHVWFrIB9c5e6nJ_kRhiEU0E4Ypzs1kvNK_8WjpNPL3J-Gf2tZy_nTal7L8b5hSPcOPbQ) | ![C:\Users\S7438420Z\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\IMG-20170215-WA0019.jpg](https://lh3.googleusercontent.com/VxTZfj2IuklZau-uDDPKee8J9SPm5eF0cuwitXfN-ZLXqNJURfC9ec01g8OErh2XZrT55bR4sa_14IC7Qc-pOjKBnD3cNtvuTyieKftrPCCqSXMbt6aMEZ_fLMQAlhk3ERhsLIYVjszUGlb8yA) |
-| --- | --- |
+<img src="/images/humans4.png"
+		 style="width:75%">
+		 
+<p style="text-align: center;">Sec 2 students learning about the importance of public housing, its development and history, in the overall progress of Singapore as an independent country.</p>
 
-Sec 2 students learning about the importance of public housing, its development and history, in the overall progress of Singapore as an independent country.
-
-  
-
-  
-
-Upper Secondary
-
-Combined Humanities: Social Studies, Geography and History Electives
-
-(Inquiry within an Authentic Issue)
+<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;text-align: center;"><span style="font-size:12pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:underline;vertical-align:baseline;white-space:pre-wrap;">Upper Secondary </span></p>
+<div> <br>
+<p dir="ltr" style="text-align: left; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:12pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Combined Humanities: Social Studies, Geography and History Electives</span></p>
+	<span style="font-size:12pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">(Inquiry within an Authentic Issue)</span>
 
 Inquiry-based learning in the Combined Humanities seeks to spark and build on students’ curiosity, so as to create meaningful learning. Questions are used to activate students’ prior knowledge and challenge their assumptions, as multiple perspectives are presented for their consideration. This in turn leads to the eliciting of students’ own questions out of curiosity. Thus, learning in the Combined Humanities is achieved through inquiry as it is driven by teachers’ and students’ questions to investigate, extract, analyse and synthesise information regarding issues, be they societal, geographical or historical in nature.
 
   
+<img src="/images/humans5.png"
+		 style="width:75%">
+		 
+<p style="text-align: center;">A sample of an inquiry – based learning worksheet on Public Housing for Sec 3 Social Studies students under the  
+theme of “Living in a Diverse Society”.</p>
 
-![Screen Shot 2017-09-29 at 10.10.05 PM.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Humanities/Screen%20Shot%202017-09-29%20at%2010.10.05%20PM.png)
-
-A sample of an inquiry – based learning worksheet on Public Housing for Sec 3 Social Studies students under the  
-theme of “Living in a Diverse Society”.
-
-![C:\Users\S7438420Z\Desktop\Magazine_Newsletter_Website\GE\IMG-20170828-WA0001.jpg](https://lh5.googleusercontent.com/SHl8AaR-e9XHwiGcglOkTPLRHR6q1phchoPw7PgyORBPw61vsRMzhecDrViYTYDS2IWBXVi3cqNzYgymWl6NhFp1NHxk009RQeK7EuZ1IhxybUzNf3rRhghLvPes0Sb3Q1e8IsV0UltGdO7rSQ)
-
-  
-
-Sec 3 students checking out the relative humidity, the max or min temperature and the wind speed, using the Pocket Weather Tracker, to prove their hypothesis for their GI.
+<img src="/images/humans6.jpg"
+		 style="width:75%">
+		 
+<p style="text-align: center;">Sec 3 students checking out the relative humidity, the max or min temperature and the wind speed, using the Pocket Weather Tracker, to prove their hypothesis for their GI.</p>
 
 For the Upper Sec Humanities, students are also involved in competitions like the National Earthquake Competition organized by Singapore Polytechnic and The History Challenge organized by Bendemeer Sec. These competitions allow them to apply their learning of Geography and History into real life situations. In addition, our students have been involved in the Model Unite Nations Conference since 2013 where they are exposed to world affairs and appreciate the importance of a world body to address pertinent issues facing the various countries.
 
-![](https://admiraltysec.moe.edu.sg/pix/spacer.gif)
+	
+<img src="/images/humans7.png"
+		 style="width:75%">
 
-<table class="ives_tab_kosong ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 609.5px; height: 302px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 295px;"><font face="trebuchet ms, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><img src="https://lh3.googleusercontent.com/tMwLl-3lvGWC9_qmgltgQYDr752QIR62S4OG_Q1OLsUxsGbe4c95HM34F5x4JEuUvZH4Ei_DJNzg7cW-Gm-WdfqT-tH_vjc9DfumBcPqQZJg1CxGjCc3K5VigGWE93SUceyfArIkEB_w1Icpxw" width="308" height="410" style="margin: 0px; outline: none; padding: 0px; border: none; transform: rotate(0rad); width: 295px; height: 392.695px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></th><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 314px;"><font face="trebuchet ms, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img src="https://lh6.googleusercontent.com/-WXowjoKVE8m6eXGAE2WYwh79PXFAtLYwcrUAtJymlrY8ennPyIywZN9pZhF-ba4695EM6xl50zqKnmtHbhOnLCegp7CibQ9RE24rDfJABnfZK6XAjZRr7xWaFw3C9J3QI96JgeuJ5fEJ7h4wQ" width="305" height="220" style="margin: 0px; outline: none; padding: 0px; border: none; transform: rotate(0rad);">&nbsp;</font></td></tr></tbody></table>
+<p style="text-align: center;">Sec 3 students giving their best at the National Earthquake Competition 2017 and the Model UN Conference 2017.</p>
 
-Sec 3 students giving their best at the National Earthquake Competition 2017 and the Model UN Conference 2017.
+<p dir="ltr" style="text-align: center; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:12pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Elements of Business Skills (EBS)</span></p>
+	<p dir="ltr" style="text-align: center; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size:12pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">(Authentic Learning Experience)</span></p>
 
-Elements of Business Skills (EBS)
-
-(Authentic Learning Experience)
 
 EBS provides an authentic learning experience by getting students involved in the EBS Learning Journey and the 2 Day 1 Night Travel and Tourism Learning Journey. These enable our students to experience first-hand what they have learnt in EBS, particularly in the Travel and Tourism industry.
 
@@ -120,8 +118,8 @@ EBS provides an authentic learning experience by getting students involved in th
 
 During the EBS Learning Journey, e.g. Orchard Road, students are able to see and study the concepts that they have learnt in the classroom in action in real life. In addition, the 2 Day 1 Night Travel and Tourism Learning Journey includes a section where our students serve as Tour Guides to a group of elderly, giving them the opportunity learn the skills of being a tour guide. This also serves as an incentive program to motivate them to do well in their subject and be shortlisted.
 
-  
+	
+<img src="/images/humans8.png"
+		 style="width:75%">
 
-  
-
-  ![C:\Users\S7438420Z\Desktop\Magazine_Newsletter_Website\EBS\IMG-20170725-WA0020.jpg](https://lh5.googleusercontent.com/IVUBdir7OCdb8zvNgs078au1rLufR9PVt0ZrEmnVykzsI-WIgNOfbd5ZHd-rEM9NDMCfaXaje48nfJXypTxGOZJhizJsE-O_lSldDzK-zmrE1Li09tu2FLNGMDI7PeZsheC5UadUoUmVIhZkaA) ![C:\Users\S7438420Z\Desktop\Magazine_Newsletter_Website\EBS\IMG-20170725-WA0022.jpg](https://lh3.googleusercontent.com/EUnYs3KRZfCuIgUlq3xJqLt5Qoz0aNMjQTbq2erFpGXmBaF9quyfWIjyKaB_xWynie2LocbjOA_mg2fAngSljJ5dBDXzgPjEnPSuuOCwahgrcNlk6RPDIb_2nJKd7bpp3li-HEi182tiod_Ciw)Sec 3T students listening intently to the instructions given while also having fun on the trip @ Takashimaya Orchard for their EBS Learning Journey.
+<p style="text-align: center;">Sec 3T students listening intently to the instructions given while also having fun on the trip @ Takashimaya Orchard for their EBS Learning Journey.</p>
