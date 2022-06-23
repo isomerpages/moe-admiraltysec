@@ -156,6 +156,7 @@ Our MT learning journeys include visits to local cultural sites, participation i
 		 
 <p style="text-align: center;"><em>A learning journey at SOTA Studio Theatre on The Silly Girl and The Funny Old Tree</em></p>
 
+
 **April 2016:**  
 
 *   National Secondary School Chinese Creative Writing Competition (全国中学生华文创作比赛—新蕾奖) at Nan Chiau High School
@@ -166,7 +167,7 @@ Our MT learning journeys include visits to local cultural sites, participation i
 <img src="/images/mtd11.png"
 		 style="width:75%">
 		 
-<p style="text-align: center;"><em>A learning journey at Drama Centre NLB on Legends of the Southern Arc<em></p>
+<p style="text-align: center;"><em>A learning journey at Drama Centre NLB on Legends of the Southern Arc</em></p>
 
 
 
@@ -196,12 +197,12 @@ Our MT learning journeys include visits to local cultural sites, participation i
 	<img src="/images/mtd12.png"
 		 style="width:75%">
 		 
-<p style="text-align: center;"><em>Blackarena was a national competition that incorporated poems, songs and culture into a skit based_ on short stories from Malay Literature Textbook ‘TEKAD.’<em></p>
+<p style="text-align: center;"><em>Blackarena was a national competition that incorporated poems, songs and culture into a skit based_ on short stories from Malay Literature Textbook ‘TEKAD.’</em></p>
 	
 <img src="/images/mtd13.png"
 		 style="width:75%">
 		 
-<p style="text-align: center;"><em>A theatre performance by KHALID SALLEH, an actor, from Malaysia<em></p>
+<p style="text-align: center;"><em>A theatre performance by KHALID SALLEH, an actor, from Malaysia</em></p>
 
 <img src="/images/diamonds%20in%20triplicate.jpg"
 		 style="width:40%">
@@ -226,4 +227,4 @@ Selected Secondary 3 students will be participating in immersion trips to either
 <img src="/images/mtd14.png"
 		 style="width:75%">
 		 
-<p style="text-align: center;"><em>A cultural visit, VIA in a local island school in Indonesia, leadership camp, learn about literature and history.<em></p>
+<p style="text-align: center;"><em>A cultural visit, VIA in a local island school in Indonesia, leadership camp, learn about literature and history.</em></p>
