@@ -4,7 +4,6 @@ permalink: /physical-education/Academic-Curriculum/permalink
 description: ""
 third_nav_title: Academic Curriculum
 ---
-
 Introduction
 ------------
 
@@ -15,8 +14,13 @@ In Admiralty, mass participation events remain a key feature so as to reach out 
 
 Organisation
 ------------
-
-<table border="0" class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; height: 142px; width: 546px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 123px;">IP Head &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 423px;">Mr Goh Huan Bok Kelvin (HOD/PE &amp; CCA)&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">Teachers &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">Mr Ong Minyi Jamie</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">Mr Kenneth Khing Zhen Ze</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">Ms Nuriah Bte Mohd Noor&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">&nbsp;Mr Tan Yuan Yan</td></tr></tbody></table>
+|  |  |
+|---|---|
+| IP Head         : | Mr Goh Huan Bok Kelvin (HOD/PE & CCA)  |
+| Teachers       :  | Mr Ong Minyi Jamie |
+|  | Mr Kenneth Khing Zhen Ze |
+|  | Ms Nuriah Bte Mohd Noor  |
+|   |  Mr Tan Yuan Yan |
 
 Programmes
 ----------
