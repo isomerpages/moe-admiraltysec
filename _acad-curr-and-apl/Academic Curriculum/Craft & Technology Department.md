@@ -16,7 +16,18 @@ Upper Secondary Students carry on their learning of the design process and techn
 Organisation 
 -------------
 
-<table border="0" style="margin: 0px; outline: 0px; padding: 0px; height: 200px; width: 453px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">IP Head &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px;">Mdm Samantha Woo (SH D&amp;T)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">Art:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px;">Mdm Seow Sok Teng Joyce&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;">Mdm Sharifah Nur Hidayah Binte Omar Albar</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;">Mdm Tamil Selvi d/o Ramanujam</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">D&amp;T Unit&nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px;">Mr Chong Teck Seng (HOD /SM)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;">Mr Kenneth Phua Khiang Song</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;">Ms&nbsp; Aiyshwariya Dinesh</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;">Ms Chin Hui Jing (SH/SEN)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;">Mdm Chow Shin Yun</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;">Ms Nur Hidayah Liyana Binte Mohd Nasir</td></tr></tbody></table>
+|  |  |
+|---|---|
+| IP Head         :  | Mdm Samantha Woo (SH D&T) |
+| Art:  | Mdm Seow Sok Teng Joyce  |
+|  | Mdm Sharifah Nur Hidayah Binte Omar Albar |
+|  | Mdm Tamil Selvi d/o Ramanujam |
+| D&T Unit       :  | Mr Chong Teck Seng (HOD /SM) |
+|  | Mr Kenneth Phua Khiang Song |
+| F&N Unit       :  | Ms  Aiyshwariya Dinesh |
+|  | Ms Chin Hui Jing (SH/SEN) |
+|  | Mdm Chow Shin Yun |
+|  | Ms Nur Hidayah Liyana Binte Mohd Nasir |
 
 Programmes
 ----------
@@ -29,7 +40,11 @@ All secondary three students taking D&T attended a 3-Day workshop organized by D
 
 On the last day of the workshop, they went to the Red Dot Museum to gain insights to what inspires designers to create useful and aesthetically pleasing product. 
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Design%20&%20Technology/Picture1.png)_Fieldtrip for coursework students to help them understand user needs._
+<img src="/images/craft1.png"
+		 style="width:75%">
+
+<p style="text-align: center;"><em>Fieldtrip for coursework students to help them understand user needs.</em></p>
+
 
 **Infusion of Robotics**
 
@@ -37,9 +52,15 @@ The infusion of robotics in D&T curriculum continues in upper secondary D&T. Stu
 
 Students were excited playing with LEGO during lesson. The LEGO manipulative allows opportunities for teamwork, experimenting and of course, fun! In fact, students were taking the initiative to combine the different simple machines they have learnt to build once they have completed the assigned tasks.
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Design%20&%20Technology/Picture2.png)_Electronics workshop on the 555 Timer IC at Nanyang Polytechnic_
+<img src="/images/craft2.png"
+		 style="width:75%">
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<p style="text-align: center;"><em>Electronics workshop on the 555 Timer IC at Nanyang Polytechnic</em></p>
+
+
+<img src="https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
+
 
   
 
@@ -47,18 +68,30 @@ Students were excited playing with LEGO during lesson. The LEGO manipulative all
 
 Students learn the topic of Mechanism using the Lego Education Kit. They follow the instruction booklet to construct various types of mechanisms and then manipulate them to understand their input, process and output. 
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Design%20&%20Technology/Picture3.png)_Co-operative Learning using Lego Education Kit_
+<img src="/images/craft3.png"
+		 style="width:75%">
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)  
+<p style="text-align: center;"><em>Co-operative Learning using Lego Education Kit</em></p>
+
+<img src="https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg"
+		 style="width:40%"> 
   
 
  **Electronics Lesson using Manipulatives**
 
 Using the Electronics Snap Circuit, students learn the various electronics components and how they are connected to form different circuits that do interesting things, for example, making a siren sound and causing a propeller to fly upwards. 
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Design%20&%20Technology/Picture4.png)_Two heads are better than one when it comes to solving problems_ 
+<img src="/images/craft4.png"
+		 style="width:75%">
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Design%20&%20Technology/Picture5.png) _Students busy completing the many different circuits and seeing the results_
+<p style="text-align: center;"><em>Two heads are better than one when it comes to solving problems</em></p>
+
+<img src="/images/craft5.png"
+		 style="width:75%">
+
+<p style="text-align: center;"><em>Students busy completing the many different circuits and seeing the results</em></p>
+
+
 
 <p align="center"><strong><u>Lower Secondary</u></strong></p>
 
@@ -66,13 +99,17 @@ Using the Electronics Snap Circuit, students learn the various electronics compo
 
 In the D&T curriculum, Lower secondary students in ADSS go through a directed design journal through simple design projects like a pencil organiser. They learn to appreciate aesthetic designs and functionalities. Through simple and fun activities, the students learn to be observable to the surrounding, constantly seeking design opportunities.
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Design%20&%20Technology/Picture6.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Design%20&%20Technology/Picture7.png)
 
-Autodesk Inventor Workshop held at Singapore Polytechnic in preparation for the Toy Design competition.
+<img src="/images/craft11.png"
+		 style="width:75%">
+
+
+<p style="text-align: center;">Autodesk Inventor Workshop held at Singapore Polytechnic in preparation for the Toy Design competition.</p>
 
   
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<img src="https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
 **Ideation, Conceptualisation and Development using Tablet PC**
 
