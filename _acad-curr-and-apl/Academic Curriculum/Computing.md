@@ -30,9 +30,9 @@ In GCE O-level Computing, students are taught how to go through a systematic pro
   
 Python programming is used extensively especially for modules on Abstraction, Algorithm and Programming. Students learn to code computer solutions for various real-world problems so that they could develop computational thinking skills, as well as apply concepts and skills taught.
 
-![CS 3.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Computer%20Studies/CS%203.png)
+![](/images/comp1.png)
 
-Students learn to code computer solutions for various real-world problems using Python  
+<p style="text-align: center;">Students learn to code computer solutions for various real-world problems using Python  </p>
 
 **Programming with Raspberry Pi and SenseHat**
 
