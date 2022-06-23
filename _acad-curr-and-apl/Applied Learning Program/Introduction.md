@@ -4,7 +4,6 @@ permalink: /introduction/Applied-Learning-Program/permalink
 description: ""
 third_nav_title: Applied Learning Program
 ---
-
 Introduction
 ------------
 
@@ -14,9 +13,9 @@ IPW was about bringing together different curriculum subjects, framed by a robot
 
 Through curriculum re-design, the school has adopted a novel approach to ALP by integrating Design Thinking (DT) with Robotics and Engineering (STEM) with learning journeys (LJs) and enriched with interactions with practicing engineers from industries and Institutes of Higher Learning.  This novelty is realised where students experience a total seamless learning experience through STEM, DT and LJs all integrated together.  This unique ALP is entitled **Design Thinking through Innovation and Technology.** 
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
-  
 
 This ALP is deliberately designed as an overlap of STEM and DT.  DT seeks to nurture in our students a caring heart with a desire to empathise with others and to help others, while STEM programme seeks to impart content in science, design & technology, engineering, programming.   When put together the desired outcomes of our students are 
 
@@ -30,14 +29,11 @@ From the outset, ALP was planned in an integrated manner through cross functiona
 
 In the ALP through DT, students are thought various tools to empathise, define, ideate and prototype possible solutions to attempt to solve problems.  Students also have opportunities to interact with engineers, programmers and scientists to understand role of science and technology to define problems while solving existing ones.  In STEM students learn about Arduino micro-controllers and coding to appreciate how engineers integrate electronics and computing to design robots, to serve various needs.  Currently students work on robotic arms and Bluetooth controlled robotic cars. 
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Applied%20Learning%20Progam/Picture1.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Applied%20Learning%20Progam/Picture2.png)
-
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Applied%20Learning%20Progam/Picture3.png)  ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Applied%20Learning%20Progam/Picture4.png)
-
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Applied%20Learning%20Progam/Picture5.png) ![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Applied%20Learning%20Progam/Picture6.png)
+<img src="/images/alp1.png"
+		 style="width:75%">
 
 Students experience a total seamless learning experience through STEM, DT and LJs all integrated together in ADSS ALP Programme.  
 
   
-
-![ALP-Poster-for-CPDD-Sci_final-1-Jul-2021.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Applied%20Learning%20Progam/ALP-Poster-for-CPDD-Sci_final-1-Jul-2021.jpg)
+<img src="/images/alp2.jpg"
+		 style="width:75%">
