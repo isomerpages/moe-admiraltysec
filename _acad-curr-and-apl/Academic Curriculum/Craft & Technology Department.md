@@ -112,6 +112,15 @@ In the D&T curriculum, Lower secondary students in ADSS go through a directed de
 
 Students engage in ideation process using the Sketchbook Pro software on their Tablet PC to produce different designs for a bag. They then present their concepts to a panel of ‘clients’ who will give them feedback. The chosen design is then further developed for production.
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Design%20&%20Technology/Picture8.png)_Sketching in progress using the Tablet PC_
+<img src="/images/craft8.png"
+		 style="width:75%">
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Design%20&%20Technology/Picture9.png)_Seri presenting her idea of a bag that originated from a shoe_
+
+<p style="text-align: center;"><em>Sketching in progress using the Tablet PC</em></p>
+
+<img src="/images/craft9.png"
+		 style="width:75%">
+
+
+<p style="text-align: center;"><em>Seri presenting her idea of a bag that originated from a shoe</em></p>
+
