@@ -4,18 +4,20 @@ permalink: /mother-tongue-language-department/Academic-Curriculum/permalink
 description: ""
 third_nav_title: Academic Curriculum
 ---
-
 Introduction
 ------------
 
 Through the provision of a values-based and student-centric learning environment, we strive to grow our students’ interest in and love for the Chinese/Malay language and culture, and motivate them towards excellence in the Mother Tongue Language. We also aim to instil in students an appreciation of the thinking and values that underlie our cultures. As we nurture them to be responsible and active users of their mother tongue, they will be learned, future-ready persons who contribute to society.
 
-![MT Dept photo 2017.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Academic%20Curriculum%20&%20Applied%20Learning%20P/Academic%20Curriculum/Mother%20Tongue/MT%20Dept%20photo%202017.jpg)
-Mother Tongue Department Photo
+<img src="/images/mtd15.png" style="width:350px;height:325px;margin-left:15px;" align = "right">
 
 本部门以价值观为本，打造以学生为中心的优越学习环境，培养学生对母语和华族/马来族文化的兴趣，进而激发他们投入到母语的学习里。本部门也力求灌输学生正确的传统价值观，让他们了解并珍惜本族文化。毕业自美雅中学的学生，会是能善用母语，有责任感，并能面向未来，贡献社会的好公民。
 
 Melalui suasana pengajaran dan pembelajaran berteraskan nilai, kami berharap dapat menyemai minat dan cinta pelajar terhadap bahasa dan budaya Melayu. Dalam masa yang sama juga, merangsang mereka meraih kecemerlangan dalam Bahasa Melayu. Kami juga berhasrat agar dapat memupuk penghayatan dan pemikiran nilai-nilai murni yang menjadi asas budaya kita kepada pelajar. Diharap melalui pendidikan nilai-nilai ini, mereka menjadi pengguna yang bertanggungjawab dan aktif menggunakan Bahasa Melayu serta sentiasa bersedia menyumbang kepada masyarakat pada masa hadapan demi menyahut seruan visi Arif Budiman.
+
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
+
 
  **Approaches**
 
@@ -28,9 +30,24 @@ At Admiralty Secondary School, using Design Thinking, Mother Tongue Language tea
 Organisation
 ------------
 
-  
-
-<table border="0" class="iveo_table ives_tab_blue" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); height: 382px; width: 532.667px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34); width: 119px;">IP Head &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34); width: 413px;">Ms Ong Xu Ying Aysel (HOD/MTL)<br style="margin: 0px; outline: 0px; padding: 0px;">Ms Amizah Bte Mohamed Azhar (SH/ML)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">&nbsp;Teachers&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);"><b style="margin: 0px; outline: 0px; padding: 0px;">Chinese Language Unit</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;">&nbsp;Ms Leong Mun Yi</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">Ms Mok Kaie See</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">Ms Nge Hui Peng</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">Mdm Ngoi Sheau Neng</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">Ms Tay Yi Rong</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">Ms Wong Jie Yi Andrea</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">&nbsp;Ms Zhuo Yanping&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Malay Language Unit</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">Mdm Lisda Bte Mohd Amin&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">Mdm Mas Ayu Binte Abdul Malek&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">Mdm Noor Hasnah Binte Adam</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">Mdm Nur Amalina Binte Mohamed Salleh</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">&nbsp;Mdm Nurain Binte Mohammed Zulkepli</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(242, 249, 255); color: rgb(34, 34, 34);">&nbsp;Mdm Vanitha Govallau</td></tr></tbody></table>
+|  |  |
+|---|---|
+| IP Head           :  | Ms Ong Xu Ying Aysel (HOD/MTL)<br>Ms Amizah Bte Mohamed Azhar (SH/ML) |
+| Teachers          : | <u>**Chinese Language Unit**</u> |
+|  |  Ms Leong Mun Yi |
+|  | Ms Mok Kaie See |
+|  | Ms Nge Hui Peng |
+|  | Mdm Ngoi Sheau Neng |
+|  | Ms Tay Yi Rong |
+|   | Ms Wong Jie Yi Andrea |
+|   |  Ms Zhuo Yanping  |
+|   |  <u>**Malay Language Unit**</u> |
+|  | Mdm Lisda Bte Mohd Amin  |
+|  | Mdm Mas Ayu Binte Abdul Malek  |
+|  | Mdm Noor Hasnah Binte Adam |
+|  | Mdm Nur Amalina Binte Mohamed Salleh |
+|   |  Mdm Nurain Binte Mohammed Zulkepli |
+|   |  Mdm Vanitha Govallau |
 
 Programmes
 ----------
