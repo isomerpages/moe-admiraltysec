@@ -46,8 +46,9 @@ As part of the initiative to develop an appreciation to value-creation through p
 		 
 <p style="text-align: center;">Students learning programming with Raspberry Pi and SenseHat at the Young Tech Makerfest 2017 </p>
 
-<img src="https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg"
+<img src="/images/diamonds%20in%20triplicate.jpg"
 		 style="width:40%">
+
 
 <p style="text-align: center;"><strong style="background-color: transparent;"><u>Secondary Four</u></strong></p>
 
