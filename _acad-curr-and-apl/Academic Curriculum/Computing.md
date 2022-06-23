@@ -11,8 +11,12 @@ Introduction
 
 Organisation
 ------------
-<table border="0" style="margin: 0px; outline: 0px; padding: 0px; height: 20px; width: 453px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">IP Head
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px;">Mr Phua Tian Peng (HOD/KM)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">Teachers&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px;">Mr Chong Teck Seng (HOD /SM)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;">Ms Nur Hidayah Liyana Binte Mohd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px;">Mdm Lim Sok Hian Jacqueline</td></tbody></table>
+|  |  |
+|---|---|
+| IP Head         : | Mr Phua Tian Peng (HOD/KM) |
+| Teachers       : | Mr Coleman Chong Lee Soong (ST) |
+|  | Mr Ho Wai Kin |
+|  | Mr Jeremy Lim Ching Sen |
 
 
 Programmes
