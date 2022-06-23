@@ -4,6 +4,9 @@ permalink: /mathematics/Academic-Curriculum/permalink
 description: ""
 third_nav_title: Academic Curriculum
 ---
+Introduction
+------------
+
 Our Vision: Values Driven, Analytical Voyager <br>
 Our Mission: Developing Voyagers to conquer the Sea of Mathematics
 
