@@ -16,10 +16,11 @@ Mission:
 *   Empowering Every Admiral to Explore, Develop, Plan Proactively and Actualize Aspirations.
 
   
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
 
-Objectives
+<p style="line-height: 19.6px;"><u>Objectives</u></p>
 
 To be the link between the students and their aspirations through the following:
 
@@ -42,7 +43,11 @@ Approaches to build a pervasive ADSS ECG culture
 Organisation
 ------------
 
-<table class="ive_eobj_left iveo_table ives_tab_zen" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; float: left; border: 1px solid rgb(234, 234, 234); width: 703px; height: 0px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; width: 416px;">Education and Career Guidance (ECG) Coordinators:</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; width: 287px;">Mrs Karen Yap – Tay Kai Yun</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; width: 60px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; width: 60px;">Ms Charmaine Lau</td></tr></tbody></table>
+|  |  |
+|---|---|
+| Education and Career Guidance (ECG) Coordinators: | Mrs Karen Yap – Tay Kai Yun |
+|  | Ms Charmaine Lau |
+
 
 Programmes
 ----------
@@ -57,18 +62,21 @@ Objectives:
 
 As part of the upper secondary level programmes and education career guidance, ADSS invited 15 professionals to share about their job scopes and career prospects of the industry. A wide range of professionals were invited, including marketing experts from Grab, front desk manager from St Regis Singapore, and an gym-instructor turned entrepreneur. The personal and candid sharing by these professionals introduced Admirals to the wide range of careers available to them after graduating from secondary school. 
 
-  
+ <img src="/images/ecg1.jpg"
+		 style="width:75%">
 
-![ecg_001.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&%20Learning%20for%20Life/ECG/ecg_001.jpg)
-
-_Mr Razif Yusoff, co-founder of PushPullGive, sharing his story of how he turned his passion in health and fitness into a career as an entrepreneur in this industry._
+<p style="text-align: center;"><em>Mr Razif Yusoff, co-founder of PushPullGive, sharing his story of how he turned his passion in health and fitness into a career as an entrepreneur in this industry.</em></p>
 
 In addition, all five polytechnics and the ITE set up booths at the foyer for Admirals to find out more about the courses available at their institutions. They also interacted with students from these institutions to learn more about life as a tertiary student.
 
-![ecg_002.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&%20Learning%20for%20Life/ECG/ecg_002.jpg)_Admirals browsing the booths set up by the institutions and interacting with polytechnic and ITE students._ 
+ <img src="/images/ecg2.jpg"
+		 style="width:75%">
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<p style="text-align: center;"><em>Admirals browsing the booths set up by the institutions and interacting with polytechnic and ITE students.</em></p>
 
+
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
   
 
 **Advanced Elective Modules and Elective Modules**
@@ -82,12 +90,13 @@ Objectives:
 
 Upper secondary Admirals have the option of signing up for Advanced Elective Modules and Elective Modules conducted by the polytechnics and ITE respectively. Through these modules, Admirals further their interest in applied areas of learning, clarify their understanding of the courses offered by these institutions and immerse themselves in an applied mode of learning.  
 
-  
 
-  
-![ecg_003.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&%20Learning%20for%20Life/ECG/ecg_003.jpg)
+ <img src="/images/ecg3.jpg"
+		 style="width:75%">
 
-_Secondary 4 students, Chen Jun Wei and Dinie Mateen working together to complete an electrical circuit, simulating light fixtures at homes.  
-  
-_![ecg_004.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&%20Learning%20for%20Life/ECG/ecg_004.jpg)_  
-Secondary 4 students, Sim Ren Ci and Siti Sykirah working on a 3D computer modelling animation of a bowling ball striking bowling pins.
+<p style="text-align: center;"><em>Secondary 4 students, Chen Jun Wei and Dinie Mateen working together to complete an electrical circuit, simulating light fixtures at homes.</em></p>
+
+ <img src="/images/ecg4.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;"><em>Secondary 4 students, Sim Ren Ci and Siti Sykirah working on a 3D computer modelling animation of a bowling ball striking bowling pins..</em></p>
