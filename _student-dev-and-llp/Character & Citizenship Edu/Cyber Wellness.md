@@ -12,42 +12,37 @@ Our focus is on guiding students to become responsible digital learners, especia
 Organisation
 ------------
 
-<td> Cyber Wellness (CW) Coordinators </td>
-	<tr> 
-	<td> Ms Chin Hui Jing </td>
-	</tr>
-	<tr>
-		<td> Mr Liew Chiat Siang </td> 
-	</tr>
+|  |  |
+|---|---|
+| Cyber Wellness (CW) Coordinators : | Ms Chin Hui Jing |
+|  | Mr Liew Chiat Siang |
 	
-	Programmes
+Programmes
 ----------
 
 **MOE Cyber Wellness (CW) Framework**
 
 MOE uses the CW framework to develop the child’s instinct to protect and empower him to take responsibility for his well-being in cyberspace. The three principles, ‘**Respect for Self and Others**’, ‘**Safe and Responsible Use**’ and ‘**Positive Peer Influence**’ when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions.
 
-![cw_003.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&%20Learning%20for%20Life/CCE/Cyber%20Wellness/cw_003.png)
+<img src="/images/cw1.png"
+		 style="width:75%">
 
-  
-
-**Themed CW Lessons**
+<p style="line-height: 19.6px;"><b><u>Themed CW Lessons</u></b></p>
 
 Based on the 4As of Awareness, Appreciation, Action and Advocacy, CW in ADSS takes on a whole-school approach as each level focuses on different themes (e.g.,online safety, being a positive influence online). Up-to-date and relevant, real-world problems and situations are infused into the lessons to make them  more engaging for Admirals. Conducted by form teachers during CCE lessons, everyone plays a crucial role to develop Admirals’ cyber wellness literacy. 
 
-**Cyber Wellness Week**
+<p style="line-height: 19.6px;"><b><u>Cyber Wellness Week</u></b></p>
 
 A CW booth coinciding with the International Friendship Day (IFD) week of activities was set up during recess on 23 April 2019. The theme this year was “Connected Community”.
 
-  
+<img src="/images/cw2.jpg"
+		 style="width:75%">
 
-![cw_001.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&%20Learning%20for%20Life/CCE/Cyber%20Wellness/cw_001.jpg)  
+<p style="text-align: center;">Upper Secondary Admirals writing positive messages to our international Admirals to counter inappropriate comments found on the Internet.</p>
 
-Upper Secondary Admirals writing positive messages to our international Admirals to counter inappropriate comments found on the Internet.  
+<img src="/images/cw3.png"
+		 style="width:75%">
 
-  
+<p style="text-align: center;">Lower Secondary CW Ambassadors engaging the minds and hearts of their peers at the CW IFD Booth.</p>
 
-![cw_002a.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&%20Learning%20for%20Life/CCE/Cyber%20Wellness/cw_002a.png)  
 
-Lower Secondary CW Ambassadors engaging the minds and hearts of their peers at the CW IFD Booth.
-		
