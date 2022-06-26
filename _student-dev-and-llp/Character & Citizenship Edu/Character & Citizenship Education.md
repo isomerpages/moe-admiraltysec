@@ -17,8 +17,6 @@ Introduction
 
 <div style="text-align: center;"><b class="" style="background-color: initial;"><span class=""><br></span></b></div>
 
-<div style="text-align: left;"><span class="" style="background-color: initial;"><span class="" style=""><div style="">The explicit teaching of values and social and emotional competencies are carried out through the CCE Lessons (LIGHTS lesson), school-based CCE programmes and CCE Guidance Modules.&nbsp;</div></span></span></div>
-
 The explicit teaching of values and social and emotional competencies are carried out through the CCE Lessons (LIGHTS lesson), school-based CCE programmes and CCE Guidance Modules. 
 
 > *   CCE Lesson (LIGHTS Lesson)
@@ -26,11 +24,20 @@ The explicit teaching of values and social and emotional competencies are carrie
 > *   School-Based CCE programmes 
 > *   CCE Guidance Modules : Education and Career Guidance (ECG), Sexuality Education (SEd), Cyber Wellness (CW))
 
-<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><div style="text-align: left;"><span class="" style="background-color: initial;"><span class="" style=""><div style=""><ul><li><span class="" style="background-color: initial;"><span class="" style=""><div style=""><span style="background-color: initial;">CCE Lesson (LIGHTS Lesson)</span></div></span></span></li><li><span style="background-color: initial;">School-Based CCE programmes&nbsp;</span></li><li><span style="background-color: initial;">CCE Guidance Modules : Education and Career Guidance (ECG), Sexuality Education (SEd), Cyber Wellness (CW))</span></li></ul></div></span></span></div></blockquote>
-  
-<div style="text-align: left;"><span class="" style="background-color: initial;"><span class="" style=""><div style=""><br></div><div style="">The application and reinforcement of the values and social and emotional competencies is facilitated through the various Admiralty Experience Programmes.</div></span></span></div>
+The application and reinforcement of the values and social and emotional competencies is facilitated through the various Admiralty Experience Programmes.
 
-<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><div style="text-align: left;"><span class="" style="background-color: initial;"><span class="" style=""><div style=""><ul><li><span class="" style="background-color: initial;"><span class="" style=""><div style="">Co-curricular Activities (CCA)</div></span></span></li><li><span class="" style="background-color: initial;"><span class="" style=""><div style="">Student Leadership Development Programme (SLD)</div></span></span></li><li><span class="" style="background-color: initial;"><span class="" style=""><div style="">Values-in-Action Programme (VIA)</div></span></span></li><li><span class="" style="background-color: initial;"><span class="" style=""><div style="">Student Development Programme&nbsp;</div></span></span></li><li><span class="" style="background-color: initial;"><span class="" style=""><div style="">Cohort Experience</div></span></span></li><li><span class="" style="background-color: initial;"><span class="" style=""><div style="">Citizenship Education Commemoration<b>&nbsp;</b></div></span></span></li></ul></div></span></span></div></blockquote>
+> *   Co-curricular Activities (CCA)
+>     
+> *   Student Leadership Development Programme (SLD)
+>     
+> *   Values-in-Action Programme (VIA)
+>     
+> *   Student Development Programme 
+> *   Cohort Experience
+>     
+> *   Citizenship Education Commemoration
+>
+  
 
 Organisation
 ------------
