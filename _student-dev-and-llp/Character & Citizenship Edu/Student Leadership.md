@@ -21,25 +21,19 @@ To strengthen the effectiveness of the programmes, our school integrates The Lea
 
 The following activities will equip our appointed student leaders with management, communication, leadership and mentoring skills:
 
+
 &nbsp;Training
 
-• The Student Leadership Challenge workshops (All Sec 1s &amp; 2s Admirals)
-
-• Student Leaders’ Leadership Workshops / Camp
-
-• Student Council Training
-
-• CCA Leaders Training
-
-• Class Committee and Subject Representatives Training (e.g. Training for Class Chairpersons, Peer Support Leaders and Sports Leaders)
+*   The Student Leadership Challenge workshops (All Sec 1s &amp; 2s Admirals)
+*   Student Leaders’ Leadership Workshops / Camp
+*   Student Council Training
+*   CCA Leaders Training
+*   Class Committee and Subject Representatives Training (e.g. Training for Class Chairpersons, Peer Support Leaders and Sports Leaders)
 
 Platforms
-
-• Student Leaders’ Investiture
-
-• Student Leader's Focused Group Discussion Planning and organisation of School Events:&nbsp;
-
-&nbsp; &nbsp; &nbsp; &nbsp;Secondary 1 Orientation Camp, Staff Appreciation Day, National Education Events, etc.
+ 
+*  Student Leaders’ Investiture
+*  Student Leader's Focused Group Discussion Planning and organisation of School Events:&nbsp; Secondary 1 Orientation Camp, Staff Appreciation Day, National Education Events, etc.
 			 
 Organisation
 ------------
