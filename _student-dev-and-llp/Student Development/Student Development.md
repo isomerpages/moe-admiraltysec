@@ -17,7 +17,9 @@ We believe that quality relationships between teachers and students, and amongst
 
 To nurture Character and Citizenship in Admirals and strengthen their self-efficacy and motivation to succeed, students are taught strategies for self-leadership and how they can enhance their internal locus of control.  At the same time, we encourage students’ voices to be heard, and involve them actively in organizing school-wide and community activities. This will nurture Admirals with the heart to serve and promote a strong school identity, thereby, rootedness to Singapore.
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
+
 
 **Student Development areas and processes**: 
 
