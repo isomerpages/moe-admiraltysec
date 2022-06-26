@@ -12,44 +12,51 @@ In Admiralty Secondary School, Values in Action (VIA) is integrated with the Lea
 Organisation
 ------------
 
-<table style="margin: 0px; outline: 0px; padding: 0px; width: 454.25pt; border-collapse: collapse; border: none;" width="0" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 260.75pt; border: 1pt solid windowtext;" valign="top" width="348"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal;" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-SG">Student Leadership Development (SLD) Coordinators:</span></b></p><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal;" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-SG">&nbsp;</span></b></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 193.5pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none;" valign="top" width="258"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; text-align: justify;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: &quot;Trebuchet MS&quot;, sans-serif; color: rgb(34, 34, 34);" lang="EN-SG">Mr Chong Teck Seng Nigel</span></p><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; text-align: justify;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: &quot;Trebuchet MS&quot;, sans-serif; color: rgb(34, 34, 34);" lang="EN-SG">Mr Liew Chiat Siang</span></p><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; text-align: justify;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: &quot;Trebuchet MS&quot;, sans-serif; color: rgb(34, 34, 34);" lang="EN-SG">Ms Subashini<span style="margin: 0px; outline: 0px; padding: 0px; background: rgb(242, 249, 255);"></span></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 454.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" colspan="2" width="606"><p style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; text-align: center;" align="center" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-SG">SLD Committee Members:</span></b><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: &quot;Trebuchet MS&quot;, sans-serif; color: rgb(34, 34, 34); background: rgb(242, 249, 255);" lang="EN-SG"></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 454.25pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" colspan="2" width="606"><p style="margin: 0in 0in 0.0001pt 0.25in; outline: 0px; padding: 0px; line-height: normal; text-indent: -0.25in;" class="MsoListParagraphCxSpFirst"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: Symbol; color: rgb(34, 34, 34);" lang="EN-SG">·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: &quot;Trebuchet MS&quot;, sans-serif; color: rgb(34, 34, 34);" lang="EN-SG">Ms Aiyshwariya Dinesh</span></p><p style="margin: 0in 0in 0.0001pt 0.25in; outline: 0px; padding: 0px; line-height: normal; text-indent: -0.25in;" class="MsoListParagraphCxSpMiddle"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: Symbol; color: rgb(34, 34, 34);" lang="EN-SG">·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: &quot;Trebuchet MS&quot;, sans-serif; color: rgb(34, 34, 34);" lang="EN-SG">Mr Tay Peiyong&nbsp;</span></p><p style="margin: 0in 0in 0.0001pt 0.25in; outline: 0px; padding: 0px; line-height: normal; text-indent: -0.25in;" class="MsoListParagraphCxSpMiddle"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: Symbol; color: rgb(34, 34, 34);" lang="EN-SG">·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: &quot;Trebuchet MS&quot;, sans-serif; color: rgb(34, 34, 34);" lang="EN-SG">Ms Nur Hidayah Liyana Binte Mohd N</span></p><p style="margin: 0in 0in 0.0001pt 0.25in; outline: 0px; padding: 0px; line-height: normal; text-indent: -0.25in;" class="MsoListParagraphCxSpMiddle"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: Symbol; color: rgb(34, 34, 34);" lang="EN-SG">·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: &quot;Trebuchet MS&quot;, sans-serif; color: rgb(34, 34, 34);" lang="EN-SG">Ms Lim Li Ting</span></p><p style="margin: 0in 0in 0.0001pt 0.25in; outline: 0px; padding: 0px; line-height: normal; text-indent: -0.25in;" class="MsoListParagraphCxSpMiddle"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: Symbol; color: rgb(34, 34, 34);" lang="EN-SG">·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; font-family: &quot;Trebuchet MS&quot;, sans-serif; color: rgb(34, 34, 34);" lang="EN-SG">Ms Maizuriah Binte Mohd Yasin</span></p><p style="margin: 0in 0in 8pt 0.25in; outline: 0px; padding: 0px; line-height: 14.98px; text-indent: -0.25in;" class="MsoListParagraphCxSpLast"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; line-height: 14.98px; font-family: Symbol; color: rgb(34, 34, 34);" lang="EN-SG">·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10.5pt; line-height: 14.98px; font-family: &quot;Trebuchet MS&quot;, sans-serif; color: rgb(34, 34, 34);" lang="EN-SG">Mr Jason Ang<span style="margin: 0px; outline: 0px; padding: 0px; background: rgb(242, 249, 255);"></span></span></p></td></tr></tbody></table>
+|  |  |
+|---|---|
+| Student Leadership Development (SLD) Coordinators:<br>  | Mr Chong Teck Seng Nigel<br>Mr Liew Chiat Siang<br>Ms Subashini |
+| SLD Committee Members: |  |
+| ·       Ms Aiyshwariya Dinesh<br>·       Mr Tay Peiyong <br>·       Ms Nur Hidayah Liyana Binte Mohd N<br>·       Ms Lim Li Ting<br>·       Ms Maizuriah Binte Mohd Yasin<br>·       Mr Jason Ang |  |
+
 
 Programmes
 ----------
 
-Learning for Life Programme
+<u>Learning for Life Programme</u>
 
 **Care and Repair @ North West**
 
 In collaboration with North West Community Development Council (NWCDC), classes embark on a 1.5 year journey in upper secondary to contribute to residents in the community. Using Design Thinking principles, Admirals conduct survey with residents of rental blocks, ideate and plan for a block party and a residents’ outing.&nbsp;  
 
-![via001.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/Values-In-Action/2019/via001.jpg)
 
-Our Admirals with community partners at Service Week 2019 – Sembawang  
+<img src="/images/via1.jpg"
+		 style="width:75%">
 
-![via002.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/Values-In-Action/2019/via002.jpg)
+<p style="text-align: center;">Our Admirals with community partners at Service Week 2019 – Sembawang  </p>
 
-Admirals participating in WeCare @NorthWest – Service Week 2019 at Blk 785A, Woodlands View
+<img src="/images/via2.jpg"
+		 style="width:75%">
 
+<p style="text-align: center;">Admirals participating in WeCare @NorthWest – Service Week 2019 at Blk 785A, Woodlands View</p>
+
+<img src="/images/via3.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">Admirals participating in WeCare @NorthWest – Block Party at Blk 512, Wellington Circle</p>
   
+<p style="line-height: 19.6px;"><b><u>National Kidney Foundation Young Champs Programme</u></b></p>
 
-![via003.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/Values-In-Action/2019/via003.jpg)  
-
-Admirals participating in WeCare @NorthWest – Block Party at Blk 512, Wellington Circle  
-
-  
-
-**National Kidney Foundation Young Champs Programme**
 
 In collaboration with National Kidney Foundation, students visited the Kidney Discovery Centre at NKF HQ. During the trip, they learnt about the importance of kidney health. They also engaged in activities with dialysis patients at NKF Dialysis Centres.  
 
-  
+  <img src="/images/via4.jpg"
+		 style="width:75%">
 
-![via004.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/Values-In-Action/2019/via004.jpg)Admirals visiting the NKF Dialysis Centre to engage dialysis patients and learn how to empathise with kidney patients.
+<p style="text-align: center;">Admirals visiting the NKF Dialysis Centre to engage dialysis patients and learn how to empathise with kidney patients.</p>
 
-  
+ 
+<p style="line-height: 19.6px;"><b><u>School Based VIA Programmes</u></b></p>
 
-**School Based VIA Programmes**
 
 **Visits to Woodlands Care Home**
 
