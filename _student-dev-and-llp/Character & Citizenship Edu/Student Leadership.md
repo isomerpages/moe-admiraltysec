@@ -71,17 +71,27 @@ Organisation
 
 Programmes
 ----------
+<img src="/images/sl2.jpg"
+		 style="width:75%">
 
-  
+<p style="text-align: center;"><em>Student Councillors and CCA Leaders: United, we stand as a team.</em></p>
 
-![sl_001.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/Student%20Leadership/sl_001.jpg)_Student Councillors and CCA Leaders: United, we stand as a team._&nbsp;
+<img src="/images/sl3.jpg"
+		 style="width:75%">
 
-![sl_002.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/Student%20Leadership/sl_002.jpg)
+<p style="text-align: center;"><em>Student Leaders making their commitment to serve the school.</em></p>
 
-_Student Leaders making their commitment to serve the school._&nbsp;
+<img src="/images/sl4.jpg"
+		 style="width:75%">
 
-![sl_003.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/Student%20Leadership/sl_003.jpg)2019 17th&nbsp;Student Council Executive Committee, always ready to embrace the Leadership Challenge
+<p style="text-align: center;"><em>2019 17th&nbsp;Student Council Executive Committee, always ready to embrace the Leadership Challenge</em></p>
 
-![sl_004.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/Student%20Leadership/sl_004.jpg)Peer Support Leaders understanding the web of relationships during a workshop  
+<img src="/images/sl5.jpg"
+		 style="width:75%">
 
-![sl_005.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/Student%20Leadership/sl_005.jpg)Student leaders exploring possibilities, and Challenging the Process at the annual Student Leaders’ Camp
+<p style="text-align: center;"><em>Peer Support Leaders understanding the web of relationships during a workshop </em></p>
+
+<img src="/images/sl62.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;"><em>Student leaders exploring possibilities, and Challenging the Process at the annual Student Leaders’ Camp</em></p>
