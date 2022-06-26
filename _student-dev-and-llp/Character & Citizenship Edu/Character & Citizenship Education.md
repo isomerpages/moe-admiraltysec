@@ -93,57 +93,44 @@ The Citizenship Education in Admiralty Secondary School is a whole school approa
   
 <img src="/images/ch6.png"
 		 style="width:75%">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-**  
-Photos**  
-  
-![cce007.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/CCE/2019/cce007.jpg)  
+ 
+<div><span style="text-decoration-line: underline;"><b>Photos</b></span><br></div>
 
-Admirals taking the national pledge with pride and dedication.
+<img src="/images/ch7.jpg"
+		 style="width:75%">
 
+<p style="text-align: center;">Admirals taking the national pledge with pride and dedication.</p>
   
 
-![cce008.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/CCE/2019/cce008.jpg)  
+<img src="/images/ch8.jpg"
+		 style="width:75%">
 
-Admirals participating in an assembly skit during the Total Defence Day Commemoration.
+<p style="text-align: center;">Admirals participating in an assembly skit during the Total Defence Day Commemoration.</p>
 
-  
+<img src="/images/ch9.jpg"
+		 style="width:75%">
 
-![cce009.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/CCE/2019/cce009.jpg)  
+<p style="text-align: center;">Confident Admirals forming the Uniformed Group contingents during the National Day Celebrations.</p>
 
-Confident Admirals forming the Uniformed Group contingents during the National Day Celebrations.
+<img src="/images/ch10.jpg"
+		 style="width:75%">
 
-  
+<p style="text-align: center;">Gracious Admirals bonding over games during the Racial Harmony Day Celebrations</p>
 
-![cce010.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/CCE/2019/cce010.jpg)  
-
-Gracious Admirals bonding over games during the Racial Harmony Day Celebrations
 
 Environmental Education
 -----------------------
 
 In Admiralty Secondary School, we believe in nurturing Admirals who are concerned about the environment and its sustainability. Environmental Education in Admiralty Secondary School is a whole-school approach and spearheaded by the Art and Environment Club.
 
-  
+ <img src="/images/ch11.jpg"
+		 style="width:75%">
 
-![cce011.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/CCE/2019/cce011.jpg)
-
-  
+<img src="/images/ch12.png"
+		 style="width:75%">
+		 
+ <img src="/images/ch13.png"
+		 style="width:75%">
 
  ![cce012.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/CCE/2019/cce012.jpg)  
  ![cce013.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/CCE/2019/cce013.jpg)  
