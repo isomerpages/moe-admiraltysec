@@ -62,10 +62,11 @@ In collaboration with National Kidney Foundation, students visited the Kidney Di
 
 **Secondary 3 students and CCA groups plan activities for the residents at Woodlands Care Home. Admirals leverage their interests and skills to organise fun-filled sessions, including musical performances, art and craft sessions, and exercise sessions.**  
 
-![via005.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/Values-In-Action/2019/via005.jpg)Admirals engaging residents of Woodlands Care Home with fun-filled activities.
+  <img src="/images/via5.jpg"
+		 style="width:75%">
 
+<p style="text-align: center;">Admirals engaging residents of Woodlands Care Home with fun-filled activities.</p>
   
-
-**VWO Visits during School Celebrations**
+<p style="line-height: 19.6px;"><b><u>VWO Visits during School Celebrations</u></b></p>
 
 Residents from Woodlands Care Home and Sree Narayana Mission Home are invited to the school to join us during major school celebrations such as Chinese New Year and National Day. Admirals plan, organise, host and interact with residents to share the joy of the celebrations and give back to the community.
