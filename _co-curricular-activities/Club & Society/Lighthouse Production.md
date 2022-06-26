@@ -60,3 +60,44 @@ Key Activities (Annual)
 * Service to school for AV support for school events
 
 
+Organization
+------------
+
+|  |  |
+|---|---|
+| CCA Teachers-in-charge | Mr Kenneth Phua Khiang Song (TIC) |
+|   | Mdm Yeo Suan Neo Doreen (TIC) |
+|   | Mdm Nur Amalina Binte Mohamed Salleh |
+|   | Ms Zhuo Yanping |
+|   |  Mdm Vanitha Govallau |
+| CCA Student Leaders |  |
+|  President | Raudhatul Hannah Binte Md Kahar (Lyra 3) |
+|  Vice-President |  Khoo Jing Liang (Lyra 4) |
+
+Photo of Student in Key Activities
+----------------------------------
+
+<img src="/images/lp1.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;"><em>As a group, Lighthouse Production (LHP) students reviewing together the pictures that were  captured.</em></p>
+
+<img src="/images/lp2.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;"><em>Practising Outdoor Photography at Little India</em></p>
+
+<img src="/images/lp3.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;"><em>Our successful public photo exhibition at Woodlands Regional Library. - “Through the Eyes of an Admiral”.</em></p>
+
+<img src="/images/lp4.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;"><em>Guiding new members on the use of the DSLR during CCA session.</em></p>
+
+<img src="/images/lp5.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;"><em>LHP students working as a team to hone their photography skills and take photos around school.</em></p>
