@@ -4,35 +4,24 @@ permalink: /character-and-citizenship-education/Character-and-Citizenship-Edu/pe
 description: ""
 third_nav_title: Character & Citizenship Edu
 ---
-
 Introduction
 ------------
 
-(CCE is central to Admiralty Secondary School’s vision of a “Values Centric, Thinking School”. The school believes in holistic development of our students to become confident, concerned, self-directed and contributing Admirals. CCE is integrated in our Curricular and Co-Curricular programmes - achieved by inculcating values, building Social Emotional (SE) competencies and developing 21st Century Competencies in our Admirals.![cce001.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/CCE/2019/cce001.png)  
+(CCE is central to Admiralty Secondary School’s vision of a “Values Centric, Thinking School”. The school believes in holistic development of our students to become confident, concerned, self-directed and contributing Admirals. CCE is integrated in our Curricular and Co-Curricular programmes - achieved by inculcating values, building Social Emotional (SE) competencies and developing 21st Century Competencies in our Admirals.
 
-**Framework for 21st&nbsp;Century Competencies and Student Outcome (source: MOE: CCE Syllabus, 2014)**
+<img src="/images/ch1.png"
+		 style="width:75%">
 
-The explicit teaching of values and social and emotional competencies are carried out through the CCE Lessons (LIGHTS lesson), school-based CCE programmes and CCE Guidance Modules.&nbsp;
+<div style="text-align: center;"><b class="" style="background-color: initial;"><span class="">Framework for 21<sup class="">st</sup> Century Competencies and Student Outcome
+(source: MOE: CCE Syllabus, 2014)</span></b></div>
 
-&gt; *   CCE Lesson (LIGHTS Lesson)
-&gt;     
-&gt; *   School-Based CCE programmes&nbsp;
-&gt; *   CCE Guidance Modules : Education and Career Guidance (ECG), Sexuality Education (SEd), Cyber Wellness (CW))
+<div style="text-align: left;"><span class="" style="background-color: initial;"><span class="" style=""><div style="">The explicit teaching of values and social and emotional competencies are carried out through the CCE Lessons (LIGHTS lesson), school-based CCE programmes and CCE Guidance Modules.&nbsp;</div></span></span></div>
 
+<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><div style="text-align: left;"><span class="" style="background-color: initial;"><span class="" style=""><div style=""><ul><li><span class="" style="background-color: initial;"><span class="" style=""><div style=""><span style="background-color: initial;">CCE Lesson (LIGHTS Lesson)</span></div></span></span></li><li><span style="background-color: initial;">School-Based CCE programmes&nbsp;</span></li><li><span style="background-color: initial;">CCE Guidance Modules : Education and Career Guidance (ECG), Sexuality Education (SEd), Cyber Wellness (CW))</span></li></ul></div></span></span></div></blockquote>
   
+<div style="text-align: left;"><span class="" style="background-color: initial;"><span class="" style=""><div style=""><br></div><div style="">The application and reinforcement of the values and social and emotional competencies is facilitated through the various Admiralty Experience Programmes.</div></span></span></div>
 
-The application and reinforcement of the values and social and emotional competencies is facilitated through the various Admiralty Experience Programmes.
-
-&gt; *   Co-curricular Activities (CCA)
-&gt;     
-&gt; *   Student Leadership Development Programme (SLD)
-&gt;     
-&gt; *   Values-in-Action Programme (VIA)
-&gt;     
-&gt; *   Student Development Programme&nbsp;
-&gt; *   Cohort Experience
-&gt;     
-&gt; *   Citizenship Education Commemoration
+<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><div style="text-align: left;"><span class="" style="background-color: initial;"><span class="" style=""><div style=""><ul><li><span class="" style="background-color: initial;"><span class="" style=""><div style="">Co-curricular Activities (CCA)</div></span></span></li><li><span class="" style="background-color: initial;"><span class="" style=""><div style="">Student Leadership Development Programme (SLD)</div></span></span></li><li><span class="" style="background-color: initial;"><span class="" style=""><div style="">Values-in-Action Programme (VIA)</div></span></span></li><li><span class="" style="background-color: initial;"><span class="" style=""><div style="">Student Development Programme&nbsp;</div></span></span></li><li><span class="" style="background-color: initial;"><span class="" style=""><div style="">Cohort Experience</div></span></span></li><li><span class="" style="background-color: initial;"><span class="" style=""><div style="">Citizenship Education Commemoration<b>&nbsp;</b></div></span></span></li></ul></div></span></span></div></blockquote>
 
 Organisation
 ------------
