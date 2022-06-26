@@ -4,7 +4,6 @@ permalink: /character-and-citizenship-education/Character-and-Citizenship-Edu/pe
 description: ""
 third_nav_title: Character & Citizenship Edu
 ---
-
 Introduction
 ------------
 
@@ -19,26 +18,20 @@ Introduction
 <div style="text-align: center;"><b class="" style="background-color: initial;"><span class=""><br></span></b></div>
 
 The explicit teaching of values and social and emotional competencies are carried out through the CCE Lessons (LIGHTS lesson), school-based CCE programmes and CCE Guidance Modules. 
+To be the link between the students and their aspirations through the following:
 
-> *   CCE Lesson (LIGHTS Lesson)
->     
-> *   School-Based CCE programmes 
-> *   CCE Guidance Modules : Education and Career Guidance (ECG), Sexuality Education (SEd), Cyber Wellness (CW))
+*   CCE Lesson (LIGHTS Lesson)
+*   School-Based CCE programmes 
+*   CCE Guidance Modules : Education and Career Guidance (ECG), Sexuality Education (SEd), Cyber Wellness (CW))   
 
 The application and reinforcement of the values and social and emotional competencies is facilitated through the various Admiralty Experience Programmes.
 
-> *   Co-curricular Activities (CCA)
->     
-> *   Student Leadership Development Programme (SLD)
->     
-> *   Values-in-Action Programme (VIA)
->     
-> *   Student Development Programme 
-> *   Cohort Experience
->     
-> *   Citizenship Education Commemoration
->
-  
+*   Co-curricular Activities (CCA)
+*   Student Leadership Development Programme (SLD)
+*   Values-in-Action Programme (VIA)
+*   Student Development Programme 
+*   Cohort Experience
+*   Citizenship Education Commemoration
 
 Organisation
 ------------
