@@ -15,7 +15,16 @@ Introduction
 <div style="text-align: center;"><b class="" style="background-color: initial;"><span class="">Framework for 21<sup class="">st</sup> Century Competencies and Student Outcome
 (source: MOE: CCE Syllabus, 2014)</span></b></div>
 
+<div style="text-align: center;"><b class="" style="background-color: initial;"><span class=""><br></span></b></div>
+
 <div style="text-align: left;"><span class="" style="background-color: initial;"><span class="" style=""><div style="">The explicit teaching of values and social and emotional competencies are carried out through the CCE Lessons (LIGHTS lesson), school-based CCE programmes and CCE Guidance Modules.&nbsp;</div></span></span></div>
+
+The explicit teaching of values and social and emotional competencies are carried out through the CCE Lessons (LIGHTS lesson), school-based CCE programmes and CCE Guidance Modules. 
+
+> *   CCE Lesson (LIGHTS Lesson)
+>     
+> *   School-Based CCE programmes 
+> *   CCE Guidance Modules : Education and Career Guidance (ECG), Sexuality Education (SEd), Cyber Wellness (CW))
 
 <blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><div style="text-align: left;"><span class="" style="background-color: initial;"><span class="" style=""><div style=""><ul><li><span class="" style="background-color: initial;"><span class="" style=""><div style=""><span style="background-color: initial;">CCE Lesson (LIGHTS Lesson)</span></div></span></span></li><li><span style="background-color: initial;">School-Based CCE programmes&nbsp;</span></li><li><span style="background-color: initial;">CCE Guidance Modules : Education and Career Guidance (ECG), Sexuality Education (SEd), Cyber Wellness (CW))</span></li></ul></div></span></span></div></blockquote>
   
@@ -135,4 +144,3 @@ In Admiralty Secondary School, we believe in nurturing Admirals who are concerne
 		 style="width:75%">
 
 <p style="text-align: center;">Admirals advocating the effort to reduce plastic waste through a “No Straw” movement in school.</p>
-
