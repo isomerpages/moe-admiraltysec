@@ -13,7 +13,9 @@ Our Student Leadership Development programmes are in line with the school’s vi
 
 To strengthen the effectiveness of the programmes, our school integrates The Leadership Challenge by Kouzes and Posner in our curriculum. The programmes are also in line with the different level outcomes (Self/Peer/Team/Thought Leadership) in order to develop them holistically.
 
-![diamonds in triplicate.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/diamonds%20in%20triplicate.jpg)
+<img src="/images/diamonds%20in%20triplicate.jpg"
+		 style="width:40%">
+		 
 
 **Leadership Development Activities**
 
