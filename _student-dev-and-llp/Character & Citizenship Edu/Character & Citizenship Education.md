@@ -128,24 +128,11 @@ In Admiralty Secondary School, we believe in nurturing Admirals who are concerne
 
 <img src="/images/ch12.png"
 		 style="width:75%">
-		 
+
+<p style="text-align: center;">Admirals creating environmental awareness through their VIA projects and YED week</p>
+
  <img src="/images/ch13.png"
 		 style="width:75%">
 
- ![cce012.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/CCE/2019/cce012.jpg)  
- ![cce013.jpg](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/CCE/2019/cce013.jpg)  
+<p style="text-align: center;">Admirals advocating the effort to reduce plastic waste through a “No Straw” movement in school.</p>
 
-
-  
-
-Admirals creating environmental awareness through their VIA projects and YED week
-
-
-![cce014.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/CCE/2019/cce014.png)  
-
-![cce015.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Student%20Development%20&amp;%20Learning%20for%20Life/CCE/CCE/2019/cce015.png)  
-
-
-  
-
-Admirals advocating the effort to reduce plastic waste through a “No Straw” movement in school.
