@@ -44,5 +44,3 @@ A CW booth coinciding with the International Friendship Day (IFD) week of activi
 		 style="width:75%">
 
 <p style="text-align: center;">Lower Secondary CW Ambassadors engaging the minds and hearts of their peers at the CW IFD Booth.</p>
-
-
