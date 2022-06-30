@@ -36,8 +36,7 @@ A Tablet device includes:
 | MOE FAS Student | Tier 1 Subsidy<br>(up to 75%)  | Tier 2 Subsidy<br>(up to 50%) |
 | Non MOE FAS Student<br><br>Gross monthly<br>household income<br><= $3400<br><br>or<br><br>Per Capita Income<br>> $700 and <= $900 | <br><br><br><br> Tier 2 subsidy<br>(up to 50%) | <br><br><br><br>Tier 2 subsidy<br>(up to 50%) |
 
-You may fill in the NEU-PC Application form below and submit completed form with relevant documents
+You may fill in the NEU-PC Application form below and submit completed form with relevant documents to Admiralty Secondary School's General Office during office hours:
 
-to Admiralty Secondary School's General Office during office hours:
+[NEU-PC Application Form 2019](/files/NEU%20PC%20Plus%20application_form%202019_Admiralty%20Sec.pdf)
 
-**[NEU-PC Application Form 2019](https://admiraltysec.moe.edu.sg/qql/slot/u757/NEU%20PC%20Plus%20application_form%202019_Admiralty%20Sec.pdf)**
