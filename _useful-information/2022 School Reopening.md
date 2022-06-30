@@ -3,7 +3,6 @@ title: 2022 School Reopening
 permalink: /2022-school-reopening/useful-information/permalink
 description: ""
 ---
-
 2022 School Reopening
 =====================
 
@@ -30,13 +29,13 @@ They are: 
 
 7. The staggered dismissal timing for 4th January 2022 will be as follows:
 
-> a. Secondary 1: 2.10pm
-> 
-> b. Secondary 3: 2.15pm
-> 
-> c. Secondary 2: 2.20pm
-> 
-> d. Secondary 4/5: 2.25pm
+a. Secondary 1: 2.10pm
+
+b. Secondary 3: 2.15pm
+
+c. Secondary 2: 2.20pm
+
+d. Secondary 4/5: 2.25pm
 
 We look forward to welcoming you back!  
 
