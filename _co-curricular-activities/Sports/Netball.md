@@ -23,9 +23,47 @@ Our CCA aims to:
 Key Activities (Annual)
 -----------------------
 
+*   **North Zone Netball Competition 2019 (B and C Division)**  
+    
+
+Competition period: January to February (B Division), July to August (C Division)  
+Venue: OCBC Arena  
+  
+
+*   **M1 Schools Challenge League 2019**  
+    
+
+Competition period: March to April  
+Venue: Various schools in Singapore  
+  
+
+*   **ADSS Past Vs Present Fiesta**  
+    
+
+Date: 16th March 2019  
+Venue: ADSS Indoor Sports Hall  
+  
+
+*   **Netball Annual Day Camp**  
+    
+
+Date: After End of Year Examinations
+
+Venue: Kallang Netball Centre
+
 
 Organisation
 ------------
 
+|  |  |
+|---|---|
+| CCA Teachers-in-charge | Ms Lim Chien Ru (TIC) |
+|   | Ms Nuriah Bte Mohd Noor (TIC) |
+|   | Mdm Nurzafirah Binte Mohamad Zainal |
+| CCA Student Leaders<br>(B Divison) | Captain: Tay Ke Xuan, Jeanette Cordrille (Lyra 2)<br><br>Vice-Captain: Nur Asrina Binte Monep (Lyra 4) |
+
+
+
 Photos of Students in Key Acivities
 -----------------------------------
+
