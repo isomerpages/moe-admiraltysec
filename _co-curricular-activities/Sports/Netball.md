@@ -66,4 +66,22 @@ Organisation
 
 Photos of Students in Key Acivities
 -----------------------------------
+<img src="/images/n2.jpg"
+		 style="width:75%">
 
+<p style="text-align: center;">Strengthening ties with Riverside Primary School through a friendly match between their senior team and our C division students.</p>
+
+<img src="/images/n3.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">Once an Admiral, always an Admiral – Engaging with our alumni through friendly matches with the current team.</p>
+
+<img src="/images/n4.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">The team practising their skills during a training session in school.<br>Woodlands community.</p>
+
+<img src="/images/n5.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">The final top 12 players representing the school in the B division National School Games (NSG)</p>
