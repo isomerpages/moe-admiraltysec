@@ -23,7 +23,7 @@ While the COVID-19 vaccination is not mandatory, we would like to encourage all 
 
 1. [Parent Kit on Student Vaccination Exercise](https://admiraltysec.moe.edu.sg/qql/slot/u752/2021/vaccine/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)
 
-2. [Info Sheet on Student Vaccination Exercise](https://admiraltysec.moe.edu.sg/qql/slot/u752/2021/vaccine/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)
+2. [Info Sheet on Student Vaccination Exercise](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)
 
 3. [MOE Press Release](https://www.moe.gov.sg/news/press-releases/20210531-covid-19-vaccination-exercise-for-students-in-schools-and-institutes-of-higher-learning)
 
