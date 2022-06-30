@@ -57,7 +57,7 @@ Photos of Students in Key Activities
 
 <p style="text-align: center;">B Division Girls did themselves proud in the Group Quanshu (拳术) category, and achieved a record performance for the ADSS Wushu Team.</p>
 
-<img src="/images/w2.jpg"
+<img src="/images/w3.jpg"
 		 style="width:75%">
 
 <p style="text-align: center;">The C Division Boys feeling elated after they exceeded expectations in the C Division Boys Group Weapon Event.</p>
