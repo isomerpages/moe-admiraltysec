@@ -3,4 +3,4 @@ title: CCA Prospectus 2022
 permalink: /CCA-prospectus-2022/useful-information/permalink
 description: ""
 ---
-[**Link to ADSS CCA Prospectus 2022**]
+Click [here](/files/ADSS%20CCA%20Prospectus%202022.pdf) to view **CCA Prospectus 2022**
