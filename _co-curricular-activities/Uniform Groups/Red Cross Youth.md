@@ -66,3 +66,18 @@ Organisation
 
 Photos of Students in Key Activities
 ------------------------------------
+
+<img src="/images/rc1.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">RCY cadets represented ADSS in the Trailblazer Competition organized by the Singapore Red Cross, where the team won Silver award for their outstanding performance.</p>
+
+<img src="/images/rc2.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">RCY cadets sharing about the ‘GO’ bag, and how to be well prepared when disaster strikes.</p>
+
+<img src="/images/rc3.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">Cadets participating actively in the cadet-link activity, where they worked together to teach students from Sembawang Primary School how to pitch tents.</p>
