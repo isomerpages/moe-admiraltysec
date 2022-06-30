@@ -12,11 +12,11 @@ School Book List 2022
   
 [Sec 1 (NA) Booklist for 2022](/files/AMSS%20S1%20NA%20final.pdf)
   
-[Sec 1 (NA SBB) Booklist for 2022(/files/AMSS%20S1%20NA%20SBB%20final.pdf)
+[Sec 1 (NA SBB) Booklist for 2022](/files/AMSS%20S1%20NA%20SBB%20final.pdf)
   
 [Sec 1 (NT) Booklist for 2022](/files/AMSS%20S1%20NT%20final.pdf)
   
-[Sec 1 (NT SBB) Booklist for 2022(/files/AMSS%20S1%20NT%20SBB%20final.pdf)
+[Sec 1 (NT SBB) Booklist for 2022](/files/AMSS%20S1%20NT%20SBB%20final.pdf)
 
 **Secondary 2**  
 
@@ -45,11 +45,11 @@ School Book List 2022
 
 ****Secondary 4****
 
-[Sec 4 (Express) Booklist for 2021]([](/files/AMSS%20S4%20EXP.pdf))  
+[Sec 4 (Express) Booklist for 2021](/files/AMSS%20S4%20EXP.pdf)  
   
-[Sec 4 (NA) Booklist for 2022]([](/files/AMSS%20S4%20NA.pdf))  
+[Sec 4 (NA) Booklist for 2022](/files/AMSS%20S4%20NA.pdf)  
   
-[Sec 4NT (OOS) Booklist for 2022]([](/files/AMSS%20S4%20NT%20OOS.pdf))  
+[Sec 4NT (OOS) Booklist for 2022](/files/AMSS%20S4%20NT%20OOS.pdf)  
 
 **Secondary 5**
 
