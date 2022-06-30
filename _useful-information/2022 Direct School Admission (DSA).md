@@ -12,23 +12,23 @@ description: ""
 
 Admiralty Secondary is offering DSA in the following 9 talent areas:  
 
-1.     [Robotics (Girls and Boys)](https://admiraltysec.moe.edu.sg/student-development-n-learning-for-life-program/co-curricular-activities-cca/club-n-society/robotics-club)
+1.     [Robotics (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/robotics-club/co-curricular-activities/club-and-society/permalink)
 
-2.     [STEM (Girls and Boys)](https://admiraltysec.moe.edu.sg/academic-curriculum-n-applied-learning-program/applied-learning-program)
+2.     [STEM (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/introduction/applied-learning-program/permalink)
 
-3.     [Community Youth Leadership (Girls and Boys)](https://admiraltysec.moe.edu.sg/student-development-n-learning-for-life-program/learning-for-life-program)
+3.     [Community Youth Leadership (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/learning-for-life-programme/permalink)
 
-4.     [National Civil Defence Cadet Corps (NCDCC) (Boys and Girls)](https://admiraltysec.moe.edu.sg/student-development-n-learning-for-life-program/co-curricular-activities-cca/uniform-groups/national-civil-defence-cadet-corps)
+4.     [National Civil Defence Cadet Corps (NCDCC) (Boys and Girls)](https://moe-admiraltysec-staging.netlify.app/national-civil-defence-cadet-corps/co-curricular-activities/uniform-groups/permalink)
 
-5.     [Concert Band (Girls and Boys)](https://admiraltysec.moe.edu.sg/student-development-n-learning-for-life-program/co-curricular-activities-cca/performing-arts/concert-band)
+5.     [Concert Band (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/concert-band/co-curricular-activities/performing-arts/permalink)
 
-6.     [Ensemble Guzheng (Girls and Boys)](https://admiraltysec.moe.edu.sg/student-development-n-learning-for-life-program/co-curricular-activities-cca/performing-arts/guzheng-ensemble)
+6.     [Ensemble Guzheng (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/guzheng-ensemble/co-curricular-activities/performing-arts/permalink)
 
-7.     [Wushu (Girls and Boys)](https://admiraltysec.moe.edu.sg/student-development-n-learning-for-life-program/co-curricular-activities-cca/sports/wushu)
+7.     [Wushu (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/wushu/co-curricular-activities/sports/permalink)
 
-8.     [Netball (Girls)](https://admiraltysec.moe.edu.sg/student-development-n-learning-for-life-program/co-curricular-activities-cca/sports/netball)
+8.     [Netball (Girls)](https://moe-admiraltysec-staging.netlify.app/netball/co-curricular-activities/sports/permalink)
 
-9.     [Rugby (Boys)](https://admiraltysec.moe.edu.sg/student-development-n-learning-for-life-program/co-curricular-activities-cca/sports/rugby)
+9.     [Rugby (Boys)](https://moe-admiraltysec-staging.netlify.app/rugby/co-curricular-activities/sports/permalink)
 
 [](https://www.moe.gov.sg/dsa-sec)
 
