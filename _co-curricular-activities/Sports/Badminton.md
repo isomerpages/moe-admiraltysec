@@ -7,7 +7,7 @@ third_nav_title: Sports
 Introduction
 ------------
 
-Tagline: Agility, Discipline, Spirit & Sportsmanship
+**Tagline: Agility, Discipline, Spirit & Sportsmanship**
 
 The ADSS badminton team comprises the B and C Division Boys and Girls teams. Every year, the school sends the teams to participate in the Inter-School Zonal Badminton Championship, and infriendly matches with other schools.
 
