@@ -90,5 +90,3 @@ Photos of Students in Key Activities
 <p style="text-align: center;">Our member getting into her role as Mother Forest with the help from our CCA teacher</p>
 
 
-
-
