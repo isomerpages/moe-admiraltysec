@@ -4,6 +4,8 @@ permalink: /National-Cadet-Corps-NCC-Land/co-curricular-activities/Uniform-Group
 description: ""
 third_nav_title: Uniform Groups
 ---
+<img src="/images/ncc1.png" style="width:240px;height:240px;margin-left:15px;" align = "right">
+
 **NCC HQ Vision** 
 
 Extraordinary Youth Leader
@@ -114,4 +116,18 @@ Organisation
 
 Photos of Students in Key Activities
 ------------------------------------
+<img src="/images/ncc2.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">Annual One-Star Kayaking Course where Secondary 3 Cadet Leaders attend a 2-day workshop to be certified.</p>
+
+<img src="/images/ncc3.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">Secondary 1 Junior Cadets attempting the high elements obstacle course in HQ NCC during Camp FORGE.</p>
+
+<img src="/images/ncc4.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">Final warmup before the commencement of the Annual PDS competition performance.</p>
 
