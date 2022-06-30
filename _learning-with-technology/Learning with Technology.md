@@ -3,7 +3,6 @@ title: Learning with Technology
 permalink: /learning-with-technology/permalink
 description: ""
 ---
-
 Learning with Technology
 ========================
 
@@ -15,7 +14,8 @@ In alignment with the Smart Nation initiative, Admiralty Secondary School’s IC
 Framework
 ---------
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Learning%20with%20Technology/Picture1.png)   
+<img src="/images/lt1.png"
+		 style="width:65%">
 
 Impact to students
 ------------------
@@ -32,7 +32,8 @@ Benefits
 
 Admiralty Secondary aligns all our academic and non-academic programs according to 21st century competencies.  
 
-![](https://admiraltysec.moe.edu.sg/qql/slot/u752/Learning%20with%20Technology/Picture2.png) 
+<img src="/images/lt2.png"
+		 style="width:65%">
 
 With the use of tablet device, the students adopt various methodologies and approaches in their learning. For example, students carry out inquisitive learning in science and problem-based approaches in math. The school aims to equip students with necessary competencies and attitudes, so that they become self-directed, confident learner and at the same time, an active contributor and concerned citizen of Singapore.
 
