@@ -14,14 +14,3 @@ With MDM, students' iPad will be configured to a specific setting and content. 
 
 The MDM also deploys necessary learning apps into students' iPad wirelessly. Through these apps, students will carry out learning customised for their class. The MDM also allows seamless network connection for the iPads that are under supervision.
 
-  
-
-![aPPS.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Learning%20with%20Technology/1:1%20Computing/aPPS.png)
-
-Example of apps that are deployed to students' iPads via Mobile Device Management (MDM).
-
-  
-
-![](https://admiraltysec.moe.edu.sg/pix/spacer.gif)
-
-A demo of how MDM is being activated every day.
