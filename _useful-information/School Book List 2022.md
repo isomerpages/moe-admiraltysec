@@ -7,6 +7,8 @@ School Book List 2022
 =====================
 
 **Secondary 1**  
+[Sec 1 (Express) Booklist for 2022](/files/AMSS%20S1%20EXP%20final.pdf)
+
 
 [Sec 1 (Express) Booklist for 2022](/files/AMSS%20S1%20EXP%20final.pdf)
   
