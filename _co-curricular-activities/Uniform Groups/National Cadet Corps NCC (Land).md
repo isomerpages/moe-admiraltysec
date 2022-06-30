@@ -97,13 +97,21 @@ Key Activities (Annual)
 
 *   Kindness Badge Award
 
-*   National Heritage Trail
-
-Preschool and Primary School Outreach Programme
+* National Heritage Trail
+	* Preschool and Primary School Outreach Programme
 
 
 Organisation
 ------------
 
+|  |  |
+|---|---|
+| CCA Teachers-in-charge | Mr Achmad Nasrun Bin Abdul Kalam (TIC) |
+|   | Mr Lai Kuok Liang (TIC) |
+|   | Ms Lim Sok Hian Jacqueline |
+|   | Mr Arun Vasuder Krishnan |
+| CCA Student Leaders | 2021<br>Unit Sergeant Major: <br>Chua Jun Tong, Eugene (Lyra 6)<br><br>Assistant Unit Sergeant Major:<br>Lin Zhenghao (Lyra 6)  |
+
 Photos of Students in Key Activities
 ------------------------------------
+
