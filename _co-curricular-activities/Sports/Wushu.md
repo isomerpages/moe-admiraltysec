@@ -7,7 +7,7 @@ third_nav_title: Sports
 Introduction
 ------------
 
-Tagline:  “Upholding the Wushu Spirit”
+**Tagline:  “Upholding the Wushu Spirit”**
 
 At Admiralty Secondary School, the Wushu CCA comprises a team of resilient individuals who bear a passion for the sport. Students train and practice with dedicated effort, drawing strength from unity. Together the team strives to achieve excellence in inter-school competitions.
 
