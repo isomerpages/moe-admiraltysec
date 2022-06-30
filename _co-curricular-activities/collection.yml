@@ -2,23 +2,23 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Uniform Groups/National Cadet Corps NCC (Land).md
-      - Uniform Groups/National Civil Defence Cadet Corps.md
-      - Uniform Groups/National Police Cadet Corps (NPCC).md
-      - Uniform Groups/Red Cross Youth.md
-      - Uniform Groups/.keep
-      - Sports/Track & Field.md
-      - Sports/Badminton.md
-      - Sports/Netball.md
-      - Sports/Rugby.md
-      - Sports/Wushu.md
-      - Sports/.keep
+      - Club & Society/.keep
+      - Club & Society/Art & Environment Club.md
+      - Club & Society/Lighthouse Production.md
+      - Club & Society/Robotics Club.md
       - Performing Arts/.keep
       - Performing Arts/Concert Band.md
       - Performing Arts/Modern Dance Club.md
       - Performing Arts/English Drama Club.md
       - Performing Arts/Guzheng Ensemble.md
-      - Club & Society/.keep
-      - Club & Society/Art & Environment Club.md
-      - Club & Society/Lighthouse Production.md
-      - Club & Society/Robotics Club.md
+      - Sports/.keep
+      - Sports/Track & Field.md
+      - Sports/Badminton.md
+      - Sports/Netball.md
+      - Sports/Rugby.md
+      - Sports/Wushu.md
+      - Uniform Groups/.keep
+      - Uniform Groups/National Cadet Corps NCC (Land).md
+      - Uniform Groups/National Civil Defence Cadet Corps.md
+      - Uniform Groups/National Police Cadet Corps (NPCC).md
+      - Uniform Groups/Red Cross Youth.md
