@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Performing Arts.md
       - Club & Society/.keep
       - Club & Society/Art & Environment Club.md
       - Club & Society/Lighthouse Production.md
