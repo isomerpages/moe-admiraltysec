@@ -88,3 +88,33 @@ Organisation
 
 Photos of Students in Key Activities
 ------------------------------------
+
+<img src="/images/ncdcc_001.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">ADSS NCDCC Presents: Esplanade In Youthful Company Public Performance where cadets showcased their Precision Drill Sequence in April 2019</p>
+
+<img src="/images/ncdcc_002.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">We clinched 4th place in the annual Precision Drill Competition 2019 through effort and teamwork - all the training got our drills precise to the tee!</p>
+
+<img src="/images/ncdcc_003.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">ADSS NCDCC cadets solving clues to find their next destination during the NCDCC Outdoor Resilience Adventure Challenge (NORAC). We clinched top 10 in the inaugural NORAC 2018!</p>
+
+<img src="/images/ncdcc_004.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">Sweating it out during the NCDCC Games Day where our cadets competed in several relay runs.</p>
+
+<img src="/images/ncdcc_005.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">A cadet applying knowledge learnt during the Urban Search and Rescue Specialisation Course - using rescue equipment to remove collapsed structures.</p>
+
+<img src="/images/ncdcc_006.jpg"
+		 style="width:75%">
+
+<p style="text-align: center;">Fun day out with the unit during our Unit Bonding Day! Cadet leaders organised team-building games for cadets to bond, laugh and play.</p>
