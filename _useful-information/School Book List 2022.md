@@ -53,4 +53,4 @@ School Book List 2022
 
 **Secondary 5**
 
-[Sec 5 Booklist for 2022]([](/files/AMSS%20S5%20NA.pdf))
+[Sec 5 Booklist for 2022](/files/AMSS%20S5%20NA.pdf)
