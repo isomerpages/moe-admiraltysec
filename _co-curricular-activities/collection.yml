@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniform Groups/National Civil Defence Cadet Corps.md
       - Uniform Groups/National Police Cadet Corps (NPCC).md
       - Uniform Groups/Red Cross Youth.md
       - Uniform Groups/.keep
