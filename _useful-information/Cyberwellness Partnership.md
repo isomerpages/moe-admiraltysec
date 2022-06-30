@@ -8,12 +8,14 @@ Cyberwellness Partnership - Every Parent a Supportive Parent
 
 Parents play a key role in their children’s growth. Students benefit the most when the home and school environments are attuned to each other. Hence, at Admiralty Secondary School, we believe in partnering parents to provide the necessary knowledge, information, support and reinforcement at home.
 
-**Principles and Key messages for Cyber Wellness Education**
+<p style="line-height: 19.6px;"><b><u>Principles and Key messages for Cyber Wellness Education</u></b></p>
 
 |  |  |  |
 |---|---|---|
 | Principles | Key Messages |  |
 | ·       Respect for self and others<br>·       Safe and responsible use<br>·       Positive Peer influence | ·       Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities.<br>·       Be a safe and responsible user of technology and maintain a positive online presence.<br>·       Be responsible for personal well-being in the cyberspace. |  |
+
+<p style="line-height: 19.6px;"><b><u>Resources for Parents:</u></b></p>
 
 |  |  |  |
 |---|---|---|
