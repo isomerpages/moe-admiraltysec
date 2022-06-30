@@ -4,11 +4,6 @@ permalink: /mobile-device-management/1-1-Computing/permalink
 description: ""
 third_nav_title: 1:1 Computing
 ---
-
-
-Mobile Device Management (MDM)
-==============================
-
 In Admiralty Secondary School, we aim to establish a seamless learning environment for conducive teaching and learning. Mobile Device Management (MDM) is an initiative taken by Admiralty Secondary School in managing all iPads that are being used for our 1:1 Computing Programme.
 
   
