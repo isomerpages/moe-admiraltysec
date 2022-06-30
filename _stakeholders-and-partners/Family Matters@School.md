@@ -6,39 +6,38 @@ description: ""
 Family Matters@School
 =====================
 
-Introduction  
+<p style="line-height: 19.6px;"><b><u>Introduction</u></b></p> 
   
 The Family Matters@School (FMS) is supported by the Ministry of Social and Family Development (MSF) to provide parents with access to family life programmes that enable them to better connect with their children.
 
 We aim to equip parents with effective parenting skills - eventually training them to be parent facilitators, trainings for school staff to enhance their family life, and life skills and character building training for students.
 
   
+<p style="line-height: 19.6px;"><b><u>FamilyMatters@School Programmes</u></b></p>
 
-FamilyMatters@School Programmes
 
 We plan a wide series of FamilyMatters@School programmes in ADSS ranging from parenting talks and workshops, to parent-child bonding activities and social events. 
 
-\[Please click **[PDF](https://admiraltysec.moe.edu.sg/qql/slot/u752/Stakeholders%20&%20Partners/FamilyMatters/2019%20FMS%20Talk%20Synopsis.pdf)** for the list of parenting talk planned this year for parents of Secondary 1 – Secondary 5\]
+\[Please click **[PDF]()** for the list of parenting talk planned this year for parents of Secondary 1 – Secondary 5\]
 
   
-
-Triple P (Positive Parenting Programme)
+<p style="line-height: 19.6px;"><b><u>Triple P (Positive Parenting Programme)</u></b></p>
 
 We embarked on Triple P (Positive Parenting Programme) this year for the parents of Secondary 1 and Secondary 2 students.
 
-What is Triple P?
+**What is Triple P?**
 
 The Positive Parenting Programme is a parenting and family support strategy designed to prevent behavioural and emotional problems in children.
 
   
 
-What does it offer?
+**What does it offer?**
 
 Simple and practical strategies to help parents confidently manage their children’s behaviour, prevent problems developing and build strong, healthy relationships.
 
   
 
-Why is it effective?
+**Why is it effective?**
 
 One of the most effective evidence-based parenting programmes in the world, backed up by more than 30 years of ongoing research.
 
