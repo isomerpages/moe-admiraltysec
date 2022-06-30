@@ -31,7 +31,7 @@ Key Activities (Annual)
                                                              
 **Competitions for Exposure and Experience**  
 
-*   • National School Games Wushu Championships
+*   National School Games Wushu Championships
 *   MCC National Wushu Championship 2017
 
 Organisation
