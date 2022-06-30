@@ -4,62 +4,42 @@ permalink: /ict-policy/1-1-Computing/permalink
 description: ""
 third_nav_title: 1:1 Computing
 ---
+**GENERAL**
 
+<p style="line-height: 19.6px;"><b><u>1:1 COMPUTING, MOBILE DEVICE MANAGEMENT AND SCHOOL EMAIL ACCOUNT</u></b></p>
 
+1.        Students who are enrolled into Admiralty Secondary School (ADSS) will take part in learning in a 1:1 computing environment. Teachers will facilitate students’ learning with the iPad.
 
+2.        Students will be assigned an email account, and given access to to Google Apps, SLS platform and Microsoft applications which are registered  under the school’s domain name.
 
-NEU-PC
-======
+3.        Students must have an iPad of their own. An iPad is defined as tablet computer with a touch screen interface, and runs the iOS operating system. For an optimal learning experience, iPads with the following specifications are recommended:
 
-The NEU-PC Plus Programme by IMDA provides opportunity for students of low income families to own a computing device at a subsidise price. Since the inception on 1:1 Computing Programme in Year 2015, successful applicants have purchased a tablet device with free apps and 3 years of free broadband subscription at a subsidised price.  
-  
+a)     screen size: 9 inch and above;
 
-NEU-PC PLUS SCHEME
+b)    operating system: iOS 11 and later;
 
-*   The application is open to Singapore Citizens or Permanent Residents.
-*   The Applicant must be a full time student in Admiralty Secondary School.
-*   Past recipient of a PC bundle under the NEU PC Plus Programme who received a tablet device, may reapply only after a lapse of three (3) years from last deployment to the household.
+c)     model: iPad Air 2 and later.
 
-A Tablet device includes:
+4.          Students must bring their **fully charged** iPad to school for lessons every day.
 
-*   iPad 32GB Wifi minimum or equivalent.
-*   Productivity tools and apps.
-*   Mobile Device Management Software
-*   1 year warranty
+5.          Only iPads which are installed with Mobile Device Management (MDM) software will be allowed for use during lessons. These iPads will bear the “ADSS MDM Enrolled” sticker.
 
-  
+6.     Students are encouraged to have good quality mobile casing to protect their tablet computers and take care of their tablet computers carefully.
 
-**ELIGIBILITY CRITERIA**  
+7.     Students are to maintain the safety and quality of their tablet computer at all time. They should place their tablet computers in their bags.  They can only use the tablet computers when teachers require them to do so. They should refrain from using their tablet computer unnecessarily as it is reserved for learning.  
 
-*   The Applicant's combined gross monthly household income must not exceed $3,400 OR the per capita income\* of the Applicant's household most not exceed $900. If there is a permanently disabled household member, per capita income must not exceed $1,125.
-*   Each eligible household can only apply for one (1) device regardless of the total number of school-going children.  
-    _\*Per capita income (PCI) refers to the gross monthly household income divided by the total number of household members_
-
-**ASSISTANCE LEVEL**
-
-| Income | Singaporean | Permanent Resident |
-| --- | --- | --- |
-| MOE FAS Student | Tier 1 Subsidy  
-(up to 75%)  | Tier 2 Subsidy  
-(up to 50%) |
-| Non MOE FAS Student  
-  
-Gross monthly  
-household income  
-<= $3400  
-  
-or  
-  
-Per Capita Income  
-\> $700 and <= $900 | Tier 2 subsidy  
-(up to 50%) | Tier 2 subsidy  
-(up to 50%) |
-
-
+8.          Students should not perform a factory reset on their iPads should there be any problem(s). Please bring your iPad to the  General Office to report the issue.
 
   
-You may fill in the NEU-PC Application form below and submit completed form with relevant documents
 
-to Admiralty Secondary School's General Office during office hours:
+**USE OF COMPUTER FACILITIES**
 
-**[NEU-PC Application Form 2019](https://admiraltysec.moe.edu.sg/qql/slot/u757/NEU%20PC%20Plus%20application_form%202019_Admiralty%20Sec.pdf)**
+1.     Students should not enter computer facilities (i.e., computer lab and IT Resource Rooms) unless accompanied by teachers.
+
+2.          Students should observe computer facilities rules at all times.
+
+3.          Students are to take good care of computer facilities, and ensure that computer equipment and peripherals are in good working condition after use. Any student caught vandalising and/or damaging computer equipment and peripherals will be dealt with accordingly, and disciplinary action will be taken.
+
+4.          Consumption of food, drinks and sweets in computer facilities is **strictly prohibited**.
+
+5.          Movement of tables in the Computer Labs is **strictly prohibited** as this could break and/or expose electrical cables and cause danger to yourself and others
