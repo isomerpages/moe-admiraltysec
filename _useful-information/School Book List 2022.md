@@ -8,25 +8,25 @@ School Book List 2022
 
 **Secondary 1**  
 
-[Sec 1 (Express) Booklist for 2022](https://admiraltysec.moe.edu.sg/qql/slot/u752/2021/Sec%201%202022%20Booklists/AMSS%20S1%20EXP%20final.pdf)  
+[Sec 1 (Express) Booklist for 2022]([](/files/AMSS%20S1%20EXP%20final.pdf))  
   
-[Sec 1 (NA) Booklist for 2022](https://admiraltysec.moe.edu.sg/qql/slot/u752/2021/Sec%201%202022%20Booklists/AMSS%20S1%20NA%20final.pdf)  
+[Sec 1 (NA) Booklist for 2022]([](/files/AMSS%20S1%20NA%20final.pdf))  
   
-[Sec 1 (NA SBB) Booklist for 2022](https://admiraltysec.moe.edu.sg/qql/slot/u752/2021/Sec%201%202022%20Booklists/AMSS%20S1%20NA%20SBB%20final.pdf)  
+[Sec 1 (NA SBB) Booklist for 2022]([](/files/AMSS%20S1%20NA%20SBB%20final.pdf))  
   
-[Sec 1 (NT) Booklist for 2022](https://admiraltysec.moe.edu.sg/qql/slot/u752/2021/Sec%201%202022%20Booklists/AMSS%20S1%20NT%20final.pdf)  
+[Sec 1 (NT) Booklist for 2022]([](/files/AMSS%20S1%20NT%20final.pdf))  
   
-[Sec 1 (NT SBB) Booklist for 2022](https://admiraltysec.moe.edu.sg/qql/slot/u752/2021/Sec%201%202022%20Booklists/AMSS%20S1%20NT%20SBB%20final.pdf)
+[Sec 1 (NT SBB) Booklist for 2022]([](/files/AMSS%20S1%20NT%20SBB%20final.pdf))
 
 **Secondary 2**  
 
-[Sec 2 (Express) Booklist for 2022](https://admiraltysec.moe.edu.sg/qql/slot/u752/Useful%20Information/Booklist%202022/AMSS%20S2%20EXP.pdf)  
+[Sec 2 (Express) Booklist for 2022]([](/files/AMSS%20S2%20EXP.pdf))  
   
-[Sec 2 (NA) Booklist for 2022](https://admiraltysec.moe.edu.sg/qql/slot/u752/Useful%20Information/Booklist%202022/AMSS%20S2%20NA.pdf)  
+[Sec 2 (NA) Booklist for 2022]([](/files/AMSS%20S2%20NA.pdf))  
   
-[Sec 2NA (SBB) Booklist for 2022](https://admiraltysec.moe.edu.sg/qql/slot/u752/Useful%20Information/Booklist%202022/AMSS%20S2%20NA%20SBB.pdf)  
+[Sec 2NA (SBB) Booklist for 2022]([](/files/AMSS%20S2%20NA%20SBB.pdf))  
   
-[Sec 2 (NT) Booklist for 2022](https://admiraltysec.moe.edu.sg/qql/slot/u752/Useful%20Information/Booklist%202022/AMSS%20S2%20NT.pdf)  
+[Sec 2 (NT) Booklist for 2022]([](/files/AMSS%20S2%20NT.pdf))  
   
 [Sec 2NT (SBB) Booklist for 2022](https://admiraltysec.moe.edu.sg/qql/slot/u752/Useful%20Information/Booklist%202022/AMSS%20S2%20NT%20SBB.pdf)  
 
