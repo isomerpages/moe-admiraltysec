@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniform Groups/Red Cross Youth.md
       - Uniform Groups/.keep
       - Sports/Track & Field.md
       - Sports/Badminton.md
