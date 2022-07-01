@@ -19,7 +19,6 @@ We would like to invite you to download the Parents Gateway mobile app on your 
 
 1. Use the following link or scan the QR code:
 
-<p style="text-align: center;">IOS: Download Parents Gateway on Apple AppStore</p>
 
 **iOS:** [Download Parents Gateway on Apple AppStore](https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8)          
 
