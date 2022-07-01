@@ -14,8 +14,7 @@ Dear Admirals,
 2.  You can access the learning portal at:&nbsp;[https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
       
     
-3.  Click the icon below (or&nbsp;[click here](https://admiraltysec.moe.edu.sg/qql/slot/u752/2020/SLS%20Account%20Login%20and%20Password%20Reset%20Guide.pdf)) to find out how to log in to your account, conduct your own password reset and setting up security question to enable self-reset of password.  
-    ![](https://admiraltysec.moe.edu.sg/rs/cc/icon/onyx/copy.png)  
+3.  Click [here](/files/SLS%20Account%20Login%20and%20Password%20Reset%20Guide.pdf) to find out how to log in to your account, conduct your own password reset and setting up security question to enable self-reset of password.  
       
     
 4.  &nbsp;**SLS Support for Home-based Learning**
