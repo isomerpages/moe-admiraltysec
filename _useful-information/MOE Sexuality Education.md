@@ -117,4 +117,7 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 **ORGANISATION**
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 479.667px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="248" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 271px;"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"><span lang="EN-GB" class="" style="margin: 0px; outline: 0px; padding: 0px;">Sexuality Education (SEd) Coordinators :</span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"><span lang="EN-GB" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="224" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Ms Sue En Connie</td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="224" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"><span lang="EN-GB" class="" style="margin: 0px; outline: 0px; padding: 0px;">Mdm&nbsp;Chow Shin Yun</span></p></td></tr></tbody></table>
+|  |  |
+|---|---|
+| Sexuality Education (SEd) Coordinators : | Ms Sue En Connie |
+|  | Mdm Chow Shin Yun |
