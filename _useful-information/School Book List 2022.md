@@ -43,7 +43,7 @@ School Book List 2022
 [Sec 3NT (OOS) Booklist for 2022](/files/AMSS%20S3%20NT%20OOS.pdf)  
   
 
-****Secondary 4****
+**Secondary 4**
 
 [Sec 4 (Express) Booklist for 2021](/files/AMSS%20S4%20EXP.pdf)  
   
