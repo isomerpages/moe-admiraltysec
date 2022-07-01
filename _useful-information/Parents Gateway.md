@@ -17,29 +17,20 @@ We would like to invite you to download the Parents Gateway mobile app on your 
 
   
 
-1\. Use the following link or scan the QR code:
+1. Use the following link or scan the QR code:
 
-           iOS: [Download Parents Gateway on Apple AppStore](https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8)                
+<p style="text-align: center;">IOS: Download Parents Gateway on Apple AppStore</p>
 
-> ![parent_gateway_qr_ios.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Useful%20Information/Parents%20Gateway/parent_gateway_qr_ios.png)
+**iOS:** [Download Parents Gateway on Apple AppStore](https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8)          
 
-  
+<img src="/images/parent_gateway_qr_ios.png"
+		 style="width:25%">
 
-  
+**Android:** [Download Parents Gateway on Android PlayStore](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG)                
+<img src="/images/parent_gateway_qr_android.png"
+		 style="width:25%">
 
-  
 
->  Android: [Download Parents Gateway on Android PlayStore](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG)                
-
-> ![parent_gateway_qr_android.png](https://admiraltysec.moe.edu.sg/qql/slot/u752/Useful%20Information/Parents%20Gateway/parent_gateway_qr_android.png)
-
-  
-
-  
-
-  
-
-  
 2\. Follow the [Parents Gateway Instructional Guide](https://admiraltysec.moe.edu.sg/qql/slot/u752/Useful%20Information/Parents%20Gateway/Parents%20Gateway%20Instructional%20Guide.pdf) or refer to the video below:
 
 [https://www.youtube.com/watch?time\_continue=103&v=tW9jwyuovOo](https://www.youtube.com/watch?time_continue=103&v=tW9jwyuovOo)  
