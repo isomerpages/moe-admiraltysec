@@ -31,7 +31,7 @@ We would like to invite you to download the Parents Gateway mobile app on your 
 
 
 2\. Follow the [Parents Gateway Instructional Guide](/files/Parents%20Gateway%20Instructional%20Guide.pdf) or refer to the video below:
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 
 3\. If you have problem with your SingPass, please refer to the guide here on how to [reset your SingPass password](https://admiraltysec.moe.edu.sg/qql/slot/u752/Useful%20Information/Parents%20Gateway/Reset_Password_for%20Singpass.pdf).  Alternatively you can visit any of these Community Centre [https://www.singpass.gov.sg/singpass/common/counter](https://www.singpass.gov.sg/singpass/common/counter) or contact SingPass Helpdesk at 6643-0555.  
