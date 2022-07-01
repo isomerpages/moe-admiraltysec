@@ -115,4 +115,4 @@ ECG is conducted through formal curriculum during CCE lessons, and also addition
 The school believes in inculcating responsibility in the use of mobile devices and, therefore, allows students to bring their mobile phones to school. There is a mobile device policy to guide our students, and this can be found on pg 64 of the 2020 Student Handbook.  
   
 
-Last updated February 2020
+<div style="text-align: center;"><span style="font-family: arial, sans-serif; font-size: small; background-color: initial;">Last updated February 2020</span></div>
