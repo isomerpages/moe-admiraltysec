@@ -86,23 +86,29 @@ Please refer to the 2020 Student Handbook (page 55) for more information on the 
 
 The Education and Career Guidance (ECG) programme in ADSS focuses on important educational milestones of a student’s journey through secondary school. The focus for each level is as follows:
 
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none;" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 134.45pt; border: 1pt solid windowtext;" valign="top" width="159"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 18.48px; text-align: justify;" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;">Level</b></p></td><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 240.95pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none;" valign="top" width="272"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 18.48px; text-align: justify;" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;">Focus</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 134.45pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="159"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 18.48px; text-align: justify;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN">Secondary One</span></p></td><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 240.95pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="272"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 18.48px; text-align: justify;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN">Awareness of secondary school curriculum</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 134.45pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="159"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 18.48px; text-align: justify;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN">Secondary Two</span></p></td><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 240.95pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="272"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 18.48px; text-align: justify;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN">Choosing of subjects for upper secondary</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 134.45pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="159"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 18.48px; text-align: justify;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN">Secondary Three</span></p></td><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 240.95pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="272"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 18.48px; text-align: justify;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN">Career exploration and building of portfolio</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 134.45pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="159"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 18.48px; text-align: justify;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN">Secondary Four &amp; Five</span></p></td><td style="margin: 0px; outline: 0px; padding: 0cm 5.4pt; width: 240.95pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="272"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 18.48px; text-align: justify;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN">Preparation for post-secondary education</span></p></td></tr></tbody></table>
+|  |  |
+|---|---|
+| Level | Focus |
+| Secondary One | Awareness of secondary school curriculum |
+| Secondary Two | Choosing of subjects for upper secondary |
+| Secondary Three | Career exploration and building of portfolio |
+| Secondary Four & Five | Preparation for post-secondary education |
 
 ECG is conducted through formal curriculum during CCE lessons, and also additional programmes such as:
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning journeys to the post-secondary educational institutions
+* Learning journeys to the post-secondary educational institutions
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advanced Elective Modules (AEM) and Elective Modules (EM) offered by polytechnics and ITE
+* Advanced Elective Modules (AEM) and Elective Modules (EM) offered by polytechnics and ITE
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sharing by industry professionals
+* Sharing by industry professionals
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ECG counselling
+* ECG counselling
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personal statement writing and interview skills workshops to prepare students for Early Admissions Exercise (EAE)
+* Personal statement writing and interview skills workshops to prepare students for Early Admissions Exercise (EAE)
 
-&nbsp;Through these lessons and programmes, we hope to nurture Admirals who are able to navigate the post-secondary pathways with confidence, and make considered decisions on how to achieve their education and career goals.
+ Through these lessons and programmes, we hope to nurture Admirals who are able to navigate the post-secondary pathways with confidence, and make considered decisions on how to achieve their education and career goals.
 
-**Code of Conduct:**
+<p style="line-height: 19.6px;"><b><u>Code of Conduct</u></b></p>
 
 **10.**&nbsp;&nbsp;**Are students allowed to bring mobile phones to school?**
 
