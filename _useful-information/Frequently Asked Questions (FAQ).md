@@ -47,7 +47,7 @@ In LEAPS 2.0, students are recognised for obtaining at least 75% attendance in t
 
 Any change of CCA will be assessed on a case-by case-basis. Requests for a change can only be made at the beginning of each academic year through the HOD/PE &amp; CCA. Students are expected to continue attending the current CCA until official notification of a change in CCA.
 
-**Sexuality Education**
+<p style="line-height: 19.6px;"><b><u>Sexuality Education</u></b></p>
 
 **6.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**What is taught during Sexuality Education lessons?**
 
@@ -55,9 +55,7 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 
 In Admiralty Secondary School, Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://admiraltysec.moe.edu.sg/useful-information/moe-sexuality-education)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
-  
-
-**Cyberwellness**
+<p style="line-height: 19.6px;"><b><u>Cyberwellness</u></b></p>
 
 **7.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**How does ADSS support students’ cyberwellness, and in understanding how to use mobile devices in a responsible manner?**
 
