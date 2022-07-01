@@ -80,7 +80,7 @@ Student leaders will initiate, plan and organise school events at various scales
 Please refer to the 2020 Student Handbook (page 55) for more information on the leadership opportunities for Admirals.  
   
 
-**Progression Pathways**
+<p style="line-height: 19.6px;"><b><u>Progression Pathways</u></b></p>
 
 **9.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**How does ADSS support students in determining suitable post-secondary pathway?**
 
