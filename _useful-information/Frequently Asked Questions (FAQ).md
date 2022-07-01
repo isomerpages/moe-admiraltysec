@@ -59,9 +59,9 @@ In Admiralty Secondary School, Sexuality Education is delivered in a holistic ma
 
 **7.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**How does ADSS support students’ cyberwellness, and in understanding how to use mobile devices in a responsible manner?**
 
-Students are supported through lessons on Cyber Wellness which are infused into our school’s Character and Citizenship (CCE) curriculum. All lessons are based on the four major themes of ‘Awareness, Appreciation, Action and Advocacy’ and cover topics such as cyberbullying, cybersecurity, gaming addiction and fake news. These lessons supplement the routines set by teachers during lessons on responsible use of mobile devices. You may click&nbsp;[here](https://admiraltysec.moe.edu.sg/useful-information/cyberwellness-partnership)&nbsp;for useful resources on cyberwellness.
+Students are supported through lessons on Cyber Wellness which are infused into our school’s Character and Citizenship (CCE) curriculum. All lessons are based on the four major themes of ‘Awareness, Appreciation, Action and Advocacy’ and cover topics such as cyberbullying, cybersecurity, gaming addiction and fake news. These lessons supplement the routines set by teachers during lessons on responsible use of mobile devices. 
 
-**Student Leadership**  
+<p style="line-height: 19.6px;"><b><u>Student Leadership</u></b></p>  
 
 **8.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**What are the Student Leadership opportunities available in Admiralty Secondary School?**
 
