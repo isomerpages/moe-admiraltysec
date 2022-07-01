@@ -120,62 +120,64 @@ Appearances And Attire For Girls
 
 4) Blouse
 
-     * Plain light yellow blouse with straight collar and short sleeves.
+* Plain light yellow blouse with straight collar and short sleeves.
 
-     * Blouse should not be oversized and sleeves must be straightened at all times.
+* Blouse should not be oversized and sleeves must be straightened at all times.
 
-     * It should be buttoned properly at all times. The top button should only be buttoned when a tie is worn. 
+* It should be buttoned properly at all times. The top button should only be buttoned when a tie is worn. 
 
-     * Modifications to the blouse are not allowed.
+* Modifications to the blouse are not allowed.
 
 5) School Tie
 
-     * Shall be worn on formal/special occasions.
+* Shall be worn on formal/special occasions.
 
-     * Shall be worn smartly, with the top button of the shirt secured.
+* Shall be worn smartly, with the top button of the shirt secured.
 
 6) Skirts 
 
-     * Only pleated skirts that are deep green with pencil-thin yellow checks are allowed. 
+* Only pleated skirts that are deep green with pencil-thin yellow checks are allowed. 
 
-     * The skirt should be long enough to touch the knee at all times. 
+* The skirt should be long enough to touch the knee at all times. 
 
-     * Shortening of the school skirt by any means is not allowed, e.g. altering the hem of the skirt or folding the skirt at the waist.
+* Shortening of the school skirt by any means is not allowed, e.g. altering the hem of the skirt or folding the skirt at the waist.
 
 7) Jackets and outerwear
 
-     * Only plain dark colours are allowed.
+* Only plain dark colours are allowed.
 
-     * Hoods section of a hoodie are not allowed to be worn on the head on school premises
+* Hoods section of a hoodie are not allowed to be worn on the head on school premises
 
 8) Shoes
 
-     * Only low-cut black shoes with black laces are allowed.  
-     * Only plain white socks are to be worn.  
-     * Socks length must be high enough to cover the ball of the ankles when worn with shoes.  
+* Only low-cut black shoes with black laces are allowed.  
+
+* Only plain white socks are to be worn.  
+
+* Socks length must be high enough to cover the ball of the ankles when worn with shoes.  
   
 
 9) Fingernails/Toenails
 
-     * Nails must be kept short and clean
+* Nails must be kept short and clean
 
-     * Nails are kept free from polishes, varnishes or paints.
+* Nails are kept free from polishes, varnishes or paints.
 
 10) Accessories
 
-     * Decorative ornaments, accessories or chains dangling at waist level are not allowed.
+* Decorative ornaments, accessories or chains dangling at waist level are not allowed.
 
 11) Spectacles/Contact Lenses
 
-     * Spectacles with thin frames and simple design.
+* Spectacles with thin frames and simple design.
 
-     * Coloured/tinted contact lenses are not allowed.
+* Coloured/tinted contact lenses are not allowed.
 
 12) Piercing/Tattoos
 
-     * Tongue, mouth, body and ear piercings are not allowed.
+* Tongue, mouth, body and ear piercings are not allowed.
 
-     * Tattoos/Body are, even if only temporary, are not allowed, e.g . stickers/non-permanent ink/henna art/air-brush.
+* Tattoos/Body are, even if only temporary, are not allowed, e.g . stickers/non-permanent ink/henna art/air-brush.
 
 Note: Full school uniform must be worn at all times in school. PE attire will only be work during PE lessons. School T-Shirts and CCA shirts should only be worn during CCA.
 
