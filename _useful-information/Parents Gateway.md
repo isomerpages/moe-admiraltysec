@@ -17,7 +17,7 @@ We would like to invite you to download the Parents Gateway mobile app on your 
 
   
 
-1. Use the following link or scan the QR code:
+1\. Use the following link or scan the QR code:
 
 
 **iOS:** [Download Parents Gateway on Apple AppStore](https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8)          
@@ -30,9 +30,7 @@ We would like to invite you to download the Parents Gateway mobile app on your 
 		 style="width:25%">
 
 
-2\. Follow the [Parents Gateway Instructional Guide](https://admiraltysec.moe.edu.sg/qql/slot/u752/Useful%20Information/Parents%20Gateway/Parents%20Gateway%20Instructional%20Guide.pdf) or refer to the video below:
-
-[https://www.youtube.com/watch?time\_continue=103&v=tW9jwyuovOo](https://www.youtube.com/watch?time_continue=103&v=tW9jwyuovOo)  
+2\. Follow the [Parents Gateway Instructional Guide](/files/Parents%20Gateway%20Instructional%20Guide.pdf) or refer to the video below:
 
   
 
