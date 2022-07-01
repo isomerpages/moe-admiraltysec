@@ -12,9 +12,8 @@ Frequently Asked Questions (FAQ)
 
 Admiralty Secondary offers 16 CCAs across the categories - Physical Sports, Uniformed Groups, Clubs and Societies, and Visual and Performing Arts.
 
-Learn more about the CCAs at Admiralty Secondary at:&nbsp;**[/student-development-n-learning-for-life-program/co-curricular-activities-cca]**(https://admiraltysec.moe.edu.sg/student-development-n-learning-for-life-program/co-curricular-activities-cca)  
+Learn more about the CCAs at Admiralty Secondary at:&nbsp;**[/student-development-n-learning-for-life-program/co-curricular-activities-cca]**(https://moe-admiraltysec-staging.netlify.app/art-and-environment-club/co-curricular-activities/club-and-society/permalink)  
   
-[](https://admiraltysec.moe.edu.sg/student-development-n-learning-for-life-program/co-curricular-activities-cca)
 
 **2.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**When are CCAs conducted?**
 
