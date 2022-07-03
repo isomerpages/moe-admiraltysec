@@ -69,8 +69,7 @@ Teachers use iPAD to design science lessons for students by using open tools or 
 <img src="/images/diamonds%20in%20triplicate.jpg"
 		 style="width:40%">
 
-<p style="text-align: center;">&nbsp;<strong style="background-color: transparent; text-align: left;"><span style="text-decoration: underline;">Upper Secondary</span></strong></p> 
-
+<p style="text-align: center;"><strong style="background-color: transparent; text-align: left;"><span style="text-decoration: underline;">Upper Secondary</span></strong></p>
 **Stretching more able students through competitions**
 
 High performing students have opportunities to be stretched beyond their syllabus through participation in science competitions at national level eg National Science Challenge or the ACJC Science Quiz  Teachers use exploratory approach using laboratory materials to expand and deepen students’ grasp of new highly abstract science concepts. 
