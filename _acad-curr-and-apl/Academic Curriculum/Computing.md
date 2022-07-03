@@ -11,7 +11,12 @@ Introduction
 
 Organisation
 ------------
-
+|  |  |
+|---|---|
+| IP Head         : | Mr Phua Tian Peng (HOD/KM) |
+| Teachers       : | Mr Coleman Chong Lee Soong (ST) |
+|  | Mr Ho Wai Kin |
+|  | Mr Jeremy Lim Ching Sen |
 
 
 Programmes
