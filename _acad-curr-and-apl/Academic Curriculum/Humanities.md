@@ -54,7 +54,7 @@ Programmes
 ----------
 
 <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;text-align: center;"><span style="font-size: 12pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; text-decoration-line: underline; vertical-align: baseline; white-space: pre-wrap;">Lower Sec Geography, History and Social Studies (NT)</span></p>
-<br>
+
 <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;text-align: justify;"><span style="font-size: 12pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Integrated Humanities Group Investigation (IHGI)</span></p>
 
 The IHGI combines the processes for the Geographical and Historical Investigations (GI & HI) where our students investigate both the geographical and historical issues in one location. Students will analyse the GI and HI questions and plan their research, gather and select data, analyse data and construct their geographical and historical interpretations. The IHGI gives our students opportunities to appreciate the connection between Geography and History in the real – world application of geographical and historical knowledge and skills.  
