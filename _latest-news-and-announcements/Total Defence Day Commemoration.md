@@ -1,6 +1,6 @@
 ---
 title: Total Defence Day Commemoration
-permalink: /total-defence-day-commemoration/latest-news-and-announcements/permalink
+permalink: /total-defence-day-commemoration/latest-news-and-announcements/permalink/
 description: ""
 ---
 Total Defence Day Commemoration

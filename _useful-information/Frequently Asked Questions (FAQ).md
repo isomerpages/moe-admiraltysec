@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions (FAQ)
-permalink: /frequently-asked-questions/useful-information/permalink
+permalink: /frequently-asked-questions/useful-information/permalink/
 description: ""
 ---
 Frequently Asked Questions (FAQ)

@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /parents-gateway/useful-information/permalink
+permalink: /parents-gateway/useful-information/permalink/
 description: ""
 ---
 Parents Gateway

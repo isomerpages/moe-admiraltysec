@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /physical-education/Academic-Curriculum/permalink
+permalink: /physical-education/academic-curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---

@@ -1,6 +1,6 @@
 ---
 title: Outreach
-permalink: /outreach/Applied-Learning-Program/permalink
+permalink: /outreach/applied-learning-program/permalink/
 description: ""
 third_nav_title: Applied Learning Program
 ---

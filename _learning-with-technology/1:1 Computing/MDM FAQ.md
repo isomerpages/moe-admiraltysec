@@ -1,6 +1,6 @@
 ---
 title: MDM FAQ
-permalink: /MDM-FAQ/1-1-Computing/permalink
+permalink: /mdm-faq/1-1-computing/permalink/
 description: ""
 third_nav_title: 1:1 Computing
 ---

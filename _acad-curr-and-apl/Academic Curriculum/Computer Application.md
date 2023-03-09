@@ -1,6 +1,6 @@
 ---
 title: Computer Application
-permalink: /computer-application/Academic-Curriculum/permalink
+permalink: /computer-application/academic-curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---

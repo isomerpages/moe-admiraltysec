@@ -1,6 +1,6 @@
 ---
 title: COVID19 Vaccination Exercise for Students
-permalink: /covid-19-vaccination-exercise-for-students/useful-information/permalink
+permalink: /covid-19-vaccination-exercise-for-students/useful-information/permalink/
 description: ""
 ---
 COVID-19 Vaccination Exercise for Students

@@ -1,6 +1,6 @@
 ---
 title: 2022 Secondary 2 MPS
-permalink: /2022-secondary-2-MPS/useful-information/permalink
+permalink: /2022-secondary-2-mps/useful-information/permalink/
 description: ""
 ---
 2022 Secondary 2 MPS

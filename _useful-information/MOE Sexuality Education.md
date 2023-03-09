@@ -1,6 +1,6 @@
 ---
 title: MOE Sexuality Education
-permalink: /MOE-sexuality-education/useful-information/permalink
+permalink: /moe-sexuality-education/useful-information/permalink/
 description: ""
 ---
 MOE Sexuality Education

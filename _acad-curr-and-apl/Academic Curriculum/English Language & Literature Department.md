@@ -1,6 +1,6 @@
 ---
 title: English Language & Literature Department
-permalink: /english-language-and-literature-department/Academic-Curriculum/permalink
+permalink: /english-language-and-literature-department/academic-curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---

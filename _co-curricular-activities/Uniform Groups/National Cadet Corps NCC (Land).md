@@ -1,6 +1,6 @@
 ---
 title: National Cadet Corps NCC (Land)
-permalink: /National-Cadet-Corps-NCC-Land/co-curricular-activities/Uniform-Groups/permalink
+permalink: /national-cadet-corps-ncc-land/co-curricular-activities/uniform-groups/permalink/
 description: ""
 third_nav_title: Uniform Groups
 ---

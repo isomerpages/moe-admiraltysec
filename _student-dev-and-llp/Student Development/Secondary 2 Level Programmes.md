@@ -1,6 +1,6 @@
 ---
 title: Secondary 2 Level Programmes
-permalink: /secondary-2-level-programmes/Student-Development/permalink
+permalink: /secondary-2-level-programmes/student-development/permalink/
 description: ""
 third_nav_title: Student Development
 ---

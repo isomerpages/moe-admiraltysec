@@ -1,6 +1,6 @@
 ---
 title: Alumni
-permalink: /alumni/stakeholders-and-partners/permalink
+permalink: /alumni/stakeholders-and-partners/permalink/
 description: ""
 ---
 Alumni

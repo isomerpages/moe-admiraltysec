@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness
-permalink: /cyber-wellness/Character-and-Citizenship-Edu/permalink
+permalink: /cyber-wellness/character-and-citizenship-edu/permalink/
 description: ""
 third_nav_title: Character & Citizenship Edu
 ---

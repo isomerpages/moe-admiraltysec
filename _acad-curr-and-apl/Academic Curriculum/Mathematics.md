@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /mathematics/Academic-Curriculum/permalink
+permalink: /mathematics/academic-curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---

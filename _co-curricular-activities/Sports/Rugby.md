@@ -1,6 +1,6 @@
 ---
 title: Rugby
-permalink: /rugby/co-curricular-activities/Sports/permalink
+permalink: /rugby/co-curricular-activities/sports/permalink/
 description: ""
 third_nav_title: Sports
 ---

@@ -1,6 +1,6 @@
 ---
 title: Total Curriculum
-permalink: /totalcurriculum/permalink
+permalink: /totalcurriculum/permalink/
 description: ""
 ---
 Total Curriculum

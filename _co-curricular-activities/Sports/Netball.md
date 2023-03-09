@@ -1,6 +1,6 @@
 ---
 title: Netball
-permalink: /netball/co-curricular-activities/Sports/permalink
+permalink: /netball/co-curricular-activities/sports/permalink/
 description: ""
 third_nav_title: Sports
 ---

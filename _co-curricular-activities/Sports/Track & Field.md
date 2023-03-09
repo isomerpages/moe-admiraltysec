@@ -1,6 +1,6 @@
 ---
 title: Track & Field
-permalink: /track-and-field/co-curricular-activities/Sports/permalink
+permalink: /track-and-field/co-curricular-activities/sports/permalink/
 description: ""
 third_nav_title: Sports
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2022 Direct School Admissions (DSA)
-permalink: /2022-direct-school-admissions-DSA/latest-news-and-announcements/permalink
+permalink: /2022-direct-school-admissions-dsa/latest-news-and-announcements/permalink/
 description: ""
 ---
 2022 Direct School Admission (DSA)

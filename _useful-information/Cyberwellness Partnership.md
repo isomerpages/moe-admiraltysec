@@ -1,6 +1,6 @@
 ---
 title: Cyberwellness Partnership
-permalink: /cyberwellness-partnership/useful-information/permalink
+permalink: /cyberwellness-partnership/useful-information/permalink/
 description: ""
 ---
 Cyberwellness Partnership - Every Parent a Supportive Parent

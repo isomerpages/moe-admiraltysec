@@ -1,6 +1,6 @@
 ---
 title: Strategic Partners
-permalink: /strategic-partners/stakeholders-and-partners/permalink
+permalink: /strategic-partners/stakeholders-and-partners/permalink/
 description: ""
 ---
 Strategic Partners

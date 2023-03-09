@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Languages Department
-permalink: /mother-tongue-language-department/Academic-Curriculum/permalink
+permalink: /mother-tongue-language-department/academic-curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---

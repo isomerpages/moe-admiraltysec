@@ -1,6 +1,6 @@
 ---
 title: National Civil Defence Cadet Corps
-permalink: /National-Civil-Defence-Cadet-Corps/co-curricular-activities/Uniform-Groups/permalink
+permalink: /national-civil-defence-cadet-corps/co-curricular-activities/uniform-groups/permalink/
 description: ""
 third_nav_title: Uniform Groups
 ---

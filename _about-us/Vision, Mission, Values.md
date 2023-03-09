@@ -1,6 +1,6 @@
 ---
 title: Vision, Mission, Values
-permalink: /visionmissionvalues/permalink
+permalink: /visionmissionvalues/permalink/
 description: ""
 ---
 

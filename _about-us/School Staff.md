@@ -1,6 +1,6 @@
 ---
 title: School Staff
-permalink: /schoolstaff/permalink
+permalink: /schoolstaff/permalink/
 description: ""
 ---
 <b style="background-color: initial;"><u><font size="4">Sec 1 Form Teachers</font></u></b>

@@ -1,6 +1,6 @@
 ---
 title: Student Development
-permalink: /student-development/Student-Development/permalink
+permalink: /student-development/student-development/permalink/
 description: ""
 third_nav_title: Student Development
 ---

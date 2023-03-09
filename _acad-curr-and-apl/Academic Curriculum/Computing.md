@@ -1,6 +1,6 @@
 ---
 title: Computing
-permalink: /computing/Academic-Curriculum/permalink
+permalink: /computing/academic-curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---

@@ -1,6 +1,6 @@
 ---
 title: Robotics Club
-permalink: /robotics-club/co-curricular-activities/Club-and-Society/permalink
+permalink: /robotics-club/co-curricular-activities/club-and-society/permalink/
 description: ""
 third_nav_title: Club & Society
 ---

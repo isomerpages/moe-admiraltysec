@@ -1,6 +1,6 @@
 ---
 title: School Management Committee
-permalink: /schmanagementcomm/permalink
+permalink: /schmanagementcomm/permalink/
 description: ""
 ---
 

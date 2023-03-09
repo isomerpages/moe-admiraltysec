@@ -1,6 +1,6 @@
 ---
 title: Red Cross Youth
-permalink: /red-cross-youth/co-curricular-activities/Uniform-Groups/permalink
+permalink: /red-cross-youth/co-curricular-activities/uniform-groups/permalink/
 description: ""
 third_nav_title: Uniform Groups
 ---

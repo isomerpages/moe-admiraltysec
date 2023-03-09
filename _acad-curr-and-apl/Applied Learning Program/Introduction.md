@@ -1,6 +1,6 @@
 ---
 title: Introduction
-permalink: /introduction/Applied-Learning-Program/permalink
+permalink: /introduction/applied-learning-program/permalink/
 description: ""
 third_nav_title: Applied Learning Program
 ---

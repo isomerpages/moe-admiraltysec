@@ -1,6 +1,6 @@
 ---
 title: Full Subject Based Banding
-permalink: /full-subject-based-banding/useful-information/permalink
+permalink: /full-subject-based-banding/useful-information/permalink/
 description: ""
 ---
 Full Subject-Based Banding

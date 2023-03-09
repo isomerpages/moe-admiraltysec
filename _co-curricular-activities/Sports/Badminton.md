@@ -1,6 +1,6 @@
 ---
 title: Badminton
-permalink: /badminton/co-curricular-activities/Sports/permalink
+permalink: /badminton/co-curricular-activities/sports/permalink/
 description: ""
 third_nav_title: Sports
 ---

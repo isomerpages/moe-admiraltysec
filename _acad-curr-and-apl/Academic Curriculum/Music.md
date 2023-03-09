@@ -1,6 +1,6 @@
 ---
 title: Music
-permalink: /music/Academic-Curriculum/permalink
+permalink: /music/academic-curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---

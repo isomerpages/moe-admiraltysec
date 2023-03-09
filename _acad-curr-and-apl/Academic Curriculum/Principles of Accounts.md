@@ -1,6 +1,6 @@
 ---
 title: Principles of Accounts
-permalink: /principles-of-accounts/Academic-Curriculum/permalink
+permalink: /principles-of-accounts/academic-curriculum/permalink/
 description: ""
 third_nav_title: Academic Curriculum
 ---

@@ -1,6 +1,6 @@
 ---
 title: ADSS Safety & Security Policy
-permalink: /adsssafety/permalink
+permalink: /adsssafety/permalink/
 description: ""
 ---
 ADSS Safety & Security Policy

@@ -1,6 +1,6 @@
 ---
 title: Lighthouse Production
-permalink: /lighthouse-production/co-curricular-activities/Club-and-Society/permalink
+permalink: /lighthouse-production/co-curricular-activities/club-and-society/permalink/
 description: ""
 third_nav_title: Club & Society
 ---
