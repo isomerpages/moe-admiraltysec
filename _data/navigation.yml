@@ -18,28 +18,28 @@ links:
       - title: Contact Us
         url: /contact-us/permalink
   - title: Acad Curr & ALP
-    url: /computer-application/Academic-Curriculum/permalink
+    url: /computer-application/academic-curriculum/permalink
     sublinks:
       - title: Academic Curriculum
-        url: /computer-application/Academic-Curriculum/permalink
+        url: /computer-application/academic-curriculum/permalink
       - title: Applied Learning Program
-        url: /introduction/Applied-Learning-Program/permalink
+        url: /introduction/applied-learning-program/permalink
   - title: Student Dev & LLP
-    url: /character-and-citizenship-education/Character-and-Citizenship-Edu/permalink
+    url: /character-and-citizenship-education/character-and-citizenship-edu/permalink
     sublinks:
       - title: Character & Citizenship Edu
-        url: /character-and-citizenship-education/Character-and-Citizenship-Edu/permalink
+        url: /character-and-citizenship-education/character-and-citizenship-edu/permalink
       - title: Student Development
-        url: /student-development/Student-Development/permalink
+        url: /student-development/student-development/permalink
       - title: Learning for Life Program
         url: /learning-for-life-programme/permalink
       - title: Co-Curricular Activities (CCA)
-        url: /art-and-environment-club/co-curricular-activities/Club-and-Society/permalink
+        url: /art-and-environment-club/co-curricular-activities/club-and-society/permalink
   - title: Learning with Tech
     url: /learning-with-technology/permalink
     sublinks:
       - title: 1:1 Computing
-        url: /1-1-Computing/permalink
+        url: /1-1-computing/permalink
       - title: Newslink
         url: /permalink
   - title: Stakeholders & Partners
@@ -56,10 +56,10 @@ links:
       - title: Alumni
         url: /alumni/stakeholders-and-partners/permalink
   - title: Useful Info
-    url: /2022-direct-school-admission-DSA/useful-information/permalink
+    url: /2022-direct-school-admission-dsa/useful-information/permalink
     sublinks:
       - title: 2022 Direct School Admission
-        url: /2022-direct-school-admission-DSA/useful-information/permalink
+        url: /2022-direct-school-admission-dsa/useful-information/permalink
       - title: 2022 Sec 1 Welc & Regi Site
         url: /2022-sec-1-welcome-and-registration-site/useful-information/permalink
       - title: 2022 School Reopening
@@ -81,11 +81,11 @@ links:
       - title: "COVID-19 Vaccination Exercise "
         url: /covid-19-vaccination-exercise-for-students/useful-information/permalink
       - title: CCA Prospectus 2022
-        url: /CCA-prospectus-2022/useful-information/permalink
+        url: /cca-prospectus-2022/useful-information/permalink
       - title: "Cyberwellness Partnership "
         url: /cyberwellness-partnership/useful-information/permalink
       - title: MOE Sexuality Education
-        url: /MOE-sexuality-education/useful-information/permalink
+        url: /moe-sexuality-education/useful-information/permalink
       - title: LEAPS 2.0
         url: /leaps-2/useful-information/permalink
       - title: Student Learning Space (SLS)
@@ -93,10 +93,10 @@ links:
       - title: "Parents Gateway "
         url: /parents-gateway/useful-information/permalink
       - title: "Library OPAC "
-        url: /library-OPAC/useful-information/permalink
+        url: /library-opac/useful-information/permalink
       - title: FAQs
         url: /frequently-asked-questions/useful-information/permalink
       - title: "Parents Hanbooks "
         url: /parent-handbooks-on-learning-with-a-personal-learning-device/useful-information/permalink
       - title: 2022 Secondary 2 MPS
-        url: /2022-secondary-2-MPS/useful-information/permalink
+        url: /2022-secondary-2-mps/useful-information/permalink
