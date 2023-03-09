@@ -49,5 +49,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-admiraltysec-staging.netlify.app
-prod: https://moe-admiraltysec-prod.netlify.app
+staging: https://staging.dfzbiy8ys3hlr.amplifyapp.com/
+prod: https://master.dfzbiy8ys3hlr.amplifyapp.com/
