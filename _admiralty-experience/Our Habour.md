@@ -45,3 +45,20 @@ Phoenix 5 Anson
 ![](/images/habour2.png)
 <img src="/images/habour3.png" 
      style="width:50%">
+		 
+Organisation
+------------
+
+Harbour is part of the customized programme of the Anchor Programme. The staff involved are:
+
+  
+
+*   Mr Arun Vasudev Krishnan
+*   Mr Chung Wee Seng
+*   Mr Jeremy Lim
+*   Mrs Karen Yap
+*   Ms Lee Kai Ling
+*   Mr Melvin Tan
+*   Ms Sharifah Bte Muhammad Zulkifli
+*   Ms Sharifah Bte Nur Hidayah Omar
+*   Ms Tham Yi Hui
