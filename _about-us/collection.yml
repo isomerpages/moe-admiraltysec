@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - School Advisory Committee.md
       - Our History.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Our Staff.md
+      - School Advisory Committee.md
       - School Management Committee.md
       - Total Curriculum.md
       - ADSS Safety & Security Policy.md
