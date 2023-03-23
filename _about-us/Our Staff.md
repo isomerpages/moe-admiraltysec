@@ -3,22 +3,19 @@ title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
 ---
+#### Sec 1 Form Teachers
 
-
-<b style="background-color: initial;"><u><font size="4">Sec 1 Form Teachers</font></u></b>
-
-| Class | Form Teacher 1 | Form Teacher 2# | Form Teacher 3 |
+| Class | Form Teacher 1 | Form Teacher 2 | Form Teacher 3 |
 |:---:|:---:|:---:|:---:|
-| Orion 1 | Mr Coleman Chong Lee Soong<br>chong_lee_soong@moe.edu.sg | Ms Maizuriah Binte Mohd Yasin<br>maizuriah_mohd_yasin@moe.edu.sg |  |
-| Orion 2 | Mr Achmad Nasrun Bin Abdul Kalam<br>achmad_nasrun_abdul_ka@moe.edu.sg | Ms Lim Li Ting<br>lim_li_ting_a@moe.edu.sg |  |
-| Orion 3 | Ms Aiyshwariya Dinesh<br>dinesh_aiyshwariya@moe.edu.sg | Mdm Lim Chien Ru<br>lim_chien_ru@moe.edu.sg |  |
-|  Orion 4 | Ms Mok Kaie See<br>mok_kaie_see@moe.edu.sg  | Mr Jason Ang<br>ang_kian_kok_jason@moe.edu.sg |  |
-|  Orion 5 | Ms Janice Lim Hong Min<br>janice_lim_hong_min@moe.edu.sg | Mdm Joyce Seow<br>seow_sok_teng_joyce@moe.edu.sg |  |
-|  Orion 6 | Mdm Tham Yi Hui<br>tham_yi_hui@moe.edu.sg | Ms Nur Hidayah Liyana Binte Mohd N<br>nur_hidayah_liyana@moe.edu.sg |  |
-| Orion 7 |  Ms Nurain Mohammed Zulkepli<br>nurain_binte_mohammed_zulkepli@moe.edu.sg | Ms Dorothy Phua Hui Hong<br>phua_hui_hong_dorothy@moe.edu.sg |  |
-| Orion 8   |  Ms Nuriah Bte Mohd Noor <br>nuriah_mohd_noor@moe.edu.sg |   |   |
+| Orion 1 | Mr Kenneth Phua Khiang Song<br>[kenneth_phua_khiang_song@moe.edu.sg](mailto:kenneth_phua_khiang_song@moe.edu.sg) | Mdm Ngoi Sheau Neng<br>[ngoi_sheau_neng@moe.edu.sg](mailto:ngoi_sheau_neng@moe.edu.sg) |  |
+| Orion 2 |Mr Marcus Goh Wei Ming<br>[marcus_goh_wei_ming@moe.edu.sg](mailto:marcus_goh_wei_ming@moe.edu.sg) | Ms Najla Banu Bte Feroz Akbar Abdullah<br>[najla_banu@moe.edu.sg](mailto:najla_banu@moe.edu.sg) |  |
+| Orion 3 | 	Mr Tan Yuan Yan<br>[tan_yuanyan@moe.edu.sg](mailto:tan_yuanyan@moe.edu.sg) | Mr Choo Chee Chong Joshua<br>[joshua_choo@moe.edu.sg](mailto:joshua_choo@moe.edu.sg)|  |
+|  Orion 4 | Mdm Chow Shin Yun<br>[chow_shin_yun@moe.edu.sg](mailto:chow_shin_yun@moe.edu.sg) | Mdm Lim Ching Ching<br>[lim\_ching\_ching@moe.edu.sg](mailto:lim_ching_ching@moe.edu.sg) |  |
+|  Orion 5 | Mdm Yeo Suan Neo Doreen<br>[yeo\_suan\_neo\_doreen@moe.edu.sg](mailto:yeo_suan_neo_doreen@moe.edu.sg) | Ms Tan Ming Hui  <br>[Tan\_Ming\_Hui@moe.edu.sg](mailto:Tan_Ming_Hui@moe.edu.sg) |  |
+|  Orion 6 | Ms Zhuo Yanping<br>[zhuo\_yanping@moe.edu.sg](mailto:zhuo_yanping@moe.edu.sg) | Mdm Tamil Selvi d/o Ramanujam  <br>[tamil\_selvi\_ramanujam@moe.edu.sg](mailto:tamil_selvi_ramanujam@moe.edu.sg)|  |
+| Orion 7 | Ms Leong Mun Yi<br>[leong\_mun\_yi@moe.edu.sg](mailto:leong_mun_yi@moe.edu.sg) | Mr Lai Kuok Liang  <br>[lai\_kuok\_liang@moe.edu.sg](mailto:lai_kuok_liang@moe.edu.sg)
 
-<b style="background-color: initial;"><u><font size="4">Sec 2 Form Teachers</font></u></b>
+#### Sec 2 Form Teachers
 
 | Class | Form Teacher 1 | Form Teacher 2 | Form Teacher 3 |
 |:---:|:---:|:---:|:---:|
@@ -98,6 +95,3 @@ description: ""
 | Ms Lee Geok Siam Irene  | Front Desk Officer  |  |
 | Mr Lim Meng Kheng  | Teacher Aide Discipline  |  |
 | Mdm Fatimah Zahid | Food Lab Assistant |  |
-
-
-
