@@ -30,6 +30,17 @@ Programmes and Outcomes
      style="width:35%;float:right">
 		 
 The objectives of the programme are:
-To expose student to authentic working environment
-To clarify students’ career goals
-To expose students to areas that they have learnt in Principles of Accounts are applied in the workplace.
+* To expose student to authentic working environment
+* To clarify students’ career goals
+* To expose students to areas that they have learnt in Principles of Accounts are applied in the workplace.
+
+**2021 Financial Literacy for Youths (FLY) Competition**
+
+<img src="/images/poa3.png" 
+     style="width:35%;float:right">
+The objectives of the competition:
+Promote financial literacy among youths
+Cultivate entrepreneurial spirit in managing finances
+
+There were two rounds of online challenges for this competition. All participating teams took part in Round 1. Only selected teams will go through Round 2, which students prepared a video presentation to share their ideas via Zoom on the financial cost of sustainable living for Hawker Culture.
+
