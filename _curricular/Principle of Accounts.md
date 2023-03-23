@@ -44,3 +44,17 @@ Cultivate entrepreneurial spirit in managing finances
 
 There were two rounds of online challenges for this competition. All participating teams took part in Round 1. Only selected teams will go through Round 2, which students prepared a video presentation to share their ideas via Zoom on the financial cost of sustainable living for Hawker Culture.
 
+**2022 POA Quest organized by Deyi Secondary School**
+
+<img src="/images/poa4.png" 
+     style="width:35%;float:right">
+
+The objectives of the competition are:
+
+*   instill a sense of excitement and motivate students in learning POA through gamification.
+*   foster the spirit of collaboration and knowledge sharing amongst their peers.
+
+  
+
+The Quest was conducted online via Zoom.  
+Students joined the breakout rooms and were given instructions by their individual Game Masters.
