@@ -19,8 +19,8 @@ description: ""
 
 | Class | Form Teacher 1 | Form Teacher 2 | Form Teacher 3 |
 |:---:|:---:|:---:|:---:|
-| Phoenix 1 | Mr Jeremy Lim Ching Sen<br>jeremy_lim_ching_sen@moe.edu.sg | Ms Najla Banu Bte Feroz Akbar Abdullah<br>najla_banu@moe.edu.sg |  |
-| Phoenix 2 | Mdm Nur Amalina Binte Mohamed Salleh<br>nur_amalina_mohamed_salleh@moe.edu.sg | Ms Kong Tze Xin <br>kong_tze_xin@moe.edu.sg |  |
+| Phoenix 1 | Mr Coleman Chong Lee Soong<br>[chong\_lee\_soong@moe.edu.sg](mailto:chong_lee_soong@moe.edu.sg) | Ms Maizuriah Binte Mohd Yasin<br>[maizuriah\_mohd\_yasin@moe.edu.sg](mailto:maizuriah_mohd_yasin@moe.edu.sg) |  |
+| Phoenix 2 | Mr Achmad Nasrun Bin Abdul Kalam<br>[achmad\_nasrun\_abdul\_ka@moe.edu.sg](mailto:achmad_nasrun_abdul_ka@moe.edu.sg) | Ms Lim Li Ting<br>[lim\_li\_ting\_a@moe.edu.sg](mailto:lim_li_ting_a@moe.edu.sg) |  |
 |  Phoenix 3 | Mdm Yeo Suan Neo Doreen<br>yeo_suan_neo_doreen@moe.edu.sg | Mr Choo Chee Chong Joshua<br>joshua_choo@moe.edu.sg  |  |
 | Phoenix 4 |  Ms Zhuo Yanping<br>zhuo_yanping@moe.edu.sg  | Mdm Noor Shida Bte Hassan<br>noor_shida_hassan@moe.edu.sg |  |
 |  Phoenix 5 | Mdm Ngoi Sheau Neng<br>ngoi_sheau_neng@moe.edu.sg | Mr Lai Kuok Liang<br>lai_kuok_liang@moe.edu.sg |  |
