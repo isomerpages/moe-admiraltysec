@@ -93,6 +93,7 @@ description: ""
 |  Mr Dennis Goh Jiong Yu |  AED (Counselling) | dennis_goh_jiong_yu@moe.edu.sg  |
 |  Ms Nadiah Binte Abdul Khalid | AED (LBS) | nadiah_abdul_khalid@moe.edu.sg |
 | Mr Chan Ding Jie Tom  | Desktop Engineer   |  |
+|Mr Muhammad Farouqi Bin Ismadi|Desktop Engineer| |
 |  Ms Hemalatha d/o Maniam |  Librarian |   |
 | Ms Lee Geok Siam Irene  | Front Desk Officer  |  |
 | Mr Lim Meng Kheng  | Teacher Aide Discipline  |  |
