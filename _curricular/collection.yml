@@ -1,16 +1,4 @@
 collections:
   curricular:
     output: true
-    order:
-      - Academic Curriculum/.keep
-      - Academic Curriculum/Computer Application.md
-      - Academic Curriculum/Computing.md
-      - Academic Curriculum/Craft & Technology Department.md
-      - Academic Curriculum/English Language & Literature Department.md
-      - Academic Curriculum/Humanities.md
-      - Academic Curriculum/Mathematics.md
-      - Academic Curriculum/Mother Tongue Languages Department.md
-      - Academic Curriculum/Music.md
-      - Academic Curriculum/Physical Education.md
-      - Academic Curriculum/Principles of Accounts.md
-      - Academic Curriculum/Science.md
+    order: []
