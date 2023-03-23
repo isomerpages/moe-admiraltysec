@@ -69,23 +69,23 @@ description: ""
 
 | EAS Staff | Designation | Email Address |
 |:---:|:---:|:---:|
-| Mr Tay Chek Foo | Administration Manager | tay_chek_foo@moe.edu.sg |
-| Mr Low Cho Tee George | Operations Manager | low_cho_tee@moe.edu.sg |
-|  Mdm Tan Huiping Apple | Operations Manager  | tan_huiping@moe.edu.sg  |
-|  Ms Nur Atiqah Binte Mohd Yusoff | ICT Associate  | nur_atiqah_mohd_yusoff@moe.edu.sg |
-|  Mdm Hong Peiru Vivian | Adjunct AE   | hong_pei_ru_vivian@moe.edu.sg |
-|  Mdm Chng Bee Kim | CSO  | chng_bee_kim@moe.edu.sg |
-|  Mdm Low Siew Yok Jasmine | CSO  | low_siew_yok@moe.edu.sg |
-|  Mdm Oked Binte Daud | CSO  | oked_daud@moe.edu.sg |
-|  Mr Kasdi Bin Kasri | TSO (EW1) | kasdi_kasri@moe.edu.sg |
-| Mdm Aslinah Bte Zainal  |  TSO (SLT) |  aslinah_zainal@moe.edu.sg |
-|  Mdm Norlinda Binte Dasuni | TSO (SLT) | norlinda_dasuni@moe.edu.sg |
-|  Mdm Asnah Binte Darkon | OSO  | asnah_darkon@moe.edu.sg |
-|  Mr Chan Siah Thong | OSO  | chan_siah_thong@moe.edu.sg |
-| Mdm Kanthimathy d/o Palayah  | OSO  | kanthimathy_palayah@moe.edu.sg |
-|  Mdm Lee Ah Keow Annie | OSO  | lee_ah_keow@moe.edu.sg |
-| Mdm Lin Zhenzhen  | OSO  | lin_zhenzhen@moe.edu.sg |
-|  Mdm Malarvely d/o Narayanan | OSO  | malarvely_narayanan@moe.edu.sg |
+| Mr Tay Chek Foo | Administration Manager | [tay\_chek\_foo@moe.edu.sg](mailto:tay_chek_foo@moe.edu.sg) |
+| Mdm Tan Huiping Apple | Operations Manager | [tan\_huiping@moe.edu.sg](mailto:tan_huiping@moe.edu.sg) |
+|  Ms Nur Atiqah Binte Mohd Yusoff | ICT Associate  | [nur\_atiqah\_mohd\_yusoff@moe.edu.sg](mailto:nur_atiqah_mohd_yusoff@moe.edu.sg) |
+|  Mdm Hong Peiru Vivian |Administrative Executive  | [hong\_pei\_ru\_vivian@moe.edu.sg](mailto:hong_pei_ru_vivian@moe.edu.sg) |
+|  Mdm Chng Bee Kim | CSO  | [chng\_bee\_kim@moe.edu.sg](mailto:chng_bee_kim@moe.edu.sg) |
+|  Mdm Low Siew Yok Jasmine | CSO  | [low\_siew\_yok@moe.edu.sg](mailto:low_siew_yok@moe.edu.sg) |
+|  Mdm Oked Binte Daud | CSO  | [oked\_daud@moe.edu.sg](mailto:oked_daud@moe.edu.sg) |
+|  Mr Kasdi Bin Kasri | TSO (EWI) | [kasdi\_kasri@moe.edu.sg](mailto:kasdi_kasri@moe.edu.sg) |
+|Mr Mohamed Sahrom Bin Suab| TSO (EWI)  |[mohamed\_sahrom@moe.edu.sg](mailto:mohamed_sahrom@moe.edu.sg)|
+| Mdm Aslinah Bte Zainal  |  TSO (SLT) | [aslinah\_zainal@moe.edu.sg](mailto:aslinah_zainal@moe.edu.sg) |
+|  Mdm Norlinda Binte Dasuni | TSO (SLT) | [norlinda\_dasuni@moe.edu.sg](mailto:norlinda_dasuni@moe.edu.sg) |
+|  Mdm Asnah Binte Darkon | OSO  | [asnah\_darkon@moe.edu.sg](mailto:asnah_darkon@moe.edu.sg) |
+|  Mr Chan Siah Thong | OSO  | [chan\_siah\_thong@moe.edu.sg](mailto:chan_siah_thong@moe.edu.sg) |
+| Mdm Kanthimathy d/o Palayah  | OSO  | [kanthimathy\_palayah@moe.edu.sg](mailto:kanthimathy_palayah@moe.edu.sg) |
+|  Mdm Lee Ah Keow Annie | OSO  | [lee\_ah\_keow@moe.edu.sg](mailto:lee_ah_keow@moe.edu.sg)|
+| Mdm Lin Zhenzhen  | OSO  |[lin\_zhenzhen@moe.edu.sg](mailto:lin_zhenzhen@moe.edu.sg) |
+|  Mdm Malarvely d/o Narayanan | OSO  | [malarvely\_narayanan@moe.edu.sg](mailto:malarvely_narayanan@moe.edu.sg) |
 
 | Other School Staff | Designation | Email Address |
 |:---:|:---:|:---:|
