@@ -54,3 +54,52 @@ Our MTL Fortnight exposes students to various contexts to expand their understan
 *   Chinese fold-fan painting (折扇), Seal carving (刻章), Chinese calligraphy (书法)
 *   Bunga Manggar making, Jawi calligraphy, Wayang Kulit making
 
+![](/images/mothertongue.png)
+
+**Learning Journeys**
+
+  
+
+Our MT learning journeys include visits to local cultural sites, participation in cultural activities, watching of theatre plays, etc. These journeys offer students out-of-school contexts to understand and appreciate the relevance of their mother tongue and culture in life. Some learning journeys that we have conducted are:
+
+*   Cultural Heritage Walk (走出校园—走进文化)
+*   World Book Day (世界书香日)
+*   Theatre drama performance, e.g. 《老九》、《摇滚聊斋》、《天门决》、《包小龙抓贼记》
+
+![](/images/mothertongue2.png)
+
+**National Events and Competitions**
+
+  
+
+Our students participate actively in selected national CL/ML events and competitions. Most students shared their elation and excitement over joining national CL/ML events for the first time. We are certainly delighted to offer our students such opportunities and exposure for them to see their own potential and to get to know the national CL/ML scene. Annual national activities that our students have participated in include:
+
+*   National Chinese Challenge (华文大比拼)
+*   National Chinese Creative Writing Competition (全国中学生华文创作比赛—新蕾奖)
+*   National Secondary Schools Translation Competition (全国中学生翻译比赛)
+*   National Text Recital Competition (中小学课文朗诵比赛) (From 2022)
+*   National Chinese Riddle Competition (全国中学生灯谜比赛) (From 2022)
+
+*   Dari Pena Ke Panggung (2019)
+*   Dari Pena Ke Panggung (Teater Maya) (2021)
+*   \-    Pemenang Skrip Terbaik (Karya : Ke Makam Bonda)
+*   2021 National Poetry Competition
+*   \-    1st Place (Dg Annisa Zunah Binte Md Alias, Lyra 6, 2021)
+*   \-    2nd Place (Nabil Afiq Bin Jumali, Lyra 6, 2021)
+
+![](/images/mothertongue3.png)
+![](/images/mothertongue4.png)
+![](/images/mothertongue5.png)
+
+**Overseas Immersion Trip**
+
+  
+
+Through week-long cultural immersion as well as daily debrief and reflection as in China, our students gain exposure and understanding of the education system, social culture and development in Singapore/China. They also develop their 21st Century Competencies in global awareness, and cross-cultural skills and sensitivities. Along the way, they will develop personal qualities such as resilience, responsibility and teamwork.
+
+![](/images/mothertongue6.png)
+
+Organisation
+------------
+
+![](/images/mothertongue7.png)
