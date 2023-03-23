@@ -51,3 +51,41 @@ To provide students with more opportunities to showcase their work and learn fro
 **Tier 2 Programme – Applied Lifelong Learning Program (ALLP)**
 
 The Tier 2 curriculum caters to all interested and abled Admirals to provide them with opportunities to apply their learning in ALP meaningfully. To do so, the school ride on the Innovation Programme (IvP) to develop and challenge our students meaningfully. The IvP is an enrichment programme jointly organized by the Gifted Education Branch (GEB) and Ministry of Education (MOE) in close partnership with institutes of higher learning. This programme aims to develop students’ creative problem-solving and thinking skills where they think critically about existing problems, generate ideas to improve current situations and develop prototypes to test and improve their ideas.
+
+![](/images/alp6.png)
+
+**Tier-2 Programme – Tinkering Thursday (TT)**
+
+Every year, several interest-based workshops would also be organised, to help engage students who are interested to be more active in making with technology and allow them to participate in maker-related network community to understand the current trend in the field.
+
+![](/images/alp7.png)
+![](/images/alp8.png)
+
+**Tier-2 Programme – Competitions**
+
+Besides the enrichment provisions, the school also sends our ALP students to participate in STEM related competitions, such as the Design Thinking with Robotics and Computational Thinking (Dr. CT) International Competition, Bebras International Challenge on Informatics and Computational Thinking, as well as the Intel AI Global Impact Festival. Our school has performed consistently well in such competitions and some of our students were extend invitations to join higher tier competitions such as the National Software Competition.
+
+![](/images/alp9.png)
+
+Organisation
+------------
+
+**Key Personnel**
+
+*   Mr Tan Han Yu Melvin (HOD/Science)
+*   Mdm Woo Lai Yee Samantha (SH/D&T)
+*   Mr Ch’ng Hong Tatt (ST)
+*   Mr Coleman Chong Lee Soong (ST)
+
+  
+
+**Members**
+
+*   Mr Kenneth Phua Khiang Song
+*   Mdm Jessie Gee Wai Hoo
+*   Ms Tiong Rui Shan
+*   Ms Elena Thein
+*   Ms Andrea Wong
+*   Mdm Mas Ayu
+*   Ms Nur Syazana Binte Rashid
+*   Ms Janice Lim Hong Min
