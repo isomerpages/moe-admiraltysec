@@ -58,3 +58,8 @@ The objectives of the competition are:
 
 The Quest was conducted online via Zoom.  
 Students joined the breakout rooms and were given instructions by their individual Game Masters.
+
+Organisation
+------------
+
+![](/images/poa5.png)
