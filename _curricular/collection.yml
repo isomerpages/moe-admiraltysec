@@ -2,4 +2,5 @@ collections:
   curricular:
     output: true
     order:
+      - Principle of Accounts.md
       - Science.md
