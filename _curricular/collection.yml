@@ -1,5 +1,5 @@
 collections:
-  acad-curr-and-apl:
+  curricular:
     output: true
     order:
       - Academic Curriculum/.keep
