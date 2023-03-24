@@ -4,7 +4,6 @@ permalink: /badminton/co-curricular-activities/sports/permalink/
 description: ""
 third_nav_title: Physical Sports
 ---
-
 Introduction
 ------------
 
@@ -63,14 +62,7 @@ Key Activities (Annual)
 Organisation
 ------------
 
-|  |  |
-|---|---|
-| CCA Teachers-in-charge | Mr Chong Lee Soong (TIC) |
-|   | Mr Ong Minyi Jamie (TIC) |
-|   | Mr Chua Khoon Siong Ray |
-|   | Mdm Ong Lay Khim |
-| CCA Student Leaders | B Division (Boys)<br><br>Captain: Koh Shaoyang Hovan (Lyra 6)<br>Vice-Captain: Lu Ting Wei (Lyra 5)<br><br>B Division (Girls)<br><br>Captain: Law Yan Ting (Lyra 2)<br>Vice-Captain: Lim Ru Bing, Amber (Lyra 6)  |
-
+![](/images/badminton.png)
 Photos of Students in Key Activities
 ------------------------------------
 <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.2; text-align: center;"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; text-decoration-line: underline; vertical-align: baseline; white-space: pre-wrap;">CCA Open House</span></p>
