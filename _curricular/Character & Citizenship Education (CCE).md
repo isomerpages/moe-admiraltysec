@@ -46,3 +46,8 @@ The citizenship education learning experiences are anchored on the Citizenship D
 ![](/images/cce2.png)
 ![](/images/cce3.png)
 ![](/images/cce4.png)
+
+Organisation
+------------
+
+![](/images/cce5.png)
