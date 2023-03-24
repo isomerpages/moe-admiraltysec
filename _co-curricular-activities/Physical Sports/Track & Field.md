@@ -4,76 +4,80 @@ permalink: /track-and-field/co-curricular-activities/sports/permalink/
 description: ""
 third_nav_title: Physical Sports
 ---
-
 Introduction
 ------------
 
-**Tagline:  Train Hard, Race Easy.**
+**Who we are:**
 
-Admiralty Secondary School’s athletic club comprises students with immense passion in track and field. Athletes have high expectations of themselves at all times. Our athletes are self-directed learners who take charge of their own training and challenge themselves. We train with perseverance and dedication so that we are better than the best we can ever be.
+The Admiralty Secondary School Track and Field Team comprises of dedicated Athletes who see the value of Sports and the discipline it instills in all of us. We offer short, mid and long distance events to our Athletes, catering to their diverse talents and strengths.
 
-Our CCA aims to:
-
-* Improve our athletes’ fitness, stamina, speed and agility so that they will be proficient to represent our school in athletics events;
-
-* Develop our athletes’ character, values and leadership, as they learn to support and encourage one another; and 
-
-* Encourage athletes to serve and contribute to the school and community through sports.
-
-Key Activities (Annual)
------------------------
-
-**Competitions for Exposure and Experience**  
   
 
-* National Inter-school Track and Field Championship
+**What we strive for:**
 
-* National Inter-school Cross Country Championship
+We strive to build a united team that displays strong sportsmanship and is humble in their sporting journey. We do this by exposing our Athletes to multiple competitions, timed trials and opportunities to organize their off-season training sessions to hone their leadership skills.
 
-* Wings Cross Country 
+  
 
-* Evergreen Secondary Invitational Road Run 
+**What we believe in:**
 
-* SPH Relay
+We believe in the notion of “Train Hard, Race Easy”. Our Athletes give their best during training sessions and competitions.
 
-Values-In-Action (VIA) at Woodlands Care Home (WCH)
+![](/images/track.png)
+
+Programmes and Outcomes
+-----------------------
+
+Differentiated Training
+
+We understand that every Athlete is unique. Our differentiated training programme ensures that we cater to the diverse group of Athletes and help them reach their potential. The techniques required for short, mid and long distance vary and the differentiated training ensures that our Athletes master these techniques.
+
+![](/images/track2.png)
+
+Competitions
+
+We participate in multiple competitions through the year, such as:
+
+*   National Track and Field Championships
+*   National Cross-Country Championships
+*   Singapore Press Holdings (SPH) Relay
+*   Series 1, 2 and 3 held by Singapore Athletics
+*   Evergreen Secondary Invitational Road Run
+
+![](/images/track3.png)
+
+Off-season
+
+During the off-season, we give our Athletes the autonomy to plan and run some of their training and team bonding sessions. This allows our senior Athletes to hone their leadership skills as well as planning skills. Our Athletes also put their values in action by giving back to society. In 2021, we collaborated with Food Bank Singapore in a food donation drive. We believe these opportunities help us develop holistic Athletes.
+
+![](/images/track4.png)
+
+**Quotes from students**
+
+  
+
+1.  “Throughout my entire experience in the Admiralty Track team, one thing I really enjoy is making new friends and training with them. I prefer training with the team as I get to talk and have fun with them. I have learnt to be more disciplined. Whenever the coach gives us a workout to do, we do it diligently. Another thing I have learnt is to be more proactive in leading my teammates.” - Davina Adrian Pereira
+
+2.  “What I enjoy about CCA is that we are all very bonded. Through the CCA’s training, I have developed resilience and self-discipline. I would promote Track and Field as a CCA as it has a lot of friendly people and the CCA offers you to be independent through the training.” – Sam Zu Yi
+
+3.  “I have learnt how to be more self-disciplined over the years in Track and Field as I do my own training. I have also learnt the proper stretches, workouts and strategies for running. Track and Field offers you the opportunity to showcase your hard work through the competitions which push you to perform at your very best.” - Yong Jun Ping Markcus
 
 Organisation
 ------------
 
-|  |  |
-|---|---|
-| CCA Teachers-in-charge | Mr Chan Huazhi (TIC) |
-|  | Ms Koh Kia Li Charmaine (TIC) |
-|  | Mdm Mas Ayu Binte Abdul Malek |
-|  | Mr Kenneth khing Zhen Ze |
-|   | Mdm Noor Shidah Hassan |
-| CCA Student Leaders | B Division Boys<br>Captain: Hoo Yi Xuan (Lyra 6)<br>Vice-Captain: Chan Zhi Xiang	 (Lyra 6) |
-|   | B Division Girls<br>Captain: Nadia Natasha Binte Zulkifli (Lyra 4)<br>Vice-Captain: Auni Yusra Binte Mohamed Omar (Lyra 6) |
+Teachers: Mr Chan Huazhi, Mdm Shidah, Ms Ayu, Mr Kenneth Khing, Mr Joshua Choo
 
-Photos of Students in Key Activities
-------------------------------------
-<img src="/images/t1.jpeg"
-		 style="width:75%">
+  
 
-<p style="text-align: center;">A photo together before stepping down – the Secondary 4 athletes have trained hard together for the past 4 years, motivating each other to do their best. Thank you Secondary 4 athletes for your contributions to the team!</p>
+B Division Captains
 
-<img src="/images/t2.jpeg"
-		 style="width:75%">
+1.  Yong Jun Ping Markcus
+2.  Davina Adrian Pereira
 
-<p style="text-align: center;">Smiles around for the athletes after completing the Admirals’ Run 2019. Our athletes did the team proud and ran their best during the 2.4 km run.</p>
+  
 
-<img src="/images/t3.jpeg"
-		 style="width:75%">
+B Division Vice Captains
 
-<p style="text-align: center;">The athletes did the school and themselves proud at the National Cross Country Championships 2019. The athletes trained hard for months in preparation for the race, and recorded timings that they are proud of.</p>
+1.  Arman Danial Bin Ainol Halal
+2.  Sam Zu Yi
 
-<img src="/images/t4.jpeg"
-		 style="width:75%">
-
-<p style="text-align: center;">Secondary 2 athletes after completing the National Cross Country Championships 2019. The boys did their best for the run, achieving personal best timings.</p>
-
-<img src="/images/t5.jpeg"
-		 style="width:75%">
-
-<p style="text-align: center;">Admiralty Secondary athletes with Evergreen Secondary athletes after the Evergreen Secondary Invitational Road Run. This year’s race was held at the Marina Bay Area with athletes starting the race at the Singapore Flyer, running through Gardens By The Bay.</p>
