@@ -38,4 +38,4 @@ Photos of Students in Key Activities
 ![](/images/rugby2.png)
 ![](/images/rugby3.png)
 <img src="/images/rugby4.png" 
-     style="width:50%">
+     style="width:70%">
