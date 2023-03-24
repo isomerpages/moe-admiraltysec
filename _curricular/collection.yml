@@ -2,6 +2,7 @@ collections:
   curricular:
     output: true
     order:
+      - Arts.md
       - Character & Citizenship Education (CCE).md
       - Computing & Computer Applications.md
       - Craft & Technology.md
