@@ -62,3 +62,8 @@ An annual programme that aims to explore interpersonal issues and public speakin
 
 <img src="/images/Speech%20and%20Debate%20Enrichment%20Workshops.png" 
      style="width:70%">
+		 
+Organisation
+------------
+
+![](/images/english3.png)
