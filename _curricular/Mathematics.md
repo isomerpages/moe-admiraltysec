@@ -36,3 +36,8 @@ Students learn Mathematics through ICT platforms like SLS, Desmo and Geogebra to
 Concept Cartoon and Authentic Performance Tasks are used to deepen Mathematics concepts lea
 
 ![](/images/math2b.png)
+
+Organisation
+------------
+
+![](/images/math2c.png)
