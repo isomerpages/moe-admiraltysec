@@ -4,8 +4,6 @@ permalink: /art-and-environment-club/co-curricular-activities/club-and-society/p
 description: ""
 third_nav_title: Clubs & Society
 ---
-
-
 Introduction
 ------------
 
@@ -54,16 +52,7 @@ Key Activities (Annual)
 Organisation
 ------------
 
-|  |  |
-|---|---|
-| CCA Teachers-in-charge | Mdm Tamil Selvi d/o Ramanujam (TIC) |
-|   | Ms Tay Yi Rong (TIC) |
-|   | Mdm Ngoi Sheau Neng |
-|   | Mdm Chow Shin Yun |
-|   | Mdm Noor Hasnah Binte Adam |
-| CCA Student Leaders |  |
-|  President |  Nur Fatimah Binte Khur Sheed Ahmad Shah (Lyra 5) |
-| Vice-President  | Hana Binte Noorazmi	(Lyra 7) |
+![](/images/environment.png)
 
 Photos of Students in Key Activities
 ------------------------------------
