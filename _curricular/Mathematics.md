@@ -30,3 +30,9 @@ Programmes and Outcomes
 Students learn Mathematics through ICT platforms like SLS, Desmo and Geogebra to have a deeper understanding on the Mathematics concepts. There is also E-book available such that students do not need to bring their heavy textbooks to school. They can access the E-book via their Chromebook or Ipad.
 
 ![](/images/math.png)
+
+**Concept Cartoon and Authentic Performance Task**
+
+Concept Cartoon and Authentic Performance Tasks are used to deepen Mathematics concepts lea
+
+![](/images/math2b.png)
