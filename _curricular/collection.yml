@@ -2,6 +2,7 @@ collections:
   curricular:
     output: true
     order:
+      - English & Literature.md
       - Humanities.md
       - Mathematics.md
       - Mother Tongue.md
