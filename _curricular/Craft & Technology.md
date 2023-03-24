@@ -45,3 +45,18 @@ Programmes and Outcomes
   
 
 Students experience design through sketching lessons and complete projects based on the ideas they have sketched. Students are encouraged to be creative in their design when they make the projects during the practical sessions. They make cardboard models before completing their designs in wood, metal and plastics.
+
+![](/images/cnt.png)
+
+**Food and Consumer Education**
+
+![](/images/cnt2.png)
+
+**Achievements**
+
+![](/images/cnt3.png)
+
+Organisation
+------------
+
+![](/images/cnt4.png)
