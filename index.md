@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Admiralty Secondary School
+description: Admiralty Secondary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -25,3 +25,4 @@ sections:
       button: Find out more
       url: /20th-anniversary-speech-day/latest-news-and-announcements/permalink
 ---
+
