@@ -10,12 +10,12 @@ sections:
       background: /images/homepage3.png
       url: /contact-us/
       key_highlights:
-        - title: Latest News & Annoucements
+        - title: Students
           description: ""
-          url: /20th-anniversary-speech-day/latest-news-and-announcements/permalink
-        - title: ADSS Good Stories
+          url: ""
+        - title: Parents
           description: ""
-          url: /adss-good-stories/permalink/
+          url: ""
   - infobar:
       title: 20th Anniversary Speech Day
       subtitle: Latest News and Announcements
@@ -25,4 +25,3 @@ sections:
       button: Find out more
       url: /20th-anniversary-speech-day/latest-news-and-announcements/permalink
 ---
-
