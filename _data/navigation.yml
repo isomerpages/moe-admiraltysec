@@ -1,23 +1,10 @@
 logo: /images/admiralty logo.png
 links:
-  - title: About us
-    url: /principalmessage/permalink
-    sublinks:
-      - title: Principal's Message
-        url: /principalmessage/permalink
-      - title: Vision, Mission, Values
-        url: /visionmissionvalues/permalink
-      - title: School Management Committee
-        url: /schmanagementcomm/permalink
-      - title: School Staff
-        url: /our-staff/permalink
-      - title: Contact Us
-        url: /contact-us/permalink
+  - title: About US
+    collection: about-us
   - title: Admiralty Experience
     collection: admiralty-experience
   - title: Curricular
     collection: curricular
   - title: Co-Curriculur
     collection: co-curricular-activities
-  - title: About US
-    collection: about-us
