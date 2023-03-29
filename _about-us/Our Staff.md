@@ -45,8 +45,8 @@ description: ""
 
 #### Sec 4/5 Form Teachers
 
-| Class | Form Teacher 1  | Form Teacher 2 | Form Teacher 3 |
-|:---:|:---:|:---:|:---:|
+| Class | Form Teacher 1  | Form Teacher 2 |
+|:---:|:---:|:---:|
 | Lyra 1 | Mr Abdul Salem Bin Samat  <br>[abdul\_salem\_samat@moe.edu.sg](mailto:abdul_salem_samat@moe.edu.sg)| Mdm Vanitha Govallau  <br>[vanitha\_govallau@moe.edu.sg](mailto:vanitha_govallau@moe.edu.sg) |  |
 | Lyra 2 |Mdm Gee Wai Hoo Jessie  <br>[gee\_wai\_hoo@moe.edu.sg](mailto:gee_wai_hoo@moe.edu.sg)| Mdm Lisda Bte Mohd Amin  <br>[lisda\_mohd\_amin@moe.edu.sg](mailto:lisda_mohd_amin@moe.edu.sg) |  |
 | Lyra 3 | Ms Nge Hui Peng  <br>[nge\_hui\_peng@moe.edu.sg](mailto:nge_hui_peng@moe.edu.sg)| Ms Soo Zhi Yi  <br>[soo\_zhi\_yi@moe.edu.sg](mailto:soo_zhi_yi@moe.edu.sg) |   |
