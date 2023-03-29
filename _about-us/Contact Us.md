@@ -6,7 +6,7 @@ description: ""
 Contact Us
 ==========
 
-### &nbsp;Shoud you have any enquiries, please contact us here.
+### &nbsp;Should you have any enquiries, please contact us here.
 
 <div class="ive_editable ive_ptod ive_content" id="_ptod_27711"><p></p>
 <p><iframe allowfullscreen="" style="border:0" frameborder="0" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15954.189206648742!2d103.8026082!3d1.4462673!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdd1a9e0c7b8a0f80!2sAdmiralty+Secondary+School!5e0!3m2!1sen!2ssg!4v1534744452141"></iframe></p>
