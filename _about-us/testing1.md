@@ -6,12 +6,12 @@ description: ""
 <head>
 <style>
 table, td, th {
-  border: 1px solid black;
+  border: 10px solid green;
 }
 
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 50%;
 }
 
 td {
