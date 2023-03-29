@@ -33,7 +33,8 @@ td {
     <th>Savings</th>
   </tr>
   <tr>
-    <td>Peter</td>
+    <td colspan="2"><img style="width: 188px; height: 249px;" alt="Mr Lam Yui-Png.jpg" src="/images/_P_Mr%20Lam%20Yui-P'ng.jpg">
+</td>
     <td>Griffin</td>
     <td>$100</td>
   </tr>
