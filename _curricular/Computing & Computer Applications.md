@@ -39,4 +39,5 @@ Organisation
 
 *   Mr Chong Teck Seng (HOD Student Management)
 *   Mr Chong Lee Soong (Senior Teacher)
+*   Mdm Lim Sok Hian (FAJT)
 *   Ms Nur Hidayah Liyana Binte Mohd Nasir
