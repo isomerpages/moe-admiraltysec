@@ -3,8 +3,6 @@ title: testing1
 permalink: /testing1/permalink/
 description: ""
 ---
-
-
 ![](/images/_P_Mr%20Lam%20Yui-P'ng.jpg)
 | |  |  |
 | :-: | :-: | :-: |
