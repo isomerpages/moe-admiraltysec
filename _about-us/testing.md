@@ -19,6 +19,6 @@ description: ""
 </tbody>
 </table><br>
 
-| ![](/images/_P_Mr%20Lam%20Yui-P'ng.jpg) |![](/images/_P_Mr%20Lam%20Yui-P'ng.jpg)  |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+ ![](/images/_P_Mr%20Lam%20Yui-P'ng.jpg)
+ 
+ 
