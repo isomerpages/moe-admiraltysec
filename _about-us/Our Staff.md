@@ -5,9 +5,9 @@ description: ""
 ---
 #### Sec 1 Form Teachers
 
-| Class | Form Teacher 1 | Form Teacher 2 | Form Teacher 3 |
-|:---:|:---:|:---:|:---:|
-| Orion 1 | Mr Kenneth Phua Khiang Song<br>[kenneth_phua_khiang_song@moe.edu.sg](mailto:kenneth_phua_khiang_song@moe.edu.sg) | Mdm Ngoi Sheau Neng<br>[ngoi_sheau_neng@moe.edu.sg](mailto:ngoi_sheau_neng@moe.edu.sg) |  |
+| Class | Form Teacher 1 | Form Teacher 2 |
+|:---:|:---:|:---:|
+| Orion 1 | Mr Kenneth Phua Khiang Song<br>[kenneth_phua_khiang_song@moe.edu.sg](mailto:kenneth_phua_khiang_song@moe.edu.sg) | Mdm Ngoi Sheau Neng<br>[ngoi_sheau_neng@moe.edu.sg](mailto:ngoi_sheau_neng@moe.edu.sg) |
 | Orion 2 |Mr Marcus Goh Wei Ming<br>[marcus_goh_wei_ming@moe.edu.sg](mailto:marcus_goh_wei_ming@moe.edu.sg) | Ms Najla Banu Bte Feroz Akbar Abdullah<br>[najla_banu@moe.edu.sg](mailto:najla_banu@moe.edu.sg) |  |
 | Orion 3 | 	Mr Tan Yuan Yan<br>[tan_yuanyan@moe.edu.sg](mailto:tan_yuanyan@moe.edu.sg) | Mr Choo Chee Chong Joshua<br>[joshua_choo@moe.edu.sg](mailto:joshua_choo@moe.edu.sg)|  |
 |  Orion 4 | Mdm Chow Shin Yun<br>[chow_shin_yun@moe.edu.sg](mailto:chow_shin_yun@moe.edu.sg) | Mdm Lim Ching Ching<br>[lim\_ching\_ching@moe.edu.sg](mailto:lim_ching_ching@moe.edu.sg) |  |
@@ -30,8 +30,8 @@ description: ""
 
 #### Sec 3 Form Teachers
 
-| Class | Form Teacher 1 | Form Teacher 2 | Form Teacher 3 |
-|:---:|:---:|:---:|:---:|
+| Class | Form Teacher 1 | Form Teacher 2 |
+|:---:|:---:|:---:|
 | Aquila 1 | Mr Yap Chong Meng Ronald  <br>[yap\_chong\_meng\_ronald@moe.edu.sg](mailto:yapp_chong_meng_ronald@moe.edu.sg) | Mdm Noor Hasnah Binte Adma  <br>[noor\_hasnah\_adam@moe.edu.sg](mailto:noor_hasnah_adam@moe.edu.sg) |  |
 | Aquila 2 | Mr Ong Minyi Jamie  <br>[ong\_minyi\_jamie@moe.edu.sg](mailto:ong_minyi_jamie@moe.edu.sg) | Ms Nur Syazana Binte Rahsid  <br>[nur\_syazana\_rashid@moe.edu.sg](mailto:nur_syazana_rashid@moe.edu.sg)|  <br> |
 | Aquila 3 | Ms Ong Hui Ping  <br>[ong\_hui\_ping@moe.edu.sg](mailto:ong_hui_ping@moe.edu.sg) | Mdm Irda Haeryati Binte Tomin  <br>[Irda\_Haeryati\_Tomin@schools.gov.sg](mailto:Irda_Haeryati_Tomin@schools.gov.sg) |  |
