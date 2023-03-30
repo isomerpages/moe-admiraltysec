@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage3.png
+      background: /images/homepage_gif.gif
       url: /contact-us/
       key_highlights:
         - title: Students
