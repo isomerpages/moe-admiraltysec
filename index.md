@@ -26,4 +26,5 @@ sections:
       url: /news-and-highlights/permalink/
       button: Click here to find out more
       description: Awards and Achievements
+      subtitle: News and highlights
 ---
