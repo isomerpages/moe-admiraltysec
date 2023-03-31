@@ -8,4 +8,4 @@ description: ""
 | Column 1 | Column 2 | Column 3 |
 | :-: | -------- | -------- |
 | Column 1 | Column 2 | Column 3 |
-| ![](/images/admiraltyss_logo%20only.png) | Text     | Text     |
+| ![](/images/admiraltyss_logo%20only.png) | Text     | New text|
