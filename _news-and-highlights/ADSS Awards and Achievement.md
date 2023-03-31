@@ -26,9 +26,9 @@ description: ""
 |Robotics: National Robotics Competition 2022 - Best Programming Award|	2nd	|1. Luther Woo Jin Quan (P5)<br>2. Mohamad Aniq Bin Mohamad Hisyam (P5)<br>3. Lucius Ignatius Heng (P5)|
 |Robotics: National Robotics Competition 2022 - Best Programming Award|3rd|Serrano Elaine Gheorge Miranda (O2)|
 |Robotics: National Robotics Competition 2022 - Best Robot Performance Award|	1st|	1. Tubati Saivenkat Nag Ikshvak (P6)<br>2. Soh Sheng Xiang Ian (P6)<br>||Robotics: National Robotics Competition 2022 - Best Robot Performance Award|2nd	|1. Luther Woo Jin Quan (P5)<br>2. Mohamad Aniq Bin Mohamad Hisyam (P5)<br>3. Lucius Ignatius Heng (P5)|
-|Robotics: National Robotics Competition 2022 - Best Robot Performance Award|	3rd|	1. Alfred Lee En Jie (P5)<br>2. Abdul Masyhur Deo Bin Dzulkarnaen (P5)<br>3. Kembal Prakash Kshitij Pandit (A5)<br>||Robotics: National Robotics Competition 2022|	Most Tenacious Award |Serrano Elaine Gheorge Miranda (O2)|
-|Robotics: National Robotics Competition 2022|	Best Alternate Solution Award|	1. Muhammad Sadiq Bin Suhairi (A5)<br>2. Wong Zhen Rui (A8)
-3. Leng Zong Shun (A6)<br>|
+|Robotics: National Robotics Competition 2022 - Best Robot Performance Award|	3rd|	1. Alfred Lee En Jie (P5)<br>2. Abdul Masyhur Deo Bin Dzulkarnaen (P5)<br>3. Kembal Prakash Kshitij Pandit (A5)|
+|Robotics: National Robotics Competition 2022|	Most Tenacious Award |Serrano Elaine Gheorge Miranda (O2)|
+|Robotics: National Robotics Competition 2022|	Best Alternate Solution Award|	1. Muhammad Sadiq Bin Suhairi (A5)<br>2. Wong Zhen Rui (A8)<br>3. Leng Zong Shun (A6)<br>|
 |National Cyber Wellness Advocacy Challenge 2022|	Bronze Award	|1. Tiong Wan Yuen (A2)<br>2. Leong Yi Feng (A2)<br>3. Su Xiangling (A8)|
 
 
