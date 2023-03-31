@@ -41,7 +41,14 @@ description: ""
 |5th Text Recital Competition (Chinese)| Bronze|Taasa Chong Xue Rou (P5)|
 |Live On Festival Essay Writing| Commendation| Koh Tong Le (P3)|
 
+#### ALUMNI RELATED AWARDS
 
-
+| Title | Award | Awardees |
+| --------- | ----- | ---------------------- |
+|North West Outstanding All Rounder Student Award 2023| North West Outstanding All Rounder Student Award 2023|1. Mohd Thaqif Uzair Bin Fadil (Class of 2022)<br>2. Tey Yuan Hui (Class of 2022)|
+|Best Student Leader 2022 - The Institution of Engineers, Singapore (IES)| Best Student Leader 2022| Wee Wen Bin (Class of 2016)|
+|ITE College Central Award|Course Medalist|1. Muhamad Farid Akmal B Ibrahim (Class of 2019)<br>2. Kaylin Ng Jing Ni, (Class of 2019)|
+|Ngee Ann Polytechnic Award|1. Xilinx Asia Pacific Gold Medal &amp; Prize<br>2. IES Award<br>3. Diploma with Merit<br>|Nicholas Ling Zong Yi (Class of 2018)|
+|Ngee Ann Polytechnic Award|Diploma with Merit| Ashlyn Samuel Abey (Class of 2018)|
 
 ------------------
