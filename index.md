@@ -10,6 +10,9 @@ sections:
       background: /images/homepage_gif.gif
       url: /contact-us/
       key_highlights:
+        - title: News & Highlights
+          description: Key Highlight description
+          url: /news-and-highlights/permalink/
         - title: Students
           description: ""
           url: /news-and-highlights/permalink/
