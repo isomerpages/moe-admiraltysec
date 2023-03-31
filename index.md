@@ -24,5 +24,6 @@ sections:
       image: /images/admiralty secondary school banner with nwcdc.png
       alt: Image alt text
       url: /news-and-highlights/permalink/
-      button: Awards and Achievements
+      button: Click here to find out more
+      description: Awards and Achievements
 ---
