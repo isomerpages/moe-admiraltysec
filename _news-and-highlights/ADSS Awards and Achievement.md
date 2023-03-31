@@ -33,7 +33,13 @@ description: ""
 |Robotics: National Robotics Competition 2022|	Best Alternate Solution Award|	1. Muhammad Sadiq Bin Suhairi (A5)<br>2. Wong Zhen Rui (A8)<br>3. Leng Zong Shun (A6)<br>|
 |National Cyber Wellness Advocacy Challenge 2022|	Bronze Award	|1. Tiong Wan Yuen (A2)<br>2. Leong Yi Feng (A2)<br>3. Su Xiangling (A8)|
 
+#### LANGUAGE RELATED AWARDS
 
+| Title | Award | Awardees |
+| --------- | ----- | ---------------------- |
+|5th Text Recital Competition (Chinese)| Silver | Chang Si Ting Joy (P5) |
+|5th Text Recital Competition (Chinese)| Bronze|Taasa Chong Xue Rou (P5)|
+|Live On Festival Essay Writing| Commendation| Koh Tong Le (P3)|
 
 
 
