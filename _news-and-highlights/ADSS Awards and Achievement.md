@@ -12,7 +12,7 @@ description: ""
 
 
 | Title | Award | Awardees |
-| -------- | -------- | -------- |
+| ----- | -------- | -------------- |
 |National Olympiad in Informatics 2023|Finalist|1. Wong Zhen Rui (L8)<br>2. Teiw Xuan Zhi Hayden (L8)<br>3. Ee Ying Xuan (L6)<br>4. Ooh Yu Heng (L6)<br>5. Deelys Lee Yan Qi (L6)<br>|
 |Singapore &amp; Asian School Math Olympiad 2022|	Silver|1. Lee Zhi En (P5)<br>2. Brayden Wong Kar Sin (P5)<br>3. Woo Yeu Hong (L5)|
 |Singapore &amp; Asian School Math Olympiad 2022|	Bronze|1. Pang Mee Yi (P5)<br>2. Egus Lee Junn Yih (P5)<br>3. Muhammad Zafran Bin Zakir (P5)<br>4. Guang Xu Zhi, Natasha (P8)<br>5. Christy Ann Heng Wei En (L5)<br>6. Pei Joon Yi (L6)|
