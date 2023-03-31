@@ -1,5 +1,5 @@
 collections:
-  learning-with-technology:
+  old-learning-with-technology:
     output: true
     order:
       - Learning with Technology.md
