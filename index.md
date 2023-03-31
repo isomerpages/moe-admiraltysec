@@ -2,7 +2,7 @@
 layout: homepage
 title: Admiralty Secondary School
 description: Admiralty Secondary School
-image: /images/admiraltyss_logo only.png
+image: /images/adsslogo_square.png
 permalink: /
 notification: ""
 sections:
