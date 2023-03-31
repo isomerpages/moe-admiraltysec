@@ -23,6 +23,6 @@ sections:
       title: ADSS
       image: /images/admiralty secondary school banner with nwcdc.png
       alt: Image alt text
-      url: /news-and-highlights/permalink
+      url: /news-and-highlights/permalink/
       button: Awards and Achievements
 ---
