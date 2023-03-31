@@ -11,7 +11,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: News & Highlights
-          description: Key Highlight description
+          description: ""
           url: /news-and-highlights/permalink/
         - title: Students
           description: ""
