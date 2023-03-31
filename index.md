@@ -19,12 +19,10 @@ sections:
         - title: Parents
           description: ""
           url: ""
-  - infobar:
-      title: 20th Anniversary Speech Day
-      subtitle: Latest News and Announcements
-      description: The 20th Speech Day was held on 4 March to celebrate the
-        achievements of our staff and students, a hybrid model, with
-        face-to-face and  livestreaming.
-      button: Find out more
-      url: /20th-anniversary-speech-day/latest-news-and-announcements/permalink
+  - infopic:
+      title: ADSS
+      subtitle: News and Highlights
+      description: Awards and Achievement
+      image: /images/admiralty secondary school banner with nwcdc.png
+      alt: Image alt text
 ---
