@@ -1,5 +1,5 @@
 collections:
-  student-dev-and-llp:
+  old-student-dev-and-llp:
     output: true
     order:
       - Character & Citizenship Edu/.keep
