@@ -3,4 +3,4 @@ title: School Management Committee
 permalink: /schmanagementcomm/permalink/
 description: ""
 ---
-![](/images/smc.png)
+![](/images/smc_2023.jpg)
