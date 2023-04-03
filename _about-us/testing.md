@@ -11,7 +11,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><img style="width: 188px; height: 249px;" class="ive_eobj_center" alt="Mr Chan Yew Ren Eugene.jpg" src="/qql/slot/u752/ADSS 2022/About Us/SMC/Mr Chan Yew Ren Eugene1.jpg">
+<td><img style="width: 188px; height: 249px;" class="ive_eobj_center" alt="Mr Chan Yew Ren Eugene.jpg" src="/images/2023/aboutus/chan_yew_ren_eugene.jpg">
 </td>
 <td><img style="width: 188px; height: 249px;" class="ive_eobj_center" alt="Mr Sheik Alaudin B Mohd Ismail.jpg" src="/qql/slot/u752/ADSS 2022/About Us/SMC/Mr Sheik Alaudin B Mohd Ismail.jpg">
 </td>
