@@ -3,12 +3,11 @@ title: testing
 permalink: /testing/permalink/
 description: ""
 ---
-
 <br>
 <table class="ive_eobj_center ives_tab_kosong">
 <tbody>
 <tr>
-<td colspan="2"><img style="width: 188px; height: 249px;" class="ive_eobj_center" alt="Mr Lam Yui-Png.jpg" src="/images/_P_Mr%20Lam%20Yui-P'ng.jpg">
+<td colspan="2"><img style="width: 188px; height: 249px;" class="ive_eobj_center" alt="Mr Lam Yui-Png.jpg" src="/images/_P_Mr Lam Yui-P'ng.jpg">
 </td>
 </tr>
 <tr>
