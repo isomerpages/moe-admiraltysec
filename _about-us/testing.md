@@ -7,7 +7,7 @@ description: ""
 <table class="ive_eobj_center ives_tab_kosong">
 <tbody>
 <tr>
-<td colspan="2"><img src="/images/E29_MR%20CHONG.jpg" style="width:150px; aspect-ratio:1/1.4">
+<td colspan="2"><img src="/images/lam_yui_png.jpg" style="width:188px; aspect-ratio:1/1.4">
 </td>
 </tr>
 <tr>
