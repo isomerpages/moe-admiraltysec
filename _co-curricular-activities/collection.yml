@@ -2,16 +2,16 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs & Societies/.keep
+      - Physical Sports/.keep
       - Physical Sports/Robotics Club.md
       - Physical Sports/Lighthouse Production.md
       - Physical Sports/Art and Environment Club.md
-      - Physical Sports/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Netball.md
       - Physical Sports/Rugby.md
       - Physical Sports/Track & Field.md
       - Physical Sports/Wushu.md
+      - Clubs & Societies/.keep
       - Uniformed Groups/.keep
       - Uniformed Groups/National Cadet Corps NCC (Land).md
       - Uniformed Groups/National Civil Defence Cadet Corps.md
