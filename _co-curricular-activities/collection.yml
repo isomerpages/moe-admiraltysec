@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs & Societies1/.keep
       - Physical Sports/Robotics Club.md
       - Physical Sports/Lighthouse Production.md
       - Physical Sports/Art and Environment Club.md
