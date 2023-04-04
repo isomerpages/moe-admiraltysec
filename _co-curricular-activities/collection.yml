@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Physical Sports/.keep
-      - Physical Sports/Art and Environment Club.md
       - Physical Sports/Badminton.md
       - Physical Sports/Netball.md
       - Physical Sports/Rugby.md
