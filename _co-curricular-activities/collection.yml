@@ -2,10 +2,10 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs & Societies/Art & Environment Club.md
+      - Clubs & Societies/.keep
       - Clubs & Societies/Lighthouse Production.md
       - Clubs & Societies/Robotics Club.md
-      - Clubs & Societies/.keep
+      - Clubs & Societies/Art & Environment Club.md
       - Physical Sports/Art and Environment Club.md
       - Physical Sports/.keep
       - Physical Sports/Badminton.md
