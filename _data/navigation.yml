@@ -8,8 +8,3 @@ links:
     collection: curricular
   - title: Co-Curricular
     collection: co-curricular-activities
-  - title: Co-Curricular
-    url: /permalink
-    sublinks:
-      - title: Clubs and Societies
-        url: /permalink
