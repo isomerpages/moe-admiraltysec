@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs & Societies/.keep
-      - Clubs & Societies/Art and Environment Club.md
       - Clubs & Societies/Lighthouse Production.md
       - Clubs & Societies/Robotics Club.md
       - Physical Sports/Art and Environment Club.md
