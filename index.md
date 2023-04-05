@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/adss_hero_banner.gif
+      background: /images/adss_hero_banner_002.gif
       url: /contact-us/
       key_highlights:
         - title: News & Highlights
