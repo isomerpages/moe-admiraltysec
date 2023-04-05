@@ -52,13 +52,15 @@ Together we can make a difference!
 <img src="/images/PSG/the%20lets%20travel!%20photo%20booth%20during%20staff%20appreciation.jpg" style="width:75%">
 	
 </p><p style="text-align: center;">The ‘Let’s Travel!’ Photo Booth during Staff Appreciation.
+<img src="/images/PSG/its%20bonding%20time!%20gift%20making%20session%20for%20staff%20appreciation.jpg" style="width:75%">
+	
+</p><p style="text-align:center;">It’s bonding time! Gift making session for Staff Appreciation.
+
+<img src="/images/PSG/parent-child%20bonding%20session%20through%20games%20at%20adss%20indoor%20sports%20hall.jpg" style="width:75%;">
+	
+</p><p style="text-align:center;">Parent-Child Bonding Session through Games at ADSS Indoor Sports Hall.
 	
 
-It’s bonding time! Gift making session for Staff Appreciation.
-	
-	
-Parent-Child Bonding Session through Games at ADSS Indoor Sports Hall.
-	
 The recipients of the Partners of Admiralty Award (Individual) during 2022 Speech Day.
 	
 PSG members participated in volunteering for WeCare@North West.
