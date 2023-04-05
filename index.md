@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: News & Highlights
           description: ""
-          url: /news-and-highlights/permalink/
+          url: /awards/news-and-highlights/permalink/
         - title: Students
           description: ""
           url: /news-and-highlights/permalink/
