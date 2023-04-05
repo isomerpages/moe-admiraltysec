@@ -18,7 +18,7 @@ sections:
           url: /news-and-highlights/permalink/
         - title: Parents
           description: ""
-          url: ""
+          url: /parents/permalink/
   - infopic:
       title: ADSS
       image: /images/admiralty secondary school banner with nwcdc.png
