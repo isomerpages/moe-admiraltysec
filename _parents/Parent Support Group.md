@@ -60,31 +60,32 @@ Together we can make a difference!
 	
 </p><p style="text-align:center;">Parent-Child Bonding Session through Games at ADSS Indoor Sports Hall.
 	
+<img src="/images/PSG/the%20recipients%20of%20the%20partners%20of%20admiralty%20award%20(individual)%20during%202022%20speech%20day.jpg" style="width:75%;">
+	
+</p><p style="text-align:center;">The recipients of the Partners of Admiralty Award (Individual) during 2022 Speech Day.
 
-The recipients of the Partners of Admiralty Award (Individual) during 2022 Speech Day.
-	
-PSG members participated in volunteering for WeCare@North West.
-	
-PSG Engagement Session.
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+<img src="/images/PSG/psg%20members%20participated%20in%20volunteering%20for%20wecare@north%20west.jpg" style="width:75%;">
+
+</p><p style="text-align:center;">PSG members participated in volunteering for WeCare@North West.
+
+<img src="/images/PSG/psg%20engagement%20session_1.png" style="width:75%;">
+
+</p><p style="text-align:center;">PSG Engagement Session.
+
+### 2021 Virtual Activities
+<img src="/images/PSG/2021%20virtual%20activities_1.png" style="width:75%;">
+</p><p>&nbsp;</p>
+<img src="/images/PSG/2021%20virtual%20activities_2.jpg" style="width:75%;">
+<p>&nbsp;</p>
+<img src="/images/PSG/2021%20virtual%20activities_3.jpg" style="width:75%;">
+<p>&nbsp;</p>
+<img src="/images/PSG/2021%20virtual%20activities_4.png" style="width:75%;">
+
+All these activities, efforts and memories would not be possible without a group of highly committed, inspiring, and positive thinking Coordinators, Assistant Coordinators, EXCO members as well as supportive School Leaders, PSG teachers in-charge and parents.
+
+We hope that all parents can come forward and contribute to the holistic development of our students.
+
+Come and join us!
 	
 	
 	
@@ -92,4 +93,18 @@ PSG Engagement Session.
 	
 	
 	
-	!</p>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
