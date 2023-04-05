@@ -27,4 +27,12 @@ sections:
       button: Click here to find out more
       description: Awards and Achievements
       subtitle: News and highlights
+  - infopic:
+      title: "2023 "
+      subtitle: News and highlights
+      description: Chinese New Year Celebrations
+      button: Click here to find out more
+      url: /news-and-highlights/permalink/
+      image: /images/2023cny1.jpg
+      alt: Image alt text
 ---
