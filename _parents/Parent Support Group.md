@@ -11,6 +11,34 @@ Indeed, it takes a village to raise a child. Yet, the village cannot do without 
 
 The Parent Support Group (PSG) was formed with the aim of benefiting our Admirals through a strong home school partnership. The School Leaders and the School Management Committee recognise parents’ involvement in making school life more vibrant, caring and a safe place for the students to learn. The PSG complements the school by aligning their objectives with the school’s directions. Through PSG involvement, the School Leaders, staff and parents come together to understand and discuss school initiatives and programmes with a unified goal of improving students’ learning and well-being.
 
+### Key Parent Support Group Members
+
+![](/images/PSG/key%20psg%20members_1.jpg)
+
+The objectives of the PSG are as follows:
+
+* To provide a platform for parents to be involved in their children's education process
+* To enhance parent-teacher partnership in areas planned for their children
+* To gather support and reinforcement on school's activities
+* To tap on the expertise of the parents in areas that they can help in
+* To enable parents to be role models for the students
+* To attract other parents to be involved in the school
+
+PSG also provides a platform for parents to voice out their opinions and ideas about the school, for the school and through the school.
+
+### 2022 Activities
+
+### PSG Appreciation Day
+
+On 12 Nov 2022 marked the first Parent Appreciation Day after a 2-year hiatus due to the COVID-19 pandemic. Parents, students, alumni attended the appreciation luncheon and cake cutting ceremony together with school leaders and teachers to mark 20th Anniversary of ADSS.
+
+Carnival game stalls, various games, photo booth and lucky draw had been arranged. It was nice to be able to bring a smile to people’s faces enjoying the games and creating great memories.  All these would not be possible without highly committed and supportive school leaders, PSG teachers in-charge, PSG EXCO members, parents, students and alumni. We thank them for their strong support and partnership in fostering a caring and loving learning environment in ADSS.
+
+Let’s continue growing stronger!
 
 
-Key Parent Support Group Members
+
+
+
+
+
