@@ -35,4 +35,12 @@ sections:
       url: /news-and-highlights/permalink/
       image: /images/2023cny1.jpg
       alt: Image alt text
+  - infopic:
+      title: 2023 Sec 1
+      subtitle: News and Highlights
+      description: 2023 Sec 1 Orientation
+      button: Click here to find out more
+      url: /news-and-highlights/permalink/
+      image: /images/2023_sec1orientation_photo 5.jpg
+      alt: Image alt text
 ---
