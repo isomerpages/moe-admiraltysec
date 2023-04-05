@@ -12,8 +12,7 @@ Indeed, it takes a village to raise a child. Yet, the village cannot do without 
 The Parent Support Group (PSG) was formed with the aim of benefiting our Admirals through a strong home school partnership. The School Leaders and the School Management Committee recognise parents’ involvement in making school life more vibrant, caring and a safe place for the students to learn. The PSG complements the school by aligning their objectives with the school’s directions. Through PSG involvement, the School Leaders, staff and parents come together to understand and discuss school initiatives and programmes with a unified goal of improving students’ learning and well-being.
 
 ### Key Parent Support Group Members
-
-![](/images/PSG/key%20psg%20members_1.jpg)
+<img src="/images/PSG/key%20psg%20members_1.jpg" style="width:75%">
 
 The objectives of the PSG are as follows:
 
@@ -49,10 +48,13 @@ Together we can make a difference!
 
 ![](/images/PSG/a%20superb%20performance%20indeed.jpg)
 <p style="text-align: center;">A superb performance indeed
+
+<img src="/images/PSG/the%20lets%20travel!%20photo%20booth%20during%20staff%20appreciation.jpg" style="width:75%">
 	
-	The ‘Let’s Travel!’ Photo Booth during Staff Appreciation.
+</p><p style="text-align: center;">The ‘Let’s Travel!’ Photo Booth during Staff Appreciation.
 	
-	It’s bonding time! Gift making session for Staff Appreciation.
+
+It’s bonding time! Gift making session for Staff Appreciation.
 	
 	
 Parent-Child Bonding Session through Games at ADSS Indoor Sports Hall.
