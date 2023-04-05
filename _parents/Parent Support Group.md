@@ -86,25 +86,3 @@ All these activities, efforts and memories would not be possible without a group
 We hope that all parents can come forward and contribute to the holistic development of our students.
 
 Come and join us!
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
