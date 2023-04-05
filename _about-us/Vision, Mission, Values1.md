@@ -10,4 +10,4 @@ description: ""
 ![](/images/mission_inkscape.png)
 
 ### School Values
-![]()
+![](/images/rich%20in%20lights.JPG)
