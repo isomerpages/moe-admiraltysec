@@ -35,3 +35,11 @@ On 12 Nov 2022 marked the first Parent Appreciation Day after a 2-year hiatus du
 Carnival game stalls, various games, photo booth and lucky draw had been arranged. It was nice to be able to bring a smile to people’s faces enjoying the games and creating great memories.  All these would not be possible without highly committed and supportive school leaders, PSG teachers in-charge, PSG EXCO members, parents, students and alumni. We thank them for their strong support and partnership in fostering a caring and loving learning environment in ADSS.
 
 Let’s continue growing stronger!
+
+
+
+
+
+
+
+
