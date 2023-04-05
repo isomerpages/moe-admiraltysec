@@ -35,3 +35,27 @@ On 12 Nov 2022 marked the first Parent Appreciation Day after a 2-year hiatus du
 Carnival game stalls, various games, photo booth and lucky draw had been arranged. It was nice to be able to bring a smile to people’s faces enjoying the games and creating great memories.  All these would not be possible without highly committed and supportive school leaders, PSG teachers in-charge, PSG EXCO members, parents, students and alumni. We thank them for their strong support and partnership in fostering a caring and loving learning environment in ADSS.
 
 Let’s continue growing stronger!
+![](/images/PSG/psg1appreciation.JPG)
+![](/images/PSG/psg1aappreciation.JPG)
+### PSG Balloon Deco for Graduation Ceremony
+
+Between 9 Nov and 11 Nov 2022, parents of both current students & alumni, students, teachers worked together for 3 days to decorate the school hall, stage and foyer using balloons for Graduation Ceremony 2022 with the aim of creating a memorable farewell to the Class of 2022.
+
+A great sense of togetherness helped the PSG to overcome various challenges during the preparation process. There was excitement when graduands and their parents saw the balloon decorations.
+
+Together we can make a difference!
+![](/images/PSG/psg2balloon.JPG)
+![](/images/PSG/psg2aballoon.JPG)
+
+![](/images/PSG/a%20superb%20performance%20indeed.jpg)
+
+A superb performance indeed!
+
+
+
+
+
+
+
+
+
