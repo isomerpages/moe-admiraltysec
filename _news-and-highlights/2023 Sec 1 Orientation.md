@@ -21,9 +21,8 @@ Connecting with each other through a Harbour activity.
 Awesome Admirals reciting the school cheer with gusto!
 ![](/images/2023_sec1orientation_photo%205.jpg)
 Admirals presented their creative interpretation of their class’s
-![](/images/2023_sec1orientation_photo%206.jpg)
+![](/images/2023_sec1orientation_photo%206.jfif)
 Up? Down? Left? Right? Admirals trying out Wushu during the CCA Experience activity.
-
 
 
 
