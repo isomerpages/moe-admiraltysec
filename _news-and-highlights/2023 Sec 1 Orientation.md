@@ -11,38 +11,18 @@ Our Secondary 1 Admirals embarked on their Admiralty Experience with a 4-day Ori
 ![](/images/2023orientationstu2.jpg)
 ![](/images/2023orientationstu3.jpg)
 
-
+![](/images/2023_sec1orientation_photo%201.jpg)
 Admirals having a great time bonding with form teacher, Mr Lai Kuok Liang.
-
+![](/images/2023_sec1orientation_photo%202.jpg)
 Admirals displayed teamwork through the teambuilding activity ‘Turning Over A New Leaf’.
-
+![](/images/2023_sec1orientation_photo%203.jpg)
 Connecting with each other through a Harbour activity.
-
+![](/images/2023_sec1orientation_photo%204.jpg)
 Awesome Admirals reciting the school cheer with gusto!
-
+![](/images/2023_sec1orientation_photo%205.jpg)
 Admirals presented their creative interpretation of their class’s
-
+![](/images/2023_sec1orientation_photo%206.jpg)
 Up? Down? Left? Right? Admirals trying out Wushu during the CCA Experience activity.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
