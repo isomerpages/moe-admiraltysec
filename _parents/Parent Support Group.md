@@ -4,7 +4,7 @@ permalink: /parents/permalink/
 description: ""
 ---
 ### Introduction
-> "If a country is to be corruption free and become a nation of beautiful minds, I strongly feel there are three key societal members who can make a difference. They are the father, the mother and the teacher."
+&gt; "If a country is to be corruption free and become a nation of beautiful minds, I strongly feel there are three key societal members who can make a difference. They are the father, the mother and the teacher."
 A.P.J. Abdul Kalam.
 
 Indeed, it takes a village to raise a child. Yet, the village cannot do without a strong partnership between the parents and teachers of the child. With the belief that every parent is a supportive partner, the Parent Support Group of Admiralty Secondary School was formed to strengthen the school's effort in fostering closer ties between school and home.
@@ -39,7 +39,7 @@ Let’s continue growing stronger!
 ![](/images/PSG/psg1aappreciation.JPG)
 ### PSG Balloon Deco for Graduation Ceremony
 
-Between 9 Nov and 11 Nov 2022, parents of both current students & alumni, students, teachers worked together for 3 days to decorate the school hall, stage and foyer using balloons for Graduation Ceremony 2022 with the aim of creating a memorable farewell to the Class of 2022.
+Between 9 Nov and 11 Nov 2022, parents of both current students &amp; alumni, students, teachers worked together for 3 days to decorate the school hall, stage and foyer using balloons for Graduation Ceremony 2022 with the aim of creating a memorable farewell to the Class of 2022.
 
 A great sense of togetherness helped the PSG to overcome various challenges during the preparation process. There was excitement when graduands and their parents saw the balloon decorations.
 
@@ -48,14 +48,44 @@ Together we can make a difference!
 ![](/images/PSG/psg2aballoon.JPG)
 
 ![](/images/PSG/a%20superb%20performance%20indeed.jpg)
-
-A superb performance indeed!
-
-
-
-
-
-
-
-
-
+<p style="text-align: center;">A superb performance indeed
+	
+	The ‘Let’s Travel!’ Photo Booth during Staff Appreciation.
+	
+	It’s bonding time! Gift making session for Staff Appreciation.
+	
+	
+Parent-Child Bonding Session through Games at ADSS Indoor Sports Hall.
+	
+The recipients of the Partners of Admiralty Award (Individual) during 2022 Speech Day.
+	
+PSG members participated in volunteering for WeCare@North West.
+	
+PSG Engagement Session.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	!</p>
