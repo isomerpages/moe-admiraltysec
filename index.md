@@ -33,7 +33,7 @@ sections:
       description: Chinese New Year Celebrations
       button: Click here to find out more
       url: chinese/news-and-highlights/permalink/
-      image: /images/2023cny1.jpg
+      image: /images/2023cnymain.png
       alt: Image alt text
   - infopic:
       title: 2023 Sec 1
