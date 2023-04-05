@@ -23,7 +23,7 @@ sections:
       title: ADSS
       image: /images/admiralty secondary school banner with nwcdc.png
       alt: Image alt text
-      url: /news-and-highlights/permalink/
+      url: /awards/news-and-highlights/permalink/
       button: Click here to find out more
       description: Awards and Achievements
       subtitle: News and highlights
@@ -32,7 +32,7 @@ sections:
       subtitle: News and highlights
       description: Chinese New Year Celebrations
       button: Click here to find out more
-      url: /news-and-highlights/permalink/
+      url: chinese/news-and-highlights/permalink/
       image: /images/2023cny1.jpg
       alt: Image alt text
   - infopic:
@@ -40,7 +40,7 @@ sections:
       subtitle: News and Highlights
       description: 2023 Sec 1 Orientation
       button: Click here to find out more
-      url: /news-and-highlights/permalink/
+      url: /orienation/news-and-highlights/permalink/
       image: /images/2023_sec1orientation_photo 5.jpg
       alt: Image alt text
 ---
