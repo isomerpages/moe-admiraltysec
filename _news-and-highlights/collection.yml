@@ -2,5 +2,5 @@ collections:
   news-and-highlights:
     output: true
     order:
-      - 2023 CNY.md
       - ADSS Awards and Achievement.md
+      - 2023 CNY.md
