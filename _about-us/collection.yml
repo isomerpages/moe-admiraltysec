@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Our History.md
-      - Principal's Message.md
       - Vision, Mission, Values.md
+      - Principal's Message.md
       - Our Staff.md
       - School Advisory Committee.md
       - School Management Committee.md
