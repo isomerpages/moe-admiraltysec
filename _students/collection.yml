@@ -2,4 +2,5 @@ collections:
   students:
     output: true
     order:
+      - Addylink (Students).md
       - 2023 Timetable.md
