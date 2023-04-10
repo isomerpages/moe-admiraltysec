@@ -42,7 +42,3 @@ We live by the motto through:
 ![](/images/science2c.png)
 ![](/images/science2d.png)
 
-Organisation
-------------
-
-![](/images/science3.png)
