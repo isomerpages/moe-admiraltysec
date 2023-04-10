@@ -7,15 +7,15 @@ third_nav_title: Physical Sports
 Introduction
 ------------
 
-**Tagline: Agility, Discipline, Spirit & Sportsmanship**
+**Tagline: Agility, Discipline, Spirit &amp; Sportsmanship**
 
 The ADSS badminton team comprises the B and C Division Boys and Girls teams. Every year, the school sends the teams to participate in the Inter-School Zonal Badminton Championship, and infriendly matches with other schools.
 
 Besides the regular trainings, students also engage in activities such as community involvement programmes, and first aid training. These activities contribute to our students’ growth as effective team players and influential leaders who display resilience, sportsmanship, discipline and integrity.
 
- Our CCA aims to:
+&nbsp;Our CCA aims to:
 
-* Develop pupils to become sports leaders who are intrinsically motivated and focused on resilience and excellence in their quest for success 
+* Develop pupils to become sports leaders who are intrinsically motivated and focused on resilience and excellence in their quest for success&nbsp;
 
 * Equip players with the knowledge, understanding and skills necessary at competitive level.
 
@@ -59,41 +59,32 @@ Key Activities (Annual)
 
 * RCY Flag Day
 
-Organisation
-------------
-
-![](/images/badminton.png)
 Photos of Students in Key Activities
 ------------------------------------
 <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.2; text-align: center;"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; text-decoration-line: underline; vertical-align: baseline; white-space: pre-wrap;">CCA Open House</span></p>
 
-<img src="/images/b1.jpg"
-		 style="width:75%">
+<img src="/images/b1.jpg" style="width:75%">
 
 <p style="text-align: center;">Secondary 1 Admirals pursuing their interests and finding more about Badminton as a CCA.</p>
 
 <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.2; text-align: center;"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; text-decoration-line: underline; vertical-align: baseline; white-space: pre-wrap;">Inter-School Zonal Badminton Championship</span></p>
 
-<img src="/images/b2.jpg"
-		 style="width:75%">
+<img src="/images/b2.jpg" style="width:75%">
 
 <p style="text-align: center;">An Admiral giving his best and putting up a tough fight during a match.</p>
 
 <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.2; text-align: center;"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; text-decoration-line: underline; vertical-align: baseline; white-space: pre-wrap;">Values-in-Action</span></p>
 
-<img src="/images/b3.jpg"
-		 style="width:75%">
+<img src="/images/b3.jpg" style="width:75%">
 
 <p style="text-align: center;">Putting in their best effort in training, and also in serving the community by preparing a meal for the elderly.</p>
 
-<img src="/images/b4.jpg"
-		 style="width:75%">
+<img src="/images/b4.jpg" style="width:75%">
 
 <p style="text-align: center;">Our students collaborating with Admirals from Red Cross Youth (RCY) CCA at the RCY Flag Day 2019</p>
 
 <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.2; text-align: center;"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; text-decoration-line: underline; vertical-align: baseline; white-space: pre-wrap;">Badminton Camp</span></p>
 
-<img src="/images/b5.jpg"
-		 style="width:75%">
+<img src="/images/b5.jpg" style="width:75%">
 
 <p style="text-align: center;">Admirals have the opportunity to pit their skills as well as forge new friendships with students from other schools during the annual CCA camp</p>
