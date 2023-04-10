@@ -2,5 +2,4 @@ collections:
   students:
     output: true
     order:
-      - MOE Sexuality Education.md
       - 2023 Timetable.md
