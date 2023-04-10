@@ -33,19 +33,3 @@ Programmes and Outcomes
 **_Secondary Three MOE-OBS Programme_**
 ![](/images/pe1f.png)
 
-Organisation
-------------
-
-**IP Head**
-
-*   Mr Goh Huan Bok Kelvin (HOD/PE & CCA)
-
-  
-
-**Teachers**
-
-*   Mr Lee Yee Leong Keynes (AYH)
-*   Ms Nuriah Bte Mohd Noor
-*   Mr Ong Minyi Jamie
-*   Mr Khing Zhen Ze Kenneth
-*   Mr Tan Yuanyan
