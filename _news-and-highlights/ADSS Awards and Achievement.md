@@ -14,7 +14,7 @@ description: ""
 | --------- | ----- | ---------------------- |
 |Unit Recognition 2022|Distinction|NCC (Land)|
 |Unit Overall Proficiency Award 2022|Distinction|NPCC|
-|Unit Overall Proficiency Award 2022|Distinction	NCDCC|
+|Unit Overall Proficiency Award 2022|Distinction	|NCDCC|
 
 
 
