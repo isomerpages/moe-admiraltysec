@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - 2023 Timetable.md
-      - Example Title1.md
       - Example Title2.md
