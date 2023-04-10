@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Cyberwellness Partnership.md
       - Parent Support Group.md
       - MOE Sexuality Education.md
