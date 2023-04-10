@@ -40,4 +40,6 @@ Programmes and Outcomes
 ![](/images/wushu.png)
 ![](/images/wushu2.png)
 
-![](/images/wushu3.png)
+
+
+
