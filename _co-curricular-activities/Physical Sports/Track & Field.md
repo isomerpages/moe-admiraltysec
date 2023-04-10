@@ -61,23 +61,4 @@ During the off-season, we give our Athletes the autonomy to plan and run some of
 2.  “What I enjoy about CCA is that we are all very bonded. Through the CCA’s training, I have developed resilience and self-discipline. I would promote Track and Field as a CCA as it has a lot of friendly people and the CCA offers you to be independent through the training.” – Sam Zu Yi
 
 3.  “I have learnt how to be more self-disciplined over the years in Track and Field as I do my own training. I have also learnt the proper stretches, workouts and strategies for running. Track and Field offers you the opportunity to showcase your hard work through the competitions which push you to perform at your very best.” - Yong Jun Ping Markcus
-
-Organisation
-------------
-
-Teachers: Mr Chan Huazhi, Mdm Shidah, Ms Ayu, Mr Kenneth Khing, Mr Joshua Choo
-
-  
-
-B Division Captains
-
-1.  Yong Jun Ping Markcus
-2.  Davina Adrian Pereira
-
-  
-
-B Division Vice Captains
-
-1.  Arman Danial Bin Ainol Halal
 2.  Sam Zu Yi
-
