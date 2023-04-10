@@ -26,18 +26,3 @@ Our teaching is largely anchored by applied learning. Students approach the lear
 
 “Just like solving a hard mathematics problem, solving a hard coding problem is very fulfilling” - DEELYS LEE YAN QI (A6)
 
-Organisation
-------------
-
-**IP Head**
-
-*   Mr Phua Tian Peng (HOD SP(KM))
-
-  
-
-**Teachers**
-
-*   Mr Chong Teck Seng (HOD Student Management)
-*   Mr Chong Lee Soong (Senior Teacher)
-*   Mdm Lim Sok Hian (FAJT)
-*   Ms Nur Hidayah Liyana Binte Mohd Nasir
