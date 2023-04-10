@@ -50,7 +50,4 @@ Camp Bulb: Annual CCA Training and Bonding Camp
 
 ![](/images/lighthouse2.png)
 
-Organisation
-------------
 
-![](/images/lighthouse.png)
