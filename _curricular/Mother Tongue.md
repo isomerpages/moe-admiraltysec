@@ -99,7 +99,4 @@ Through week-long cultural immersion as well as daily debrief and reflection as 
 
 ![](/images/mothertongue6.png)
 
-Organisation
-------------
 
-![](/images/mothertongue7.png)
