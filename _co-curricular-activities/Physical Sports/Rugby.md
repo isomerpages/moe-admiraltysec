@@ -27,15 +27,10 @@ Key Activities (Annual)
 *   Singapore School 7s Series
 *   Saints 7s School Rugby Tournament
 
-Organisation
-------------
-
-![](/images/rugby.png)
 
 Photos of Students in Key Activities
 ------------------------------------
 
 ![](/images/rugby2.png)
 ![](/images/rugby3.png)
-<img src="/images/rugby4.png" 
-     style="width:70%">
+<img src="/images/rugby4.png" style="width:70%">
