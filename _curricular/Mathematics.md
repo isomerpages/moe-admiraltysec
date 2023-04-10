@@ -37,8 +37,4 @@ Concept Cartoon and Authentic Performance Tasks are used to deepen Mathematics c
 
 ![](/images/math2b.png)
 
-Organisation
-------------
-
-![](/images/math2c.png)
 
