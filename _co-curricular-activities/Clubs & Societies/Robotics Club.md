@@ -24,7 +24,4 @@ There are four areas of enrichment that a member would be exposed to throughout 
 
 ![](/images/Programmes%20and%20Outcomes.jpeg)
 
-Organisation
-------------
 
-![](/images/robotics.png)
