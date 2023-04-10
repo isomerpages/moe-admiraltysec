@@ -1,13 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/adsslogowithtext_square.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About US
+    collection: about-us
+  - title: Admiralty Experience
+    collection: admiralty-experience
+  - title: Curricular
+    collection: curricular
+  - title: Co-Curricular
+    collection: co-curricular-activities

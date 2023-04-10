@@ -1,0 +1,17 @@
+collections:
+  old-student-dev-and-llp:
+    output: true
+    order:
+      - Character & Citizenship Edu/.keep
+      - Character & Citizenship Edu/Character & Citizenship Education.md
+      - Character & Citizenship Edu/Cyber Wellness.md
+      - Character & Citizenship Edu/Education and Career Guidance.md
+      - Character & Citizenship Edu/Student Leadership.md
+      - Character & Citizenship Edu/Values In Action.md
+      - Student Development/.keep
+      - Student Development/Student Development.md
+      - Student Development/Secondary 1 Level Programmes.md
+      - Student Development/Secondary 2 Level Programmes.md
+      - Student Development/Secondary 3 Level Programmes.md
+      - Student Development/Secondary 4 & 5 Level Programmes.md
+      - Learning for Life Programme.md

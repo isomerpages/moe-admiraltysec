@@ -1,0 +1,16 @@
+collections:
+  curricular:
+    output: true
+    order:
+      - Arts.md
+      - Character & Citizenship Education (CCE).md
+      - Computing & Computer Applications.md
+      - Craft & Technology.md
+      - English & Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Music.md
+      - Physical Education.md
+      - Principle of Accounts.md
+      - Science.md

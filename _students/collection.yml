@@ -1,0 +1,5 @@
+collections:
+  students:
+    output: true
+    order:
+      - 2023 Timetable.md
