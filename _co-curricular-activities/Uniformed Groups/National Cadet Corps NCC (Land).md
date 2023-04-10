@@ -4,10 +4,9 @@ permalink: /national-cadet-corps-ncc-land/co-curricular-activities/uniform-group
 description: ""
 third_nav_title: Uniformed Groups
 ---
+<img src="/images/ncc1.png" style="width:240px;height:240px;margin-left:15px;" align="right">
 
-<img src="/images/ncc1.png" style="width:240px;height:240px;margin-left:15px;" align = "right">
-
-**NCC HQ Vision** 
+**NCC HQ Vision**&nbsp;
 
 Extraordinary Youth Leader
 
@@ -104,31 +103,17 @@ Key Activities (Annual)
 	* Preschool and Primary School Outreach Programme
 
 
-Organisation
-------------
-
-|  |  |
-|---|---|
-| CCA Teachers-in-charge | Mr Achmad Nasrun Bin Abdul Kalam (TIC) |
-|   | Mr Lai Kuok Liang (TIC) |
-|   | Ms Lim Sok Hian Jacqueline |
-|   | Mr Arun Vasuder Krishnan |
-| CCA Student Leaders | 2021<br>Unit Sergeant Major: <br>Chua Jun Tong, Eugene (Lyra 6)<br><br>Assistant Unit Sergeant Major:<br>Lin Zhenghao (Lyra 6)  |
 
 Photos of Students in Key Activities
 ------------------------------------
-<img src="/images/ncc2.jpg"
-		 style="width:75%">
+<img src="/images/ncc2.jpg" style="width:75%">
 
 <p style="text-align: center;">Annual One-Star Kayaking Course where Secondary 3 Cadet Leaders attend a 2-day workshop to be certified.</p>
 
-<img src="/images/ncc3.jpg"
-		 style="width:75%">
+<img src="/images/ncc3.jpg" style="width:75%">
 
 <p style="text-align: center;">Secondary 1 Junior Cadets attempting the high elements obstacle course in HQ NCC during Camp FORGE.</p>
 
-<img src="/images/ncc4.jpg"
-		 style="width:75%">
+<img src="/images/ncc4.jpg" style="width:75%">
 
 <p style="text-align: center;">Final warmup before the commencement of the Annual PDS competition performance.</p>
-
