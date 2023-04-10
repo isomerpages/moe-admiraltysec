@@ -2,6 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Example Title2.md
-      - Example Title1.md
       - 2023 Timetable.md
+      - Example Title1.md
+      - Example Title2.md
