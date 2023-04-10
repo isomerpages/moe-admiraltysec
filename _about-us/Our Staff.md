@@ -61,9 +61,15 @@ description: ""
 
 | Name | Email Address |
 |:---:|:---:|
-| Mr Chung Wee Seng (FAJT) | chung_wee_seng@moe.edu.sg |
-| Mr Radhakrishnan N S (FAJT)  | narayanan_s_radhakrishnan@moe.edu.sg |
-| Mr Tay Boon Hwee (FAJT)  | tay_boon_hwee@moe.edu.sg |
+|Mdm Arifa Binte Nazir|arifa_nazir@moe.edu.sg|
+|Mr Khing Zhen Ze, Kenneth|khing_zhen_ze_kenneth@moe.edu.sg|
+|Mdm Lim Sok Hian (FAJT) | lim_sok_hian@moe.edu.sg|
+|Mr Chung Wee Seng (FAJT)|chung_wee_seng@moe.edu.sg|
+|Mdm Cheok Soh Peng Jocelyn Mary (FAJT)|cheok_soh_peng_jocelyn@moe.edu.sg|
+|Mdm Kam Kit Yin (FAJT)|kam_kit_yin@moe.edu.sg|
+|Mr Lee Yok Ten (FAJT)| |
+|Mr Radhakrishnan N S (FAJT)|narayanan_s_radhakrishnan@moe.edu.sg|
+|Mr Tay Boon Hwee (FAJT)|tay_boon_hwee@moe.edu.sg|
 
 <b style="background-color: initial;"><font size="4">Non-Teaching Staff</font></b>
 
