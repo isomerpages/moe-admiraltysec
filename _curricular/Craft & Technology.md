@@ -56,7 +56,5 @@ Students experience design through sketching lessons and complete projects based
 
 ![](/images/cnt3.png)
 
-Organisation
-------------
 
-![](/images/cnt4.png)
+
