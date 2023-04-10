@@ -1,5 +1,5 @@
 ---
-title: English & Literature
+title: English &amp; Literature
 permalink: /curricular/english-and-literature/
 description: ""
 ---
@@ -60,10 +60,8 @@ A valuable opportunity for students to meet and interact with authors of their L
 
 An annual programme that aims to explore interpersonal issues and public speaking skills through drama techniques and activities.
 
-<img src="/images/Speech%20and%20Debate%20Enrichment%20Workshops.png" 
-     style="width:70%">
+<img src="/images/Speech%20and%20Debate%20Enrichment%20Workshops.png" style="width:70%">
 		 
-Organisation
-------------
 
-![](/images/english3.png)
+
+
