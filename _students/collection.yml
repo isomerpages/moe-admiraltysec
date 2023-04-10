@@ -2,6 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Library OPAC.md
       - 2023 Timetable.md
       - Addylink (Students).md
+      - Library OPAC.md
