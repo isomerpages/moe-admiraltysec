@@ -2,7 +2,7 @@ collections:
   parents:
     output: true
     order:
-      - Full Subject Based Banding.md
-      - Cyberwellness Partnership.md
       - Parent Support Group.md
+      - Full Subject Based Banding.md
       - MOE Sexuality Education.md
+      - Cyberwellness Partnership.md
