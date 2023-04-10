@@ -19,7 +19,6 @@ Parents play a key role in their children’s growth. Students benefit the most 
 | ------ | ----------- |
 |Admiralty Secondary School (ADSS)|Guidelines used in Admiralty Secondary School to guide students to be respectful and responsible digital learners. ![](/images/responsible_online.png)|
 |Ministry of Education (MOE)|Parent Kit – Cyber Wellness for your Child<br>Practicing Cyber Wellness<br>Tips for Personal Data Protection<br>Parent Handbook (I) on Learning with a Personal Learning Device|
-|External Agencies|Media Literacy Council<br>National Crime Prevention Council<br>S.U.R.E. by National Library Board<br>Cyber Security Agency<br>Personal Data Commission of Singapore|
-
+|External Agencies|[Media Literacy Council](https://www.betterinternet.sg/)<br>National Crime Prevention Council<br>[S.U.R.E by National Library](https://sure.nlb.gov.sg/)<br>[Cyber Security Agency](https://www.csa.gov.sg/Tips-Resource/Resources/gosafeonline)<br>[Personal Data Commision of Singapore](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act)|
 
 
