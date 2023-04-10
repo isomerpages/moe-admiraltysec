@@ -27,8 +27,4 @@ The study of the Humanities curriculum is anchored on an **inquiry – based ap
 
 Inquiry – based learning teaches our students how to gather accurate and relevant information about issues such as climate change or social unrest, and to analyse them meaningfully through multiple lenses that can provide them with new insights on current issues. From that, they will be able to make well-reasoned, evidence-based conclusions which can help to improve or better the current landscape, along with taking actions that can benefit our society. The Humanities curriculum also encourages our students to think critically about the evidences being used to support different conclusions and decisions.
 
-Organisation
-------------
-
-![](/images/humanities.png)
 
