@@ -51,11 +51,6 @@ Date: After End of Year Examinations
 
 Venue: Kallang Netball Centre
 
-Organisation
-------------
-
-![](/images/netball.png)
-
 Photos of Students in Key Activities
 -----------------------------------
 
