@@ -55,6 +55,3 @@ Students experience design through sketching lessons and complete projects based
 **Achievements**
 
 ![](/images/cnt3.png)
-
-
-
