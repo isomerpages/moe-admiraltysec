@@ -2,7 +2,7 @@
 title: Art and Environment Club
 permalink: /art-and-environment-club/co-curricular-activities/club-and-societies/permalink/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 Introduction
 ------------
@@ -49,10 +49,6 @@ Key Activities (Annual)
     
 *   LEAD, REDUCE @NWCDC outreach community programme
 
-Organisation
-------------
-
-![](/images/environment.png)
 
 Photos of Students in Key Activities
 ------------------------------------
