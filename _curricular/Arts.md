@@ -81,20 +81,6 @@ Other
 *   Museum Visits
 *   Tertiary Open House
 
-Organisation
-------------
-
-**IP Head**
-
-*   Mr Phua Tian Peng (HOD Knowledge Management)
-
-  
-
-**Teachers**
-
-*   Mdm Sharifah Nur Hidayah Albar (Sec 1 Coordinator)
-*   Mdm Joyce Seow (Sec 2 Coordinator)
-*   Mdm Tamil Selvi d/o Ramanujam / Mrs Selva (Sec 3 Coordinator)
 
 ![](/images/art.png)
 ![](/images/art2.png)
