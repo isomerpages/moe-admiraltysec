@@ -26,8 +26,7 @@ Programmes and Outcomes
 ------------
 **2019 Work Experience Programme (WEP)**
 
-<img src="/images/poa.png" 
-     style="width:35%;float:right">
+<img src="/images/poa.png" style="width:35%;float:right">
 		 
 The objectives of the programme are:
 * To expose student to authentic working environment
@@ -36,8 +35,7 @@ The objectives of the programme are:
 
 **2021 Financial Literacy for Youths (FLY) Competition**
 
-<img src="/images/poa3.png" 
-     style="width:35%;float:right">
+<img src="/images/poa3.png" style="width:35%;float:right">
 The objectives of the competition:
 Promote financial literacy among youths
 Cultivate entrepreneurial spirit in managing finances
@@ -46,8 +44,7 @@ There were two rounds of online challenges for this competition. All participati
 
 **2022 POA Quest organized by Deyi Secondary School**
 
-<img src="/images/poa4.png" 
-     style="width:35%;float:right">
+<img src="/images/poa4.png" style="width:35%;float:right">
 
 The objectives of the competition are:
 
@@ -59,7 +56,5 @@ The objectives of the competition are:
 The Quest was conducted online via Zoom.  
 Students joined the breakout rooms and were given instructions by their individual Game Masters.
 
-Organisation
-------------
 
-![](/images/poa5.png)
+
