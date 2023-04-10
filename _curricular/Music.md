@@ -23,9 +23,5 @@ In Secondary 2, students learn how to use digital audio software on their person
 
 ![](/images/music3.png)
 
-Organisation
-------------
-
-Ms Thein Ying Jie Elena
 
 Mr Marcus Goh Wei Ming
