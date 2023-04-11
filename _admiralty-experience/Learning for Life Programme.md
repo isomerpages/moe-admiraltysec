@@ -52,7 +52,7 @@ Our Student Leadership Development programmes are in line with the school’s vi
 
 ![](/images/project_management_dt_workshop.png)
 
-<center> Project Management & Design Thinking Workshops for VIA Leaders</center>
+<center> Project Management &amp; Design Thinking Workshops for VIA Leaders</center>
 
 ![](/images/via_project_sharing.png)
 
@@ -74,21 +74,4 @@ Our Student Leadership Development programmes are in line with the school’s vi
 
 <center>Be the Change Agent Exhibition by Secondary 4 Admirals</center>
 
-Organisation
-------------
-
-![](/images/llp.png)
-
-<img src="/images/Student%20Council.jpeg" 
-     style="width:50%">
-
-<center>20th Batch of Student Council Executive Committee
-<br>(2022 – 2023)</center>
-
-![](/images/20sc.png)
-
-<center>19th Batch of Student Council Executive Committee
-<br>(2021 – 2022)</center>
-
 ![](/images/19sc.png)
-
