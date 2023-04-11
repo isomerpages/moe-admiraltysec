@@ -18,7 +18,7 @@ Through curriculum re-design, the school has adopted a novel approach to ALP by 
 
   
 
-This novelty allows students to experience a seamless learning experience through integrating STEM, DT and real-life applications together. This unique ALP is known as **Design Thinking through Innovation and Technology**.
+This novelty allows students to experience a seamless learning experience through integrating STEM, DT and real-life applications together. This unique ALP is known as&nbsp;**Design Thinking through Innovation and Technology**.
 
 Programmes and Outcomes
 -----------------------
@@ -45,8 +45,7 @@ In Secondary 2, students are provided a higher level of training in DT, STEM and
 
 To provide students with more opportunities to showcase their work and learn from one another, the school took part in the ALP Learning Festival, where students from various schools participated in different workshops and learnt from each other during the main day event. Sharing of various ALP projects done by students from different schools encouraged the sharing of innovative ideas and promotes the learning of STEM.
 
-<img src="/images/alp5.png" 
-     style="width:50%">
+<img src="/images/alp5.png" style="width:50%">
 
 **Tier 2 Programme – Applied Lifelong Learning Program (ALLP)**
 
@@ -67,25 +66,4 @@ Besides the enrichment provisions, the school also sends our ALP students to par
 
 ![](/images/alp9.png)
 
-Organisation
-------------
-
-**Key Personnel**
-
-*   Mr Tan Han Yu Melvin (HOD/Science)
-*   Mdm Woo Lai Yee Samantha (SH/D&T)
-*   Mr Ch’ng Hong Tatt (ST)
-*   Mr Coleman Chong Lee Soong (ST)
-
-  
-
-**Members**
-
-*   Mr Kenneth Phua Khiang Song
-*   Mdm Jessie Gee Wai Hoo
-*   Ms Tiong Rui Shan
-*   Ms Elena Thein
-*   Ms Andrea Wong
-*   Mdm Mas Ayu
-*   Ms Nur Syazana Binte Rashid
 *   Ms Janice Lim Hong Min
