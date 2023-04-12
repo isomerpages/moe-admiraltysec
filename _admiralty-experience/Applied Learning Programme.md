@@ -66,4 +66,3 @@ Besides the enrichment provisions, the school also sends our ALP students to par
 
 ![](/images/alp9.png)
 
-*   Ms Janice Lim Hong Min
