@@ -65,4 +65,3 @@ Every year, several interest-based workshops would also be organised, to help en
 Besides the enrichment provisions, the school also sends our ALP students to participate in STEM related competitions, such as the Design Thinking with Robotics and Computational Thinking (Dr. CT) International Competition, Bebras International Challenge on Informatics and Computational Thinking, as well as the Intel AI Global Impact Festival. Our school has performed consistently well in such competitions and some of our students were extend invitations to join higher tier competitions such as the National Software Competition.
 
 ![](/images/alp9.png)
-
