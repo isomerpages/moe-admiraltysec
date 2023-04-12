@@ -2,7 +2,7 @@
 title: Art and Environment Club
 permalink: /co-curricular-activities/clubs-and-societies/art-and-environment-club/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 Introduction
 ------------
