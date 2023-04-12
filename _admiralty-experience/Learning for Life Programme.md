@@ -74,4 +74,5 @@ Our Student Leadership Development programmes are in line with the school’s vi
 
 <center>Be the Change Agent Exhibition by Secondary 4 Admirals</center>
 
-![](/images/19sc.png)
+
+
