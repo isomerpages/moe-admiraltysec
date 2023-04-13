@@ -5,7 +5,7 @@ description: ""
 ---
 #### Click on the icon and follow us!
 
-<a href="link address"><img src="/images/f_logo_rgb-blue_58.png" align="left" style="width:10%"></a>
+<a href="https://www.facebook.com/people/Admiralty-Secondary-School/"><img src="/images/f_logo_rgb-blue_58.png" align="left" style="width:10%"></a>
 
 <br>
 <br>
