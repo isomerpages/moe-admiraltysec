@@ -40,7 +40,7 @@ sections:
       subtitle: News and Highlights
       description: 2023 Sec 1 Orientation
       button: Click here to find out more
-      url: /orienation/news-and-highlights/permalink/
+      url: /orientation/news-and-highlights/permalink/
       image: /images/2023orientationmain.png
       alt: Image alt text
 ---
