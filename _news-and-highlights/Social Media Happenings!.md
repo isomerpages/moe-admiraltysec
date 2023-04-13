@@ -3,7 +3,12 @@ title: Social Media Happenings!
 permalink: /social/news-and-highlights/permalink/
 description: ""
 ---
-Click on the Instagram or Facebook icon to follow us for more happenings!
+#### Click on the icon and follow us!
+
+<a href="link address"><img src="/images/f_logo_rgb-blue_58.png" align="left" style="width:10%"></a>
+
+<br>
+<br>
 
 
 
