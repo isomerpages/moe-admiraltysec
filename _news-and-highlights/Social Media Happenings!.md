@@ -3,30 +3,39 @@ title: Social Media Happenings!
 permalink: /social/news-and-highlights/permalink/
 description: ""
 ---
-<img src="/images/social13.png" style="width:80%">
+<img src="/images/social13.png" style="width:75%">
 
-![](/images/social13.png)
+<img src="/images/social12.png" style="width:75%">
 
-![](/images/social12.png)
+<img src="/images/social11.png" style="width:75%">
 
-![](/images/social11.png)
+<img src="/images/social10.png" style="width:75%">
 
-![](/images/social10.png)
+<img src="/images/social9.png" style="width:75%">
 
-![](/images/social9.png)
+<img src="/images/social8.png" style="width:75%">
 
-![](/images/social8.png)
+<img src="/images/social7.png" style="width:75%">
 
-![](/images/social7.png)
+<img src="/images/social6.png" style="width:75%">
 
-![](/images/social6.png)
+<img src="/images/social5.png" style="width:75%">
 
-![](/images/social5.png)
+<img src="/images/social4.png" style="width:75%">
 
-![](/images/social4.png)
+<img src="/images/social3.png" style="width:75%">
 
-![](/images/social3.png)
+<img src="/images/social2.png" style="width:75%">
 
-![](/images/social2.png)
+<img src="/images/social1.png" style="width:75%">
 
-![](/images/social1.png)
+
+
+
+
+
+
+
+
+
+
