@@ -14,7 +14,8 @@ Parents play a key role in their children’s growth. Students benefit the most 
 | ------ | ----------- |
 |*  Respect for self and others <br>* Safe and responsible use<br>* Positive Peer influence|* Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities.<br>* Be a safe and responsible user of technology and maintain a positive online presence.<br>* Be responsible for personal well-being in the cyberspace.|
 
-##### Resources for Parents:
+##### Resources for Parents1:
+
 |Source|Quick links/Reference|
 | ------ | ----------- |
 |Ministry of Education (MOE)|[Parent Kit - Cyber Wellness for you Child](/files/parent_kit.pdf)<br>[Tips for Personal Data Protection](/files/tips_for_parents.pdf)<br>[Parent Handbook (I) on Learning with a Personal Learning Device](/files/annex_2-5_parent_handbook_i_on_learning_with_a_pld.pdf)|
