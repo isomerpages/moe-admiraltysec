@@ -10,6 +10,8 @@ With Full SBB, we are moving towards one secondary education, with many subject 
 By 2024, secondary schools will have implemented the following aspects of Full SBB:
 * Offering of Humanities subjects at a more demanding level from Secondary 2; and
 * Mixed form classes with the provision of a common curriculum.
+
+
 #### Full SBB in Secondary School in 2022
 
 |Aspect of Full SBB|How will this aspect be implemented?|
