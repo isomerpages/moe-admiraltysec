@@ -28,6 +28,14 @@ sections:
       description: Awards and Achievements
       subtitle: News and highlights
   - infopic:
+      title: Instagram and Facebook
+      subtitle: "Follow us on "
+      description: Get the Latest Update!
+      button: Click Here to find out more
+      url: /social/news-and-highlights/permalink/
+      alt: Image alt text
+      image: /images/2023rugbybowl.jpg
+  - infopic:
       title: "2023 "
       subtitle: News and highlights
       description: Chinese New Year Celebrations
@@ -43,12 +51,4 @@ sections:
       url: /orientation/news-and-highlights/permalink/
       image: /images/2023orientationmain.png
       alt: Image alt text
-  - infopic:
-      title: Instagram and Facebook
-      subtitle: "Follow us on "
-      description: Get the Latest Update!
-      button: Click Here to find out more
-      url: /social/news-and-highlights/permalink/
-      alt: Image alt text
-      image: /images/2023rugbybowl.jpg
 ---
