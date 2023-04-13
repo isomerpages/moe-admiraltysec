@@ -18,5 +18,6 @@ Parents play a key role in their children’s growth. Students benefit the most 
 
 |Source|Quick links/Reference|
 | ------ | ----------- |
+|Admiralty Secondary School|Guidelines used in Admiralty Secondary School to guide students to be respectful and responsible digital learners.|
 |Ministry of Education (MOE)|[Parent Kit - Cyber Wellness for you Child](/files/parent_kit.pdf)<br>[Tips for Personal Data Protection](/files/tips_for_parents.pdf)<br>[Parent Handbook (I) on Learning with a Personal Learning Device](/files/annex_2-5_parent_handbook_i_on_learning_with_a_pld.pdf)|
 |External Agencies|[Media Literacy Council](https://www.betterinternet.sg/)<br>[National Crime Prevention Council](https://www.ncpc.org.sg/)<br>[S.U.R.E by National Library](https://sure.nlb.gov.sg/)<br>[Cyber Security Agency](https://www.csa.gov.sg/Tips-Resource/Resources/gosafeonline)<br>[Personal Data Commision of Singapore](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act)|
