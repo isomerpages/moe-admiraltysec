@@ -46,8 +46,9 @@ sections:
   - infopic:
       title: Instagram and Facebook
       subtitle: "Follow us on "
-      description: Infopic description
+      description: to get the latest update!
       button: Click Here to find out more
-      url: /testing
+      url: /social/news-and-highlights/permalink/
       alt: Image alt text
+      image: /images/2023rugbybowl.jpg
 ---
