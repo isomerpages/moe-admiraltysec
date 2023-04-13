@@ -46,7 +46,7 @@ sections:
   - infopic:
       title: Instagram and Facebook
       subtitle: "Follow us on "
-      description: Get the latest update!
+      description: Get the Latest Update!
       button: Click Here to find out more
       url: /social/news-and-highlights/permalink/
       alt: Image alt text
