@@ -43,4 +43,11 @@ sections:
       url: /orientation/news-and-highlights/permalink/
       image: /images/2023orientationmain.png
       alt: Image alt text
+  - infopic:
+      title: Instagram and Facebook
+      subtitle: "Follow us on "
+      description: Infopic description
+      button: Click Here to find out more
+      url: /testing
+      alt: Image alt text
 ---
