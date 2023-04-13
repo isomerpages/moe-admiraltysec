@@ -14,7 +14,7 @@ Parents play a key role in their children’s growth. Students benefit the most 
 | ------ | ----------- |
 |*  Respect for self and others <br>* Safe and responsible use<br>* Positive Peer influence|* Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities.<br>* Be a safe and responsible user of technology and maintain a positive online presence.<br>* Be responsible for personal well-being in the cyberspace.|
 
-##### Resources for Parents2:
+##### Resources for Parents:
 
 |Source|Quick links/Reference|
 | ------ | ----------- |
