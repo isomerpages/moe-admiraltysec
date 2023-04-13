@@ -4,7 +4,7 @@ permalink: /social/news-and-highlights/permalink/
 description: ""
 ---
 #### Click on the icon and follow us!
-<a href="https://www.facebook.com/people/Admiralty-Secondary-School/"><img src="/images/f_logo_rgb-blue_58.png" align="left" style="width:10%"></a><a href="https://www.instagram.com/admiraltysecschool/"><img src="/images/instagram_glyph_gradient.png" align="left" style="width:10%"></a>
+<a href="https://www.facebook.com/profile.php?id=100064303914608"><img src="/images/f_logo_rgb-blue_58.png" align="left" style="width:10%"></a><a href="https://www.instagram.com/admiraltysecschool/"><img src="/images/instagram_glyph_gradient.png" align="left" style="width:10%"></a>
 
 
 
