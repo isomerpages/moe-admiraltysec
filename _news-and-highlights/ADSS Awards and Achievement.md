@@ -8,7 +8,16 @@ description: ""
 
 #### PARTNERSHIP AWARDS
 ![](/images/admiralty%20secondary%20school%20banner%20with%20nwcdc.png)
-#### SPORTS AND UNIFORMED GROUP AWARDS
+
+#### SPORTS AND PERFORMING ARTS AWARDS
+
+| Title | Award | Awardees |
+| --------- | ----- | ---------------------- |
+|2023 National School Games (Rugby B Division)| 3rd (Bowl Championship)| Rugby B Division|
+|SYF 2023 Arts Presention for Dance|Accomplishment (International Dance)| Dance CCA|
+|SYF 2023 Arts Presention for Guzheng Ensemble|Accomplishment (Guzheng Ensemble)|Guzheng Ensemble CCA|
+
+#### UNIFORMED GROUP AWARDS
 
 | Title | Award | Awardees |
 | --------- | ----- | ---------------------- |

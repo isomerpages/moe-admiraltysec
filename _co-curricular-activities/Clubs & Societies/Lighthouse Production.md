@@ -1,6 +1,6 @@
 ---
 title: Lighthouse Production
-permalink: /co-curricular-activities/clubs-and-societies/lighthouse-production/permalink/
+permalink: /co-curricular-activities/clubs-and-societies/lighthouse-production/
 description: ""
 third_nav_title: Clubs & Societies
 ---
@@ -49,5 +49,3 @@ Others
 Camp Bulb: Annual CCA Training and Bonding Camp
 
 ![](/images/lighthouse2.png)
-
-

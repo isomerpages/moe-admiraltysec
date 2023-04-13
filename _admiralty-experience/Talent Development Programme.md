@@ -23,6 +23,9 @@ There are also many opportunities to represent the school in competitions:
 *   Genetic Modification Advisory Committee (GMAC) Students Challenge
 *   Singapore National Crystal Growing Challenge
 *   Singapore Junior Physics Olympiad
-*   First Lego League 2022
-*   National Robotics Competition 2022
+*   First Lego League (FLL)
+*   National Robotics Competition (NRC)
+*   National Olympiad in Informatics (NOI)
 *   Tan Kah Kee Young Inventors’ Award
+
+

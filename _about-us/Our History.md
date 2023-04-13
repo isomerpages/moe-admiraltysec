@@ -3,7 +3,7 @@ title: Our History
 permalink: /about-us/our-history/
 description: ""
 ---
-Admiralty Secondary School (ADSS)celebrated its 20th anniversary in 2022 with the themes of Appreciating our Past, Celebrating our Present and Embracing our future. As we continue our mission of “Empowering Admirals to Actualise their Dreams”, it is important that we appreciate our past.
+Admiralty Secondary School (ADSS) celebrated its 20th anniversary in 2022 with the themes of Appreciating our Past, Celebrating our Present and Embracing our future. As we continue our mission of “Empowering Admirals to Actualise their Dreams”, it is important that we appreciate our past.
 
   
 
