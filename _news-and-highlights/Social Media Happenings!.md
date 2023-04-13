@@ -3,8 +3,7 @@ title: Social Media Happenings!
 permalink: /social/news-and-highlights/permalink/
 description: ""
 ---
-
-
+<img src="/images/social13.png" style="width:80%">
 
 ![](/images/social13.png)
 
