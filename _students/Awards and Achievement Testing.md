@@ -13,16 +13,16 @@ description: ""
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">SPORTS AND PERFORMING ARTS AWARDS</label><div>
 <p>
-<table>
+<table style="width:100%">
   <tbody><tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th style="width=40%">Title</th>
+    <th style="width=40%">Award</th>
+    <th style="width=20%">Awardees</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>2023 National School Games (Rugby B Division)</td>
+    <td>3rd (Bowl Championship)</td>
+    <td>Rugby B Division</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
