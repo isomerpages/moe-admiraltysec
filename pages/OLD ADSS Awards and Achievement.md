@@ -1,6 +1,6 @@
 ---
-title: ADSS Awards and Achievement
-permalink: /awards/news-and-highlights/permalink/
+title: OLD ADSS Awards and Achievement
+permalink: /permalink/
 description: ""
 ---
 # Our ADSS Awards and Achievements (2023)

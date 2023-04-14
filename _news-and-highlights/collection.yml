@@ -2,8 +2,8 @@ collections:
   news-and-highlights:
     output: true
     order:
-      - ADSS Awards and Achievement.md
-      - Social Media Happenings!.md
+      - ADSS Awards and Achievements.md
+      - Happenings at ADSS!.md
       - 2023 Chinese New Year.md
       - 2023 Sec 1 Orientation.md
       - 2022 Staff Retreat.md
