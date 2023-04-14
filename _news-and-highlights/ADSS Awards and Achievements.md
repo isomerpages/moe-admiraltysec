@@ -11,7 +11,7 @@ description: ""
 
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1">
-<label style="color:blue" for="accordion1">SPORTS AND PERFORMING ARTS AWARDS</label><div>
+<label style="color:darkblue;font-size:20px;" for="accordion1">SPORTS AND PERFORMING ARTS AWARDS</label><div>
 <p>
 <table style="width:100%;font-size:14px;">
   <tbody><tr>
