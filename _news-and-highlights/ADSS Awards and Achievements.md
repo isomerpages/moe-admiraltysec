@@ -64,7 +64,7 @@ description: ""
 </div></li>
 	
 <li><input type="checkbox" id="accordion3">
-<label for="accordion3">Science, Technology, Engineering, Mathematics (STEM) RELATED AWARDS</label><div>
+<label style="color:blue" for="accordion3">Science, Technology, Engineering, Mathematics (STEM) RELATED AWARDS</label><div>
 <p><table style="width:100%;font-size:14px;">
   <tbody><tr>
 		   <th style="width=40%">Title</th>
@@ -166,7 +166,7 @@ description: ""
 
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion4">
-<label for="accordion4"> LANGUAGE RELATED AWARDS</label><div>
+<label style="color=blue" for="accordion4"> LANGUAGE RELATED AWARDS</label><div>
 <p>
 <table style="width:100%;font-size:14px;">
   <tbody><tr>
@@ -195,7 +195,7 @@ description: ""
 
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion5">
-<label for="accordion5"> ALUMNI RELATED AWARDS</label><div>
+<label style="color:blue" for="accordion5"> ALUMNI RELATED AWARDS</label><div>
 <p>
 <table style="width:100%;font-size:14px;">
   <tbody><tr>
