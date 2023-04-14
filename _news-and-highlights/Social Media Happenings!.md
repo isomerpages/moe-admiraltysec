@@ -16,11 +16,11 @@ description: ""
 
 
 
-<img src="/images/social13.png" style="width:75%">
+|  |  |
+| -------- | -------- | 
+|<img src="/images/social13.png" style="width:100%">|<img src="/images/social12.png" style="width:100%">|
 
-<img src="/images/social12.png" style="width:75%">
-
-<img src="/images/social11.png" style="width:75%">
+<img src="/images/social11.png" style="width:175%">
 
 <img src="/images/social10.png" style="width:75%">
 
