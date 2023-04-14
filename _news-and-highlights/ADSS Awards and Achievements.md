@@ -4,7 +4,6 @@ permalink: /awards/news-and-highlights/permalink/
 description: ""
 ---
 # Our ADSS Awards and Achievements (2023)
-<br>
 
 #### PARTNERSHIP AWARDS
 ![](/images/admiralty%20secondary%20school%20banner%20with%20nwcdc.png)
@@ -164,7 +163,6 @@ description: ""
 </p>
 </div></li>
 
-<ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion4">
 <label style="color:darkblue;font-size:20px;" for="accordion4"> LANGUAGE RELATED AWARDS</label><div>
 <p>
@@ -193,7 +191,6 @@ description: ""
 </tbody></table>
 </p></div></li>
 
-<ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion5">
 <label style="color:darkblue;font-size:20px;" for="accordion5"> ALUMNI RELATED AWARDS</label><div>
 <p>
@@ -231,6 +228,8 @@ description: ""
 </tbody></table>
 </p></div></li>
 
+</ul>
 
 
-</ul></ul></ul>
+
+
