@@ -12,6 +12,13 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">SPORTS AND PERFORMING ARTS AWARDS</label><div>
+<p>Testing</p>
+</div></li>
+	
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">UNIFORMED GROUP AWARD</label><div>
+<p>Insert content here</p>
+</div></li>
 	
 
 #### SPORTS AND PERFORMING ARTS AWARDS
@@ -74,4 +81,4 @@ description: ""
 |Ngee Ann Polytechnic Award (2022)|1. Xilinx Asia Pacific Gold Medal &amp; Prize<br>2. IES Award<br>3. Diploma with Merit<br>|Nicholas Ling Zong Yi (Class of 2018)|
 |Ngee Ann Polytechnic Award (2022)|Diploma with Merit| Ashlyn Samuel Abey (Class of 2018)|
 
-------------------</div></li></ul>
+------------------</ul>
