@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Awards and Achievement Testing.md
       - 2023 Timetable.md
       - Addylink (Students).md
       - Library OPAC.md
