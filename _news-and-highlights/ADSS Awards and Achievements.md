@@ -65,7 +65,7 @@ description: ""
 	
 <li><input type="checkbox" id="accordion3">
 <label for="accordion3">Science, Technology, Engineering, Mathematics (STEM) RELATED AWARDS</label><div>
-<p><br><br><br><br><br><table style="width:100%">
+<p><table style="width:100%">
   <tbody><tr>
 		   <th style="width=40%">Title</th>
     <th style="width=40%">Award</th>
