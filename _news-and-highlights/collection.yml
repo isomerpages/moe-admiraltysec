@@ -2,7 +2,7 @@ collections:
   news-and-highlights:
     output: true
     order:
-      - Awards and AchievementS.md
+      - ADSS Awards and Achievements.md
       - OLD ADSS Awards and Achievement.md
       - Social Media Happenings!.md
       - 2023 Chinese New Year.md
