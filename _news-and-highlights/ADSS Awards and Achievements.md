@@ -163,7 +163,6 @@ description: ""
 </p>
 </div></li>
 
-<ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion4">
 <label style="color:darkblue;font-size:20px;" for="accordion4"> LANGUAGE RELATED AWARDS</label><div>
 <p>
@@ -192,7 +191,6 @@ description: ""
 </tbody></table>
 </p></div></li>
 
-<ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion5">
 <label style="color:darkblue;font-size:20px;" for="accordion5"> ALUMNI RELATED AWARDS</label><div>
 <p>
@@ -235,4 +233,3 @@ description: ""
 
 
 
-</ul></ul>
