@@ -25,16 +25,42 @@ description: ""
     <td>Rugby B Division</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>SYF 2023 Arts Presention for Dance</td>
+    <td>Accomplishment (International Dance)</td>
+    <td>Dance CCA</td>
   </tr>
-</tbody></table></p>
-</div></li>
+		  <tr>
+    <td>SYF 2023 Arts Presention for Guzheng Ensemble</td>
+    <td>Accomplishment (Guzheng Ensemble</td>
+    <td>Guzheng Ensemble CCA</td>
+  </tr>
+</tbody></table>
+</p></div></li>
 	
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">UNIFORMED GROUP AWARD</label><div>
-<p>Insert content here</p>
+<p><table style="width:100%">
+  <tbody><tr>
+    <th style="width=40%">Title</th>
+    <th style="width=40%">Award</th>
+    <th style="width=20%">Awardees</th>
+  </tr>
+  <tr>
+    <td>Unit Recognition 2022</td>
+    <td>Distinction</td>
+    <td>NCC (Land)</td>
+  </tr>
+  <tr>
+    <td>Unit Overall Proficiency Award 2022</td>
+    <td>Distinction</td>
+    <td>NPCC</td>
+  </tr>
+		  <tr>
+    <td>Unit Overall Proficiency Award 2022</td>
+    <td>Distinction</td>
+    <td>NCDCC</td>
+  </tr>
+</tbody></table></p>
 </div></li>
 	
 
