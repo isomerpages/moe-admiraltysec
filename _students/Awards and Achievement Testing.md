@@ -166,7 +166,7 @@ description: ""
 
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion4">
-<label for="accordion4"> LANGUAGE RELATED AWARDS</label><div>
+<label for="accordion4"> ACADEMIC RELATED AWARDS</label><div>
 <p>
 <table style="width:100%">
   <tbody><tr>
