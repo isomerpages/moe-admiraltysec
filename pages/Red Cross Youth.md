@@ -1,6 +1,6 @@
 ---
 title: Red Cross Youth
-permalink: /red-cross-youth/co-curricular-activities/uniform-groups/permalink/
+permalink: /permalink/
 description: ""
 ---
 Introduction

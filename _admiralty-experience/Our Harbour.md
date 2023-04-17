@@ -1,5 +1,5 @@
 ---
-title: Our Habour
+title: Our Harbour
 permalink: /admiralty-experience/our-habour/
 description: ""
 ---
@@ -44,8 +44,3 @@ Phoenix 5 Anson
 ![](/images/habour1.png)
 ![](/images/habour2.png)
 <img src="/images/habour3.png" style="width:50%">
-		
-
-
-
-
