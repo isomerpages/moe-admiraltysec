@@ -37,7 +37,7 @@ description: ""
 </p></div></li>
 	
 <li><input type="checkbox" id="accordion2">
-<label style="color:darkblue;font-size:20px;" for="accordion2">UNIFORMED GROUP AWARD</label><div>
+<label style="color:darkblue;font-size:20px;" for="accordion2">UNIFORMED GROUP AWARDS</label><div>
 <p><table style="width:100%;font-size:14px;">
   <tbody><tr>
     <th style="width=40%">Title</th>
@@ -229,7 +229,3 @@ description: ""
 </p></div></li>
 
 </ul>
-
-
-
-
