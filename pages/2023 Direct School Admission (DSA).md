@@ -37,6 +37,5 @@ Click on the talent areas to find out more!
 
 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Rugby (Boys)](/rugby/co-curricular-activities/sports/permalink)
 
-[](https://www.moe.gov.sg/dsa-sec)
 
 The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
