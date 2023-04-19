@@ -19,7 +19,7 @@ Admiralty Secondary is offering DSA in the following talent areas:
 
 Click on the talent areas to find out more!
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Robotics (Girls and Boys)](/robotics-club/co-curricular-activities/club-and-society/permalink)
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Robotics (Girls and Boys)](/co-curricular-activities/clubs-and-societies/robotics-club/permalink/)
 
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[STEM (Girls and Boys)](/admiralty-experience/applied-learning-programme/permalink/)
 
