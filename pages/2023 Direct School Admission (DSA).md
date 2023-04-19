@@ -21,7 +21,7 @@ Click on the talent areas to find out more!
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Robotics (Girls and Boys)](/robotics-club/co-curricular-activities/club-and-society/permalink)
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[STEM (Girls and Boys)](/introduction/applied-learning-program/permalink)
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[STEM (Girls and Boys)](/admiralty-experience/applied-learning-programme/permalink/)
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Community Youth Leadership (Girls and Boys)](/learning-for-life-programme/permalink)
 
