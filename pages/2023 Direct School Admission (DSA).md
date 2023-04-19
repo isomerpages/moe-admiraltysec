@@ -15,7 +15,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 #### Direct School Admission Talent Areas
 
-Admiralty Secondary is offering DSA in the following 9 talent areas:  
+Admiralty Secondary is offering DSA in the following talent areas:  
 
 Click on the talent areas to find out more!
 
