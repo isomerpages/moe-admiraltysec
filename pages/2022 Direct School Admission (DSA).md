@@ -12,27 +12,27 @@ description: ""
 
 Admiralty Secondary is offering DSA in the following 9 talent areas:  
 
-1.     [Robotics (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/robotics-club/co-curricular-activities/club-and-society/permalink)
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Robotics (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/robotics-club/co-curricular-activities/club-and-society/permalink)
 
-2.     [STEM (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/introduction/applied-learning-program/permalink)
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[STEM (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/introduction/applied-learning-program/permalink)
 
-3.     [Community Youth Leadership (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/learning-for-life-programme/permalink)
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Community Youth Leadership (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/learning-for-life-programme/permalink)
 
-4.     [National Civil Defence Cadet Corps (NCDCC) (Boys and Girls)](https://moe-admiraltysec-staging.netlify.app/national-civil-defence-cadet-corps/co-curricular-activities/uniform-groups/permalink)
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[National Civil Defence Cadet Corps (NCDCC) (Boys and Girls)](https://moe-admiraltysec-staging.netlify.app/national-civil-defence-cadet-corps/co-curricular-activities/uniform-groups/permalink)
 
-5.     [Concert Band (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/concert-band/co-curricular-activities/performing-arts/permalink)
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Concert Band (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/concert-band/co-curricular-activities/performing-arts/permalink)
 
-6.     [Ensemble Guzheng (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/guzheng-ensemble/co-curricular-activities/performing-arts/permalink)
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ensemble Guzheng (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/guzheng-ensemble/co-curricular-activities/performing-arts/permalink)
 
-7.     [Wushu (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/wushu/co-curricular-activities/sports/permalink)
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wushu (Girls and Boys)](https://moe-admiraltysec-staging.netlify.app/wushu/co-curricular-activities/sports/permalink)
 
-8.     [Netball (Girls)](https://moe-admiraltysec-staging.netlify.app/netball/co-curricular-activities/sports/permalink)
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Netball (Girls)](https://moe-admiraltysec-staging.netlify.app/netball/co-curricular-activities/sports/permalink)
 
-9.     [Rugby (Boys)](https://moe-admiraltysec-staging.netlify.app/rugby/co-curricular-activities/sports/permalink)
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Rugby (Boys)](https://moe-admiraltysec-staging.netlify.app/rugby/co-curricular-activities/sports/permalink)
 
 [](https://www.moe.gov.sg/dsa-sec)
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 

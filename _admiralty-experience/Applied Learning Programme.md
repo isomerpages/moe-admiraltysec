@@ -1,6 +1,6 @@
 ---
 title: Applied Learning Programme
-permalink: /admiralty-experience/applied-learning-programme/
+permalink: /admiralty-experience/applied-learning-programme/permalink/
 description: ""
 ---
 Introduction

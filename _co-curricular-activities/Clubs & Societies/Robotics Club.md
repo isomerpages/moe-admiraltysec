@@ -1,6 +1,6 @@
 ---
 title: Robotics Club
-permalink: /co-curricular-activities/clubs-and-societies/robotics-club/
+permalink: /co-curricular-activities/clubs-and-societies/robotics-club/permalink/
 description: ""
 third_nav_title: Clubs & Societies
 ---
@@ -23,5 +23,3 @@ Programmes and Outcomes
 There are four areas of enrichment that a member would be exposed to throughout his/her 4- to 5-year journey in RC.
 
 ![](/images/Programmes%20and%20Outcomes.jpeg)
-
-
