@@ -87,6 +87,16 @@ description: ""
     <th style="width=20%">Awardees</th>
   </tr>
 		<tr>
+			<td>Robotics: First Lego League 2023 - Robot Performance Award</td>
+			<td>1st Runner-up</td>
+			<td>1. Liang Yun Zhi Benji (P1)<br>2. Serrano Elaine Gheorge Miranda (P2)<br>3. Tay Yong Le (P7)<br>4. Jaden Liew Jun Hao (A8)</td>
+		</tr>
+				<tr>
+			<td>Robotics: First Lego League 2023 - Robot Performance Award</td>
+			<td>2nd Runner-up</td>
+			<td>1. Nicholas Cheok Han Leng (A5)<br>2. Julia Law (Liu Qianyu) (A9)<br>3. Merlynn Chia (A9)<br></td>
+		</tr>
+		<tr>
 			<td>National Olympiad in Informatics 2023</td>
 			<td>Finalist</td>
 			<td>1. Wong Zhen Rui (L8)<br>2. Teiw Xuan Zhi Hayden (L8)<br>3. Ee Ying Xuan (L6)<br>4. Ooh Yu Heng (L6)<br>5. Deelys Lee Yan Qi (L6)<br></td>
