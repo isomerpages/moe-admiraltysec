@@ -87,13 +87,18 @@ description: ""
     <th style="width=20%">Awardees</th>
   </tr>
 		<tr>
-			<td>Robotics: First Lego League 2023 </td>
-			<td>Championship (2nd Runner-up) <br> <br>Robot Performance Award (1st Runner-up)</td>
+			<td>Robotics: First Lego League 2023 - Championship (Secondary Category) </td>
+			<td>2nd Runner-up</td>
 			<td>1. Liang Yun Zhi Benji (P1)<br>2. Serrano Elaine Gheorge Miranda (P2)<br>3. Tay Yong Le (P7)<br>4. Jaden Liew Jun Hao (A8)</td>
 		</tr>
 				<tr>
-			<td>Robotics: First Lego League 2023</td>
-			<td>Robot Performance Award (2nd Runner-up)</td>
+			<td>Robotics: First Lego League 2023 - Robot Performance Award </td>
+			<td>1st Runner-up</td>
+			<td>1. Liang Yun Zhi Benji (P1)<br>2. Serrano Elaine Gheorge Miranda (P2)<br>3. Tay Yong Le (P7)<br>4. Jaden Liew Jun Hao (A8)</td>
+		</tr>
+				<tr>
+			<td>Robotics: First Lego League 2023 - Robot Performance Award </td>
+			<td>2nd Runner-up</td>
 			<td>1. Nicholas Cheok Han Leng (A5)<br>2. Julia Law (Liu Qianyu) (A9)<br>3. Merlynn Chia (A9)<br></td>
 		</tr>
 		<tr>
