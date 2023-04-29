@@ -19,12 +19,12 @@ description: ""
     <th style="width=20%">Awardees</th>
   </tr>
 			  <tr>
-    <td>2023 National School Games </td>
+    <td>2023 National School Games (Track &amp; Field) </td>
     <td>Gold (C Division Boys - 800m)</td>
     <td>Oliver Fiore (P5)</td>
   </tr>
 		  <tr>
-    <td>2023 National School Games </td>
+    <td>2023 National School Games (Track &amp; Field) </td>
     <td>Silver (C Division Boys - 400m)</td>
     <td>Oliver Fiore (P5)</td>
   </tr>
