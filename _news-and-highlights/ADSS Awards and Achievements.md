@@ -18,6 +18,16 @@ description: ""
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+			  <tr>
+    <td>2023 National School Games </td>
+    <td>Gold (C Division Boys - 800m)</td>
+    <td>Oliver Fiore (P5)</td>
+  </tr>
+		  <tr>
+    <td>2023 National School Games </td>
+    <td>Silver (C Division Boys - 400m)</td>
+    <td>Oliver Fiore (P5)</td>
+  </tr>
   <tr>
     <td>2023 National School Games (Rugby B Division)</td>
     <td>3rd (Bowl Championship)</td>
@@ -28,11 +38,17 @@ description: ""
     <td>Accomplishment (International Dance)</td>
     <td>Dance CCA</td>
   </tr>
+						  <tr>
+    <td>SYF 2023 Arts Presention for Band - Concert</td>
+    <td>Commendation</td>
+    <td>Concert Band CCA</td>
+  </tr>
 		  <tr>
     <td>SYF 2023 Arts Presention for Guzheng Ensemble</td>
-    <td>Accomplishment (Guzheng Ensemble</td>
+    <td>Accomplishment (Guzheng Ensemble)</td>
     <td>Guzheng Ensemble CCA</td>
   </tr>
+
 </tbody></table>
 </p></div></li>
 	
