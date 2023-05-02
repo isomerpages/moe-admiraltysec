@@ -51,4 +51,3 @@ Performing Arts | [Concert Band (Girls and Boys)](/concert-band/co-curricular-ac
 
 For any clarifications or queries, please email Mr Phua Tian Peng at phua\_tian\_peng@moe.edu.sg
 
-(https://www.moe.gov.sg/dsa-sec)
