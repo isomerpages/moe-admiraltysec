@@ -13,6 +13,9 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OuUCoDbaHHc" height="315" width="560"></iframe>
 
+[Click here for more video highlights!](/admiralty-experience/permalink/)
+
+
 
 
 #### Direct School Admission Talent Areas
