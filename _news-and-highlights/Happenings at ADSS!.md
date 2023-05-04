@@ -19,4 +19,3 @@ description: ""
 |<img src="/images/social5.png" style="width:100%">|<img src="/images/social4.png" style="width:100%">|
 |<img src="/images/social3.png" style="width:100%">|<img src="/images/social2.png" style="width:100%">|
 |<img src="/images/social1.png" style="width:100%">||
-

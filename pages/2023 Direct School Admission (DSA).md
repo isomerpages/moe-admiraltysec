@@ -7,6 +7,21 @@ The annual DSA-Sec Exercise allows Primary 6 students to seek admission to a par
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
+### The Admiralty Experience
+
+#### 20th Anniversary Video
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OuUCoDbaHHc" height="315" width="560"></iframe>
+
+#### Outreach Video
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Ts3OTNvzUDA" height="315" width="560"></iframe>
+
+[Click here for more video highlights!](/admiralty-experience/permalink/)
+
+
+![](/images/2023igfb.JPG)
+[Click here to see more social media happenings!](/social/news-and-highlights/permalink/)
+
 
 #### Direct School Admission Talent Areas
 
