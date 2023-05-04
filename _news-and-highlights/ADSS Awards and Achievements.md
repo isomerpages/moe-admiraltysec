@@ -34,6 +34,11 @@ description: ""
     <td>Rugby B Division</td>
   </tr>
   <tr>
+    <td>SYF 2023 Arts Presention for Drama</td>
+    <td>Commendation</td>
+    <td>Drama CCA</td>
+  </tr>
+		  <tr>
     <td>SYF 2023 Arts Presention for Dance</td>
     <td>Accomplishment (International Dance)</td>
     <td>Dance CCA</td>
