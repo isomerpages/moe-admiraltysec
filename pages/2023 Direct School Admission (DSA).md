@@ -17,7 +17,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 
 ![](/images/2023igfb.JPG)
-
+[Click here to see more social media happenings!](/social/news-and-highlights/permalink/)
 
 
 #### Direct School Admission Talent Areas
