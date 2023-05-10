@@ -3,8 +3,6 @@ title: School Canteen Advertisement
 permalink: /about-us/permalink/
 description: ""
 ---
-
-
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Asian Cuisine (Japanese/Korean etc.)     | 4/6/2023     | NIL     |
@@ -35,7 +33,7 @@ description: ""
 **Interested applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
-* •	Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme))
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme))
 * Applicant must abide by all the rules and regulations set by the school
 
 **Applicants should preferably fulfil the following criteria:**
@@ -44,7 +42,3 @@ description: ""
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
 ***Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.***
-
-
-
-
