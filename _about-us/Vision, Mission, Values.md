@@ -1,13 +1,19 @@
 ---
 title: Vision, Mission, Values
-permalink: /about-us/permalink/
+permalink: /about-us/vmv/permalink/
 description: ""
 ---
 ### School Vision
 ![](/images/school%20vision.jpg)
 
+### School Safety Vision - A Safe and Secure School for All
+
+
 ### School Mission
 ![](/images/mission_inkscape.png)
+
+### School Safety Mission - Nurturing a Culture of Safety and Security Awareness among Students, Staff and Stakeholders and equipping them with the relevant knowledge, skills and competencies
+
 
 ### School Values
 ![](/images/rich%20in%20lights.JPG)
