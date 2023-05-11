@@ -4,7 +4,7 @@ permalink: /social/news-and-highlights/permalink/
 description: ""
 ---
 #### Click on the icon and follow us!
-<a href="https://www.facebook.com/profile.php?id=100064303914608"><img src="/images/f_logo_rgb-blue_58.png" align="left" style="width:10%"></a><a href="https://www.instagram.com/admiraltysecschool/"><img src="/images/instagram_glyph_gradient.png" align="left" style="width:10%"></a>
+<a href="https://www.facebook.com/admiraltysec/"><img src="/images/f_logo_rgb-blue_58.png" align="left" style="width:10%"></a><a href="https://www.instagram.com/admiraltysecschool/"><img src="/images/instagram_glyph_gradient.png" align="left" style="width:10%"></a>
 <br>
 <br>
 
@@ -18,4 +18,3 @@ description: ""
 |<img src="/images/social6.png" style="width:100%">|<img src="/images/social5.png" style="width:100%">|
 |<img src="/images/social4.png" style="width:100%">|<img src="/images/social3.png" style="width:100%">|
 |<img src="/images/social2.png" style="width:100%">|<img src="/images/social1.png" style="width:100%">|
-
