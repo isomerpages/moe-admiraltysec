@@ -6,7 +6,7 @@ description: ""
 ### School Vision
 ![](/images/school%20vision.jpg)
 
-### School Safety Vision -A Safe and Secure School for All
+### School Safety Vision - A Safe and Secure School for All
 
 
 ### School Mission
