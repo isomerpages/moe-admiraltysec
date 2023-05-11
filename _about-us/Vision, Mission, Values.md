@@ -6,6 +6,9 @@ description: ""
 ### School Vision
 ![](/images/school%20vision.jpg)
 
+### School Safety Vision -A Safe and Secure School for All
+
+
 ### School Mission
 ![](/images/mission_inkscape.png)
 
