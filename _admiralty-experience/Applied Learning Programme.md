@@ -39,7 +39,7 @@ While we strive to equip students with coding skills and problem-solving skills 
 
 In Secondary 2, students would use AI to solve real-world problems. Centered on the theme of “Inclusivity”, students would work in groups to ideate solutions for issues in the community. They would apply their knowledge of DT and coding from the Secondary 1 curriculum, and extend their knowledge on micro:bit to Huskylens. There would also be opportunities for students to showcase their works to fellow Admirals and the community.
 
-![](/images/2023/Alp/alp_001.jpg)
+![](/images/2023/Alp/alp_002.jpg)
 ![](/images/alp4.png)
 
 **ALP Learning Festival**
