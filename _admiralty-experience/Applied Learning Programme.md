@@ -37,7 +37,7 @@ While we strive to equip students with coding skills and problem-solving skills 
 
 **Tier 1 Curriculum (Secondary 2)**
 
-In Secondary 2, students are provided a higher level of training in DT, STEM and ICT. During the fortnightly ALP lessons, students explore DT ideas and frameworks, learn coding and use microcontrollers to solve real-world problems. Using the additional skills learnt, students worked together in teams to work on a smart solution, which seeks to improve the lives of the elderlies. Students will then be given a chance to showcase their finished prototype and present the highlight of their year-long journey to their peers.
+In Secondary 2, students would use AI to solve real-world problems. Centered on the theme of “Inclusivity”, students would work in groups to ideate solutions for issues in the community. They would apply their knowledge of DT and coding from the Secondary 1 curriculum, and extend their knowledge on micro:bit to Huskylens. There would also be opportunities for students to showcase their works to fellow Admirals and the community.
 
 ![](/images/alp4.png)
 
