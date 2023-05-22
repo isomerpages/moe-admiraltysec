@@ -19,13 +19,17 @@ Objectives of the Admiral’s Run 2023 are :
 
 ![](/images/2023/Admiralsrun2023/ar_001.jpg)
 Our Principal, Mr Lam, giving the Opening Address to all students and staff before the commencement of Admirals’ Run 2023.
-![](/images/2023cny2.jpg)
-The Guzheng Ensemble performing enthusiastically at the start of the concert.
-![](/images/2023cny3.jpg)
-Admirals enjoying the outstanding performance put on by the Drama Club.
-![](/images/2023cny4.jpg)
-Admirals from Secondary 1 to 5 contributed actively in the cultural quiz segment.
-![](/images/2023cny5.jpg)
-Admirals enjoying the thrilling performance by the Wushu performers.
-![](/images/2023cny6.jpg)
-Dancers from the Dance Club presented a graceful performance  to mark an eventful celebration.
+![](/images/2023/Admiralsrun2023/ar_002.JPG)
+Ms Suniza leading the female runners.
+![](/images/2023/Admiralsrun2023/ar_003.JPG)
+Smile, you are on candid camera.
+![](/images/2023/Admiralsrun2023/ar_004.jpg)
+Secondary 1 students actively engaged at the sports booth.
+![](/images/2023/Admiralsrun2023/ar_005.jpg)
+Phoenix 3 students cheering enthusiastically during the class cheer competition.
+![](/images/2023/Admiralsrun2023/ar_006.jpg)
+Our Sec 3 Top 5 female winners.
+![](/images/2023/Admiralsrun2023/ar_007.JPG)
+Putri, President of Student Council, leading in the school cheer.
+![](/images/2023/Admiralsrun2023/ar_008.jpg)
+The Admiralty family. What a joyful end to Admirals’ Run 2023!
