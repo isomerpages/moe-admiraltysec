@@ -12,12 +12,10 @@ International Friendship Day took place on 20 April 2023. The vendor, Play_Inc p
 ![](/images/2023/Ifd/one_student_02.jpg)
 
 ![](/images/2023/Ifd/ifd_001.jpg)
-Our Principal, Mr Lam, giving the Opening Address to all students and staff before the commencement of Admirals’ Run 2023.
 ![](/images/2023/Ifd/ifd_002.jpg)
-Ms Suniza leading the female runners.
+A local company was invited to use games to invite students to play a bingo game for them to exhibit inter-cultural practices like knowing someone who can speak in another language and having a good friend from another class.
 ![](/images/2023/Ifd/ifd_003.jpg)
-Smile, you are on candid camera.
+Teachers were invited to dress up in ethnic costume of other races to appreciate and learn about their cultures.
 ![](/images/2023/Ifd/ifd_004.jpg)
-Secondary 1 students actively engaged at the sports booth.
 ![](/images/2023/Ifd/ifd_005.jpg)
-Phoenix 3 students cheering enthusiastically during the class cheer competition.
+Students bring out Asian flags and introduce the cultures and food of the country.
