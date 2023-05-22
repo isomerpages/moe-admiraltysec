@@ -17,7 +17,8 @@ Objectives of the Admiral’s Run 2023 are :
 ![](/images/2023/Admiralsrun2023/one_student_01.jpg)
 ![](/images/2023/Admiralsrun2023/one_student_02.jpg)
 
-Our CNY mascots, God of Wealth and the princess greeted Admirals as the Guzheng Ensemble performed on stage.
+![](/images/2023/Admiralsrun2023/ar_001.jpg)
+Our Principal, Mr Lam, giving the Opening Address to all students and staff before the commencement of Admirals’ Run 2023.
 ![](/images/2023cny2.jpg)
 The Guzheng Ensemble performing enthusiastically at the start of the concert.
 ![](/images/2023cny3.jpg)
