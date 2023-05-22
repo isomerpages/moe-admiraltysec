@@ -2,6 +2,8 @@ collections:
   news-and-highlights:
     output: true
     order:
+      - International Friendship Day 2023.md
+      - Admirals’ Run 2023.md
       - ADSS Awards and Achievements.md
       - Happenings at ADSS!.md
       - 2023 Chinese New Year.md
