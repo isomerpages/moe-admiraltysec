@@ -5,31 +5,19 @@ description: ""
 ---
 ### International Friendship Day 2023
 
-Admirals’ Run 2023 was held at the Singapore Sports Hub on 8 May 2023. This annual event is a school wide activity, involving all students and staff. Members of the Parent Support Group (PSG) also supported the event through collection of race bibs and being judges for the class cheer competition. 
-
-Objectives of the Admiral’s Run 2023 are :
-* To instil a strong sense of affiliation to the school;
-* A platform to enhance stronger class spirit, and student-student and teacher-student relationships;
-* Cultivate a healthy lifestyle for all students and staff; and
-* Fulfilling 2.4 km NAPFA criteria for Secondary 2, 4 and 5 students
+International Friendship Day took place on 20 April 2023. The vendor, Play_Inc put up a skit entitled “Embrace Diversity”, which was interspersed with interactive games. Embracing the theme of “Singapore in Asia”, it was stressed that international cooperation remains key in our complex world. Asia is the world's fastest-growing region, and Singapore continues to facilitate closer economic, political, social, and cultural cooperation within ASEAN and in Asia. By recognising the importance of inter-connectedness between our neighbouring countries, our youth can play an active role in fostering people-to-people ties, and celebrate the region's diversity and vibrancy which promote the spirit of friendship and collaboration. With a deeper understanding of Singapore's realities as a small state and appreciating how we can safeguard our national interest, we have much to contribute to efforts in international cooperation.
 
 ### Students' Voices
-![](/images/2023/Admiralsrun2023/one_student_01.jpg)
-![](/images/2023/Admiralsrun2023/one_student_02.jpg)
+![](/images/2023/Ifd/one_student_01.jpg)
+![](/images/2023/Ifd/one_student_02.jpg)
 
-![](/images/2023/Admiralsrun2023/ar_001.jpg)
+![](/images/2023/Ifd/ifd_001.jpg)
 Our Principal, Mr Lam, giving the Opening Address to all students and staff before the commencement of Admirals’ Run 2023.
-![](/images/2023/Admiralsrun2023/ar_002.JPG)
+![](/images/2023/Ifd/ifd_002.jpg)
 Ms Suniza leading the female runners.
-![](/images/2023/Admiralsrun2023/ar_003.JPG)
+![](/images/2023/Ifd/ifd_003.jpg)
 Smile, you are on candid camera.
-![](/images/2023/Admiralsrun2023/ar_004.jpg)
+![](/images/2023/Ifd/ifd_004.jpg)
 Secondary 1 students actively engaged at the sports booth.
-![](/images/2023/Admiralsrun2023/ar_005.jpg)
+![](/images/2023/Ifd/ifd_005.jpg)
 Phoenix 3 students cheering enthusiastically during the class cheer competition.
-![](/images/2023/Admiralsrun2023/ar_006.jpg)
-Our Sec 3 Top 5 female winners.
-![](/images/2023/Admiralsrun2023/ar_007.JPG)
-Putri, President of Student Council, leading in the school cheer.
-![](/images/2023/Admiralsrun2023/ar_008.jpg)
-The Admiralty family. What a joyful end to Admirals’ Run 2023!
