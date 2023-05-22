@@ -61,13 +61,13 @@ sections:
       button: Click here to find out more
       url: /admiralsrun2023/news-and-highlights/permalink/
       image: /images/2023/Admiralsrun2023/ar_003.JPG
-      alt: Image alt text
+      alt: Admiral's Run 2023
   - infopic:
       title: International Friendship Day 2023
       subtitle: NEWS AND HIGHLIGHTS
       description: 20 April 2023
       button: Click here to find out more
-      alt: Image alt text
+      alt: International Friendship Day
       url: /ifd/news-and-highlights/permalink/
       image: /images/2023/Ifd/ifd_002.jpg
 ---
