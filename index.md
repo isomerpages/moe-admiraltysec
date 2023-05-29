@@ -39,22 +39,6 @@ sections:
       alt: Image alt text
       image: /images/2023rugbybowl.jpg
   - infopic:
-      title: "2023"
-      subtitle: News and highlights
-      description: Chinese New Year Celebrations
-      button: Click here to find out more
-      url: chinese/news-and-highlights/permalink/
-      image: /images/2023cnymain.png
-      alt: Image alt text
-  - infopic:
-      title: 2023 Sec 1
-      subtitle: News and Highlights
-      description: 2023 Sec 1 Orientation
-      button: Click here to find out more
-      url: /orientation/news-and-highlights/permalink/
-      image: /images/2023orientationmain.png
-      alt: Image alt text
-  - infopic:
       title: Admiral's Run 2023
       subtitle: NEWS AND HIGHLIGHTS
       description: May 8 2023
