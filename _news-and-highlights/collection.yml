@@ -2,10 +2,10 @@ collections:
   news-and-highlights:
     output: true
     order:
-      - Secondary 2 Cohort Learning Journey to the National Museum of
-        Singapore.md
       - ADSS Awards and Achievements.md
       - Happenings at ADSS!.md
+      - Secondary 2 Cohort Learning Journey to the National Museum of
+        Singapore.md
       - International Friendship Day 2023.md
       - Admirals’ Run 2023.md
       - 2023 Chinese New Year.md
