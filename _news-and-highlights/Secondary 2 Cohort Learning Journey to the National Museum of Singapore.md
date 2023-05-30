@@ -18,6 +18,12 @@ Immersive experience into Japanese Occupation
 ![](/images/2023/Ljnms/ljnms_002.jpeg)
 Listening intensely to stories from survivors of Japanese Occupation
 
+![](/images/2023/Ljnms/ljnms_003.jpeg)
 
+![](/images/2023/Ljnms/ljnms_004.jpeg)
 
+![](/images/2023/Ljnms/ljnms_005.jpeg)
 
+![](/images/2023/Ljnms/ljnms_006.jpeg)
+Interaction with the Museum Educators!
+Bringing History to Life!
