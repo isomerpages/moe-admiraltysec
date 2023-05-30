@@ -54,4 +54,12 @@ sections:
       alt: International Friendship Day
       url: /ifd/news-and-highlights/permalink/
       image: /images/2023/Ifd/ifd_002.jpg
+  - infopic:
+      title: Sec 2 Learning Journey
+      subtitle: NEWS AND HIGHLIGHTS
+      description: "To the National Museum of Singapore "
+      button: Click here to find out more
+      url: /ljnms/news-and-highlights/permalink/
+      image: /images/2023/Ljnms/ljnms_004.jpeg
+      alt: Sec 2 Learning Journey
 ---
