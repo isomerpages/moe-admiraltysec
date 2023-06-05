@@ -57,9 +57,17 @@ sections:
   - infopic:
       title: Sec 2 Learning Journey
       subtitle: NEWS AND HIGHLIGHTS
-      description: "To the National Museum of Singapore "
+      description: To the National Museum of Singapore
       button: Click here to find out more
       url: /ljnms/news-and-highlights/permalink/
       image: /images/2023/Ljnms/ljnms_004.jpeg
       alt: Sec 2 Learning Journey
+  - infopic:
+      title: 21st Speech Day 2023
+      subtitle: NEWS AND HIGHLIGHTS
+      description: 20 May 2023
+      button: Click here to find out more
+      url: /speechday2023/news-and-highlights/permalink/
+      image: /images/2023/Speechday2023/speech_002.jpg
+      alt: 21st Speech Day 2023
 ---
