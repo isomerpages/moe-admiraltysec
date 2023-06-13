@@ -39,6 +39,14 @@ sections:
       alt: Image alt text
       image: /images/2023rugbybowl.jpg
   - infopic:
+      title: 21st Speech Day 2023
+      subtitle: NEWS AND HIGHLIGHTS
+      description: 20 May 2023
+      button: Click here to find out more
+      url: /speechday2023/news-and-highlights/permalink/
+      image: /images/2023/Speechday2023/speech_002.jpg
+      alt: 21st Speech Day 2023
+  - infopic:
       title: Admiral's Run 2023
       subtitle: NEWS AND HIGHLIGHTS
       description: May 8 2023
@@ -62,12 +70,4 @@ sections:
       url: /ljnms/news-and-highlights/permalink/
       image: /images/2023/Ljnms/ljnms_004.jpeg
       alt: Sec 2 Learning Journey
-  - infopic:
-      title: 21st Speech Day 2023
-      subtitle: NEWS AND HIGHLIGHTS
-      description: 20 May 2023
-      button: Click here to find out more
-      url: /speechday2023/news-and-highlights/permalink/
-      image: /images/2023/Speechday2023/speech_002.jpg
-      alt: 21st Speech Day 2023
 ---
