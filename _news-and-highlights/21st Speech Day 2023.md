@@ -14,7 +14,7 @@ We are a community that thrives on mutual respect and encouragement, and it is o
 ![](/images/2023/Speechday2023/one_student_02.jpg)
 ![](/images/2023/Speechday2023/one_student_03.jpg)
 
-### Images
+
 ![](/images/2023/Speechday2023/speech_001.jpg)
 Our partners are always ready to support ADSS!
 
