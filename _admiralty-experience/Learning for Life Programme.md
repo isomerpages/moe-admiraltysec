@@ -68,11 +68,8 @@ Our Student Leadership Development programmes are in line with the school’s vi
 
 ![](/images/building_a_society.jpeg)
 
-<center>Building a Society for the Third Age Programme by National University of Singapore (NUS)</center>
+<center>Temasek Foundation - NUS Youths for SG: Building a Shared Future Programme</center>
 
 ![](/images/be_the_change_agent.jpeg)
 
 <center>Be the Change Agent Exhibition by Secondary 4 Admirals</center>
-
-
-

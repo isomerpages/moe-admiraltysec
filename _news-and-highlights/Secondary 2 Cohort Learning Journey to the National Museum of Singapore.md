@@ -9,7 +9,6 @@ Our Sec 2 Admirals visited the National Museum of Singapore (NMS) to learn about
 
 ### Students' Voices
 ![](/images/2023/Ljnms/one_student_01.jpg)
-Immersive experience into Japanese Occupation
 ![](/images/2023/Ljnms/one_student_02.jpg)
 
 ### Images
