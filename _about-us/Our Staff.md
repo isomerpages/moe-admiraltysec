@@ -8,7 +8,7 @@ description: ""
 | Class | Form Teacher 1 | Form Teacher 2 |
 |:---:|:---:|:---:|
 | Orion 1 | Mr Kenneth Phua Khiang Song<br>[kenneth_phua_khiang_song@moe.edu.sg](mailto:kenneth_phua_khiang_song@moe.edu.sg) | Mdm Ngoi Sheau Neng<br>[ngoi_sheau_neng@moe.edu.sg](mailto:ngoi_sheau_neng@moe.edu.sg) |
-| Orion 2 |Mr Marcus Goh Wei Ming<br>[marcus_goh_wei_ming@moe.edu.sg](mailto:marcus_goh_wei_ming@moe.edu.sg) | Ms Najla Banu Bte Feroz Akbar Abdullah<br>[najla_banu@moe.edu.sg](mailto:najla_banu@moe.edu.sg) |  |
+| Orion 2 |Mr Marcus Goh Wei Ming<br>[marcus_goh_wei_ming@moe.edu.sg](mailto:marcus_goh_wei_ming@moe.edu.sg) | Mdm Xu Ping<br>[xu_ping@moe.edu.sg](mailto:najla_banu@moe.edu.sg) |  |
 | Orion 3 | 	Mr Tan Yuan Yan<br>[tan_yuanyan@moe.edu.sg](mailto:tan_yuanyan@moe.edu.sg) | Mr Choo Chee Chong Joshua<br>[joshua_choo@moe.edu.sg](mailto:joshua_choo@moe.edu.sg)|  |
 |  Orion 4 | Mdm Chow Shin Yun<br>[chow_shin_yun@moe.edu.sg](mailto:chow_shin_yun@moe.edu.sg) | Mdm Lim Ching Ching<br>[lim\_ching\_ching@moe.edu.sg](mailto:lim_ching_ching@moe.edu.sg) |  |
 |  Orion 5 | Mdm Yeo Suan Neo Doreen<br>[yeo\_suan\_neo\_doreen@moe.edu.sg](mailto:yeo_suan_neo_doreen@moe.edu.sg) | Ms Tan Ming Hui  <br>[Tan\_Ming\_Hui@moe.edu.sg](mailto:Tan_Ming_Hui@moe.edu.sg) |  |
