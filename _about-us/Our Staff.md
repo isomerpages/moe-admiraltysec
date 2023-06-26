@@ -40,7 +40,7 @@ description: ""
 | Aquila 5 | Mr Arun Vasudev Krishnan  <br>[arun\_vasudev\_krishnan@moe.edu.sg](mailto:arun_vasudev_krishnan@moe.edu.sg)| Mdm Tiong Rui Shan  <br>[tiong\_rui\_shan@moe.edu.sg](mailto:tiong_rui_shan@moe.edu.sg) |  |
 | Aquila 6 |  Ms Kong Tze Xin  <br>[kong\_tze\_xin@moe.edu.sg](mailto:kong_tze_xin@moe.edu.sg) | Mdm Mas Ayu Bte Abdul Malek  <br>[mas\_ayu\_abdul\_malek@moe.edu.sg](mailto:mas_ayu_abdul_malek@moe.edu.sg) |  |
 | Aquila 7   | Ms Thein Ying Jie Elena  <br>[thein\_ying\_jie\_elena@moe.edu.sg](mailto:thein_ying_jie_elena@moe.edu.sg) | Ms Yasmin Binte Sapmodi  <br>[Yasmin\_Sapmodi@moe.edu.sg](mailto:Yasmin_Sapmodi@moe.edu.sg) |  |
-|  Aquila 8  | Mdm Noor Shida Bte Hassan  <br>[noor\_shida\_hassan@moe.edu.sg](mailto:noor_shida_hassan@moe.edu.sg)  |  Ms Andrea Wong Jie Yi  <br>[wong\_jie\_yi\_andrea@moe.edu.sg](mailto:wong_jie_yi_andrea@moe.edu.sg)|   |
+|  Aquila 8  | Mdm Noor Shida Bte Hassan  <br>[noor\_shida\_hassan@moe.edu.sg](mailto:noor_shida_hassan@moe.edu.sg)  |  |   |
 |Aquila 9|Ms Andrea Ng Su Yin  <br>[ng\_su\_yin\_andrea@moe.edu.sg](mailto:ng_su_yin_andrea@moe.edu.sg)|Ms Tan Bee Kiaw Evelyn  <br>[Tan\_Bee\_Kiaw\_Evelyn@schools.gov.sg](mailto:Tan_Bee_Kiaw_Evelyn@schools.gov.sg)| |
 
 
@@ -48,11 +48,11 @@ description: ""
 
 | Class | Form Teacher 1  | Form Teacher 2 |
 |:---:|:---:|:---:|
-| Lyra 1 | Mr Abdul Salem Bin Samat  <br>[abdul\_salem\_samat@moe.edu.sg](mailto:abdul_salem_samat@moe.edu.sg)| Mdm Vanitha Govallau  <br>[vanitha\_govallau@moe.edu.sg](mailto:vanitha_govallau@moe.edu.sg) |  |
+| Lyra 1 | Mdm Vanitha Govallau  <br>[vanitha\_govallau@moe.edu.sg](mailto:vanitha_govallau@moe.edu.sg) |
 | Lyra 2 |Mdm Gee Wai Hoo Jessie  <br>[gee\_wai\_hoo@moe.edu.sg](mailto:gee_wai_hoo@moe.edu.sg)| Mdm Lisda Bte Mohd Amin  <br>[lisda\_mohd\_amin@moe.edu.sg](mailto:lisda_mohd_amin@moe.edu.sg) |  |
-| Lyra 3 | Ms Nge Hui Peng  <br>[nge\_hui\_peng@moe.edu.sg](mailto:nge_hui_peng@moe.edu.sg)| Ms Soo Zhi Yi  <br>[soo\_zhi\_yi@moe.edu.sg](mailto:soo_zhi_yi@moe.edu.sg) |   |
+| Lyra 3 | Ms Nge Hui Peng  <br>[nge\_hui\_peng@moe.edu.sg](mailto:nge_hui_peng@moe.edu.sg)|   |
 | Lyra 4 |Mr Tung Cheng Boon Adrian  <br>[tung\_cheng\_boon\_adrian@moe.edu.sg](mailto:tung_cheng_boon_adrian@moe.edu.sg) |Mdm Ong Lay Khim  <br>[ong\_lay\_khim\_a@moe.edu.sg](mailto:ong_lay_khim_a@moe.edu.sg) | |
-| Lyra 5 | Mdm Diyanah Binte Mohamad Yunos  <br>[diyanah\_mohamad\_yunos@moe.edu.sg](mailto:diyanah_mohamad_yunos@moe.edu.sg)| Mr Chan Hua Zhi  <br>[chan\_huazhi@moe.edu.sg](mailto:chan_huazhi@moe.edu.sg) |  |
+| Lyra 5 |Mr Chan Hua Zhi  <br>[chan\_huazhi@moe.edu.sg](mailto:chan_huazhi@moe.edu.sg) |  |
 | Lyra 6 |Mr Ch'ng Hong Tatt  <br>[chng\_hong\_tatt@moe.edu.sg](mailto:chng_hong_tatt@moe.edu.sg) | Ms Fazylah Bte Abd Rahman  <br>[fazylah\_abd\_rahman@moe.edu.sg](mailto:fazylah_abd_rahman@moe.edu.sg) |  |
 | Lyra 7 | Mdm Ng Jing Min  <br>[ng\_jing\_min@moe.edu.sg](mailto:ng_jing_min@moe.edu.sg)| Ms Sharifah Binte Muhammad Zulkifli  <br>[sharifah\_bte\_muhammad\_zulkifli@schools.gov.sg](mailto:sharifah_bte_muhammad_zulkifli@schools.gov.sg) |   |
 |  Lyra 8 | Mr Chua Khoon Siong Ray  <br>[chua\_khoon\_siong@moe.edu.sg](mailto:chua_khoon_siong@moe.edu.sg) | Mdm Sharifah Nur Hidayah Bte Omar Albar  <br>[sharifah\_nur\_hidayah\_omar@moe.edu.sg](mailto:sharifah_nur_hidayah_omar@moe.edu.sg)  |   |
