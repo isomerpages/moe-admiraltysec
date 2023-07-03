@@ -2,6 +2,8 @@ collections:
   news-and-highlights:
     output: true
     order:
+      - Team Leadership and Project Management Training For Secondary 3 Student
+        Leaders.md
       - ADSS Awards and Achievements.md
       - Happenings at ADSS!.md
       - 21st Speech Day 2023.md
