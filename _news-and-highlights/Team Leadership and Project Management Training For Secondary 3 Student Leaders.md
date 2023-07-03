@@ -14,3 +14,22 @@ The newly minted Secondary 3 Student Leaders, comprising Student Councillors and
 
 ### Images
 ![](/images/2023/Sec3sltraining/2023_leadertrg_photo1.jpg)
+Listening earnestly to the training facilitator
+
+![](/images/2023/Sec3sltraining/2023_leadertrg_photo2.jpg)
+Admirals had lots of fun understanding team dynamics through activities!
+
+![](/images/2023/Sec3sltraining/2023_leadertrg_photo3.jpg)
+Witnessing teamwork in action!
+
+![](/images/2023/Sec3sltraining/2023_leadertrg_photo4.jpg)
+Setting high expectations in planning good programmes
+
+![](/images/2023/Sec3sltraining/2023_leadertrg_photo5.jpg)
+Getting guidance from the training facilitator
+
+![](/images/2023/Sec3sltraining/2023_leadertrg_photo6.jpg)
+Unpacking and applying The Leadership Challenge practices in their planning
+
+![](/images/2023/Sec3sltraining/2023_leadertrg_photo7.jpg)
+The Sec 3 Student Leaders!
