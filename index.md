@@ -39,6 +39,14 @@ sections:
       alt: Image alt text
       image: /images/2023rugbybowl.jpg
   - infopic:
+      title: Sec 3 Student Leadership Training
+      subtitle: NEWS AND HIGHLIGHTS
+      description: 30 May 2023
+      button: Click here to find out more
+      url: /sec3sl/news-and-highlights/permalink/
+      image: /images/2023/Sec3sltraining/2023_leadertrg_photo7.jpg
+      alt: Sec 3 Leadership Training
+  - infopic:
       title: 21st Speech Day 2023
       subtitle: NEWS AND HIGHLIGHTS
       description: 20 May 2023
@@ -76,12 +84,4 @@ sections:
       description: Term 3 June 20 2023
       button: Click here to download
       url: /files/2023/Uploads/sem2_class_timetable.pdf
-  - infopic:
-      title: Sec 3 Student Leadership Training
-      subtitle: NEWS AND HIGHLIGHTS
-      description: 30 May 2023
-      button: Click here to find out more
-      url: /sec3sl/news-and-highlights/permalink/
-      image: /images/2023/Sec3sltraining/2023_leadertrg_photo7.jpg
-      alt: Sec 3 Leadership Training
 ---
