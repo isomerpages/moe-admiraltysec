@@ -78,10 +78,4 @@ sections:
       url: /ljnms/news-and-highlights/permalink/
       image: /images/2023/Ljnms/ljnms_004.jpeg
       alt: Sec 2 Learning Journey
-  - infobar:
-      title: Sem 2 Timetable
-      subtitle: NEWS AND HIGHLIGHTS
-      description: Term 3 June 20 2023
-      button: Click here to download
-      url: /files/2023/Uploads/sem2_class_timetable.pdf
 ---
