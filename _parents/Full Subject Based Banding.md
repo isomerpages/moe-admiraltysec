@@ -18,6 +18,7 @@ By 2024, secondary schools will have implemented the following aspects of Full S
 
 [Click here to view A New School of Thought: Full SBB](https://www.channelnewsasia.com/watch/a-new-school-of-thought/full-sbb-3626236)
 
+![https://www.channelnewsasia.com/watch/a-new-school-of-thought/full-sbb-3626236](/images/fsbb_cna.png)
 
 
 
