@@ -78,4 +78,10 @@ sections:
       url: /ljnms/news-and-highlights/permalink/
       image: /images/2023/Ljnms/ljnms_004.jpeg
       alt: Sec 2 Learning Journey
+  - infobar:
+      title: "A New School of Thought: Full SBB"
+      subtitle: CNA INSIDER
+      description: Want to know more about FSBB?
+      button: Click here to find out more
+      url: permalink
 ---
