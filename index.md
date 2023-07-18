@@ -84,5 +84,5 @@ sections:
       button: Click here to find out more!
       image: /images/fsbb_cna.png
       alt: Image alt text
-      url: testing
+      url: /fsbb/parents/permalink/
 ---
