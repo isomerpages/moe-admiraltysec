@@ -39,6 +39,13 @@ sections:
       alt: Image alt text
       image: /images/2023rugbybowl.jpg
   - infopic:
+      title: "A New School of Thought: Full SBB"
+      subtitle: CNA INSIDER
+      button: Click here to find out more!
+      image: /images/fsbb_cna.png
+      alt: Image alt text
+      url: /fsbb/parents/permalink/
+  - infopic:
       title: Sec 3 Student Leadership Training
       subtitle: NEWS AND HIGHLIGHTS
       description: 30 May 2023
@@ -78,11 +85,4 @@ sections:
       url: /ljnms/news-and-highlights/permalink/
       image: /images/2023/Ljnms/ljnms_004.jpeg
       alt: Sec 2 Learning Journey
-  - infopic:
-      title: "A New School of Thought: Full SBB"
-      subtitle: CNA INSIDER
-      button: Click here to find out more!
-      image: /images/fsbb_cna.png
-      alt: Image alt text
-      url: /fsbb/parents/permalink/
 ---
