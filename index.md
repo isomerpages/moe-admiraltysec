@@ -81,8 +81,8 @@ sections:
   - infopic:
       title: "A New School of Thought: Full SBB"
       subtitle: CNA INSIDER
-      description: Infopic description
-      button: Button Text
+      button: Click here to find out more!
       image: /images/fsbb_cna.png
       alt: Image alt text
+      url: testing
 ---
