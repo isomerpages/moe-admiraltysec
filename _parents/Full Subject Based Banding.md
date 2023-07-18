@@ -11,6 +11,9 @@ By 2024, secondary schools will have implemented the following aspects of Full S
 * Offering of Humanities subjects at a more demanding level from Secondary 2; and
 * Mixed form classes with the provision of a common curriculum.
 
+### A New School of Thought: Full SBB | CNA Insider | Trailer
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/watch?v=WBeklgUni90" height="315" width="560"></iframe>
 
 
 
