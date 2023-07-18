@@ -1,5 +1,5 @@
 ---
-title: Team Leadership and Project Management Training For Secondary 3 Student Leaders
+title: 2023 S3 Student Leaders Training
 permalink: /sec3sl/news-and-highlights/permalink/
 description: ""
 ---
