@@ -14,4 +14,19 @@ Sec 3 MOE-OBS Challenge is part of the National Outdoor Adventure Education Mast
 
 ### Images
 ![](/images/2023/Sec3obs/photo1.jpeg)
-Listening earnestly to the training facilitator
+Safety briefing before the start of activity.
+
+![](/images/2023/Sec3obs/photo2.jpeg)
+Confidence and trust in the belayers to protect the climber.
+
+![](/images/2023/Sec3obs/photo3.jpeg)
+Overcoming fear to reach a new high!
+
+![](/images/2023/Sec3obs/photo4.jpeg)
+Teamwork is crucial to move the entire watch forward.
+
+![](/images/2023/Sec3obs/photo5.jpeg)
+Jacquelin showing endurance and perseverance to reach the goal.
+
+![](/images/2023/Sec3obs/photo6.jpeg)
+Nur Permata, Putri and Khairul at the campsite after a long day of hike.
