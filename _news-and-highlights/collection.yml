@@ -2,6 +2,7 @@ collections:
   news-and-highlights:
     output: true
     order:
+      - Sec Three MOE OBS Challenge 2023.md
       - ADSS Awards and Achievements.md
       - Happenings at ADSS!.md
       - 2023 S3 Student Leaders Training.md
