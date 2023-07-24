@@ -46,6 +46,14 @@ sections:
       alt: Image alt text
       url: /fsbb/parents/permalink/
   - infopic:
+      title: Sec Three MOE-OBS Challenge 2023
+      subtitle: NEWS AND HIGHLIGHTS
+      description: 3 to 7 July 2023
+      button: Click here to find out more
+      url: /sec3obs/news-and-highlights/permalink/
+      image: /images/2023/Sec3obs/photo2.jpeg
+      alt: Sec Three MOE-OBS
+  - infopic:
       title: Sec 3 Student Leadership Training
       subtitle: NEWS AND HIGHLIGHTS
       description: 30 May 2023
@@ -85,12 +93,4 @@ sections:
       url: /ljnms/news-and-highlights/permalink/
       image: /images/2023/Ljnms/ljnms_004.jpeg
       alt: Sec 2 Learning Journey
-  - infopic:
-      title: Sec Three MOE-OBS Challenge 2023
-      subtitle: NEWS AND HIGHLIGHTS
-      description: 3 to 7 July 2023
-      button: Click here to find out more
-      url: /sec3obs/news-and-highlights/permalink/
-      image: /images/2023/Sec3obs/photo2.jpeg
-      alt: Sec Three MOE-OBS
 ---
