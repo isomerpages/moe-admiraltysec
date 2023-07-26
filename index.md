@@ -46,6 +46,14 @@ sections:
       alt: Image alt text
       url: /fsbb/parents/permalink/
   - infopic:
+      title: Sec 4/5 Common Memories
+      subtitle: NEWS AND HIGHLIGHTS
+      description: 30 June 2023
+      button: Click here to find out more
+      url: /memories/news-and-highlights/permalink/
+      image: /images/2023/Cm/memories1.jpg
+      alt: Sec 4/5 Common Memories
+  - infopic:
       title: Sec Three MOE-OBS Challenge 2023
       subtitle: NEWS AND HIGHLIGHTS
       description: 3 to 7 July 2023
@@ -93,12 +101,4 @@ sections:
       url: /ljnms/news-and-highlights/permalink/
       image: /images/2023/Ljnms/ljnms_004.jpeg
       alt: Sec 2 Learning Journey
-  - infopic:
-      title: Sec 4/5 Common Memories
-      subtitle: NEWS AND HIGHLIGHTS
-      description: 30 June 2023
-      button: Click here to find out more
-      url: /memories/news-and-highlights/permalink/
-      image: /images/2023/Cm/memories1.jpg
-      alt: Sec 4/5 Common Memories
 ---
