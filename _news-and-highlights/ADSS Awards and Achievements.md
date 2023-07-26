@@ -242,6 +242,11 @@ description: ""
 			<td>1. Mohd Thaqif Uzair Bin Fadil (Class of 2022)<br>2. Tey Yuan Hui (Class of 2022)</td>
 		</tr>
 		<tr>
+			<td>Ngee Ann Poly Graduating Class Award (2023)</td>
+			<td>Diploma with Merit</td>
+			<td>1. Chan Shu Han (Class of 2019)<br>2. Charlotte Chong (Class of 2015)<br>3. Nur Sabrina Binte Sa'ari (Class of 2019)<br>4. Nurin Diyanah Bte Awaludin (Class of 2019)</td>
+		</tr>
+		<tr>
 			<td>Best Student Leader 2022 - The Institution of Engineers, Singapore (IES)</td>
 			<td>Best Student Leader 2022</td>
 			<td>Wee Wen Bin (Class of 2016)</td>
