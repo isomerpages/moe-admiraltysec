@@ -51,7 +51,7 @@ sections:
       description: 3 to 7 July 2023
       button: Click here to find out more
       url: /sec3obs/news-and-highlights/permalink/
-      image: /images/2023/Sec3obs/photo2.jpeg
+      image: /images/2023/Sec3obs/obsphoto2a.jpg
       alt: Sec Three MOE-OBS
   - infopic:
       title: Sec 4/5 Common Memories
