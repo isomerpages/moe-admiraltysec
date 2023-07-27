@@ -18,6 +18,11 @@ description: ""
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+		<tr>
+			<td>28<sup>th</sup> AW/MSSM/SSSC U14 &amp; U15 International Athletics Championships 2023 </td>
+    <td>U14 Boys 4 x 400m Relay - 1st</td>
+    <td>Oliver Fiore (P5)</td>
+  </tr>
 			  <tr>
     <td>2023 National School Games (Track &amp; Field) </td>
     <td>Gold (C Division Boys - 800m)</td>
@@ -240,6 +245,16 @@ description: ""
 			<td>North West Outstanding All Rounder Student Award 2023</td>
 			<td>North West Outstanding All Rounder Student Award 2023</td>
 			<td>1. Mohd Thaqif Uzair Bin Fadil (Class of 2022)<br>2. Tey Yuan Hui (Class of 2022)</td>
+		</tr>
+		<tr>
+			<td>ITE Graduation Ceremony (2023)</td>
+			<td>Tay Eng Soon Gold Medal</td>
+			<td> Tang Rui (Class of 2020)</td>
+		</tr>
+		<tr>
+			<td>Ngee Ann Poly Graduating Class Award (2023)</td>
+			<td>Diploma with Merit</td>
+			<td>1. Chan Shu Han (Class of 2019)<br>2. Charlotte Chong (Class of 2015)<br>3. Nur Sabrina Binte Sa'ari (Class of 2019)<br>4. Nurin Diyanah Bte Awaludin (Class of 2019)</td>
 		</tr>
 		<tr>
 			<td>Best Student Leader 2022 - The Institution of Engineers, Singapore (IES)</td>
