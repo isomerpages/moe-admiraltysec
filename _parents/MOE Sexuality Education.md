@@ -94,4 +94,5 @@ At Admiralty Secondary School, the eTeens programme will be implemented as follo
 
 13. Parents can contact the school at (63651733) for discussion or to seek clarification about the school’s sexuality education programme.
 
-14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+
+
