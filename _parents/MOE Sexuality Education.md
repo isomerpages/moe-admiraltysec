@@ -95,3 +95,12 @@ You may&nbsp;[click here](https://www.moe.gov.sg/programmes/sexuality-education)
 12. Parents who wish to opt their children in Secondary 3 out of the eTeens programme need to complete an opt-out form. This form is found here: https://form.gov.sg/63c783f0d4e11c001217a706. The completed form is to be submitted by 10/02/2023.
 
 13. Parents can contact the school at (63651733) for discussion or to seek clarification about the school’s sexuality education programme.
+
+**ORGANISATION**
+
+| Sexuality Education (SEd) Coordinators :  |
+| -------- |
+| Mdm Chow Shin Yun<br>Ms Renuka Devi d/o Raghunathan|
+
+
+
