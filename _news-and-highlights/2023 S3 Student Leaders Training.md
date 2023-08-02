@@ -10,7 +10,7 @@ The newly minted Secondary 3 Student Leaders, comprising Student Councillors and
 ### Students' Voices
 ![](/images/2023/Sec3sltraining/one_student_01.jpg)
 ![](/images/2023/Sec3sltraining/one_student_02.jpg)
-![](/images/2023/Sec3sltraining/one_student_03.jpg)
+![](/images/2023/Sec3sltraining/new%20voices.jpg)
 
 ### Images
 ![](/images/2023/Sec3sltraining/2023_leadertrg_photo1.jpg)
