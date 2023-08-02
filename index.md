@@ -24,7 +24,7 @@ sections:
           url: /parents/permalink/
   - infopic:
       title: ADSS
-      image: /images/admiralty secondary school banner with nwcdc.png
+      image: /images/2023rugbyaward.jpg
       alt: Image alt text
       url: /awards/news-and-highlights/permalink/
       button: Click here to find out more

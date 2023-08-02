@@ -5,9 +5,6 @@ description: ""
 ---
 # Our ADSS Awards and Achievements (2023)
 
-#### PARTNERSHIP AWARDS
-![](/images/admiralty%20secondary%20school%20banner%20with%20nwcdc.png)
-
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1">
 <label style="color:darkblue;font-size:20px;" for="accordion1">SPORTS AND PERFORMING ARTS AWARDS</label><div>
@@ -89,7 +86,7 @@ description: ""
 </div></li>
 	
 <li><input type="checkbox" id="accordion3">
-<label style="color:darkblue;font-size:20px;" for="accordion3">Science, Technology, Engineering, Mathematics (STEM) RELATED AWARDS</label><div>
+<label style="color:darkblue;font-size:20px;" for="accordion3">STEM RELATED AWARDS</label><div>
 <p><table style="width:100%;font-size:14px;">
   <tbody><tr>
 		   <th style="width=40%">Title</th>
@@ -278,5 +275,9 @@ description: ""
 		</tr>
 </tbody></table>
 </p></div></li>
-
 </ul>
+
+
+#### PARTNERSHIP AWARDS
+![](/images/admiralty%20secondary%20school%20banner%20with%20nwcdc.png)
+
