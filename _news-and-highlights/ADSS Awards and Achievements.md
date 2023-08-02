@@ -276,16 +276,6 @@ description: ""
 </tbody></table>
 </p></div></li>
 
-<li><input type="checkbox" id="accordion6">
-<label style="color:darkblue;font-size:20px;" for="accordion6">PARTNERSHIP AWARDS</label><div>
-<p><table style="width:100%;font-size:14px;">
-  <tbody><tr>
-		<td>![](/images/2023/Ifd/ifd_002.jpg)
-		</td>
-		</tr>
-</tbody></table></p>
-</div></li>
-
 #### PARTNERSHIP AWARDS
 ![](/images/admiralty%20secondary%20school%20banner%20with%20nwcdc.png)
 
