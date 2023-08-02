@@ -5,8 +5,6 @@ description: ""
 ---
 # Our ADSS Awards and Achievements (2023)
 
-
-
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1">
 <label style="color:darkblue;font-size:20px;" for="accordion1">SPORTS AND PERFORMING ARTS AWARDS</label><div>
