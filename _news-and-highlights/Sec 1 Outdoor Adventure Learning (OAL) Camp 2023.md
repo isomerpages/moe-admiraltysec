@@ -28,3 +28,45 @@ Tired faces halfway through the Journey
 ![](/images/2023/Sec1oal/oal_006.jpg)
 All ready to conquer the 12 km Journey
 
+![](/images/2023/Sec1oal/oal_007.jpg)
+Friends who help to clean together, stay together.
+
+![](/images/2023/Sec1oal/oal_008.jpg)
+![](/images/2023/Sec1oal/oal_009.jpg)
+Outdoor Cooking, a time to share stories.
+
+![](/images/2023/Sec1oal/oal_010.jpg)
+Cooking up a storm
+
+![](/images/2023/Sec1oal/oal_011.jpg)
+MasterChefs in the house
+
+![](/images/2023/Sec1oal/oal_012.jpg)
+
+![](/images/2023/Sec1oal/oal_013.jpg)
+
+![](/images/2023/Sec1oal/oal_014.jpg)
+
+![](/images/2023/Sec1oal/oal_015.jpg)
+
+![](/images/2023/Sec1oal/oal_016.jpg)
+Gearing up for kayaking!
+
+![](/images/2023/Sec1oal/oal_017.jpg)
+Paddles up
+
+![](/images/2023/Sec1oal/oal_018.jpg)
+Staying afloat together
+
+![](/images/2023/Sec1oal/oal_019.jpg)
+Admiral riding the waves with Mdm Samantha Woo during the kayaking activity
+
+![](/images/2023/Sec1oal/oal_020.jpg)
+Happy and brave smiles before caving in.
+
+![](/images/2023/Sec1oal/oal_021.jpg)
+Communication is key in the Blindman's trail
+
+![](/images/2023/Sec1oal/oal_022.jpg)
+
+![](/images/2023/Sec1oal/oal_23.jpg)
