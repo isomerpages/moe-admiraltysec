@@ -7,6 +7,7 @@ description: ""
 
 Sec 3 MOE-OBS Challenge is part of the National Outdoor Adventure Education Master Plan which MOE has put in place to strengthen the holistic development of students. The programme seeks to develop ruggedness, resilience, and build cohesion amongst youths. The programme comprises a series of school-based PE and CCE lessons as well as a 5-day residential course at Outward Bound Singapore (OBS).
 
+### Students' Voices
 ![](/images/2023/Sec3obs/one_student_01.jpg)
 ![](/images/2023/Sec3obs/one_student_02.jpg)
 ![](/images/2023/Sec3obs/one_student_03.jpg)
