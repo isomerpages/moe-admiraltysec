@@ -101,4 +101,12 @@ sections:
       url: /ljnms/news-and-highlights/permalink/
       image: /images/2023/Ljnms/ljnms_004.jpeg
       alt: Sec 2 Learning Journey
+  - infopic:
+      title: Sec 1 OAL Camp 2023
+      subtitle: NEWS AND HIGHLIGHTS
+      description: Outdoor Adventure Learning 10 to 13 July 2023
+      button: Click here to find out more
+      url: /sec1oal/news-and-highlights/permalink
+      image: /images/2023/Sec1oal/oal_001.jpg
+      alt: Sec 1 OAL Camp 2023
 ---
