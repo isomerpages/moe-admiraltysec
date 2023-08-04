@@ -14,3 +14,17 @@ S1 OAL 2023
 ![](/images/2023/Sec1oal/oal_002.jpg)
 
 ![](/images/2023/Sec1oal/oal_003.jpg)
+Being focussed to get through the obstacle course as a team
+
+![](/images/2023/Sec1oal/oal_004.jpg)
+Bonding through tent-pitching
+
+![](/images/2023/Sec1oal/oal_004a.jpg)
+Capturing moments after a long walk
+
+![](/images/2023/Sec1oal/oal_005.jpeg)
+Tired faces halfway through the Journey
+
+![](/images/2023/Sec1oal/oal_006.jpg)
+All ready to conquer the 12 km Journey
+
