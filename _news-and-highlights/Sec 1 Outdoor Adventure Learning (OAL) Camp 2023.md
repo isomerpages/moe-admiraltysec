@@ -62,11 +62,13 @@ Staying afloat together
 Admiral riding the waves with Mdm Samantha Woo during the kayaking activity
 
 ![](/images/2023/Sec1oal/oal_020.jpg)
-Happy and brave smiles before caving in.
+Crabbing curiosity
 
 ![](/images/2023/Sec1oal/oal_021.jpg)
 Communication is key in the Blindman's trail
 
 ![](/images/2023/Sec1oal/oal_022.jpg)
+Reflection time!
 
 ![](/images/2023/Sec1oal/oal_23.jpg)
+Nur Damira from Orion 4 was one of the recipients for the Best Camper award.
