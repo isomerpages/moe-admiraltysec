@@ -46,6 +46,14 @@ sections:
       alt: Image alt text
       url: /fsbb/parents/permalink/
   - infopic:
+      title: Sec 1 OAL Camp 2023
+      subtitle: NEWS AND HIGHLIGHTS
+      description: Outdoor Adventure Learning Camp 10 to 13 July 2023
+      button: Click here to find out more
+      url: /sec1oal/news-and-highlights/permalink
+      image: /images/2023/Sec1oal/oal_001.jpg
+      alt: Sec 1 OAL Camp 2023
+  - infopic:
       title: Sec Three MOE-OBS Challenge 2023
       subtitle: NEWS AND HIGHLIGHTS
       description: 3 to 7 July 2023
