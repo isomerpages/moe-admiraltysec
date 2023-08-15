@@ -95,6 +95,16 @@ description: ""
     <th style="width=20%">Awardees</th>
   </tr>
 		<tr>
+			<td>21<sup>st</sup> Elementz Science Competition (2023)  </td>
+			<td>Bronze Medal</td>
+			<td>1. Qistina Adryanna Binte Muhammad Ahsanul Iman (O1)<br>2. Flora Yong Bi Qing (O1)<br>3. Toh Xin Yee (O1)<br>4. Yip Jia En Mikaela (O1)</td>
+		</tr>
+					<tr><td>21<sup>st</sup> Elementz Science Competition (2023)  </td>
+			<td>Certificate of Commendation
+</td>
+			<td>1. Soh Yong Jian (P1)<br>2. Ryan Ho Zhi Hui (P2)<br>3. Jaden Tay Qi Ming (P3)<br>4.  Emmanual Ching Jiek Yeng(P3)<br>5. Erinn Lim En Hui (P7)</td>
+		</tr>
+		<tr>
 			<td>Robotics: First Lego League 2023 - Championship (Secondary Category) </td>
 			<td>2nd Runner-up</td>
 			<td>1. Liang Yun Zhi Benji (P1)<br>2. Serrano Elaine Gheorge Miranda (P2)<br>3. Tay Yong Le (P7)<br>4. Jaden Chan Kai Lun (P1)</td>
