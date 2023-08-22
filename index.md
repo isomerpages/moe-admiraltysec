@@ -39,7 +39,7 @@ sections:
       alt: Image alt text
       image: /images/2023rugbybowl.jpg
   - infopic:
-      title: 2023 National Message
+      title: 2023 National Day Message
       description: Catch Min Chan highlight our ALP Program!
       button: Click here to find out more
       url: /admiralty-experience/permalink/
