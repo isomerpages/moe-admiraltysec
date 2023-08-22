@@ -8,8 +8,6 @@ description: ""
 <br>
 <br>
 
-
-
 |  |  |
 | -------- | -------- | 
 |<img src="/images/social24.JPG" style="width:100%">|<img src="/images/social23.JPG" style="width:100%">|
