@@ -3,6 +3,10 @@ title: Highlights
 permalink: /admiralty-experience/permalink/
 description: ""
 ---
+###  2023 National Day message to students from Minister for Education Chan Chun Sing
+Catch Min Chan sharing about our ALP program in his 2023 National Day message.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xl9j4M0T2MU?si=orxjsNk5LdpuTOiO&amp;start=163" height="315" width="560"></iframe>
+
 ### 20th Anniversary Video
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OuUCoDbaHHc" height="315" width="560"></iframe>
