@@ -42,7 +42,7 @@ sections:
       title: 2023 National Message
       description: Catch Min Chan highlight our ALP Program!
       button: Click here to find out more
-      url: testing
+      url: /admiralty-experience/permalink/
       image: /images/2023minchan.JPG
       alt: Image alt text
   - infopic:
