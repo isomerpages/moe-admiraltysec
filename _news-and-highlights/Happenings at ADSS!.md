@@ -8,10 +8,9 @@ description: ""
 <br>
 <br>
 
-
-
 |  |  |
 | -------- | -------- | 
+|<img src="/images/social24.JPG" style="width:100%">|<img src="/images/social23.JPG" style="width:100%">|
 |<img src="/images/social22.JPG" style="width:100%">|<img src="/images/social21.JPG" style="width:100%">|
 |<img src="/images/social20.JPG" style="width:100%">|<img src="/images/social19.JPG" style="width:100%">|
 |<img src="/images/social18.JPG" style="width:100%">|<img src="/images/social17.JPG" style="width:100%">|
