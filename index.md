@@ -109,4 +109,11 @@ sections:
       url: /ljnms/news-and-highlights/permalink/
       image: /images/2023/Ljnms/ljnms_004.jpeg
       alt: Sec 2 Learning Journey
+  - infopic:
+      title: 2023 National Message
+      description: Catch Min Chan highlight our ALP Program!
+      button: Click here to find out more
+      url: testing
+      image: /images/2023minchan.JPG
+      alt: Image alt text
 ---
