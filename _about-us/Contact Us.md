@@ -17,9 +17,3 @@ Contact Us
 <h4>Email :&nbsp;<a href="mailto:admiralty_ss@moe.edu.sg">admiralty_ss@moe.edu.sg</a></h4>
 <div><br>
 </div></div>
-
-
-<div class="pageblock_box" id="_ptoo_52970">
-    <h2 class="ive_editable ive_ptoh" id="_ptoh_52970">Feedback</h2>
-    <div class="ive_editable ive_ptod ive_content" id="_ptod_52970">Click <a target="_blank" href="http://forms.cwp.sg/Feedback_form/Form3AZH7">here</a> to assess to feedback form</div>
-</div>
