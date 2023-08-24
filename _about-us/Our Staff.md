@@ -78,7 +78,7 @@ description: ""
 |:---:|:---:|:---:|
 | Mr Tay Chek Foo | Administration Manager | [tay\_chek\_foo@moe.edu.sg](mailto:tay_chek_foo@moe.edu.sg) |
 | Mdm Tan Huiping Apple | Operations Manager | [tan\_huiping@moe.edu.sg](mailto:tan_huiping@moe.edu.sg) |
-|  Ms Nur Atiqah Binte Mohd Yusoff | ICT Associate  | [nur\_atiqah\_mohd\_yusoff@moe.edu.sg](mailto:nur_atiqah_mohd_yusoff@moe.edu.sg) |
+|  Ms Nur Atiqah Binte Mohd Yusoff | ICT Manager  | [nur\_atiqah\_mohd\_yusoff@moe.edu.sg](mailto:nur_atiqah_mohd_yusoff@moe.edu.sg) |
 |  Mdm Hong Peiru Vivian |Administrative Executive  | [hong\_pei\_ru\_vivian@moe.edu.sg](mailto:hong_pei_ru_vivian@moe.edu.sg) |
 |  Mdm Chng Bee Kim | CSO  | [chng\_bee\_kim@moe.edu.sg](mailto:chng_bee_kim@moe.edu.sg) |
 |  Mdm Low Siew Yok Jasmine | CSO  | [low\_siew\_yok@moe.edu.sg](mailto:low_siew_yok@moe.edu.sg) |
