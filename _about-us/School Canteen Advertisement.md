@@ -1,12 +1,12 @@
 ---
 title: School Canteen Advertisement
-permalink: /about-us/permalink/
+permalink: /about-us/permalink/canteen/
 description: ""
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Asian Cuisine (Japanese/Korean etc.)     | 4/6/2023     | NIL     |
-| Western Food (Halal)    | 4/6/2023     | Halal   |
+|Noodle (Chinese)    | 8/9/2023     | NIL     |
+
 
 
 **Application Procedure**
