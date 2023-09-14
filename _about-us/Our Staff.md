@@ -33,14 +33,14 @@ description: ""
 
 | Class | Form Teacher 1 | Form Teacher 2 |
 |:---:|:---:|:---:|
-| Aquila 1 | Mr Yap Chong Meng Ronald  <br>[yap\_chong\_meng\_ronald@moe.edu.sg](mailto:yapp_chong_meng_ronald@moe.edu.sg) | Mdm Noor Hasnah Binte Adma  <br>[noor\_hasnah\_adam@moe.edu.sg](mailto:noor_hasnah_adam@moe.edu.sg) |  |
-| Aquila 2 | Mr Ong Minyi Jamie  <br>[ong\_minyi\_jamie@moe.edu.sg](mailto:ong_minyi_jamie@moe.edu.sg) | Ms Nur Syazana Binte Rahsid  <br>[nur\_syazana\_rashid@moe.edu.sg](mailto:nur_syazana_rashid@moe.edu.sg)|  <br> |
-| Aquila 3 | Ms Ong Hui Ping  <br>[ong\_hui\_ping@moe.edu.sg](mailto:ong_hui_ping@moe.edu.sg) | Mdm Irda Haeryati Binte Tomin  <br>[Irda\_Haeryati\_Tomin@schools.gov.sg](mailto:Irda_Haeryati_Tomin@schools.gov.sg) |  |
-| Aquila 4 |Mdm Wendy Chen Jin Jing  <br>[wendy\_chen\_jin\_jing@moe.edu.sg](mailto:wendy_chen_jin_jing@moe.edu.sg) | Ms Ummul Nazihah Binte Ramli  <br>[Ummul\_Nazihah\_Ramli@moe.edu.sg](mailto:Ummul_Nazihah_Ramli@moe.edu.sg) |  |
-| Aquila 5 | Mr Arun Vasudev Krishnan  <br>[arun\_vasudev\_krishnan@moe.edu.sg](mailto:arun_vasudev_krishnan@moe.edu.sg)| Mdm Tiong Rui Shan  <br>[tiong\_rui\_shan@moe.edu.sg](mailto:tiong_rui_shan@moe.edu.sg) |  |
-| Aquila 6 |  Ms Kong Tze Xin  <br>[kong\_tze\_xin@moe.edu.sg](mailto:kong_tze_xin@moe.edu.sg) | Mdm Mas Ayu Bte Abdul Malek  <br>[mas\_ayu\_abdul\_malek@moe.edu.sg](mailto:mas_ayu_abdul_malek@moe.edu.sg) |  |
-| Aquila 7   | Ms Thein Ying Jie Elena  <br>[thein\_ying\_jie\_elena@moe.edu.sg](mailto:thein_ying_jie_elena@moe.edu.sg) | Ms Yasmin Binte Sapmodi  <br>[Yasmin\_Sapmodi@moe.edu.sg](mailto:Yasmin_Sapmodi@moe.edu.sg) |  |
-|  Aquila 8  | Mdm Noor Shida Bte Hassan  <br>[noor\_shida\_hassan@moe.edu.sg](mailto:noor_shida_hassan@moe.edu.sg)  |  |   |
+| Aquila 1 | Mr Yap Chong Meng Ronald  <br>[yap\_chong\_meng\_ronald@moe.edu.sg](mailto:yapp_chong_meng_ronald@moe.edu.sg) | Mdm Noor Hasnah Binte Adma  <br>[noor\_hasnah\_adam@moe.edu.sg](mailto:noor_hasnah_adam@moe.edu.sg) |
+| Aquila 2 | Mr Ong Minyi Jamie  <br>[ong\_minyi\_jamie@moe.edu.sg](mailto:ong_minyi_jamie@moe.edu.sg) | Ms Nur Syazana Binte Rahsid  <br>[nur\_syazana\_rashid@moe.edu.sg](mailto:nur_syazana_rashid@moe.edu.sg)|
+| Aquila 3 | Ms Ong Hui Ping  <br>[ong\_hui\_ping@moe.edu.sg](mailto:ong_hui_ping@moe.edu.sg) | Mdm Irda Haeryati Binte Tomin  <br>[Irda\_Haeryati\_Tomin@schools.gov.sg](mailto:Irda_Haeryati_Tomin@schools.gov.sg) |
+| Aquila 4 |Mdm Wendy Chen Jin Jing  <br>[wendy\_chen\_jin\_jing@moe.edu.sg](mailto:wendy_chen_jin_jing@moe.edu.sg) | Ms Ummul Nazihah Binte Ramli  <br>[Ummul\_Nazihah\_Ramli@moe.edu.sg](mailto:Ummul_Nazihah_Ramli@moe.edu.sg) |
+| Aquila 5 | Mr Arun Vasudev Krishnan  <br>[arun\_vasudev\_krishnan@moe.edu.sg](mailto:arun_vasudev_krishnan@moe.edu.sg)| Mdm Tiong Rui Shan  <br>[tiong\_rui\_shan@moe.edu.sg](mailto:tiong_rui_shan@moe.edu.sg) |
+| Aquila 6 |  Ms Kong Tze Xin  <br>[kong\_tze\_xin@moe.edu.sg](mailto:kong_tze_xin@moe.edu.sg) | Mdm Mas Ayu Bte Abdul Malek  <br>[mas\_ayu\_abdul\_malek@moe.edu.sg](mailto:mas_ayu_abdul_malek@moe.edu.sg) |
+| Aquila 7   | Ms Thein Ying Jie Elena  <br>[thein\_ying\_jie\_elena@moe.edu.sg](mailto:thein_ying_jie_elena@moe.edu.sg) | Ms Yasmin Binte Sapmodi  <br>[Yasmin\_Sapmodi@moe.edu.sg](mailto:Yasmin_Sapmodi@moe.edu.sg) |
+|  Aquila 8  | Mdm Noor Shida Bte Hassan  <br>[noor\_shida\_hassan@moe.edu.sg](mailto:noor_shida_hassan@moe.edu.sg)  | Nur Farhan Bin Nur Affandy <br>  [Nur_Farhan_Nur_Affandy@moe.edu.sg](mailto:nur_farhan_nur_affandy@moe.edu.sg) |
 |Aquila 9|Ms Andrea Ng Su Yin  <br>[ng\_su\_yin\_andrea@moe.edu.sg](mailto:ng_su_yin_andrea@moe.edu.sg)|Ms Tan Bee Kiaw Evelyn  <br>[Tan\_Bee\_Kiaw\_Evelyn@schools.gov.sg](mailto:Tan_Bee_Kiaw_Evelyn@schools.gov.sg)| |
 
 
