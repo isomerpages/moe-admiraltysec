@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - DMA Resources for Parents.md
       - Parent Support Group.md
       - Full Subject Based Banding.md
       - MOE Sexuality Education.md
       - Cyberwellness Partnership.md
+      - DMA Resources for Parents.md
