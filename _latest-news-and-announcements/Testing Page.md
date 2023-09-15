@@ -22,7 +22,8 @@ Daily Necessities 
 
 [Counselling Appointment Form](https://docs.google.com/forms/d/e/1FAIpQLSfKwznx867RVpB5ZEp2JOOqcFxy9aNhMyM6em3ZwbWXK2rFhg/viewform) 
 
-[ADSS Education and Career Guidance Information Portal](https://sites.google.com/moe.edu.sg/adssecgsite/overview) (for links to ECG Counselling booking, MySkillsFuture Portal, PSEI information)
+[ADSS Education and Career Guidance Information Portal](https://sites.google.com/moe.edu.sg/adssecgsite/overview) 
+(for links to ECG Counselling booking, MySkillsFuture Portal, PSEI information)
 
 [Pass on The LIGHTS](https://docs.google.com/forms/d/e/1FAIpQLSd89JurME6pvm6X3ZeSYOcm_Qt7nMTnTOw58PQA05MROHI0Sw/viewform)
 
