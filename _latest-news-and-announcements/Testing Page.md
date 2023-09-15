@@ -18,7 +18,7 @@ Daily Necessities 
 
 [ICT Equipment Fault Reporting Form](https://go.gov.sg/adss-ictequipmentfaultreport) 
 
-ICT [Password Reset Form](https://go.gov.sg/adss-passwordreset)
+[ICT Password Reset Form](https://go.gov.sg/adss-passwordreset)
 
 [Counselling Appointment Form](https://docs.google.com/forms/d/e/1FAIpQLSfKwznx867RVpB5ZEp2JOOqcFxy9aNhMyM6em3ZwbWXK2rFhg/viewform) 
 
