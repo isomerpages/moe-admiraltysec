@@ -95,6 +95,19 @@ description: ""
     <th style="width=20%">Awardees</th>
   </tr>
 		<tr>
+			<td>Singapore Junior Physics Olympiad 2023 </td>
+			<td>Bronze</td>
+			<td>Muhammad Nur Iman Bin Adam (L5)
+</td>
+		</tr>
+			<tr>
+			<td>Singapore Junior Physics Olympiad 2023 </td>
+			<td>Honourable mention</td>
+			<td>1. Arif Nur'Aiman Bin Azli (L8)<br>2. Choo Yi Kang (L8)<br>3. Lim Xin Ting (L5)<br>4. Nur Zahirah Binte Muhammad Faizal (A8)<br>5. Tan Jun Kai (L8)<br>6. Ting Peng Xu Joshua (L5)<br>7. Wu Zhixin (L5)<br>8. Zhu Wen Yu (L5)
+
+</td>
+		</tr>
+		<tr>
 			<td>21<sup>st</sup> Elementz Science Competition (2023)  </td>
 			<td>Bronze Medal</td>
 			<td>1. Qistina Adryanna Binte Muhammad Ahsanul Iman (O1)<br>2. Flora Yong Bi Qing (O1)<br>3. Toh Xin Yee (O1)<br>4. Yip Jia En Mikaela (O1)</td>
