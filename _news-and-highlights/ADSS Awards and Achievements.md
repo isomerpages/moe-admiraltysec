@@ -116,13 +116,13 @@ description: ""
 		<tr>
 			<td>Singapore Junior Biology Olympiad 2023 </td>
 			<td>Bronze</td>
-			<td>1. Ee Ying Xuan (S4-L6)<br>2. Loke Kai Yi (S4-L5)
+			<td>1. Ee Ying Xuan (L6)<br>2. Loke Kai Yi (L5)
 </td>
 		</tr>
 				<tr>
 			<td>Singapore Junior Biology Olympiad 2023 </td>
 			<td>Merit</td>
-			<td>Yang Quanle (S4-L5)
+			<td>Yang Quanle (L5)
 </td>
 		</tr>
 		<tr>
