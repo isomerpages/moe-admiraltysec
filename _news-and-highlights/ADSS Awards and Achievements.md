@@ -95,6 +95,12 @@ description: ""
     <th style="width=20%">Awardees</th>
   </tr>
 		<tr>
+			<td>Singapore Physics League 2023 </td>
+			<td>Honourable Mention</td>
+			<td>1. Arif Nur'Aiman Bin Azli (L8)<br>2. Muhammad Nur Iman Bin Adam (L5)<br>3. Muhammad Sadiq Bin Suhairi (L5)
+</td>
+		</tr>
+		<tr>
 			<td>Singapore Junior Physics Olympiad 2023 </td>
 			<td>Bronze</td>
 			<td>Muhammad Nur Iman Bin Adam (L5)
@@ -105,6 +111,24 @@ description: ""
 			<td>Honourable mention</td>
 			<td>1. Arif Nur'Aiman Bin Azli (L8)<br>2. Choo Yi Kang (L8)<br>3. Lim Xin Ting (L5)<br>4. Nur Zahirah Binte Muhammad Faizal (A8)<br>5. Tan Jun Kai (L8)<br>6. Ting Peng Xu Joshua (L5)<br>7. Wu Zhixin (L5)<br>8. Zhu Wen Yu (L5)
 
+</td>
+		</tr>
+		<tr>
+			<td>Singapore Junior Biology Olympiad 2023 </td>
+			<td>Bronze</td>
+			<td>1. Ee Ying Xuan (S4-L6)<br>2. Loke Kai Yi (S4-L5)
+</td>
+		</tr>
+				<tr>
+			<td>Singapore Junior Biology Olympiad 2023 </td>
+			<td>Merit</td>
+			<td>Yang Quanle (S4-L5)
+</td>
+		</tr>
+		<tr>
+			<td>Singapore Junior Biology Olympiad 2023 </td>
+			<td>Honourable mention</td>
+			<td>1. Chin Boon Hwee (L6)<br>2. Deelys Lee Yan Qi (L6)
 </td>
 		</tr>
 		<tr>
