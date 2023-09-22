@@ -1,5 +1,4 @@
 collections:
   latest-news-and-announcements:
     output: true
-    order:
-      - Chinese New Year Celebration 2022.md
+    order: []
