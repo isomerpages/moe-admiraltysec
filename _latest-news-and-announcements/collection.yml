@@ -2,7 +2,6 @@ collections:
   latest-news-and-announcements:
     output: true
     order:
-      - Testing Page.md
       - 20th Anniversary Speech Day.md
       - 2022 Direct School Admissions (DSA).md
       - Timetable for Term 2 2022.md
