@@ -94,15 +94,21 @@ description: ""
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+		<tr>
+			<td>World Robot Olympiad 2023 </td>
+			<td>RoboMission Junior Category<br>Overall Champion<br>Side Quest 4-1st place<br>Side Quest 5-3rd place</td>
+			<td>1. Tay Yong Le (P7)<br>2. Chia Zong Heng Skyler (P7)<br>3. Merlynn Chia (A9)
+</td>
+		</tr>
 				<tr>
 			<td>World Robot Olympiad 2023 </td>
-			<td>RoboMission Junior Category Side Quest 3<br>**1st place**</td>
+			<td>RoboMission Junior Category<br>Side Quest 3- 1st place</td>
 			<td>1. Tay Yong Le (P7)<br>2. Chia Zong Heng Skyler (P7)<br>3. Merlynn Chia (A9)
 </td>
 		</tr>
 		<tr>
 			<td>World Robot Olympiad 2023 </td>
-			<td>Future Innovators Junior Category<br>**Innovation Award**</td>
+			<td>Future Innovators Junior Category-Innovation Award</td>
 			<td>1. Tay Yong Le (P7)<br>2. Chia Zong Heng Skyler (P7)<br>3. Merlynn Chia (A9)
 </td>
 		</tr>
