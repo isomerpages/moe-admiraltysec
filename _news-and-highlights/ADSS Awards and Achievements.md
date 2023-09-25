@@ -94,6 +94,18 @@ description: ""
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+				<tr>
+			<td>World Robot Olympiad 2023 </td>
+			<td>RoboMission Junior Category Side Quest 3<br>**1st place**</td>
+			<td>1. Tay Yong Le (P7)<br>2. Chia Zong Heng Skyler (P7)<br>3. Merlynn Chia (A9)
+</td>
+		</tr>
+		<tr>
+			<td>World Robot Olympiad 2023 </td>
+			<td>Future Innovators Junior Category<br>**Innovation Award**</td>
+			<td>1. Tay Yong Le (P7)<br>2. Chia Zong Heng Skyler (P7)<br>3. Merlynn Chia (A9)
+</td>
+		</tr>
 		<tr>
 			<td>Singapore Physics League 2023 </td>
 			<td>Honourable Mention</td>
