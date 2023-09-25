@@ -134,7 +134,7 @@ description: ""
 		<tr>
 			<td>21<sup>st</sup> Elementz Science Competition (2023)  </td>
 			<td>Bronze Medal</td>
-			<td>1. Qistina Adryanna Binte Muhammad Ahsanul Iman (O1)<br>2. Flora Yong Bi Qing (O1)<br>3. Toh Xin Yee (O1)<br>4. Yip Jia En Mikaela (O1)</td>
+			<td>1. Qistina Adryanna Binte Muhammad Ahsanul Iman (O3)<br>2. Flora Yong Bi Qing (O3)<br>3. Toh Xin Yee (O3)<br>4. Yip Jia En Mikaela (O3)</td>
 		</tr>
 					<tr><td>21<sup>st</sup> Elementz Science Competition (2023)  </td>
 			<td>Certificate of Commendation
