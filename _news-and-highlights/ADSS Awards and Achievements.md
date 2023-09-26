@@ -95,6 +95,24 @@ description: ""
     <th style="width=20%">Awardees</th>
   </tr>
 		<tr>
+			<td>World Robot Olympiad 2023 </td>
+			<td>RoboMission Junior Category<br>Overall Champion<br>Side Quest 4-1st place<br>Side Quest 5-3rd place</td>
+			<td>1. Tay Yong Le (P7)<br>2. Chia Zong Heng Skyler (P7)<br>3. Merlynn Chia (A9)
+</td>
+		</tr>
+				<tr>
+			<td>World Robot Olympiad 2023 </td>
+			<td>RoboMission Junior Category<br>Side Quest 3- 1st place</td>
+			<td>1. Tay Yong Le (P7)<br>2. Chia Zong Heng Skyler (P7)<br>3. Merlynn Chia (A9)
+</td>
+		</tr>
+		<tr>
+			<td>World Robot Olympiad 2023 </td>
+			<td>Future Innovators Junior Category-Innovation Award</td>
+			<td>1. Tay Yong Le (P7)<br>2. Chia Zong Heng Skyler (P7)<br>3. Merlynn Chia (A9)
+</td>
+		</tr>
+		<tr>
 			<td>Singapore Physics League 2023 </td>
 			<td>Honourable Mention</td>
 			<td>1. Arif Nur'Aiman Bin Azli (L8)<br>2. Muhammad Nur Iman Bin Adam (L5)<br>3. Muhammad Sadiq Bin Suhairi (L5)
@@ -134,7 +152,7 @@ description: ""
 		<tr>
 			<td>21<sup>st</sup> Elementz Science Competition (2023)  </td>
 			<td>Bronze Medal</td>
-			<td>1. Qistina Adryanna Binte Muhammad Ahsanul Iman (O1)<br>2. Flora Yong Bi Qing (O1)<br>3. Toh Xin Yee (O1)<br>4. Yip Jia En Mikaela (O1)</td>
+			<td>1. Qistina Adryanna Binte Muhammad Ahsanul Iman (O3)<br>2. Flora Yong Bi Qing (O3)<br>3. Toh Xin Yee (O3)<br>4. Yip Jia En Mikaela (O3)</td>
 		</tr>
 					<tr><td>21<sup>st</sup> Elementz Science Competition (2023)  </td>
 			<td>Certificate of Commendation
