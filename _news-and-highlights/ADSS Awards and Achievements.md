@@ -97,13 +97,13 @@ description: ""
 		<tr>
 			<td>World Robot Olympiad 2023 </td>
 			<td>RoboMission Junior Category<br>Overall Champion<br>Side Quest 4-1st place<br>Side Quest 5-3rd place</td>
-			<td>1. Tay Yong Le (P7)<br>2. Chia Zong Heng Skyler (P7)<br>3. Merlynn Chia (A9)
+			<td>1. Serrano Elaine Gheorge Miranda (P2)<br>2. Liang Yun Zhi Benji (P1)
 </td>
 		</tr>
 				<tr>
 			<td>World Robot Olympiad 2023 </td>
 			<td>RoboMission Junior Category<br>Side Quest 3- 1st place</td>
-			<td>1. Tay Yong Le (P7)<br>2. Chia Zong Heng Skyler (P7)<br>3. Merlynn Chia (A9)
+			<td>1. Nicholas Cheok Han Leng (A5)<br>2. Pom Glenn Tzer (P7)
 </td>
 		</tr>
 		<tr>
