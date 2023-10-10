@@ -11,11 +11,11 @@ description: ""
 
 | | | |
 | :--------: | :--------: | :--------: |
-|| <img style="width:150px" src="/images/_mr%20lam%20yui-ping.jpg"> ||
+|| <img style="width:25%" src="/images/_mr%20lam%20yui-ping.jpg"> ||
 
 |||||
 | :--------: | --------: | :-------- | :--------: |
-||<img style="width:" src="/images/_mr%20chan%20yew%20ren%20eugene.jpg">|<img style="width:" src="/images/_mr%20sheik%20alaudin%20b%20mohd%20ismail.jpg">||
+||<img style="width:60%" src="/images/_mr%20chan%20yew%20ren%20eugene.jpg">|<img style="width:60%" src="/images/_mr%20sheik%20alaudin%20b%20mohd%20ismail.jpg">||
 
 |||||
 | :--------: | --------: | :-------- | :--------: |
