@@ -19,6 +19,4 @@ description: ""
 
 |||||
 | :--------: | --------: | :-------- | :--------: |
-|![](/images/10%20mr%20tan%20han%20yu%20melvin.jpg)|![](/images/09%20mdm%20tan%20chuen%20wei%20(mrs%20goh).jpg)|![](/images/04%20mdm%20julianah%20bte%20othman.jpg)|![](/images/_ms%20florence%20kuek.jpg)|
-
-ohd%20ismail.jpg" style="width:20%"&gt;
+|![](/images/10%20mr%20tan%20han%20yu%20melvin.jpg)|![](/images/09%20mdm%20tan%20chuen%20wei%20(mrs%20goh).jpg)|![](/images/04%20mdm%20julianah%20bte%20othman.jpg)|![](/images/_ms%20florence%20kuek.jpg)| style="width:20%"&gt;
