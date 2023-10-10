@@ -8,20 +8,8 @@ description: ""
        border: none!important;
     }
 </style>
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-<img width="10px" src="/images/mr%20lam%20yui-ping.jpg">
-
-
-
-|aaaaaa ||aaaaaa|
-| :--------: | :--------: | :--------: |
-|![](/images/blankblank.jpg)|![](/images/mr%20lam%20yui-ping.jpg)|![](/images/blankblank.jpg)|
 
 |||||
 | :--------: | --------: | :-------- | :--------: |
-|![](/images/blankblank.jpg)|![](/images/mr%20chan%20yew%20ren%20eugene.jpg)|![](/images/mr%20sheik%20alaudin%20b%20mohd%20ismail.jpg)|![](/images/blankblank.jpg)|
-
-|||||
-| :--------: | --------: | :-------- | :--------: |
+|![](/images/mr%20lam%20yui-ping.jpg)|![](/images/mr%20chan%20yew%20ren%20eugene.jpg)|![](/images/mr%20sheik%20alaudin%20b%20mohd%20ismail.jpg)|![](/images/blankblank.jpg)|
 |![](/images/10%20mr%20tan%20han%20yu%20melvin.jpg)|![](/images/09%20mdm%20tan%20chuen%20wei%20(mrs%20goh).jpg)|![](/images/04%20mdm%20julianah%20bte%20othman.jpg)|![](/images/ms%20florence%20kuek.jpg)|
