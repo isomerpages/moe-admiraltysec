@@ -2,7 +2,6 @@ collections:
   news-and-highlights:
     output: true
     order:
-      - Timetable for Term 4 Week 6.md
       - ADSS Awards and Achievements.md
       - Happenings at ADSS!.md
       - Sec 1 Outdoor Adventure Learning (OAL) Camp 2023.md
