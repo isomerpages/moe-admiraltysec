@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Timetable for Term 4 Week 6.md
       - 2023 Timetable.md
       - Addylink (Students).md
       - Library OPAC.md
