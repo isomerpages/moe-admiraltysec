@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - 2023 SMC.md
       - Our History.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Our Staff.md
+      - 2023 SMC.md
       - School Advisory Committee.md
       - Contact Us.md
