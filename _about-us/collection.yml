@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - 2023 SMC.md
       - Our History.md
       - Principal's Message.md
       - Vision, Mission, Values.md
