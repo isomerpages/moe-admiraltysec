@@ -13,7 +13,7 @@ description: ""
 |  Orion 4 | Mdm Chow Shin Yun<br>[chow_shin_yun@moe.edu.sg](mailto:chow_shin_yun@moe.edu.sg) | Mdm Lim Ching Ching<br>[lim\_ching\_ching@moe.edu.sg](mailto:lim_ching_ching@moe.edu.sg) |  |
 |  Orion 5 | Mdm Yeo Suan Neo Doreen<br>[yeo\_suan\_neo\_doreen@moe.edu.sg](mailto:yeo_suan_neo_doreen@moe.edu.sg) | Ms Tan Ming Hui  <br>[Tan\_Ming\_Hui@moe.edu.sg](mailto:Tan_Ming_Hui@moe.edu.sg) |  |
 |  Orion 6 | Ms Zhuo Yanping<br>[zhuo\_yanping@moe.edu.sg](mailto:zhuo_yanping@moe.edu.sg) | Mdm Tamil Selvi d/o Ramanujam  <br>[tamil\_selvi\_ramanujam@moe.edu.sg](mailto:tamil_selvi_ramanujam@moe.edu.sg)|  |
-| Orion 7 | Ms Leong Mun Yi<br>[leong\_mun\_yi@moe.edu.sg](mailto:leong_mun_yi@moe.edu.sg) | Ms Grace Wong Yann Ning Grace  <br>[wong_yann_ning_grace@moe.edu.sg](mailto:wong_yann_ning_grace@moe.edu.sg)
+| Orion 7 | Ms Leong Mun Yi<br>[leong\_mun\_yi@moe.edu.sg](mailto:leong_mun_yi@moe.edu.sg) | |
 
 #### Sec 2 Form Teachers
 
