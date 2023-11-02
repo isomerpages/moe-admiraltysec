@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Booklists for 2024 Test.md
+      - Booklists for 2024.md
       - 2023 Timetable.md
       - Addylink (Students).md
       - Library OPAC.md
