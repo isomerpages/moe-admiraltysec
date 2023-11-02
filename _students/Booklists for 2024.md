@@ -4,6 +4,7 @@ permalink: /students/permalink/
 description: ""
 ---
 Dear Admirals,
+<br>
 Please find the booklists for 2024 below.
 
 Sec 2 2024 Booklists:
@@ -30,7 +31,7 @@ Sec 3 2024 Booklists:
 <br>
 [5. Sec 3 (NT-OOS)](/files/2023/amss_2024_sec%203%20(nt-oos)_white.pdf)
 
-Sec 4 2024 Booklists:
+Sec 4 &amp; 5 2024 Booklists:
 <br>
 [1. Sec 4 (EXP)](/files/2023/amss_2024_sec%204%20(exp)_blue.pdf)
 <br>
@@ -41,3 +42,5 @@ Sec 4 2024 Booklists:
 [4. Sec 4 (NT)](/files/2023/amss_2024_sec%204%20(nt)_pink.pdf)
 <br>
 [5. Sec 4 (NT-OOS)](/files/2023/amss_2024_sec%204%20(nt-oos)_white.pdf)
+<br>
+[6. Sec 5 (NA)](/files/2023/amss_2024_sec%205%20(na)_purple.pdf)
