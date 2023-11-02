@@ -7,7 +7,7 @@ Dear Admirals,
 <br>
 Please find the booklists for 2024 below.
 
-Sec 2 2024 Booklists:
+**Sec 2 2024 Booklists:**
 <br>
 [1. Sec 2 (EXP)](/files/2023/amss_2024_sec%202%20(exp)_blue.pdf)
 <br>
@@ -19,7 +19,7 @@ Sec 2 2024 Booklists:
 <br>
 [5. Sec (NT-SBB)](/files/2023/amss_2024_sec%202%20(nt-sbb)_white.pdf)
 
-Sec 3 2024 Booklists:
+**Sec 3 2024 Booklists:**
 <br>
 [1. Sec 3 (EXP)](/files/2023/amss_2024_sec%203%20(exp)_blue.pdf)
 <br>
@@ -31,7 +31,7 @@ Sec 3 2024 Booklists:
 <br>
 [5. Sec 3 (NT-OOS)](/files/2023/amss_2024_sec%203%20(nt-oos)_white.pdf)
 
-Sec 4 &amp; 5 2024 Booklists:
+**Sec 4 &amp; 5 2024 Booklists:**
 <br>
 [1. Sec 4 (EXP)](/files/2023/amss_2024_sec%204%20(exp)_blue.pdf)
 <br>
