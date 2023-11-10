@@ -23,14 +23,6 @@ sections:
           description: ""
           url: /parents/permalink/
   - infopic:
-      title: ADSS Open House 2023
-      subtitle: "Visit Us at "
-      id: infopic
-      description: 25 NOV 2023, 0900-1200
-      button: Click here to find out more
-      url: /oh2023/news-and-highlights/permalink/
-      alt: Image alt text
-  - infopic:
       title: ADSS
       image: /images/2023rugbyaward.jpg
       alt: Image alt text
