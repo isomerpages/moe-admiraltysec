@@ -2,7 +2,6 @@ collections:
   news-and-highlights:
     output: true
     order:
-      - ADSS Open House 2023.md
       - ADSS Awards and Achievements.md
       - Happenings at ADSS!.md
       - Sec 1 Outdoor Adventure Learning (OAL) Camp 2023.md
