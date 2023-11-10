@@ -30,6 +30,7 @@ sections:
       button: Click here to find out more
       url: /oh2023/news-and-highlights/permalink/
       alt: Image alt text
+      image: /images/1adssopenhouse2023.jpg
   - infopic:
       title: ADSS
       image: /images/2023rugbyaward.jpg
