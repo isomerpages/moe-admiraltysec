@@ -2,6 +2,7 @@
 title: Happenings at ADSS!
 permalink: /social/news-and-highlights/permalink/
 description: ""
+variant: markdown
 ---
 #### Click on the icon and follow us!
 <a href="https://www.facebook.com/admiraltysec/"><img src="/images/f_logo_rgb-blue_58.png" align="left" style="width:10%"></a><a href="https://www.instagram.com/admiraltysecschool/"><img src="/images/instagram_glyph_gradient.png" align="left" style="width:10%"></a>
@@ -10,6 +11,8 @@ description: ""
 
 |  |  |
 | -------- | -------- | 
+|![](/images/social30.JPG)|![](/images/social31.JPG)|
+|![](/images/social28.JPG)|![](/images/social29.JPG)|
 |<img src="/images/social27.JPG" style="width:100%">|<img src="/images/social26.JPG" style="width:100%">|
 |<img src="/images/social25.JPG" style="width:100%">|<img src="/images/social25a.JPG" style="width:100%">|
 |<img src="/images/social24.JPG" style="width:100%">|<img src="/images/social23.JPG" style="width:100%">|
