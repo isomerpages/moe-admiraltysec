@@ -2,10 +2,11 @@
 title: School Canteen Advertisement
 permalink: /about-us/permalink/canteen/
 description: ""
+variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-|Noodle (Chinese)    | 8/9/2023     | NIL     |
+|Noodle (Chinese)    | 17/12/2023     | NIL     |
 
 
 
