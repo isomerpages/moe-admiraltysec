@@ -10,9 +10,6 @@ sections:
       background: /images/adss_hero_003.gif
       url: /contact-us/
       key_highlights:
-        - title: 2023 DSA
-          description: ""
-          url: /2023dsa/permalink/
         - title: News & Highlights
           description: ""
           url: /awards/news-and-highlights/permalink/
