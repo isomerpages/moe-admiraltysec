@@ -10,9 +10,6 @@ sections:
       background: /images/adss_hero_003.gif
       url: /contact-us/
       key_highlights:
-        - title: 2023 DSA
-          description: ""
-          url: /2023dsa/permalink/
         - title: News & Highlights
           description: ""
           url: /awards/news-and-highlights/permalink/
@@ -47,6 +44,14 @@ sections:
       url: /social/news-and-highlights/permalink/
       alt: Image alt text
       image: /images/2023rugbybowl.jpg
+  - infopic:
+      title: 2023 YEARBOOK
+      id: infopic
+      description: Like a Beacon of Light
+      button: Click here for find out more
+      url: https://drive.google.com/drive/folders/1DPqOXrWPYUtCbaXi6O_Cr70RhRtzQqLO?usp=sharing
+      image: /images/12023yearbookcover.JPG
+      alt: Image alt text
   - infopic:
       title: 2023 National Day Message
       description: Catch Min Chan highlight our ALP Program!
