@@ -46,20 +46,20 @@ Ceres Ooi, Myat Thu Khant and Ethan Jin, emerged as Singapore’s winner in the 
 All the ADSS teams at First Lego League (FLL) 2023
 
 **National Robotics Competition (NRC) 2023 Achievements**
-![](/images/RE4.jpg)
+![](/images/RE4new.jpeg)
 Presentation Finalist
 
-![](/images/RE5.jpg)
+![](/images/RE5new.jpeg)
 Robot Run Finalist
 
 **World Robot Olympiad (WRO) 2023 Achievements**
-![](/images/RE6.jpg)
+![](/images/RE6new.jpeg)
 1st in Side Quest 3 and Side Quest 4
 
-![](/images/RE7.jpg)
+![](/images/RE7new.jpeg)
 3rd in Side Quest 5
 
-![](/images/RE8.jpg)
+![](/images/RE8new.jpeg)
 RoboMission Junior Overall Champion in Singapore
 
 ![](/images/RE9.jpg)
