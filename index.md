@@ -52,7 +52,7 @@ sections:
       id: infopic
       description: Like a Beacon of Light
       button: Click here for find out more
-      url: /ljnms/news-and-highlights/permalink/
+      url: https://drive.google.com/drive/folders/1DPqOXrWPYUtCbaXi6O_Cr70RhRtzQqLO?usp=sharing
       image: /images/12023yearbookcover.JPG
       alt: Image alt text
   - infopic:
