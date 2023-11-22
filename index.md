@@ -48,6 +48,14 @@ sections:
       alt: Image alt text
       image: /images/2023rugbybowl.jpg
   - infopic:
+      title: 2023 YEARBOOK
+      id: infopic
+      description: Like a Beacon of Light
+      button: Click here for find out more
+      url: /ljnms/news-and-highlights/permalink/
+      image: /images/12023yearbookcover.JPG
+      alt: Image alt text
+  - infopic:
       title: 2023 National Day Message
       description: Catch Min Chan highlight our ALP Program!
       button: Click here to find out more
@@ -125,12 +133,4 @@ sections:
       url: /ljnms/news-and-highlights/permalink/
       image: /images/2023/Ljnms/ljnms_004.jpeg
       alt: Sec 2 Learning Journey
-  - infopic:
-      title: 2023 YEARBOOK
-      id: infopic
-      description: Like a Beacon of Light
-      button: Click here for find out more
-      url: /ljnms/news-and-highlights/permalink/
-      image: /images/12023yearbookcover.JPG
-      alt: Image alt text
 ---
