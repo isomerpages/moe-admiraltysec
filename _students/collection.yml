@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - 2023 Yearbook.md
       - Booklists for 2024.md
       - Addylink (Students).md
       - Library OPAC.md
