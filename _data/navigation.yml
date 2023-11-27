@@ -1,0 +1,10 @@
+logo: /images/adsslogowithtext_square.png
+links:
+  - title: About US
+    collection: about-us
+  - title: Admiralty Experience
+    collection: admiralty-experience
+  - title: Curricular
+    collection: curricular
+  - title: Co-Curricular
+    collection: co-curricular-activities

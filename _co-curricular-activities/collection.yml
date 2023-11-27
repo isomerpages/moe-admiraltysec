@@ -1,0 +1,23 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Clubs & Societies/Art and Environment Club.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Lighthouse Production.md
+      - Clubs & Societies/Robotics Club.md
+      - Physical Sports/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Netball.md
+      - Physical Sports/Rugby.md
+      - Physical Sports/Track & Field.md
+      - Physical Sports/Wushu.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/National Cadet Corps NCC (Land).md
+      - Uniformed Groups/National Civil Defence Cadet Corps.md
+      - Uniformed Groups/National Police Cadet Corps (NPCC).md
+      - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Concert Band.md
+      - Visual & Performing Arts/Modern Dance Club.md
+      - Visual & Performing Arts/English Drama Club.md
+      - Visual & Performing Arts/Guzheng Ensemble.md

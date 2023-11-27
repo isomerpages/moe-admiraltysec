@@ -1,0 +1,7 @@
+collections:
+  students:
+    output: true
+    order:
+      - Booklists for 2024.md
+      - Addylink (Students).md
+      - Library OPAC.md
