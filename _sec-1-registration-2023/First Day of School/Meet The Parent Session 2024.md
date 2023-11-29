@@ -20,3 +20,4 @@ third_nav_title: First Day of School
 * Outdoor Adventure Learning Briefing
 * Dialogue with Form Teachers and KPs
 
+Parents can indicate their attendance in the Parent Gateway letter issued on 20 December 2023.
