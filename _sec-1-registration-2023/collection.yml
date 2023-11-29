@@ -2,4 +2,5 @@ collections:
   sec-1-registration-2023:
     output: true
     order:
+      - Welcome Message by Principal/Welcome & Introduction.md
       - Welcome Message by Principal/.keep
