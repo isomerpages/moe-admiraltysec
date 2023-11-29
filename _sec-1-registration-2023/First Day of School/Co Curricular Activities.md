@@ -15,3 +15,7 @@ third_nav_title: First Day of School
 | Netball (Girls) | National Police Cadet Corp| Art & Environment Club| Drama Club|
 | Rugby (Boys) |  | | Guzheng Ensemble|
 | Wushu | |  ||
+
+##### **Training Session for CCAs**
+
+CCAs sessions are conducted **either on Wednesdays and/or Mondays after school.** The duration of the session is dependent on each CCA. More information on each CCA can be obtained during the CCA Experience which will take place throughout January 2024.
