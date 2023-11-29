@@ -2,7 +2,7 @@ collections:
   sec-1-registration-2023:
     output: true
     order:
-      - Reporting Details/.keep
+      - First Day of School/.keep
       - Welcome & Introduction/.keep
       - Welcome & Introduction/Welcome Message by Principal.md
       - Welcome & Introduction/Administration Briefing by Year Head (Lower
