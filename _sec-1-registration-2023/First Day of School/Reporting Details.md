@@ -36,7 +36,8 @@ third_nav_title: First Day of School
 
 ##### **School Gate Opening Hours**
 
-
-
-
+![ADSS School Gate Opening Hours](/images/School_Gate_Opening_Hours.png)
+<br>
+The locations of the gates are as shown below:
+![Sch Gate Locations](/images/School_Gates_Images.png)
 
