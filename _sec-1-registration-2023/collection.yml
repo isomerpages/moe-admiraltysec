@@ -2,6 +2,7 @@ collections:
   sec-1-registration-2023:
     output: true
     order:
+      - Prep for the 1st Day of School/Textbooks and Uniforms.md
       - Prep for the 1st Day of School/.keep
       - Welcome & Introduction/.keep
       - Welcome & Introduction/Welcome Message by Principal.md
