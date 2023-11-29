@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Welcome Message by Principal/.keep
-      - Welcome & Introduction.md
