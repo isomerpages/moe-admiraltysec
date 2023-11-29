@@ -9,4 +9,6 @@ third_nav_title: Welcome & Introduction
 
 This video introduces the Personalised Digital Learning Programme (PDLP) that will be implemented to all secondary schools. It also provides specification on the school-recommended personal device and information on payment and subsidy.
 
-Download [PDLP Briefing for Sec 1 Registration](/files/2023/Uploads/3__2024_Sec_1_Registration___PDLP.pdf)
+Download **[PDLP Briefing Slides for Sec 1 Registration 2024](/files/2023/Uploads/32024_Sec_1_Registration_PDLP.pdf)**
+
+
