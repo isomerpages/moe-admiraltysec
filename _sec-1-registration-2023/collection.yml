@@ -2,5 +2,7 @@ collections:
   sec-1-registration-2023:
     output: true
     order:
+      - Welcome & Introduction/Administration Briefing by Year Head (Lower
+        Sec).md
       - Welcome & Introduction/Welcome Message by Principal.md
       - Welcome & Introduction/.keep
