@@ -2,9 +2,6 @@ collections:
   sec-1-registration-2023:
     output: true
     order:
-      - Staff Information/.keep
-      - Staff Information/School Management Committee.md
-      - Staff Information/Form Teachers.md
       - Welcome & Introduction/.keep
       - Welcome & Introduction/Welcome Message by Principal.md
       - Welcome & Introduction/Administration Briefing by Year Head (Lower
@@ -20,3 +17,6 @@ collections:
       - First Day of School/Meet The Parent Session 2024.md
       - First Day of School/General Timetable Structure.md
       - First Day of School/Co Curricular Activities.md
+      - Staff Information/.keep
+      - Staff Information/School Management Committee.md
+      - Staff Information/Form Teachers.md
