@@ -2,7 +2,6 @@ collections:
   sec-1-registration-2023:
     output: true
     order:
-      - Other Documents.md
       - Welcome & Introduction/.keep
       - Welcome & Introduction/Welcome Message by Principal.md
       - Welcome & Introduction/Administration Briefing by Year Head (Lower
@@ -22,3 +21,4 @@ collections:
       - Staff Information/School Management Committee.md
       - Staff Information/Form Teachers.md
       - FAQs.md
+      - Other Documents.md
