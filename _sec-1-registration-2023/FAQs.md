@@ -22,7 +22,7 @@ MOE will publish this on the School Information Service when available.
 
 **4.&nbsp;&nbsp;&nbsp;&nbsp; If I would like to appeal into ADSS, what should I do?**
 <br>
-You may fill in the appeal form and the school will contact you when a vacancy arises.
+You may fill in the [appeal form](https://form.gov.sg/61c0fdef18589f001280b7ab) and the school will contact you when a vacancy arises.
 
 **5.**&nbsp;&nbsp;&nbsp; **What if my child is unable to get the uniform before school term starts?**
 <br>
