@@ -51,4 +51,4 @@ Note: All Parents / Students under the MOE FAS application process – Do not pu
     
 *   HPB’s School Health Service only screens for specific conditions. For other medical conditions, please consult a doctor. &nbsp;&nbsp;
     
-*   If you do not wish for your child to undergo HPB’s annual health screening in school, please write to HPB\_SHC@hpb.gov.sg
+*   If you do not wish for your child to undergo HPB’s annual health screening in school, please write to HPB_SHC@hpb.gov.sg
