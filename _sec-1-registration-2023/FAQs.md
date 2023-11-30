@@ -216,3 +216,23 @@ Our school is mindful of students’ socio-emotional and academic needs and will
 Since your child was offered the chance to take a subject at a more demanding level, it would be based on his or her strength in the subject.
 
 
+##### <u>******Mother Tongue Languages** **(****MTL****)******</u>
+**Ms Florence Kuek (Email Address: florence_kuek@moe.edu.sg)
+<br>
+Ms Amizah Binte Mohamed Azhar (Email Address: amizah_mohamed_azhar@moe.edu.sg)**
+
+**1. Can my child ‘drop’ MTL**
+<br>
+Bilingual policy is a cornerstone of Singapore’s education. Under our bilingual policy, all students are required to offer English and a Mother Tongue Language (MTL). Students in mainstream schools are required to offer a MTL subject and sit for the national examination at the end of secondary school.
+
+If the child has reasons (e.g., special educational needs) that may impede his/her ability to do MTL, parents may submit application for MTL exemption to Ministry of Education through the school.
+
+Please approach the HOD/MTL for more information.
+
+**2. My child has received MOE approval to offer Foreign Language (FL) or Asian Language (AsL) in lieu of an official MTL (not as 3rd language) in primary school, do I need to re-apply for approval?**
+<br>
+You are not required to re-apply for approval.
+
+However, you will need to make private study arrangements for your child and ensure that your private education provider can prepare your child for the GCE O-Level examinations at the end of secondary school.
+
+For enquiry on admission to MOE Language Centre for AsL or FL lessons, please approach the HOD/MTL for more information.
