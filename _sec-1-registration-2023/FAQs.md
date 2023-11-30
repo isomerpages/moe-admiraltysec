@@ -110,4 +110,109 @@ While the DMA is installed in all PLDs, school will only enforce control during 
 <br><br>
 DMA control will not be enforced during weekends, public holidays and school vacation periods.
 
+**11. Is there parental control function in the DMA?**
+<br>
+Yes, there is parental control function in DMA. Parents will be able to manage this control to control your child’s screen time at home, filter contents and monitor their online activities and usage. More information will be shared at a later date.
+
+**12. What kind of learning apps will my child be using in school?**
+<br>
+Teachers will be using the Singapore Student Learning Space (SLS) to carry out effective teaching while students will be able to tap on the SLS to access quality learning resources.
+<br>
+In addition, the following apps or software may also be used in your child’s secondary education journey with ADSS.
+
+* Google Suites such as Google Classroom, Google Doc and Google Slides
+* Microsoft apps such as Word, Excel and OneNote
+* E-textbook apps
+* Programming app such as UiFlow
+* Subject-specific learning app such as Geogebra
+<br>
+##### <u>****On FSBB****</u>
+**Mrs Carol Goh (Email Address: tan_chuen_wei@moe.edu.sg)**<br>
+**Mr Phua Tian Peng (Email Address: phua_tian_peng@moe.edu.sg)**<br>
+**Ms Diyana Jumahat (Email Address: diyana_jumahat@moe.edu.sg)**
+<br>
+<br>
+**1. What is Full Subject-Based Banding (FSBB)?**
+<br>
+Full Subject-Based Banding (FSBB) is part of MOE's ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.
+
+With Full SBB, we are moving towards a secondary school education where students learn each subject at the level that best caters to their overall strengths, interests and learning needs.
+
+More details can be found in school website under FSBB.
+
+**2. How will Full SBB affect my child’s access to post-sec pathways?**
+<br>
+From 2027, students will sit for the new SEC examinations, with different papers for each subject level.
+
+Admission criteria have been progressively updated to recognise students taking different combinations of subjects and subject levels.
+
+E.g., Polytechnic Foundation Programme (PFP) will be&nbsp;expanded to allow access to students offering G3 subjects, or a mix of G2 and G3 subjects.
+
+**3. What is a Mixed Form Class? What are the objectives of having Mixed Form Classes?**
+<br>
+Sec 1 Admirals will be placed in form classes with a mix of students from different posting group: G1,G2 and G3. Mixed form classes present more opportunities for students to interact with other students with different strengths and interests. This opportunity will level everyone up holistically.
+
+**4. In the mixed form classes, will the quality and rigour of teaching be compromised in order to accommodate different posting groups? Will the students be learning a common curriculum for subjects at a common level?**
+<br>
+For the common curriculum subjects taught in the mixed form classes, students will continue to experience a high level of quality and rigour in teaching. While the learning outcomes will be common for all students, teachers will differentiate their teaching to meet the needs of a class of students with different learning abilities, using a range of teaching approaches. This will benefit all students as they learn through different experiences and ways of thinking.
+
+**5. What are the subjects involved in common curriculum and how are they conducted?**
+<br>
+Subjects like D&amp;T, FCE, Art, PE, Music and CCE will have a common curriculum for all posting groups.&nbsp;
+
+These lessons will be conducted at a common level regardless of posting group.
+
+Our teachers will&nbsp; adopt a variety of pedagogical approaches to cater to the different learning needs of students.
+
+**6.How will your school ensure that students from different posting group and backgrounds would be able to socialise well?**
+<br>
+Our school fosters a caring and supportive culture from the start of the school year. To facilitate positive relationships, we will have programmes to strengthen the bonds between teachers and students and among peers, establish a strong sense of class identity and belonging to the school community, and empower students to develop healthy self-concepts and grow to the best of their abilities.
+
+**7. How will FSBB affect the subjects taken by my child?**
+<br>
+At the start of Secondary One, students may offer the PSLE subjects at a more demanding level based on their individual AL score. For example, if your child is in PG2 but did well in a subject, (s)he might be offered a chance to take that subject at the G3 level.
+
+Beyond the start of Secondary One, students may offer subjects at a more demanding level based on their performance in the subject in secondary school and a holistic assessment by the school to ensure that the student can cope with the subject and overall workload.
+
+**8. Why should my child take up the subjects offered at a more demanding level?**
+<br>
+* Nurture their strengths and give them more opportunities throughout their educational journey
+* Greater engagement in their learning.
+* To build a stronger foundation in subjects that they are good at.
+
+**9. Can I reject the offer to allow my child to take the subject at a more demanding level?**
+<br>
+Yes, you can, but do consider the benefits of this offer – Nurture their strengths and give them more opportunities throughout their educational journey (Polytechnic/ITE admission), greater engagement in their learning, build a stronger foundation in subjects that they are good at.
+
+**10. What should I consider when deciding if I want to take up the offer?**
+<br>
+* Materials for the more demanding course must be purchased;
+* Interests of your child;
+* Learning style of your child;
+* Time-management
+
+**11. If my child rejects the offer of taking subject(s) at a more demanding level now, can (s)he take it up again later?**
+<br>
+If your child continues to do well, (s)he may be offered again. However, (s)he would miss out the rigour that has been covered earlier and would need to attend bridging lessons to level up what s(he) has missed. As such, it would be highly encouraged for your child to take it on as early as possible.
+
+**12. What if my child takes it up but is not doing well? Can I switch back to a less demanding level?**
+<br>
+Your child is encouraged to continue with the subject(s) at the more demanding level until the end of Sec 2, given that students need time to adjust to both secondary school life and to the more demanding subject.
+
+Progress at the higher-level subjects as well as overall progress in all subjects is closely monitored.
+
+Support will be given to help your child cope.
+
+Before a decision is made to switch the level, students should sought the advice from subject teachers.
+
+The school will also advise on the possible impact on admission to post-secondary courses.
+
+**13. Will taking subjects at more demanding level give my child more stress?**
+<br>
+Your child will be monitored and supported.&nbsp;
+
+Our school is mindful of students’ socio-emotional and academic needs and will endeavour to provide the necessary support to help them cope.
+
+Since your child was offered the chance to take a subject at a more demanding level, it would be based on his or her strength in the subject.
+
 
