@@ -104,10 +104,10 @@ The DMA supports you and the school in managing your child’s PLD usage to ensu
 <br>
 While the DMA is installed in all PLDs, school will only enforce control during school hours as follows:
 
-Mon – Thu: 0700h – 1500h
+**Mon – Thu:** 0700h – 1500h
 <br>
-Fri: 0700h – 1300h&nbsp;
-<br>
+**Fri:**  0700h – 1300h&nbsp;
+<br><br>
 DMA control will not be enforced during weekends, public holidays and school vacation periods.
 
 
