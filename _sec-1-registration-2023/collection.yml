@@ -2,9 +2,9 @@ collections:
   sec-1-registration-2023:
     output: true
     order:
-      - Staff Information/Form Teachers.md
-      - Staff Information/School Management Committee.md
       - Staff Information/.keep
+      - Staff Information/School Management Committee.md
+      - Staff Information/Form Teachers.md
       - Welcome & Introduction/.keep
       - Welcome & Introduction/Welcome Message by Principal.md
       - Welcome & Introduction/Administration Briefing by Year Head (Lower
