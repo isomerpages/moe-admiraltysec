@@ -1,0 +1,24 @@
+collections:
+  sec-1-registration-2023:
+    output: true
+    order:
+      - Welcome & Introduction/.keep
+      - Welcome & Introduction/Welcome Message by Principal.md
+      - Welcome & Introduction/Administration Briefing by Year Head (Lower
+        Sec).md
+      - Welcome & Introduction/Personalised Digital Learning Programme by
+        HOD(ICT).md
+      - Prep for the 1st Day of School/.keep
+      - Prep for the 1st Day of School/Getting To ADSS.md
+      - Prep for the 1st Day of School/Textbooks and Uniforms.md
+      - First Day of School/.keep
+      - First Day of School/Reporting Details.md
+      - First Day of School/Orientation Programme.md
+      - First Day of School/Meet The Parent Session 2024.md
+      - First Day of School/General Timetable Structure.md
+      - First Day of School/Co Curricular Activities.md
+      - Staff Information/.keep
+      - Staff Information/School Management Committee.md
+      - Staff Information/Form Teachers.md
+      - FAQs.md
+      - Other Documents.md
