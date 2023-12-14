@@ -7,4 +7,4 @@ third_nav_title: First Day of School
 ---
 #### **General Timetable Structure for Lower Secondary Students**
 ![General TT Structure](/images/General_TT_Structure.png)
-*Please refer to class timetable distributed on the first day of school.
+*Please refer to class timetable distributed within the first week of school.
