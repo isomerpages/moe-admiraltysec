@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Prep for the 1st Day of School
 ---
 #### **Textbooks and Uniforms**
-Online purchase of textbooks and uniforms is **<u>highly recommended</u>**. If you wish to walk-in, the opening hours for the bookshop and school uniform store are as follows:
+If you wish to walk-in, the opening hours for the bookshop and school uniform store are as follows:
 
 | Date | Opening | 
 | -------- | -------- | 
@@ -24,7 +24,7 @@ Online purchase of textbooks and uniforms is **<u>highly recommended</u>**. If y
 <br>
 **Website:** [www.pacificbookstores.com](http://www.pacificbookstores.com) (An account is needed for online purchases.)
 
-To minimise waiting time and avoid crowd, you are encouraged to purchase textbooks online. Online purchase is available until **27 December 2023**. You may opt for home-delivery (delivery fee applies) or collection at the school bookshop. You may choose the delivery or collection date upon purchase of textbooks online.
+**To minimise waiting time and avoid crowd, you may purchase textbooks online**. Online purchase is available until **27 December 2023**. You may opt for home-delivery (delivery fee applies) or collection at the school bookshop. You may choose the delivery or collection date upon purchase of textbooks online.
 
 Textbooks can still be purchased from the bookshop during the first week of school.
 
