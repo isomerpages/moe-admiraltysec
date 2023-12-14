@@ -227,4 +227,3 @@ You are not required to re-apply for approval.
 
 However, you will need to make private study arrangements for your child and ensure that your private education provider can prepare your child for the GCE O-Level examinations at the end of secondary school.
 
-For enquiry on admission to MOE Language Centre for AsL or FL lessons, please approach the HOD/MTL for more information.
