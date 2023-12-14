@@ -42,9 +42,9 @@ Students should attend school during the school term to benefit fully from the l
 
 **9.**&nbsp;&nbsp;&nbsp; **Where can I find a copy of the class timetable?**
 <br>
-A printed copy of the timetable will be given to students on the first day of school. A copy will also be uploaded on our school’s website under “Announcements”. The timetable may be refreshed at the start of Term 1, 2 and 3. This is to cater to the learning needs of the cohort.
+A printed copy of the timetable will be given to students within the first week of school. A copy will also be uploaded on our school’s website under “Announcements”. The timetable may be refreshed at the start of Term 1, 2 and 3. This is to cater to the learning needs of the cohort.
 
-**10.**&nbsp;&nbsp;&nbsp; **Are students allowed to bring mobile phones to school?**
+**10.**&nbsp;&nbsp;&nbsp; **Are students allowed to use mobile phones to school?**
 <br>
  Students are allowed to use them at Level 1 common areas during recess, before and after school.
  
@@ -55,7 +55,6 @@ A printed copy of the timetable will be given to students on the first day of sc
 Students may join more than one CCA provided there are no clashes in the CCA schedules and they are able to manage the demands of school work. Request for a second CCA is subject to approval on a case-by-case basis.
 
 ##### <u>**PDLP Matters**</u>
-**Ms Diyana Jumahat (Email address: diyana_jumahat@moe.edu.sg)**
 
 **1. What is the PLD model prescribed by the school?**
 <br>
@@ -127,11 +126,7 @@ In addition, the following apps or software may also be used in your child’s s
 * Subject-specific learning app such as Geogebra
 <br>
 ##### <u>****On FSBB****</u>
-**Mrs Carol Goh (Email Address: tan_chuen_wei@moe.edu.sg)**<br>
-**Mr Phua Tian Peng (Email Address: phua_tian_peng@moe.edu.sg)**<br>
-**Ms Diyana Jumahat (Email Address: diyana_jumahat@moe.edu.sg)**
-<br>
-<br>
+
 **1. What is Full Subject-Based Banding (FSBB)?**
 <br>
 Full Subject-Based Banding (FSBB) is part of MOE's ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.
@@ -217,9 +212,6 @@ Since your child was offered the chance to take a subject at a more demanding le
 
 
 ##### <u>******Mother Tongue Languages** **(****MTL****)******</u>
-**Ms Florence Kuek (Email Address: florence_kuek@moe.edu.sg)
-<br>
-Ms Amizah Binte Mohamed Azhar (Email Address: amizah_mohamed_azhar@moe.edu.sg)**
 
 **1. Can my child ‘drop’ MTL**
 <br>
