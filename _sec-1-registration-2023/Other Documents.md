@@ -42,14 +42,6 @@ Note: All Parents / Students under the MOE FAS application process – Do not pu
 
 **4. Annual School-Based Health &amp; Dental Services**
 <br>
-*   The Health Promotion Board (HPB)’s School Health and Dental Services will be conducting its annual health screening, immunisation and dental services for your child. These services ensure the protection of your child’s health and early detection of health issues. We appreciate your partnership with HPB to give our children a healthier start in life.&nbsp;
-    
-*   Your consent is needed to ensure your child receives these important health and dental services provided. You may access the Child Consent Portal via the link&nbsp;[https://childconsent.hpb.gov.sg/](https://childconsent.hpb.gov.sg/).&nbsp;&nbsp;&nbsp;
-    
-*   Upon access to the Child Consent Portal, you will need to (1) provide consent for HPB to deliver health and dental services to your child, and (2) update your child’s medical condition(s). &nbsp;&nbsp;
-    
-*   HPB offers fully subsidised Human Papillomavirus (HPV) vaccinations to eligible Secondary 1 and 2 female students. HPV vaccinations are highly recommended for females 9-26 years old for protection against cervical cancer. Parental consent is required before HPV vaccination can be administered. &nbsp; &nbsp;
-    
-*   HPB’s School Health Service only screens for specific conditions. For other medical conditions, please consult a doctor. &nbsp;&nbsp;
-    
-*   If you do not wish for your child to undergo HPB’s annual health screening in school, please write to HPB_SHC@hpb.gov.sg
+*   The Health Promotion Board (HPB)’s School Health and Dental Services will be conducting its annual health screening, immunisation and dental services for your child. These services ensure the protection of your child’s health and early detection of health issues. We appreciate your partnership with HPB to give our children a healthier start in life.&nbsp; 
+*   A letter will be sent to you via Parents Gateway within the first week of school. You will need to provide your consent to these services. 
+  
