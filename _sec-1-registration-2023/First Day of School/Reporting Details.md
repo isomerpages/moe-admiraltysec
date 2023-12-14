@@ -15,7 +15,7 @@ third_nav_title: First Day of School
 <br>
 **Attire :** ADSS full school uniform**\***
 <br>
-**Venue :** School Canteen (Students will be ushered to their respective classrooms)
+**Venue :** School Canteen (Students will be ushered to the assembly area)
 <br>
 *Students who are unable to purchase ADSS school uniform before 1st day of school, can report in their primary school uniform for Week 1.
 
@@ -40,4 +40,3 @@ third_nav_title: First Day of School
 <br>
 The locations of the gates are as shown below:
 ![Sch Gate Locations](/images/School_Gates_Images.png)
-
