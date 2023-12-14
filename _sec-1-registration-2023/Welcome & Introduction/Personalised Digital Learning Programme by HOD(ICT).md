@@ -7,8 +7,6 @@ third_nav_title: Welcome & Introduction
 ---
 #### **Personalised Digital Learning Programme by HOD/ICT**
 
-This video introduces the Personalised Digital Learning Programme (PDLP) that will be implemented to all secondary schools. It also provides specification on the school-recommended personal device and information on payment and subsidy.
+This deck of slides introduces the Personalised Digital Learning Programme (PDLP) that will be implemented to all secondary schools. It also provides specification on the school-recommended personal device and information on payment and subsidy.
 
 Download **[PDLP Briefing Slides for Sec 1 Registration 2024](/files/2023/Uploads/32024_Sec_1_Registration_PDLP.pdf)**
-
-
