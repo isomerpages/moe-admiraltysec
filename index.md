@@ -10,7 +10,7 @@ sections:
       background: /images/adss_hero_003.gif
       url: /contact-us/
       key_highlights:
-        - title: For 2024 Sec 1
+        - title: 2024 Sec 1 Info
           description: ""
           url: /sec-1-registration-2023/welcome-and-introduction/welcome-msg-by-p/
         - title: Students
