@@ -10,9 +10,9 @@ sections:
       background: /images/adss_hero_003.gif
       url: /contact-us/
       key_highlights:
-        - title: News & Highlights
+        - title: For 2024 Sec 1
           description: ""
-          url: /awards/news-and-highlights/permalink/
+          url: /sec-1-registration-2023/welcome-and-introduction/welcome-msg-by-p/
         - title: Students
           description: ""
           url: /students/permalink/
