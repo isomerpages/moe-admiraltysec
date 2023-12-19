@@ -48,7 +48,7 @@ A printed copy of the timetable will be given to students within the first week 
 <br>
  Students are allowed to use them at Level 1 common areas during recess, before and after school.
  
-###### CCA Matters
+##### CCA Matters
  
 **1.**&nbsp;&nbsp;&nbsp; **Can students join more than one CCA?**
 <br>
@@ -212,7 +212,7 @@ Our school is mindful of students’ socio-emotional and academic needs and will
 Since your child was offered the chance to take a subject at a more demanding level, it would be based on his or her strength in the subject.
 
 
-##### <u>******Mother Tongue Languages** **(****MTL****)******</u>
+##### Mother Tongue Languages (MTL)
 
 **1. Can my child ‘drop’ MTL**
 <br>
