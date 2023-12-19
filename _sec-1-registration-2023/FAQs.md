@@ -34,7 +34,7 @@ If you have any general enquiries, you may email us at [**admiralty\_ss@moe.edu.
 
 **7.**&nbsp;&nbsp;&nbsp; **When are the school terms/ school holidays?**
 <br>
-Information can be found [here.](https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022)
+Information can be found [here](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024)
 
 **8.**&nbsp;&nbsp;&nbsp; &nbsp;**Can I take my child for an overseas vacation during school term?**
 <br>
@@ -226,4 +226,3 @@ Please approach the HOD/MTL for more information.
 You are not required to re-apply for approval.
 
 However, you will need to make private study arrangements for your child and ensure that your private education provider can prepare your child for the GCE O-Level examinations at the end of secondary school.
-
