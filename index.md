@@ -23,9 +23,8 @@ sections:
       title: Sec 1 Registration 2024
       subtitle: Visit Us at
       id: infopic
-      description: 25 Nov 2023 0900-1200
       button: Click here to find out more
-      url: /oh2023/news-and-highlights/permalink/
+      url: /sec1-reg-24/news-and-highlights/permalink/
       alt: Image alt text
       image: /images/1adssopenhouse2023.jpg
   - infopic:
