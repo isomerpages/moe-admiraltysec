@@ -1,6 +1,6 @@
 ---
 title: Form Teachers
-permalink: /about-us/our-staff/
+permalink: /sec-1-registration-2023/staff-information/sec1-ft/
 variant: tiptap
 description: ""
 third_nav_title: Staff Information
