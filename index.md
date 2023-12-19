@@ -27,8 +27,7 @@ sections:
       url: /sec1-reg-24/news-and-highlights/permalink/
       alt: Image alt text
       image: /images/Picture1.png
-      description: |
-        More details can be found in 2024 Sec 1 Info tab
+      description: More details can be found in 2024 Sec 1 Info tab
   - infopic:
       title: ADSS
       image: /images/2023rugbyaward.jpg
