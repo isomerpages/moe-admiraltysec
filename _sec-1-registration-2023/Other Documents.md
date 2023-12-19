@@ -12,8 +12,6 @@ description: ""
 <br>
 As your child moves from primary to secondary school, it is natural that you want to ensure that your child is prepared to the best of their abilities. In this issue of Parent Kit, we provide parents with tips on what they can do to ensure a smooth and successful transition to S1.
 
-* [Transition to Secondary School Booklet](/files/Transition_to_Sec_Sch.pdf)
-<br>
 * [MOE Resource Kit - Primary to Secondary Transition](/files/MOE_Resource_Kit.pdf)
 
 **2. ADSS PSG Welcome Letter**
@@ -43,5 +41,4 @@ Note: All Parents / Students under the MOE FAS application process – Do not pu
 **4. Annual School-Based Health &amp; Dental Services**
 <br>
 *   The Health Promotion Board (HPB)’s School Health and Dental Services will be conducting its annual health screening, immunisation and dental services for your child. These services ensure the protection of your child’s health and early detection of health issues. We appreciate your partnership with HPB to give our children a healthier start in life.&nbsp; 
-*   A letter will be sent to you via Parents Gateway within the first week of school. You will need to provide your consent to these services. 
-  
+*   A letter will be sent to you via Parents Gateway within the first week of school. You will need to provide your consent to these services.
