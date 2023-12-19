@@ -20,7 +20,7 @@ sections:
           description: ""
           url: /parents/permalink/
   - infopic:
-      title: ADSS Open House 2023
+      title: Sec 1 Registration 2024
       subtitle: Visit Us at
       id: infopic
       description: 25 Nov 2023 0900-1200
