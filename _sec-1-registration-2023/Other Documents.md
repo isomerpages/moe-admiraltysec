@@ -6,7 +6,7 @@ description: ""
 ---
 #### **Other Documents and Information**
 
-#####** <u>Parent Toolkit</u>**
+##### Parent Toolkit
 
 **1. MOE Resource Kit - Transition to Secondary school booklet**
 <br>
