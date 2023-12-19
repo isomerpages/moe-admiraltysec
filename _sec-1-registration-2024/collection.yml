@@ -2,6 +2,7 @@ collections:
   sec-1-registration-2024:
     output: true
     order:
+      - Personalised Digital Learning Programme by HOD(ICT).md
       - 2024 Sec 1 Registration Announcement.md
       - Welcome & Introduction/.keep
       - Welcome & Introduction/Welcome Message by Principal.md
