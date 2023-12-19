@@ -125,7 +125,8 @@ In addition, the following apps or software may also be used in your child’s s
 * Programming app such as UiFlow
 * Subject-specific learning app such as Geogebra
 <br>
-##### <u>****On FSBB****</u>
+
+##### On FSBB
 
 **1. What is Full Subject-Based Banding (FSBB)?**
 <br>
