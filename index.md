@@ -26,7 +26,7 @@ sections:
       button: Click here to find out more
       url: /sec1-reg-24/news-and-highlights/permalink/
       alt: Image alt text
-      image: /images/1adssopenhouse2023.jpg
+      image: /images/Picture1.png
   - infopic:
       title: ADSS
       image: /images/2023rugbyaward.jpg
