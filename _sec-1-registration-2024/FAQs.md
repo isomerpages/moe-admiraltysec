@@ -6,7 +6,7 @@ description: ""
 ---
 #### **Frequently Asked Questions (FAQs)**
 
-##### <u>**General Questions**</u>
+##### General Questions
 
 **1.**&nbsp;&nbsp;&nbsp; **Where is the nearest ATM?**
 <br>
@@ -48,7 +48,7 @@ A printed copy of the timetable will be given to students within the first week 
 <br>
  Students are allowed to use them at Level 1 common areas during recess, before and after school.
  
- ##### CCA Matters
+###### CCA Matters
  
 **1.**&nbsp;&nbsp;&nbsp; **Can students join more than one CCA?**
 <br>
