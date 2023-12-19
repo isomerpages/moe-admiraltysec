@@ -20,8 +20,8 @@ sections:
           description: ""
           url: /parents/permalink/
   - infopic:
-      title: Sec 1 Registration 2024
-      subtitle: Visit Us at
+      title: 2024 Sec 1 Registration
+      subtitle: News and highlights
       id: infopic
       button: Click here to find out more
       url: /sec1-reg-24/news-and-highlights/permalink/
