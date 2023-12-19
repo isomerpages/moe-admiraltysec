@@ -17,7 +17,7 @@ Together with your teachers and friends, we are committed to guide and nurture y
 
 a)&nbsp;&nbsp;&nbsp;&nbsp; Applied Learning Programme (ALP) - Design Thinking through Technology &amp; Innovation, that prepares all Admirals as solution designers in Science, Technology, Engineering and Mathematics (STEM) related professions, and;
 
-b)&nbsp;&nbsp;&nbsp; Learning for Life Programme (LLP) - Nurturing Mindful Leadership through Community Outreach, anchored with our school values of Respect, Resilience, Responsibility, Life-long learning, Integrity, Graciousness, High expectations, Teamwork and Self-discipline (R3ich in LIGHTS).
+b)&nbsp;&nbsp;&nbsp; Learning for Life Programme (LLP) - Nurturing Mindful Leadership through Community Outreach, anchored with our school values of Respect, Resilience, Responsibility, Life-long learning, Integrity, Graciousness, High expectations, Teamwork and Self-discipline (R³ich in LIGHTS).
 
 We encourage you to take an active role in pursuing the various opportunities provided for you.
 
