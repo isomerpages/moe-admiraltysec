@@ -48,13 +48,13 @@ A printed copy of the timetable will be given to students within the first week 
 <br>
  Students are allowed to use them at Level 1 common areas during recess, before and after school.
  
- ##### <u>**CCA Matters**</u>
+ ##### CCA Matters
  
 **1.**&nbsp;&nbsp;&nbsp; **Can students join more than one CCA?**
 <br>
 Students may join more than one CCA provided there are no clashes in the CCA schedules and they are able to manage the demands of school work. Request for a second CCA is subject to approval on a case-by-case basis.
 
-##### <u>**PDLP Matters**</u>
+##### PDLP Matters
 
 **1. What is the PLD model prescribed by the school?**
 <br>
