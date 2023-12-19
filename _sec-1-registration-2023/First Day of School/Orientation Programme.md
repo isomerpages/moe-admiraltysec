@@ -7,7 +7,7 @@ third_nav_title: First Day of School
 ---
 #### **Secondary 1 Orientation Programme 2024**
 
-The Sec 1 Journey will start with the Orientation Programme. Please refer to the **[document](/files/2023/Uploads/5Sec_1_Orientation_2024_Schedulefor_website_.pdf)** for Orientation Programme outline. Academic lessons will commence on **8 Jan 2024 (Monday)**.
+The Sec 1 Journey will start with the Orientation Programme. Please refer to the [document](/files/5__Sec_1_Orientation_2024_Schedule__for_website_.pdf) for Orientation Programme outline. Academic lessons will commence on **8 Jan 2024 (Monday)**.
 <br>
 
 The Orientation Programme aims to
