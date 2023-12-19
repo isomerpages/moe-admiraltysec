@@ -10,9 +10,9 @@ sections:
       background: /images/adss_hero_003.gif
       url: /contact-us/
       key_highlights:
-        - title: News & Highlights
+        - title: 2024 Sec 1 Info
           description: ""
-          url: /awards/news-and-highlights/permalink/
+          url: /sec-1-registration-2023/welcome-and-introduction/welcome-msg-by-p/
         - title: Students
           description: ""
           url: /students/permalink/
@@ -20,14 +20,14 @@ sections:
           description: ""
           url: /parents/permalink/
   - infopic:
-      title: ADSS Open House 2023
-      subtitle: Visit Us at
+      title: 2024 Sec 1 Registration
+      subtitle: News and highlights
       id: infopic
-      description: 25 Nov 2023 0900-1200
       button: Click here to find out more
-      url: /oh2023/news-and-highlights/permalink/
+      url: /sec-1-registration-2024/permalink/
       alt: Image alt text
-      image: /images/1adssopenhouse2023.jpg
+      image: /images/Picture1.png
+      description: More details can be found in 2024 Sec 1 Info tab
   - infopic:
       title: ADSS
       image: /images/2023rugbyaward.jpg
