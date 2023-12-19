@@ -56,4 +56,4 @@ Textbooks can still be purchased from the bookshop during the first week of scho
 <br>
 * Exchange can be made within 7 days with proof of purchase and the uniforms must be in good condition (it must not be washed or stained). Please note that socks are non-exchangeable due to hygiene issues.
 
-Download [My Uniform Shop - Information for Parents](/files/My_Uniform_Shop__ASIA__Pte_Ltd___Admiralty_Secondary_School_2023.pdf)
+Download [My Uniform Shop - General Guide for Online Purchase](/files/My_Uniform_Shop__ASIA__Pte_Ltd___Admiralty_Secondary_School_2023.pdf)
