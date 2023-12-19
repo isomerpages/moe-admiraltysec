@@ -4,14 +4,20 @@ permalink: /oh2023/news-and-highlights/permalink/
 variant: markdown
 description: ""
 ---
-![](/images/2023/Oh2023/adssopenhouse.jpg)
+Admiralty Secondary School warmly welcomes all 2024 Secondary 1 students!
 
-#### Join us at our Open House on 25 Nov 2023 (Saturday) from 9 am to 12 pm!
+A welcome letter will be sent via Parents Gateway by the end of Sec 1 Posting Day. To kickstart your Admiralty Experience, you may refer to the relevant information under “2024 Sec 1 Infor” Tab.
 
-<ins>Principal and students' Sharing</ins><br>
-Session 1 - 0930<br>
-Session 2 - 1100
-#### Open House Layout
-![](/images/openhouse_layout.jpeg)
+The textbooks and school uniforms stores are open according to the following schedule. Online purchase of textbooks is also available until **27 December 2023**.
 
-Hear from our school leaders and students on their school experience! Let our student leaders bring you around our school campus and experience our signature programmes and exciting CCAs offered at Admiralty Sec!
+
+
+| Date | Opening Hours | Suggested Classes |
+| -------- | -------- | -------- |
+| 21 - 22 Dec    | 9am to 3pm    | Orion 1 - 4    |
+| 23 - 25 Dec    | Closed  | -   |
+| 26 - 27 Dec    | 9am to 3pm    | Orion 5 - 7    |
+| 28 - 29 Dec    | 9am to 3pm    | All classes    |
+| 30 - 31 Dec    | Closed  | -    |
+
+We look forward to meeting the 2024 Secondary 1 Admirals on the first day of school **(2 January 2024, 7.15am, report at sch**
