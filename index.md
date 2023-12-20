@@ -24,7 +24,7 @@ sections:
       subtitle: News and highlights
       id: infopic
       button: Click here to find out more
-      url: /sec-1-registration-2024-announcement/permalink/
+      url: /sec-1-registration-2024/permalink/
       alt: Image alt text
       image: /images/Picture1.png
       description: More details can be found in 2024 Sec 1 Info tab
