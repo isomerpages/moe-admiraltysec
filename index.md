@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: 2024 Sec 1 Info
           description: ""
-          url: /sec-1-registration-2023/welcome-and-introduction/welcome-msg-by-p/
+          url: /sec-1-registration-2024/permalink/
         - title: Students
           description: ""
           url: /students/permalink/
