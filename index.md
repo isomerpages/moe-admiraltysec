@@ -20,6 +20,13 @@ sections:
           description: ""
           url: /parents/permalink/
   - infopic:
+      title: Start Right Day 2024
+      id: infopic
+      description: Announcement for Start Right Day
+      button: Button Text
+      url: Announcement for Start Right Day
+      alt: Image alt text
+  - infopic:
       title: 2024 Sec 1 Registration
       subtitle: News and highlights
       id: infopic
