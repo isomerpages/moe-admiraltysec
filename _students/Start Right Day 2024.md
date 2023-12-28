@@ -1,7 +1,0 @@
----
-title: Start Right Day 2024
-permalink: /start-right-day-2024/students/permalink/
-variant: tiptap
-description: ""
----
-<p>Dear Admirals,<br>School is reopening and you will return to school on <strong><u>2nd January 2024, Tuesday.</u></strong><br><br>Please be reminded of the following:</p><p>1.&nbsp;&nbsp;&nbsp;&nbsp; Report to school in <em>full school uniform and in proper grooming</em>. Do note that unacceptable grooming and attire will be sent home for rectification before being allowed to return to school.<br>2.&nbsp;&nbsp;&nbsp;&nbsp; Flag raising venue will be the <em>school hall</em>.<br>3.&nbsp;&nbsp;&nbsp;&nbsp; Students who are <em>unwell with flu-like symptoms</em> such as fever and cough are required to stay away from school. Please inform your Form Teachers or call the general office.<br>4.&nbsp;&nbsp;&nbsp;&nbsp; Bring a <em>working</em> Oral Digital Thermometer (ODT).<br>5.&nbsp;&nbsp;&nbsp;&nbsp; Bring your <em>fully charged</em> Personal Learning Device.<br>6.&nbsp;&nbsp;&nbsp;&nbsp; The <em>dismissal timing</em> on the first day of school for <em>all Sec 2 to 5 students</em> will be <em>1.15pm</em>.<br><br>Let’s stay safe - Do what is needed to protect not only yourself, but your family, your friends, and everyone around you.<br>We look forward to welcoming you back!</p>
