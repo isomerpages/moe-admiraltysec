@@ -26,6 +26,7 @@ sections:
       button: Click here to find out more
       url: /start-right-day-2024/students/permalink/
       alt: Image alt text
+      image: /images/ADSS_Mascot_FINALS__Waving__v3.png
   - infopic:
       title: 2024 Sec 1 Registration
       subtitle: News and highlights
