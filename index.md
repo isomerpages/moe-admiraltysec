@@ -23,8 +23,8 @@ sections:
       title: Start Right Day 2024
       id: infopic
       description: Announcement for Start Right Day
-      button: Button Text
-      url: Announcement for Start Right Day
+      button: Click here to find out more
+      url: /start-right-day-2024/students/permalink/
       alt: Image alt text
   - infopic:
       title: 2024 Sec 1 Registration
