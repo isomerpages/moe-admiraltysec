@@ -42,3 +42,10 @@ Note: All Parents / Students under the MOE FAS application process – Do not pu
 <br>
 *   The Health Promotion Board (HPB)’s School Health and Dental Services will be conducting its annual health screening, immunisation and dental services for your child. These services ensure the protection of your child’s health and early detection of health issues. We appreciate your partnership with HPB to give our children a healthier start in life.&nbsp; 
 *   A letter will be sent to you via Parents Gateway within the first week of school. You will need to provide your consent to these services.
+
+5. CCA Prospectus 2024
+<br>
+* Education at Admiralty Secondary School (ADSS) aims to provide students with a holistic education that will provide opportunities for each student to explore and be developed in the special areas that will allow him/her to grow as a whole person. Apart from the core academic work and the enrichment activities, ADSS offers a range of co-curricular activities (CCAs) that cater to the students’ varied interests and capabilities.
+* This prospectus aims to provide reference for new students of ADSS and to help them decide which CCA is suitable for them. It is intended to guide the student to understand what is involved in each CCA, whether it will suit him/her and the likely commitment called for.
+
+You can download a copy of the CCA Prospectus 2024 [here.](/files/ADSS_CCA_Prospectus_2024.pdf)
