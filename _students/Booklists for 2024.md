@@ -1,7 +1,8 @@
 ---
 title: Booklists for 2024
-permalink: /students/permalink/
+permalink: /students/booklist/
 description: ""
+variant: tiptap
 ---
 Dear Admirals,
 <br>
