@@ -13,7 +13,7 @@ variant: markdown
 
 |||||
 | :-: | :-: | :-: | :-: |
-|![](/images/2MRLAM.jpg)|![](/images/mr%20chan%20yew%20ren%20eugene.jpg)|![](/images/blankblank.jpg)|![](/images/blankblank.jpg)|
+|![](/images/2MRLAM.jpg)|![](/images/mr%20chan%20yew%20ren%20eugene.jpg)|![](/images/Mr_Tan_Hock_Chuan_Michael.jpg)|![](/images/blankblank.jpg)|
 |![](/images/10%20mr%20tan%20han%20yu%20melvin.jpg)|![](/images/09%20mdm%20tan%20chuen%20wei%20(mrs%20goh).jpg)|![](/images/04%20mdm%20julianah%20bte%20othman.jpg)|![](/images/ms%20florence%20kuek.jpg)|
 |![](/images/05%20mdm%20lau%20charmaine.jpg)|![](/images/07%20mr%20phua%20tian%20peng.jpg)|![](/images/08%20ms%20subashini%20ap%20varlivell08.jpg)|![](/images/02%20ms%20diyana%20binti%20jumahat.jpg)|
 |![](/images/11%20mdm%20tay%20kai%20yun%20karen%20(mrs%20yap).jpg)|![](/images/06%20mr%20lee%20yee%20leong%20keynes.jpg)|![](/images/03%20mr%20goh%20huan%20bok%20kelvin.jpg)|![](/images/01%20mr%20chong%20teck%20seng.jpg)|
