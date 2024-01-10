@@ -2,6 +2,7 @@
 title: Applied Learning Programme
 permalink: /admiralty-experience/applied-learning-programme/permalink/
 description: ""
+variant: markdown
 ---
 Introduction
 ------------
@@ -14,7 +15,7 @@ From 2015, the school has embarked on the Applied Learning Programme (ALP) to en
 
   
 
-Through curriculum re-design, the school has adopted a novel approach to ALP by integrating Design Thinking (DT) and Science, Technology, Engineering and Mathematics Engineering (STEM). The approach is also enriched with regular interactions with practising engineers from industries and Institutes of Higher Learning (IHLs).
+Through curriculum re-design, the school has adopted a novel approach to ALP by integrating Design Thinking (DT) and Science, Technology, Engineering and Mathematics (STEM). The approach is also enriched with regular interactions with practising engineers from industries and Institutes of Higher Learning (IHLs).
 
   
 
