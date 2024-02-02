@@ -6,7 +6,7 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-|Noodle (Chinese)    | 17/12/2023     | NIL     |
+|Noodle (Chinese)    | 29 Feb 24   | NIL     |
 
 
 
