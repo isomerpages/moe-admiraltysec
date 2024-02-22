@@ -54,10 +54,21 @@ Let’s continue growing stronger!
 ### PSG Bonding cum Gift Making 
 ![](/images/Photo_Collage_PSG_Members_Bonding_cum_Gift_Making_Session_2023_small.png)
 
+### Parent-Child Bonding Session
+![](/images/Photo_Collage_Parent_Child_Bonding_Session_Jurong_Lake_Gardens_2023.PNG)
+
 ### Tea Session with School Leaders
 
 ![](/images/Photo_Collage_Tea_Session_With_School_Leaders_2023.PNG)
 
+### Partner of Admiralty Award
+![](/images/Photo_Partners_of_Admiralty_Award_2022.png)
+
+### Admirals' Run
+![](/images/Photo_Collage_Admirals__Run_2023.JPG)
+
+### Let Us Chat!
+![](/images/Let_Us_Chat_Poster_Signature_Programme.png)
 
 
 All these activities, efforts and memories would not be possible without a group of highly committed, inspiring, and positive thinking Coordinators, Assistant Coordinators, EXCO members as well as supportive School Leaders, PSG teachers in-charge and parents.
