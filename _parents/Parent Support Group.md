@@ -56,6 +56,7 @@ Let’s continue growing stronger!
 
 ### Parent-Child Bonding Session
 ![](/images/Photo_Collage_Parent_Child_Bonding_Session_Jurong_Lake_Gardens_2023.PNG)
+![](/images/Photo_Collage_Parent_Child_Bonding_Session_Sentosa_2022_small.png)
 
 ### Tea Session with School Leaders
 
