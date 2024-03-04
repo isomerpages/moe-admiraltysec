@@ -4,7 +4,8 @@ permalink: /2024nrpc/news-and-highlights/permalink/
 variant: tiptap
 description: ""
 ---
-<p>Registration for 16th NRPC has opened!</p>
+<p><strong>Registration for 16th NRPC has opened!</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024nrpc_motd3.png">
 </div>
