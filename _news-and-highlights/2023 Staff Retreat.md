@@ -4,7 +4,7 @@ permalink: /2023staffretreat/news-and-highlights/permalink/
 variant: tiptap
 description: ""
 ---
-<p>This year, ADSS goes to RWS for our staff retreat, where we took some
+<p>This year, ADSS selected RWS for our staff retreat, where we took some
 time to know more about what we want in the school and get to know each
 other better.&nbsp;</p>
 <p>ADSS staff retreat took place on 17 November 2023 at RWS.&nbsp; The staff
