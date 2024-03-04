@@ -2,7 +2,7 @@ collections:
   news-and-highlights:
     output: true
     order:
-      - 2024 NRPC.md
+      - 2024 National Robotics Programming Competition (NRPC).md
       - ADSS Awards and Achievements.md
       - Happenings at ADSS!.md
       - 2024 Sec 1 Orientation.md
