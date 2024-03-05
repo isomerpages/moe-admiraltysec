@@ -20,6 +20,22 @@ sections:
           description: ""
           url: /parents/permalink/
   - infopic:
+      title: ADSS
+      image: /images/2023rugbyaward.jpg
+      alt: Image alt text
+      url: /awards/news-and-highlights/permalink/
+      button: Click here to find out more
+      description: Awards and Achievements
+      subtitle: News and highlights
+  - infopic:
+      title: Instagram and Facebook
+      subtitle: Follow us on
+      description: Get the Latest Update!
+      button: Click Here to find out more
+      url: /social/news-and-highlights/permalink/
+      alt: Image alt text
+      image: /images/2023rugbybowl.jpg
+  - infopic:
       title: Start Right Day 2024
       id: infopic
       description: Announcement for Start Right Day
@@ -36,22 +52,6 @@ sections:
       alt: Image alt text
       image: /images/Picture1.png
       description: More details can be found in 2024 Sec 1 Info tab
-  - infopic:
-      title: ADSS
-      image: /images/2023rugbyaward.jpg
-      alt: Image alt text
-      url: /awards/news-and-highlights/permalink/
-      button: Click here to find out more
-      description: Awards and Achievements
-      subtitle: News and highlights
-  - infopic:
-      title: Instagram and Facebook
-      subtitle: Follow us on
-      description: Get the Latest Update!
-      button: Click Here to find out more
-      url: /social/news-and-highlights/permalink/
-      alt: Image alt text
-      image: /images/2023rugbybowl.jpg
   - infopic:
       title: 2023 YEARBOOK
       id: infopic
@@ -138,4 +138,13 @@ sections:
       url: /ljnms/news-and-highlights/permalink/
       image: /images/2023/Ljnms/ljnms_004.jpeg
       alt: Sec 2 Learning Journey
+  - infopic:
+      title: 2024 NRPC
+      subtitle: Calling all primary schools!
+      id: infopic
+      description: Registration is now open until 17 March 2024
+      button: CLICK HERE TO FIND OUT MORE
+      url: /2024nrpc/news-and-highlights/permalink/
+      image: /images/2024nrpc_motd3.png
+      alt: Image alt text
 ---
