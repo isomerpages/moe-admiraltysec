@@ -36,6 +36,15 @@ sections:
       alt: Image alt text
       image: /images/2023rugbybowl.jpg
   - infopic:
+      title: 2024 NRPC
+      subtitle: Calling all primary schools!
+      id: infopic
+      description: Registration is now open until 17 March 2024
+      button: CLICK HERE TO FIND OUT MORE
+      url: /2024nrpc/news-and-highlights/permalink/
+      image: /images/2024nrpc_motd3.png
+      alt: Image alt text
+  - infopic:
       title: Start Right Day 2024
       id: infopic
       description: Announcement for Start Right Day
@@ -43,6 +52,15 @@ sections:
       url: /start-right-day-2024/students/permalink/
       alt: Image alt text
       image: /images/WhatsApp_Image_2023_12_28_at_10_06_51_v2.jpg
+  - infopic:
+      title: 2023 Staff Retreat
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: click here to find out more
+      url: /2023retreat/news-and-highlights/permalink/
+      image: /images/2023_staff_retreat_photo4.jpg
+      alt: Image alt text
   - infopic:
       title: 2024 Sec 1 Registration
       subtitle: News and highlights
@@ -139,12 +157,12 @@ sections:
       image: /images/2023/Ljnms/ljnms_004.jpeg
       alt: Sec 2 Learning Journey
   - infopic:
-      title: 2024 NRPC
-      subtitle: Calling all primary schools!
+      title: 2024 Sec 1 Orientation
+      subtitle: News and Highlights
       id: infopic
-      description: Registration is now open until 17 March 2024
+      description: Lets Welcome our Sec 1 Admirals!
       button: CLICK HERE TO FIND OUT MORE
-      url: /2024nrpc/news-and-highlights/permalink/
-      image: /images/2024nrpc_motd3.png
+      url: /2024secone/news-and-highlights/permalink/
+      image: /images/2024_SEC1Orientation_Photo3.jpg
       alt: Image alt text
 ---
