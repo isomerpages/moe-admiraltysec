@@ -173,7 +173,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Samantha Woo Lai Yee <a href="mailto:samantha_woo_lai_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_woo_lai_yee@moe.edu.sg</a>
+<p>Mdm Samantha Woo Lai Yee <a href="mailto:samantha_woo_lai_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_woo_lai_yee@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -750,30 +750,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_siah_thong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_siah_thong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kanthimathy d/o Palayah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kanthimathy_palayah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kanthimathy_palayah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Ah Keow Annie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_ah_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_ah_keow@moe.edu.sg</a>
 </p>
 </td>
 </tr>
