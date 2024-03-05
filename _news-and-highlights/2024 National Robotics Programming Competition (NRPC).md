@@ -15,13 +15,18 @@ description: ""
 <p></p>
 <p><u>Brief History of NRPC</u>
 </p>
-<p>Admiralty Secondary School started National Robopreneur Carnival (NRPC)
-in 2007. The event aims to challenge young minds by stretching their potential
-in STEM and providing them an opportunity to exhibit their enterprising
-skills. In 2009, Nanyang Polytechnic come onboard to co-organise this meaningful
-competition. In 2019, we updated NRPC to National Robotics Programming
-Competition to better reflect the coding and computational. The competition
-took a 2 year break in 2020 and 2021 due to COVID and transited to online
-format in 2022 offering only to primary schools.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2019nrpc.jpg">
+</div>
+<p>NRPC aims to challenge young minds by stretching their potential in STEM
+and providing them an opportunity to exhibit their enterprising skills.
+Admiralty Secondary School started National Robopreneur Carnival (NRPC)
+in 2007. In 2009, Nanyang Polytechnic came onboard to co-organise this
+meaningful competition. In 2019, we updated NRPC to National Robotics Programming
+Competition to better reflect the coding and computational thinking aspect.
+The competition took a 2 year break in 2020 and 2021 due to COVID and transited
+to online format in 2022 offering only to primary schools.</p>
+<p></p>
 <p></p>
 <p></p>
