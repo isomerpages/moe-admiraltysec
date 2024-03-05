@@ -63,9 +63,9 @@ sections:
       image: /images/WhatsApp_Image_2023_12_28_at_10_06_51_v2.jpg
   - infopic:
       title: 2023 Staff Retreat
-      subtitle: Add an image and text
+      subtitle: NEWS AND HIGHLIGHTS
       id: infopic
-      description: Infopic description
+      description: "@ Resorts World Sentosa"
       button: click here to find out more
       url: /2023retreat/news-and-highlights/permalink/
       image: /images/2023_staff_retreat_photo4.jpg
