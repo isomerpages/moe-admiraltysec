@@ -4,7 +4,7 @@ permalink: /awards/news-and-highlights/permalink/
 description: ""
 variant: markdown
 ---
-# Our ADSS Awards and Achievements (2023)
+# Our ADSS Awards and Achievements
 
 
 <ul class="jekyllcodex_accordion">
