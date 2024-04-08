@@ -23,7 +23,7 @@ description: ""
 and providing them an opportunity to exhibit their enterprising skills.
 Admiralty Secondary School started National Robopreneur Carnival (NRPC)
 in 2007. In 2009, Nanyang Polytechnic came onboard to co-organise this
-meaningful competition. In 2019, we updated NRPC to National Robotics Programming
+meaningful competition. In 2017, we updated NRPC to National Robotics Programming
 Competition to better reflect the coding and computational thinking aspect.
 The competition took a 2 year break in 2020 and 2021 due to COVID and transited
 to online format in 2022 offering only to primary schools.</p>
