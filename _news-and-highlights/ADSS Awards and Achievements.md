@@ -386,6 +386,3 @@ variant: markdown
 ![](/images/2024NWCDC_Platinum.png)
 
 ![](/images/admiralty%20secondary%20school%20banner%20with%20nwcdc.png)
-
-
-
