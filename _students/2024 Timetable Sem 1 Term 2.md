@@ -5,6 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Students,</p>
-<p>Click<strong> <a href="/files/TT_Term_2__12_Mar____Class.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> </strong>to
-view the 2024 Sem 1 Term 2 Timetable.
+<p>Click<strong> <a href="/files/TT_Term_2_w_e_f_Week_7__17_Apr____Class.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> </strong>to
+view the lastest 2024 Sem 1 Term 2 Timetable.
 <br>Thank you.</p>
