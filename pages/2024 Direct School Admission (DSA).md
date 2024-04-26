@@ -57,9 +57,10 @@ related to the talent they are selected for from year 1-4.</p>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;<a href="/track-and-field/co-curricular-activities/sports/permalink" rel="noopener noreferrer nofollow" target="_blank">Track and Field (Girls and Boys)</a>
 </p>
-<p>
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at
-	</p>
+<p>The selection criteria and process for the talent areas will be updated
+from early-May. For more information on DSA-Sec, please refer to the MOE
+website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
 <p>For any clarifications or queries, please email Mr Phua Tian Peng at
 <a href="mailto:phua_tian_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_tian_peng@moe.edu.sg</a>
 </p>
