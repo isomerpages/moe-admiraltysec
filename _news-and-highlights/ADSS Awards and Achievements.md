@@ -82,8 +82,8 @@ variant: markdown
   </tr>
 		  <tr>
     <td>NCDCC Pinnacle Award 2024
-    </td><td>Distinction</td>
-    <td>NCC (Lan</td>
+    </td><td>Pinnacle Award</td>
+    <td>Nur Balqis Binte Emy (L9)<br>Sheikh Syahmi Bin Abdul Haleem (L6)</td>
   </tr>
 	  <tr>
     <td>Unit Recognition 2023
