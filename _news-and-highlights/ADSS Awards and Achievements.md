@@ -17,14 +17,25 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
-		<tr>
-			<td>28<sup>th</sup> AW/MSSM/SSSC U14 &amp; U15 International Athletics Championships 2023 </td>
-    <td>U14 Boys 4 x 400m Relay - 1st</td>
-    <td>Oliver Fiore (P5)</td>
+		
+<tr>
+    <td>2024 National School Games (Track &amp; Field) </td>
+    <td>Gold (B Division Boys - 800m)</td>
+    <td>Oliver Fiore (A6)</td>
+  </tr>
+	<tr>
+    <td>2024 National School Games (Track &amp; Field) </td>
+    <td>Silver (B Division Boys - 1500m)</td>
+    <td>Oliver Fiore (A6)</td>
   </tr>
 			  <tr>
     <td>2023 National School Games (Track &amp; Field) </td>
     <td>Gold (C Division Boys - 800m)</td>
+    <td>Oliver Fiore (P5)</td>
+  </tr>
+		<tr>
+			<td>28<sup>th</sup> AW/MSSM/SSSC U14 &amp; U15 International Athletics Championships 2023 </td>
+    <td>U14 Boys 4 x 400m Relay - 1st</td>
     <td>Oliver Fiore (P5)</td>
   </tr>
 		  <tr>
@@ -68,6 +79,26 @@ variant: markdown
     <th style="width=40%">Title</th>
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
+  </tr>
+		  <tr>
+    <td>NCDCC Pinnacle Award 2024
+    </td><td>Pinnacle Award</td>
+    <td>Nur Balqis Binte Emy (L9)<br>Sheikh Syahmi Bin Abdul Haleem (L6)</td>
+  </tr>
+	  <tr>
+    <td>Unit Recognition 2023
+    </td><td>Distinction</td>
+    <td>NCC (Land)</td>
+  </tr>
+  <tr>
+    <td>Unit Overall Proficiency Award 2023</td>
+    <td>Distinction</td>
+    <td>NPCC</td>
+  </tr>
+		  <tr>
+    <td>Unit Overall Proficiency Award 2023</td>
+    <td>Distinction</td>
+    <td>NCDCC</td>
   </tr>
   <tr>
     <td>Unit Recognition 2022</td>
@@ -352,4 +383,6 @@ variant: markdown
 
 
 #### PARTNERSHIP AWARDS
+![](/images/2024NWCDC_Platinum.png)
+
 ![](/images/admiralty%20secondary%20school%20banner%20with%20nwcdc.png)
