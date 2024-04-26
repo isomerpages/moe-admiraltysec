@@ -80,6 +80,21 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+	  <tr>
+    <td>Unit Recognition 2023/td&gt;
+    </td><td>Distinction</td>
+    <td>NCC (Land)</td>
+  </tr>
+  <tr>
+    <td>Unit Overall Proficiency Award 2023</td>
+    <td>Distinction</td>
+    <td>NPCC</td>
+  </tr>
+		  <tr>
+    <td>Unit Overall Proficiency Award 2023</td>
+    <td>Distinction</td>
+    <td>NCDCC</td>
+  </tr>
   <tr>
     <td>Unit Recognition 2022</td>
     <td>Distinction</td>
