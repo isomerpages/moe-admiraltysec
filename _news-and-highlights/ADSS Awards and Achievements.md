@@ -18,12 +18,12 @@ variant: markdown
     <th style="width=20%">Awardees</th>
   </tr>
 		
-		 <tr>
+<tr>
     <td>2024 National School Games (Track &amp; Field) </td>
     <td>Gold (B Division Boys - 800m)</td>
     <td>Oliver Fiore (A6)</td>
   </tr>
-				 <tr>
+	<tr>
     <td>2024 National School Games (Track &amp; Field) </td>
     <td>Silver (B Division Boys - 1500m)</td>
     <td>Oliver Fiore (A6)</td>
