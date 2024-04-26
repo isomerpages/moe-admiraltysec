@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: 2024 DSA
           description: ""
-          url: /2024dsa/permalink//
+          url: /2024dsa/permalink/
         - title: Students
           description: ""
           url: /students/permalink/
