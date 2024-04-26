@@ -10,9 +10,9 @@ sections:
       background: /images/adss_hero_003.gif
       url: /contact-us/
       key_highlights:
-        - title: 2024 Sec 1 Info
+        - title: 2024 DSA
           description: ""
-          url: /sec-1-registration-2024/permalink/
+          url: /2024dsa/permalink//
         - title: Students
           description: ""
           url: /students/permalink/
