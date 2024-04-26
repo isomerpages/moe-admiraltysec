@@ -22,6 +22,16 @@ variant: markdown
     <td>U14 Boys 4 x 400m Relay - 1st</td>
     <td>Oliver Fiore (P5)</td>
   </tr>
+		 <tr>
+    <td>2024 National School Games (Track &amp; Field) </td>
+    <td>Gold (B Division Boys - 800m)</td>
+    <td>Oliver Fiore (A6)</td>
+  </tr>
+				 <tr>
+    <td>2024 National School Games (Track &amp; Field) </td>
+    <td>Silver (B Division Boys - 1500m)</td>
+    <td>Oliver Fiore (A6)</td>
+  </tr>
 			  <tr>
     <td>2023 National School Games (Track &amp; Field) </td>
     <td>Gold (C Division Boys - 800m)</td>
