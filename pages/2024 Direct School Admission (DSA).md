@@ -156,7 +156,7 @@ community or other external organisations.
 <p>Performing Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/concert-band/co-curricular-activities/performing-arts/permalink" rel="noopener noreferrer nofollow" target="_blank">Concert Band (Girls and Boys)</a>
+<p><a href="/concert-band/co-curricular-activities/performing-arts/permalink" rel="noopener noreferrer nofollow" target="_blank">Concert Band (Girls and Boys)</a> 
 <br>
 <br><a href="/guzheng-ensemble/co-curricular-activities/performing-arts/permalink" rel="noopener noreferrer nofollow" target="_blank">Guzheng Ensemble (Girls and Boys)</a>
 </p>
@@ -172,9 +172,9 @@ in their school/club in at least one recognised performance)</p>
 <p>Sports and Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/wushu/co-curricular-activities/sports/permalink" rel="noopener noreferrer nofollow" target="_blank">Wushu (Girls and Boys)</a>
+<p><a href="/wushu/co-curricular-activities/sports/permalink" rel="noopener noreferrer nofollow" target="_blank">Wushu (Girls and Boys)</a> 
 <br>
-<br><a href="/netball/co-curricular-activities/sports/permalink" rel="noopener noreferrer nofollow" target="_blank">Netball (Girls)</a>
+<br><a href="/netball/co-curricular-activities/sports/permalink" rel="noopener noreferrer nofollow" target="_blank">Netball (Girls)</a> 
 <br>
 <br><a href="/rugby/co-curricular-activities/sports/permalink" rel="noopener noreferrer nofollow" target="_blank">Rugby (Boys)</a>
 </p>
