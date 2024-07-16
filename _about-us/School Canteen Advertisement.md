@@ -4,7 +4,12 @@ permalink: /about-us/permalink/canteen/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,7 +27,7 @@ variant: tiptap
 <p>Noodle (Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 Feb 24</p>
+<p>31 Aug 24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
