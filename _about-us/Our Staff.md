@@ -64,8 +64,9 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Poh Zi Xiang</p>
-<p><a href="mailto: poh_zi_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_zi_xiang@moe.edu.sg</a>
-</p>
+<br><a href="mailto:poh_zi_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_zi_xiang@moe.edu.sg
+</a>
+<p></p>
 </td>
 </tr>
 <tr>
