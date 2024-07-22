@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Edusave Character Award (ECHA) Nomination.md
       - Parent Support Group.md
       - Full Subject Based Banding.md
       - MOE Sexuality Education.md

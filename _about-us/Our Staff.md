@@ -2,10 +2,15 @@
 title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h4>Sec 1 Form Teachers</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -53,14 +58,15 @@ variant: tiptap
 <p>Orion 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Hua Zhi
-<br><a href="mailto:chan_huazhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_huazhi@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Aliza Binte Buang
 <br><a href="mailto:aliza_buang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aliza_buang@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Poh Zi Xiang
+<br><a href="mailto:poh_zi_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_zi_xiang@moe.edu.sg
+</a>
+</p><p></p>
 </td>
 </tr>
 <tr>
@@ -86,8 +92,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fazylah Bte Abd Rahman
-<br><a href="mailto:fazylah_abd_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fazylah_abd_rahman@moe.edu.sg</a>
+<p>Mr Joel Wong Jun Wen
+<br><a href="mailto: joel_wong_jun_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joel_wong_jun_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -101,7 +107,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amelia Choo Shu Xian</p>
+<p>Ms Amelia Choo Shu Xian
+<br><a href="mailto: amelia_choo_shu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amelia_choo_shu_xian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -114,13 +122,20 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Zhi Ming</p>
+<p>Ms Dorothy Phua Hui Hong
+<br><a href="mailto: tang_zhi_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_zhi_ming@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Sec 2 Form Teachers</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -158,7 +173,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Marcus Goh Wei Ming
+<p>Ms Gloria Chong Xue Li
 <br><a href="mailto:marcus_goh_wei_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marcus_goh_wei_ming@moe.edu.sg</a>
 </p>
 </td>
@@ -241,7 +256,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Sec 3 Form Teachers</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -350,6 +370,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Nur Syazana Binte Rashid</p>
 <p></p>
 </td>
 </tr>
@@ -363,13 +384,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhammad Izzuddin Bin Mawar</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Sec 4/5 Form Teachers</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -422,8 +448,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irda Haeryati Binte Tomin</p>
-<p><a href="mailto:irda_haeryati_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irda_haeryati_tomin@moe.edu.sg</a>
+<p>Ms Irda Haeryati Binte Tomin
+<br><a href="mailto:irda_haeryati_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irda_haeryati_tomin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -452,9 +478,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tiong Rui Shan
-<br><a href="mailto:arun_vasudev_kirshnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tiong_rui_shan@moe.edu.sg</a>
-</p>
+<p>Mr Shatihish S/O Rajandran</p>
 </td>
 </tr>
 <tr>
@@ -534,7 +558,11 @@ variant: tiptap
 </table>
 <p><strong>Non-Form Teachers</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -596,7 +624,12 @@ variant: tiptap
 </table>
 <p><strong>Non-Teaching Staff</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -780,7 +813,12 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -836,17 +874,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chan Ding Jie Tom</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
