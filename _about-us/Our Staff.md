@@ -63,10 +63,10 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Poh Zi Xiang</p>
+<p>Mr Poh Zi Xiang
 <br><a href="mailto:poh_zi_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_zi_xiang@moe.edu.sg
 </a>
-<p></p>
+</p><p></p>
 </td>
 </tr>
 <tr>
@@ -107,8 +107,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amelia Choo Shu Xian</p>
-<p><a href="mailto: amelia_choo_shu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amelia_choo_shu_xian@moe.edu.sg</a>
+<p>Ms Amelia Choo Shu Xian
+<br><a href="mailto: amelia_choo_shu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amelia_choo_shu_xian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
