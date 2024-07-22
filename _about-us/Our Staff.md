@@ -448,8 +448,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irda Haeryati Binte Tomin</p>
-<p><a href="mailto:irda_haeryati_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irda_haeryati_tomin@moe.edu.sg</a>
+<p>Ms Irda Haeryati Binte Tomin
+<br><a href="mailto:irda_haeryati_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irda_haeryati_tomin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
