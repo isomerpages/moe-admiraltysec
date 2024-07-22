@@ -64,6 +64,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Poh Zi Xiang</p>
+<p><a href="mailto: poh_zi_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_zi_xiang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -105,6 +107,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Amelia Choo Shu Xian</p>
+<p><a href="mailto: amelia_choo_shu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amelia_choo_shu_xian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -117,8 +121,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Zhi Ming</p>
-<p></p>
+<p>Ms Dorothy Phua Hui Hong
+<br><a href="mailto: tang_zhi_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_zhi_ming@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
