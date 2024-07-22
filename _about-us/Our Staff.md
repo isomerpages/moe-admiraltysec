@@ -92,7 +92,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Joel Wong Jun Wen
-<br>
+<br><a href="mailto: joel_wong_jun_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joel_wong_jun_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
