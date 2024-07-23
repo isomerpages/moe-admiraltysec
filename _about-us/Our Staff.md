@@ -695,6 +695,18 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Dzafirah Binte Razi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dzafirah_razi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dzafirah_razi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Chng Bee Kim</p>
 </td>
 <td rowspan="1" colspan="1">
