@@ -827,6 +827,30 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Chea Lee Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chea_lee_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chea_lee_fong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Sor Eng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_sor_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sor_eng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lin Zhenzhen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -846,6 +870,18 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:malarvely_narayanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">malarvely_narayanan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Noor Hasekin Binte Jahroni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noor_hasekin_jahroni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_hasekin_jahroni@moe.edu.sg</a>
 </p>
 </td>
 </tr>
