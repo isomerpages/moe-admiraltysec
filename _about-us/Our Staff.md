@@ -79,7 +79,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Aqil Bin Suhaimi</p>
+<p>Mr Muhammad Aqil Bin Suhaimi
+<br><a href="mailto:muhammad_aqil_suhaimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aqil_suhaimi@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -370,8 +371,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Syazana Binte Rashid</p>
-<p></p>
+<p>Mdm Nur Syazana Binte Rashid<br><a href="mailto:nur_syazana_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syazana_rashid@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -384,7 +385,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Izzuddin Bin Mawar</p>
+<p>Mr Muhammad Izzuddin Bin Mawar
+<br><a href="mailto:muhammad_izzuddin_mawar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_izzuddin_mawar@moe.edu.sg</a></p>
 </td>
 </tr>
 </tbody>
@@ -655,6 +657,19 @@ variant: markdown
 </td>
 </tr>
 <tr>
+</tr><tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Li Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_li_wen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_li_wen_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Huiping Apple</p>
 </td>
@@ -675,6 +690,18 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_atiqah_mohd_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atiqah_mohd_yusoff@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Dzafirah Binte Razi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dzafirah_razi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dzafirah_razi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -711,6 +738,18 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:oked_daud@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oked_daud@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Wei Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_wei_ming_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wei_ming_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -788,6 +827,30 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Chea Lee Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chea_lee_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chea_lee_fong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Sor Eng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_sor_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sor_eng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lin Zhenzhen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -807,6 +870,18 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:malarvely_narayanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">malarvely_narayanan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Noor Hasekin Binte Jahroni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noor_hasekin_jahroni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_hasekin_jahroni@moe.edu.sg</a>
 </p>
 </td>
 </tr>
