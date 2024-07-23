@@ -384,7 +384,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Izzuddin Bin Mawar</p>
+<p>Mr Muhammad Izzuddin Bin Mawar
+	<br><a href="mailto:muhammad_izzuddin_mawar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_izzuddin_mawar@moe.edu.sg</a></p>
 </td>
 </tr>
 </tbody>
