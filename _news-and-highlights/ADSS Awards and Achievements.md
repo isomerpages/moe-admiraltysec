@@ -354,6 +354,13 @@ variant: markdown
     <th style="width=20%">Awardees</th>
   </tr>
 		<tr>
+			<td>Republic Polytechnic 2024 Awards</td>
+			<td>North West Outstanding All Rounder Student Award 2023</td>
+			<td>1. Mohamed Fikry Bin Mohamed Noffee (Class of 2019) - Unearthed Productions NextGen Scholarship (Diploma in Integrated Events Management)
+<br>2. Nur Fatimah Binte Khur (Class of 2021) -HPL Hotels &amp; Resorts' Partnership Award (Diploma in Hotel and Hospitality Management)
+</td>
+		</tr>
+		<tr>
 			<td>North West Outstanding All Rounder Student Award 2023</td>
 			<td>North West Outstanding All Rounder Student Award 2023</td>
 			<td>1. Mohd Thaqif Uzair Bin Fadil (Class of 2022)<br>2. Tey Yuan Hui (Class of 2022)</td>
