@@ -361,8 +361,15 @@ variant: markdown
 		</tr>
 			<tr>
 			<td>Ngee Ann Polytechnic 2024 Awards</td>
-			<td>Silve</td>
-			<td>1. Toh Mei Jun Jolyn (Class of 2020) (Diploma in Computer Engineering)
+			<td>Silver Medal</td>
+			<td>1. Ammar Fitri Bin Juraimi Hussin (Class of 2020)
+(Diploma in Pharmaceutical Science)
+</td>
+		</tr>
+				<tr>
+			<td>Republic Polytechnic 2024 Awards</td>
+			<td>Diploma with Merit</td>
+			<td>(Class of 2020)<br>1. Seow Xin Pei <br>2. Tyler Toh Yi Teng<br>3. Siew Ting Ying<br>4. Mohammad Irfan Ezwandy BinIrwan<br>5. Ryan Tan Bo Zhang
 </td>
 		</tr>
 		<tr>
