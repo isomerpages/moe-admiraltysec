@@ -126,6 +126,12 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+			<tr>
+			<td>Asia Pacific Open Championship (Australia) </td>
+			<td>Engineering Excellence Award</td>
+			<td>1. Serrano Elaine Gheorge Miranda (A5)<br>2. Jayden Chan Kai Lun (A5)<br>3.  Liang Yun Zhi Benji (A7)<br>4. Pom Glenn Tzer (A7)<br> 5. Tay Yong Le (A6)
+</td>
+		</tr>
 		<tr>
 			<td>World Robot Olympiad International Finals 2023 </td>
 			<td>19th in World Ranking</td>
