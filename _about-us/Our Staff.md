@@ -370,7 +370,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Syazana Binte Rashid</p>
+<p>Mdm Nur Syazana Binte Rashid<br><a href="mailto:nur_syazana_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syazana_rashid@moe.edu.sg</a></p>
 <p></p>
 </td>
 </tr>
