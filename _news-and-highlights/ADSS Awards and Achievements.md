@@ -138,6 +138,18 @@ variant: markdown
 </td>
 		</tr>
 		<tr>
+			<td>Robotics: First Lego League 2024 </td>
+			<td>Champion Category - 1st Runner Up (Secondary)<br>Robot Performance Category - Champion Award</td>
+			<td>1. Serrano Elaine Gheorge Miranda (A5)<br>2. Jayden Chan Kai Lun (A5)<br>3.  Liang Yun Zhi Benji (A7)<br>4. Pom Glenn Tzer (A7)<br> 5. Tay Yong Le (A6)
+</td>
+		</tr>
+			<tr>
+			<td>Robotics: First Lego League 2024 </td>
+			<td>Robot Performance Category - 1st Runner Up</td>
+			<td>
+</td>
+		</tr>
+		<tr>
 			<td>World Robot Olympiad International Finals 2023 </td>
 			<td>19th in World Ranking</td>
 			<td>1. Serrano Elaine Gheorge Miranda (P2)<br>2. Liang Yun Zhi Benji (P1)<br>3. Nicholas Cheok Han Leng (A5)
