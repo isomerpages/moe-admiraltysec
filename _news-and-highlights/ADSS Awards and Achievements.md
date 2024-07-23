@@ -80,6 +80,11 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+	  <tr>
+    <td>NPCC Inter-Unit Drill Competition 2024
+    </td><td>1st Runner Up</td>
+    <td>Adss NPCC Unit</td>
+  </tr>
 		  <tr>
     <td>NCDCC Pinnacle Award 2024
     </td><td>Pinnacle Award</td>
