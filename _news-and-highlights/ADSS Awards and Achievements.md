@@ -354,8 +354,20 @@ variant: markdown
     <th style="width=20%">Awardees</th>
   </tr>
 		<tr>
+			<td>Singapore Polytechnic 2024 Awards</td>
+			<td>Outstanding Academic Performance</td>
+			<td>1. Toh Mei Jun Jolyn (Class of 2020) (Diploma in Computer Engineering)
+</td>
+		</tr>
+			<tr>
+			<td>Ngee Ann Polytechnic 2024 Awards</td>
+			<td>Silve</td>
+			<td>1. Toh Mei Jun Jolyn (Class of 2020) (Diploma in Computer Engineering)
+</td>
+		</tr>
+		<tr>
 			<td>Republic Polytechnic 2024 Awards</td>
-			<td>North West Outstanding All Rounder Student Award 2023</td>
+			<td>-</td>
 			<td>1. Mohamed Fikry Bin Mohamed Noffee (Class of 2019) - Unearthed Productions NextGen Scholarship (Diploma in Integrated Events Management)
 <br>2. Nur Fatimah Binte Khur (Class of 2021) -HPL Hotels &amp; Resorts' Partnership Award (Diploma in Hotel and Hospitality Management)
 </td>
