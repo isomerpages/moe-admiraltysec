@@ -743,6 +743,18 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Teo Wei Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_wei_ming_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wei_ming_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Kasdi Bin Kasri</p>
 </td>
 <td rowspan="1" colspan="1">
