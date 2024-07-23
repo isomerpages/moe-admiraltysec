@@ -69,9 +69,3 @@ An annual programme that aims to explore interpersonal issues and public speakin
 |  |  |
 | -------- | -------- |
 |![](/images/EL1.jpg)|![](/images/EL2.jpg)|
-
-
-
-
-
-
