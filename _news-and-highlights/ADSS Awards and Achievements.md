@@ -83,7 +83,7 @@ variant: markdown
 	  <tr>
     <td>NPCC Inter-Unit Drill Competition 2024
     </td><td>1st Runner Up</td>
-    <td>Adss NPCC Unit</td>
+    <td>ADSS NPCC Unit</td>
   </tr>
 		  <tr>
     <td>NCDCC Pinnacle Award 2024
