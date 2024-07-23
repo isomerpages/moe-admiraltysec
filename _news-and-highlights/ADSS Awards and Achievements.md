@@ -80,6 +80,11 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+	  <tr>
+    <td>NPCC Inter-Unit Drill Competition 2024
+    </td><td>1st Runner Up</td>
+    <td>ADSS NPCC Unit</td>
+  </tr>
 		  <tr>
     <td>NCDCC Pinnacle Award 2024
     </td><td>Pinnacle Award</td>
@@ -126,6 +131,24 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+			<tr>
+			<td>2024 Asia Pacific Open Championship (Australia) </td>
+			<td>Engineering Excellence Award</td>
+			<td>1. Serrano Elaine Gheorge Miranda (A5)<br>2. Jayden Chan Kai Lun (A5)<br>3.  Liang Yun Zhi Benji (A7)<br>4. Pom Glenn Tzer (A7)<br> 5. Tay Yong Le (A6)
+</td>
+		</tr>
+		<tr>
+			<td>Robotics: First Lego League 2024 </td>
+			<td>Champion Category - 1st Runner Up (Secondary)<br>Robot Performance Category - Champion Award</td>
+			<td>1. Serrano Elaine Gheorge Miranda (A5)<br>2. Jayden Chan Kai Lun (A5)<br>3.  Liang Yun Zhi Benji (A7)<br>4. Pom Glenn Tzer (A7)<br> 5. Tay Yong Le (A6)
+</td>
+		</tr>
+			<tr>
+			<td>Robotics: First Lego League 2024 </td>
+			<td>Robot Performance Category - 1st Runner Up</td>
+			<td>1. Kong You Xu (A5)<br>2. Chia Zong Heng Skyler (A3)<br>3. Kam Zhi Wu Jayden (A6)<br>4. Jayden Fong Sheng Xuan (A6)
+</td>
+		</tr>
 		<tr>
 			<td>World Robot Olympiad International Finals 2023 </td>
 			<td>19th in World Ranking</td>
@@ -342,6 +365,32 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+		<tr>
+			<td>Singapore Polytechnic 2024 Awards</td>
+			<td>Outstanding Academic Performance</td>
+			<td>1. Toh Mei Jun Jolyn (Class of 2020) (Diploma in Computer Engineering)
+</td>
+		</tr>
+			<tr>
+			<td>Ngee Ann Polytechnic 2024 Awards</td>
+			<td>Silver Medal</td>
+			<td>1. Ammar Fitri Bin Juraimi Hussin (Class of 2020)
+(Diploma in Pharmaceutical Science)
+</td>
+		</tr>
+				<tr>
+			<td>Republic Polytechnic 2024 Awards</td>
+			<td>Diploma with Merit</td>
+			<td>(Class of 2020)<br>1. Seow Xin Pei <br>2. Tyler Toh Yi Teng<br>3. Siew Ting Ying<br>4. Mohammad Irfan Ezwandy BinIrwan<br>5. Ryan Tan Bo Zhang
+</td>
+		</tr>
+		<tr>
+			<td>Republic Polytechnic 2024 Awards</td>
+			<td>-</td>
+			<td>1. Mohamed Fikry Bin Mohamed Noffee (Class of 2019) - Unearthed Productions NextGen Scholarship (Diploma in Integrated Events Management)
+<br>2. Nur Fatimah Binte Khur (Class of 2021) -HPL Hotels &amp; Resorts' Partnership Award (Diploma in Hotel and Hospitality Management)
+</td>
+		</tr>
 		<tr>
 			<td>North West Outstanding All Rounder Student Award 2023</td>
 			<td>North West Outstanding All Rounder Student Award 2023</td>
