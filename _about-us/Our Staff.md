@@ -79,7 +79,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Aqil Bin Suhaimi</p>
+<p>Mr Muhammad Aqil Bin Suhaimi
+<br><a href="mailto:muhammad_aqil_suhaimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aqil_suhaimi@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
