@@ -146,7 +146,7 @@ variant: markdown
 			<tr>
 			<td>Robotics: First Lego League 2024 </td>
 			<td>Robot Performance Category - 1st Runner Up</td>
-			<td>
+			<td>1. Kong You Xu (A5)<br>2. Chia Zong Heng Skyler (A3)<br>3. Kam Zhi Wu Jayden (A6)<br>4. Jayden Fong Sheng Xuan (A6)
 </td>
 		</tr>
 		<tr>
