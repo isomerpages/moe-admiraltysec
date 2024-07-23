@@ -371,8 +371,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Syazana Binte Rashid<br><a href="mailto:nur_syazana_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syazana_rashid@moe.edu.sg</a></p>
-<p></p>
+<p>Mdm Nur Syazana Binte Rashid<br><a href="mailto:nur_syazana_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syazana_rashid@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -386,7 +386,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Izzuddin Bin Mawar
-	<br><a href="mailto:muhammad_izzuddin_mawar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_izzuddin_mawar@moe.edu.sg</a></p>
+<br><a href="mailto:muhammad_izzuddin_mawar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_izzuddin_mawar@moe.edu.sg</a></p>
 </td>
 </tr>
 </tbody>
@@ -653,6 +653,19 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_chek_foo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_chek_foo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+</tr><tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Li Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_li_wen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_li_wen_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
