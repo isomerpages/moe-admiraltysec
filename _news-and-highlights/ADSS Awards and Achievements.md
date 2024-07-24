@@ -380,6 +380,13 @@ variant: markdown
 (Diploma in Pharmaceutical Science)
 </td>
 		</tr>
+		<tr>
+			<td>Ngee Ann Polytechnic 2024 Awards</td>
+			<td>        Diploma with Merit
+</td>
+			<td>Class of 2020<br>1. Ong Xin Yu<br>2. Cheryl Ku Xue<br>3. Janessa Loh Pei Wen
+</td>
+		</tr>
 				<tr>
 			<td>Republic Polytechnic 2024 Awards</td>
 			<td>Diploma with Merit</td>
