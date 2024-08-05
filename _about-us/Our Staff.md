@@ -123,7 +123,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dorothy Phua Hui Hong
+<p>Mr Tang Zhi Ming
 <br><a href="mailto: tang_zhi_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_zhi_ming@moe.edu.sg</a>
 </p>
 </td>
