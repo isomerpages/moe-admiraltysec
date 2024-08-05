@@ -373,9 +373,18 @@ variant: markdown
 		</tr>
 			<tr>
 			<td>Ngee Ann Polytechnic 2024 Awards</td>
-			<td>Silver Medal</td>
+			<td>Pfizer Asia Manufacturing Silver Medal &amp; Prize         
+  Diploma with Merit
+</td>
 			<td>1. Ammar Fitri Bin Juraimi Hussin (Class of 2020)
 (Diploma in Pharmaceutical Science)
+</td>
+		</tr>
+		<tr>
+			<td>Ngee Ann Polytechnic 2024 Awards</td>
+			<td>        Diploma with Merit
+</td>
+			<td>Class of 2020<br>1. Ong Xin Yu<br>2. Cheryl Ku Xue<br>3. Janessa Loh Pei Wen
 </td>
 		</tr>
 				<tr>
