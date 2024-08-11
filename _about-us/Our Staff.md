@@ -911,7 +911,7 @@ variant: markdown
 <p>Ms Mullai d/o Pushpanathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AED (Counselling)</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mullai_pushpanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mullai_pushpanathan@moe.edu.sg</a>
@@ -920,13 +920,13 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dennis Goh Jiong Yu</p>
+<p>Mr Adam Bin Aid  </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AED (Counselling)</p>
+<p>FAJ School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dennis_goh_jiong_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dennis_goh_jiong_yu@moe.edu.sg</a>
+<p>
 </p>
 </td>
 </tr>
