@@ -66,7 +66,7 @@ variant: markdown
 <p>Mr Poh Zi Xiang
 <br><a href="mailto:poh_zi_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_zi_xiang@moe.edu.sg
 </a>
-</p><p></p>
+</p>
 </td>
 </tr>
 <tr>
