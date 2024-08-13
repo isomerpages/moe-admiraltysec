@@ -22,5 +22,3 @@ variant: markdown
 |![](/images/15%20mdm%20chin%20hui%20jing.jpg)|![](/images/19%20mdm%20nur%20amalina%20binte%20mohamed%20salleh.jpg)|![](/images/14%20mdm%20chew%20wei%20xin.jpg)||
 |![](/images/coleman%20chong.jpg)|![](/images/ray%20chua.jpg)|![](/images/hong%20tatt.jpg)|![](/images/2_nuriah_ST.jpg)|
 |![](/images/mdm%20tan%20huiping%20apple.jpg)|![](/images/mr%20tay%20chek%20foo.jpg)|![](/images/Miss_Yeo_Li_Wen.jpg)|![](/images/Ms_Nur_Atiqah_Mohd_Yusoff.jpg)|
-
-
