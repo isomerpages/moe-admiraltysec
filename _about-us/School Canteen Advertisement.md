@@ -27,10 +27,21 @@ variant: tiptap
 <p>Noodle (Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Aug 24</p>
+<p>15 Nov 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rice (Muslim)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Halal</p>
 </td>
 </tr>
 </tbody>
