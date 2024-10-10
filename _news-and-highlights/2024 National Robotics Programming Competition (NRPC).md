@@ -4,8 +4,37 @@ permalink: /2024nrpc/news-and-highlights/permalink/
 variant: tiptap
 description: ""
 ---
-<p><strong>Registration for 16th NRPC has opened!</strong>
-</p>
+<p>Thank you to all the participants of 16th NRPC, here are some photos from
+the f2f surprise mission on 23 May.</p>
+<p>Briefing to all participants on the surprise mission.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpcb.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpcc.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpca.jpg">
+</div>
+<p>Participants in action, watching their run.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpc7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpc5.jpg">
+</div>
+<p></p>
+<p>Here are the Admirals behind the 16th NRPC.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpc1.jpg">
+</div>
+<p></p>
+<p>Here are the registration details.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024nrpc_motd3.png">
 </div>
