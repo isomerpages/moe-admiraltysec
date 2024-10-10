@@ -4,21 +4,41 @@ permalink: /2024nrpc/news-and-highlights/permalink/
 variant: tiptap
 description: ""
 ---
-<p>Thank you to all the participants of 16th NRPC, here are some photos from
+<p>Thank you to all participants of 16th NRPC, here are some photos from
 the f2f surprise mission on 23 May.</p>
 <p>Briefing to all participants on the surprise mission.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpcb.jpg">
-</div>
-<p></p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpcc.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpcb.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpca.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Participants in action, watching their run.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -29,7 +49,7 @@ the f2f surprise mission on 23 May.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpc5.jpg">
 </div>
 <p></p>
-<p>Here are the Admirals behind the 16th NRPC.</p>
+<p>Presenting the Admirals (students and staff) behind the 16th NRPC.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpc1.jpg">
 </div>
