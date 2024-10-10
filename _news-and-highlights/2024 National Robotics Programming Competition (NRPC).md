@@ -8,15 +8,14 @@ description: ""
 the f2f surprise mission on 23 May.</p>
 <p>Briefing to all participants on the surprise mission.</p>
 
-|||||
-| :-: | :-: | :-: | :-: |
+|||
+| :-: | :-: |
 |![](/images/nrpcc.jpg)|![](/images/nrpcb.jpg)|
 |![](/images/nrpca.jpg)||
 
 
 <p></p>
 <p>Participants in action, watching their run.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpc7.jpg">
 </div>
