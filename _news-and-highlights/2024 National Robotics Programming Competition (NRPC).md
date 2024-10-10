@@ -7,38 +7,13 @@ description: ""
 <p>Thank you to all participants of 16th NRPC, here are some photos from
 the f2f surprise mission on 23 May.</p>
 <p>Briefing to all participants on the surprise mission.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/nrpcb.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/nrpcc.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpca.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpc8.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+
+|||||
+| :-: | :-: | :-: | :-: |
+|![](/images/nrpcc.jpg)|![](/images/nrpcb.jpg)|
+|![](/images/nrpca.jpg)||
+
+
 <p></p>
 <p>Participants in action, watching their run.</p>
 <p></p>
