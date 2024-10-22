@@ -19,3 +19,10 @@ variant: tiptap
 <br><a href="/files/S3__NT_.pdf" rel="noopener nofollow" target="_blank">4. Sec 3 (NT)</a>
 <br><a href="/files/S3__NT_OOS_.pdf" rel="noopener nofollow" target="_blank">5. Sec 3 (NT-OOS)</a>
 </p>
+<p><strong>Sec 4 2025 Booklists:</strong>
+<br><a href="/files/S4__EXP_.pdf" rel="noopener nofollow" target="_blank">1. Sec 4 (Exp)</a>
+<br><a href="/files/S4__NA_.pdf" rel="noopener nofollow" target="_blank">2. Sec 4 (NA)</a>
+<br><a href="/files/S4__NA_OOS_.pdf" rel="noopener nofollow" target="_blank">3. Sec 4 (NA-OOS)</a>
+<br><a href="/files/S4__NT_.pdf" rel="noopener nofollow" target="_blank">4. Sec 4 (NT)</a>
+<br>
+</p>
