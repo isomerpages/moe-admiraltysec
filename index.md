@@ -40,7 +40,7 @@ sections:
       id: infopic
       description: 16 Nov (Sat) 8:30 am to 12:30am
       button: Click here to find out more
-      url: /awards/news-and-highlights/permalink/
+      url: /2024-open-house/
       image: /images/ADSS_Experience_MOTD_01.jpg
       alt: Image alt text
   - infopic:
