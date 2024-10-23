@@ -10,9 +10,9 @@ sections:
       background: /images/adss_hero_003.gif
       url: /contact-us/
       key_highlights:
-        - title: 2024 DSA
+        - title: News and Highlights
           description: ""
-          url: /2024dsa/permalink/
+          url: /awards/news-and-highlights/permalink/
         - title: Students
           description: ""
           url: /students/permalink/
