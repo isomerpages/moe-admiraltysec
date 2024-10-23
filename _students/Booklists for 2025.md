@@ -1,5 +1,5 @@
 ---
-title: Booklists for 2024
+title: Booklists for 2025
 permalink: /students/booklist/
 description: ""
 variant: tiptap
