@@ -36,6 +36,14 @@ sections:
       alt: Image alt text
       image: /images/2023rugbybowl.jpg
   - infopic:
+      title: 2024 Open House
+      id: infopic
+      description: 16 Nov (Sat) 8:30 am to 12:30am
+      button: Click here to find out more
+      url: /awards/news-and-highlights/permalink/
+      image: /images/ADSS_Experience_MOTD_01.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 NRPC
       subtitle: Calling all primary schools!
       id: infopic
