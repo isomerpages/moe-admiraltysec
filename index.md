@@ -10,9 +10,9 @@ sections:
       background: /images/adss_hero_003.gif
       url: /contact-us/
       key_highlights:
-        - title: 2024 DSA
+        - title: News and Highlights
           description: ""
-          url: /2024dsa/permalink/
+          url: /awards/news-and-highlights/permalink/
         - title: Students
           description: ""
           url: /students/permalink/
@@ -35,6 +35,14 @@ sections:
       url: /social/news-and-highlights/permalink/
       alt: Image alt text
       image: /images/2023rugbybowl.jpg
+  - infopic:
+      title: 2024 Open House
+      id: infopic
+      description: 16 Nov (Sat) 8:30 am to 12:30am
+      button: Click here to find out more
+      url: /2024-open-house/news-and-highlights/permalink/
+      image: /images/ADSS_Experience_MOTD_01.jpg
+      alt: Image alt text
   - infopic:
       title: 2024 NRPC
       subtitle: Calling all primary schools!
