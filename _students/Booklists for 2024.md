@@ -4,44 +4,34 @@ permalink: /students/booklist/
 description: ""
 variant: tiptap
 ---
-Dear Admirals,
+<p>Dear Admirals,
+<br>Please find the booklists for 2025 below.</p>
+<p><strong>Sec 1 2025 Booklists:</strong>
+<br><a href="/files/S1.pdf" rel="noopener nofollow" target="_blank">1. Sec 1</a>
+<br><a href="/files/S1__G1_.pdf" rel="noopener nofollow" target="_blank">2. Sec 1 (G1)</a>
+<br><a href="/files/S1__G2_.pdf" rel="noopener nofollow" target="_blank">3. Sec 1 (G2)</a>
+<br><a href="/files/S1__G3_.pdf" rel="noopener nofollow" target="_blank">4. Sec 1 (G3)</a>
+</p>
+<p><strong>Sec 2 2025 Booklists:</strong>
+<br><a href="/files/S2.pdf" rel="noopener nofollow" target="_blank">1. Sec 2</a>
+<br><a href="/files/S2__G1_.pdf" rel="noopener nofollow" target="_blank">2. Sec 2 (G1)</a>
+<br><a href="/files/S2__G2_.pdf" rel="noopener nofollow" target="_blank">3. Sec 2 (G2)</a>
+<br><a href="/files/S2__G3_.pdf" rel="noopener nofollow" target="_blank">4. Sec 2 (G3)</a>
 <br>
-Please find the booklists for 2024 below.
-
-**Sec 2 2024 Booklists:**
+<br><strong>Sec 3 2025 Booklists:</strong>
+<br><a href="/files/S3__EXP_.pdf" rel="noopener nofollow" target="_blank">1. Sec 3 (Exp)</a>
+<br><a href="/files/S3__NA_.pdf" rel="noopener nofollow" target="_blank">2. Sec 3 (NA)</a>
+<br><a href="/files/S3__NA_OOS_.pdf" rel="noopener nofollow" target="_blank">3. Sec 3 (NA-OOS)</a>
+<br><a href="/files/S3__NT_.pdf" rel="noopener nofollow" target="_blank">4. Sec 3 (NT)</a>
+<br><a href="/files/S3__NT_OOS_.pdf" rel="noopener nofollow" target="_blank">5. Sec 3 (NT-OOS)</a>
+</p>
+<p><strong>Sec 4 2025 Booklists:</strong>
+<br><a href="/files/S4__EXP_.pdf" rel="noopener nofollow" target="_blank">1. Sec 4 (Exp)</a>
+<br><a href="/files/S4__NA_.pdf" rel="noopener nofollow" target="_blank">2. Sec 4 (NA)</a>
+<br><a href="/files/S4__NA_OOS_.pdf" rel="noopener nofollow" target="_blank">3. Sec 4 (NA-OOS)</a>
+<br><a href="/files/S4__NT_.pdf" rel="noopener nofollow" target="_blank">4. Sec 4 (NT)</a>
+<br><a href="/files/S4__NT_OOS_.pdf" rel="noopener nofollow" target="_blank">5. Sec 4 (NT-OOS)</a>
 <br>
-[1. Sec 2 (EXP)](/files/2023/amss_2024_sec%202%20(exp)_blue.pdf)
-<br>
-[2. Sec 2 (NA)](/files/2023/amss_2024_sec%202%20(na)_green.pdf)
-<br>
-[3.Sec 2 (NA-SBB)](/files/2023/amss_2024_sec%202%20(na-sbb)_white.pdf)
-<br>
-[4. Sec 2 (NT)](/files/2023/amss_2024_sec%202%20(nt)_pink.pdf)
-<br>
-[5. Sec (NT-SBB)](/files/2023/amss_2024_sec%202%20(nt-sbb)_white.pdf)
-
-**Sec 3 2024 Booklists:**
-<br>
-[1. Sec 3 (EXP)](/files/2023/amss_2024_sec%203%20(exp)_blue.pdf)
-<br>
-[2. Sec 3 (NA)](/files/2023/amss_2024_sec%203%20(na)_green.pdf)
-<br>
-[3. Sec 3 (NA-OOS)](/files/2023/amss_2024_sec%203%20(na-oos)_white.pdf)
-<br>
-[4. Sec 3 (NT)](/files/2023/amss_2024_sec%203%20(nt)_pink.pdf)
-<br>
-[5. Sec 3 (NT-OOS)](/files/2023/amss_2024_sec%203%20(nt-oos)_white.pdf)
-
-**Sec 4 &amp; 5 2024 Booklists:**
-<br>
-[1. Sec 4 (EXP)](/files/2023/amss_2024_sec%204%20(exp)_blue.pdf)
-<br>
-[2. Sec 4 (NA)](/files/2023/amss_2024_sec%204%20(na)_green.pdf)
-<br>
-[3. Sec 4 (NA-OOS)](/files/2023/amss_2024_sec%204%20(na-oos)_white.pdf)
-<br>
-[4. Sec 4 (NT)](/files/2023/amss_2024_sec%204%20(nt)_pink.pdf)
-<br>
-[5. Sec 4 (NT-OOS)](/files/2023/amss_2024_sec%204%20(nt-oos)_white.pdf)
-<br>
-[6. Sec 5 (NA)](/files/2023/amss_2024_sec%205%20(na)_purple.pdf)
+<br><strong>Sec 5 2025 Booklists:</strong>
+<br><a href="/files/S5__NA_.pdf" rel="noopener nofollow" target="_blank">1. Sec 5 (NA)</a>
+</p>
