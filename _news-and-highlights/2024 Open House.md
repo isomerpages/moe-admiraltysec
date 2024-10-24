@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h2>2024 Open House</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ADSS_Experience_MOTD_01.jpg">
+</div>
+<p></p>
 <p>Set Sail Towards an Exciting Journey! Join Us at Admiralty Experience!</p>
 <p>Ignite your passion, unleash your potential, and become part of our vibrant
 learning community! As a value-centric thinking school, we are dedicated
@@ -22,9 +26,4 @@ it all.</p>
 <p>If you are curious about our unique programmes or eager to meet the people
 behind our vibrant learning community, this is your chance to explore what
 we offer. Don’t miss out—see you on 16 November (Saturday)!</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ADSS_Experience_MOTD_01.jpg">
-</div>
 <p></p>
