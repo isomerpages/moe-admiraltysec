@@ -131,6 +131,18 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+							<tr>
+			<td>2024 World Robot Olympiad (WRO) </td>
+			<td>1. Runner Up- Overall Championship<br>2. Exploration Awards</td>
+			<td>1. Low Zi Jun Jaydon (P5)<br>2. Lin Zhiyuan Jeremy (P5)
+</td>
+		</tr>
+					<tr>
+			<td>2024 National Robotics Competition (NRC)  </td>
+			<td>2nd Place (Robot Run)</td>
+			<td>1. Muhammad Faaiz Sameem (O5)<br>2. Teow Yu Zhe (O2)<br>3. Jacob Yeoh Hong Quan  (P7)
+</td>
+		</tr>
 			<tr>
 			<td>2024 Asia Pacific Open Championship (Australia) </td>
 			<td>Engineering Excellence Award</td>
