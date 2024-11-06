@@ -175,7 +175,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Gloria Chong Xue Li
-<br><a href="mailto:marcus_goh_wei_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marcus_goh_wei_ming@moe.edu.sg</a>
+<br><a href="mailto:gloria_chong_xue_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gloria_chong_xue_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
