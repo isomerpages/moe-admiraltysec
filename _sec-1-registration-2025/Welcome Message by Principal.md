@@ -6,22 +6,24 @@ description: ""
 ---
 #### **Welcome Message by Principal**
 
-Welcome to the Admiralty Family!
+Welcome, Admirals! Your incredible journey towards your dreams starts right here, right now!
+
+Each of you is a unique star in our constellation, and we've crafted an exciting array of academic and co-curricular adventures to equip you with the skills and knowledge you'll need to reach for the stars. Get ready to shine!
+
+Embark on this thrilling voyage with your teachers and newfound friends by your side. Together, we'll navigate uncharted waters, transforming you into Confident, Concerned, Self-directed and Contributing Admirals.
+
+Prepare yourselves for two distinctive programmes in ADSS that will set your course for success:
+
+a)&nbsp;&nbsp;&nbsp;&nbsp; Our Applied Learning Programme (ALP) - "Design Thinking through Technology &amp; Innovation" - will unleash your inner innovator! You'll become solution designers in the exciting world of Science, Technology, Engineering and Mathematics (STEM). The future is yours to shape!
+
+b)&nbsp;&nbsp;&nbsp; Our Learning for Life Programme (LLP) - "Nurturing Mindful Leadership through Community Outreach" - will ignite your passion for making a difference. Anchored by our school values (R3ich in LIGHTS): **R**espect, **R**esilience, **R**esponsibility, **L**ife-long learning, **I**ntegrity, **G**raciousness, **H**igh expectations, **T**eamwork and **S**elf-discipline, you'll discover the leader within you!
+
+Admirals, the deck is yours! Seize every opportunity, dive into new experiences, and chart your own course to success. Your adventure at ADSS promises to be extraordinary!
+
+Thank you for choosing to set sail with ADSS. We can't wait to see you soar as you embark on this meaningful and successful voyage towards your brightest future.
+
+Full steam ahead, Admirals!
+
+Mr Tan Kelly
 <br>
-Your journey to your dreams and aspirations begins here.
-
-Every one of you is unique and we have lined up a series of academic and co-curricular programmes to provide you with the necessary skills and knowledge to actualise your aspirations.
-
-Together with your teachers and friends, we are committed to guide and nurture you into Confident, Concerned, Self-directed and Contributing Admirals. You will have an exclusive experience in our:
-
-a)&nbsp;&nbsp;&nbsp;&nbsp; Applied Learning Programme (ALP) - Design Thinking through Technology &amp; Innovation, that prepares all Admirals as solution designers in Science, Technology, Engineering and Mathematics (STEM) related professions, and;
-
-b)&nbsp;&nbsp;&nbsp; Learning for Life Programme (LLP) - Nurturing Mindful Leadership through Community Outreach, anchored with our school values of Respect, Resilience, Responsibility, Life-long learning, Integrity, Graciousness, High expectations, Teamwork and Self-discipline (R³ich in LIGHTS).
-
-We encourage you to take an active role in pursuing the various opportunities provided for you.
-
-Thank you for choosing ADSS. We wish every Admiral a meaningful and successful learning journey in actualising your aspirations.
-
-Mr Lam Yui-P’ng
-
 Principal
