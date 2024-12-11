@@ -7,13 +7,13 @@ third_nav_title: First Day of School
 ---
 #### **Reporting Details on the First Day of School**
 
-**Date :** 2 Jan 2024, Tuesday
+**Date :** 2 Jan 2025, Thursday
 <br>
 **Reporting Time :** 7.15 a.m. (Assembly will begin at 7.30 a.m)
 <br>
 **Dismissal Time:** Refer to the Orientation Programme &nbsp;&nbsp;
 <br>
-**Attire :** ADSS full school uniform**\***
+**Attire :** ADSS full school uniform / School Polo T-shirt with uniform bottoms*
 <br>
 **Venue :** School Canteen (Students will be ushered to the assembly area)
 <br>
