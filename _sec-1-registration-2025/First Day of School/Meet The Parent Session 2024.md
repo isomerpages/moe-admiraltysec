@@ -6,7 +6,7 @@ description: ""
 third_nav_title: First Day of School
 ---
 #### **Meet The Parent Session for Secondary 1 Students**
-**Date:** 26 Jan 2024 (Friday)
+**Date:** 17 Jan 2024 (Friday)
 <br>
 **Time:** 5pm to 7pm
 <br>
@@ -17,7 +17,6 @@ third_nav_title: First Day of School
 * CCA Showcase to learn more about the CCAs offered in ADSS
 * Principal’s talk
 * Sharing on school’s Personalised Digital Learning Programme and Policy and CCA Policy
-* Outdoor Adventure Learning Briefing
 * Dialogue with Form Teachers and KPs
 
-Parents can indicate their attendance in the Parent Gateway letter issued on 20 December 2023.
+Parents can indicate their attendance in the Parent Gateway letter issued on 18 December 2024.
