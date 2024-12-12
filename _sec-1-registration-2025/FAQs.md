@@ -8,45 +8,33 @@ description: ""
 
 ##### General Questions
 
-**1.**&nbsp;&nbsp;&nbsp; **Where is the nearest ATM?**
-<br>
-Woodlands Mart, Admiralty MRT
-
-**2.**&nbsp;&nbsp;&nbsp; **When will I receive the timetable?**
-<br>
-First day of school
-
-**3.**&nbsp;&nbsp;&nbsp; **May I know what is the COP this year?**
-<br>
-MOE will publish this on the School Information Service when available.
-
-**4.&nbsp;&nbsp;&nbsp;&nbsp; If I would like to appeal into ADSS, what should I do?**
-<br>
-You may fill in the [appeal form](https://form.gov.sg/61c0fdef18589f001280b7ab) and the school will contact you when a vacancy arises.
-
-**5.**&nbsp;&nbsp;&nbsp; **What if my child is unable to get the uniform before school term starts?**
-<br>
-Your child should wear his/her primary school uniform for the 1st week of school
-
-**6.**&nbsp;&nbsp;&nbsp; **How do I contact staff in Admiralty Secondary School?**
+**1.**&nbsp;&nbsp;&nbsp; **How do I contact staff in Admiralty Secondary School**
 <br>
 If you have any general enquiries, you may email us at [**admiralty\_ss@moe.edu.sg**](mailto:admiralty_ss@moe.edu.sg) or call the General Office at 6365 1733
 
-**7.**&nbsp;&nbsp;&nbsp; **When are the school terms/ school holidays?**
+**2.**&nbsp;&nbsp;&nbsp; **When are the school terms/school holidays?**
 <br>
-Information can be found [here](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024)
+Information can be found [here.](https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025)
 
-**8.**&nbsp;&nbsp;&nbsp; &nbsp;**Can I take my child for an overseas vacation during school term?**
+**3.**&nbsp;&nbsp;&nbsp; **Can I take my child for an overseas vacation during school term?**
 <br>
 Students should attend school during the school term to benefit fully from the learning experiences planned by teachers for their holistic development.
 
-**9.**&nbsp;&nbsp;&nbsp; **Where can I find a copy of the class timetable?**
+**4.**&nbsp;&nbsp;&nbsp;&nbsp; **Are there lockers available for rental?**
 <br>
-A printed copy of the timetable will be given to students within the first week of school. A copy will also be uploaded on our school’s website under “Announcements”. The timetable may be refreshed at the start of Term 1, 2 and 3. This is to cater to the learning needs of the cohort.
+Due to low take-up rate, the rental of lockers has been discontinued. The school has students’ well-being in mind. Hence the daily timetable has been planned such that the amount of lesson materials needed for the day is manageable.
 
-**10.**&nbsp;&nbsp;&nbsp; **Are students allowed to use mobile phones to school?**
+**5.**&nbsp;&nbsp;&nbsp; **Can Sec 1 students wear their primary school uniforms while they are waiting for results of transfer / waiting for uniform stock to arrive?**
 <br>
- Students are allowed to use them at Level 1 common areas during recess, before and after school.
+Yes, they can.
+
+**6.**&nbsp;&nbsp;&nbsp; **Where can I find a copy of the class timetable?**
+<br>
+A printed copy of the timetable will be given to students on the first day of school. A copy will also be uploaded on our school’s website under “Students”. The timetable may be refreshed at the start of Term 1, 2 and 3. This is to cater to the learning needs of the cohort.
+
+**7.**&nbsp;&nbsp;&nbsp; **Are students allowed to bring mobile phones to school?**
+<br>
+Students are allowed to use them at Level 1 common areas during recess, before and after school.
  
 ##### CCA Matters
  
