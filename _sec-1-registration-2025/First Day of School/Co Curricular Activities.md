@@ -18,4 +18,4 @@ third_nav_title: First Day of School
 
 ##### **Training Session for CCAs**
 
-CCAs sessions are conducted **either on Wednesdays and/or Mondays after school.** The duration of the session is dependent on each CCA. More information on each CCA can be obtained during the CCA Experience which will take place throughout January 2024.
+CCAs sessions are conducted **either on Wednesdays and/or Mondays after school.** The duration of the session is dependent on each CCA. More information on each CCA can be obtained during the CCA Experience which will take place throughout January 2025.
