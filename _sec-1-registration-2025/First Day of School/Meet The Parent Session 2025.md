@@ -6,7 +6,7 @@ description: ""
 third_nav_title: First Day of School
 ---
 #### **Meet The Parent Session for Secondary 1 Students**
-**Date:** 17 Jan 2024 (Friday)
+**Date:** 17 Jan 2025, Friday
 <br>
 **Time:** 5pm to 7pm
 <br>
