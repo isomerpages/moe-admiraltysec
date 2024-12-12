@@ -40,7 +40,7 @@ Students are allowed to use them at Level 1 common areas during recess, before a
  
 **1.**&nbsp;&nbsp;&nbsp; **Can students join more than one CCA?**
 <br>
-Students may join more than one CCA provided there are no clashes in the CCA schedules and they are able to manage the demands of school work. Request for a second CCA is subject to approval on a case-by-case basis.
+Students may join more than one CCA provided there are no clashes in the CCA schedules and they are able to manage the demands of school work.
 
 ##### PDLP Matters
 
