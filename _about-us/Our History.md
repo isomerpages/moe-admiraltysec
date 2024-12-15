@@ -39,5 +39,3 @@ Principals:
 *   Mr Toh Thiam Chye (2013–2019)
 *   Mr Lam Yui-P'ng (2019–2024)
 *   Mr Tan Kelly (2024–present)
-
-
