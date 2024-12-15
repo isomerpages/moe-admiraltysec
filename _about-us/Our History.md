@@ -2,6 +2,7 @@
 title: Our History
 permalink: /about-us/our-history/
 description: ""
+variant: markdown
 ---
 Admiralty Secondary School (ADSS) celebrated its 20th anniversary in 2022 with the themes of Appreciating our Past, Celebrating our Present and Embracing our future. As we continue our mission of “Empowering Admirals to Actualise their Dreams”, it is important that we appreciate our past.
 
@@ -36,4 +37,7 @@ Principals:
 *   Mrs Lim Ai Poo (2002–2007)
 *   Mdm Jessie Koh (2007–2013)
 *   Mr Toh Thiam Chye (2013–2019)
-*   Mr Lam Yui-P'ng (2019–present)
+*   Mr Lam Yui-P'ng (2019–2024)
+*   Mr Tan Kelly (2024–present)
+
+
