@@ -2,25 +2,36 @@
 title: Principal's Message
 permalink: /principalmessage/permalink/
 description: ""
+variant: markdown
 ---
-
 Principal's Message
 ===================
 
-Dear Admirals,  
+Dear Admiralty Secondary School Family, Parents, and Admirals,
 
-The Secondary School experience is one of the most exciting phases in one’s educational journey. We make some of our best friends and gain new experiences. These are crucial years in building a strong foundation as we prepare for the future. Hence, at Admiralty Sec, we have lined up a series of academic and co-curricular programmes to provide our Admirals with the necessary skills and knowledge to actualise their aspirations.
+It is with great excitement and honour that I join Admiralty Secondary School (ADSS) as your fifth Principal. I am thrilled to embark on this meaningful journey with you, building on the strong foundations laid since our school’s inception in 2002. Together, we will continue to shape our Admirals into self-directed, concerned, confident, and contributing leaders who bring light to those around them.
 
-For instance, Admirals get to enjoy learning about Design Thinking through Technology & Innovation, which prepares them as solution designers in Science, Technology, Engineering and Mathematics (STEM)-related professions (our Applied Learning Programme (ALP)). As part of our Character and Citizenship Education, Admirals develop Mindful Leadership through Community Outreach (our Learning for Life Programme (LLP)) anchored in our school values of **L**ife-long Learning, **I**ntegrity, **G**raciousness, **H**igh Expectations, **T**eamwork and **S**elf-Discipline (LIGHTS).
+At ADSS, we take pride in being a value-centric, thinking school. Our mission is to empower our Admirals to realise their aspirations, guided by our refreshed values: **R³ich in LIGHTS**—Respect, Resilience, Responsibility (R³), Lifelong Learning, Integrity, Graciousness, High Expectations, Teamwork, and Self-Discipline. These values form the foundation of our approach, guiding our Admirals to lead purposeful and impactful lives.
 
-Through these learning experiences, Admirals learn about themselves and become future -ready thinking citizens anchored in values. They shall be ready to lead change and contribute to the society.
+We are passionate about fostering a culture of lifelong learning. Learning at ADSS goes beyond textbooks and classrooms—we strive to ignite each Admiral’s curiosity and passion, transforming their educational journey into one of wonder, growth, and discovery. Through this, we inspire them to embrace continuous learning and meaningful contributions throughout their lives.
 
-Together with my dedicated team of staff, I look forward to partner you in nurturing every student into Confident, Concerned, Self-directed and Contributing Admirals.  
+In today’s ever-changing world, we are committed to equipping our students with 21st-century competencies, ensuring they are prepared to navigate uncertainties with confidence and resilience. While the road ahead may have its challenges, we are resolute in our focus on resilience and adaptability to empower our Admirals to face any storm.
 
-May I also wish every Admiral a meaningful and successful learning journey in actualising your aspirations.
+As the saying goes, "It takes a village to raise a child." At ADSS, we are dedicated to providing a nurturing and empowering environment where every Admiral can thrive. We value the vital partnership with parents and stakeholders to ensure consistent and coherent developmental opportunities for all.
 
-  
+When our Admirals complete their journey with us, we hope they will not only be captains of their own ships but also stewards of their communities—individuals who embody our school’s desired outcomes by contributing meaningfully back to society.
 
-Mr Lam Yui-P’ng
+As we set sail together, I am confident that the experiences at ADSS will equip our Admirals to captain their own ships, ready to embark on meaningful contributions to the world. With your support, I look forward to steering our school to greater heights, honouring our legacy while pursuing excellence in every aspect of our students’ development.
 
-Principal, Admiralty Secondary School
+Thank you for your trust and support. I am eager to work closely with all of you in the exciting years ahead.
+
+**Full steam ahead, Admirals!**
+
+Warm regards,<br>
+Mr Tan Kelly<br>
+Principal<br>
+Admiralty Secondary School
+
+
+
+
