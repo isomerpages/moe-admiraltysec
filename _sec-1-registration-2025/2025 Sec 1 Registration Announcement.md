@@ -1,6 +1,6 @@
 ---
 title: 2025 Sec 1 Registration Announcement
-permalink: /sec-1-registration-2024/permalink/
+permalink: /sec-1-registration-2025/permalink/
 variant: tiptap
 description: ""
 ---
