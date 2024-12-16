@@ -26,5 +26,5 @@ and CCA Policy</p>
 <p>Dialogue with Form Teachers and KPs</p>
 </li>
 </ul>
-<p>Parents can indicate their attendance in the Parent Gateway letter issued
-on 18 December 2024.</p>
+<p>Parents can indicate their attendance in the Parent Gateway letter that
+will be issued on 3 Jan 2025.</p>
