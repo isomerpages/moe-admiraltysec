@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>This slides provides an overview of the essential information to prepare
-for the first day of school. The briefing addresses matters such as Financial
-Assistance Scheme (FAS), purchase of textbooks and uniforms, the use of
-School Smart Card, Subject-based Banding (SBB), Secondary One Orientation
-etc.</p>
+for the first day of school.</p>
+<p>The briefing addresses matters such as Financial Assistance Scheme (FAS),
+purchase of textbooks and uniforms, the use of School Smart Card, Subject-based
+Banding (SBB), Secondary One Orientation etc.</p>
