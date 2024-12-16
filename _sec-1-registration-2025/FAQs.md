@@ -148,7 +148,7 @@ These lessons will be conducted at a common level regardless of posting group.
 
 Our teachers will&nbsp; adopt a variety of pedagogical approaches to cater to the different learning needs of students.
 
-**6.How will your school ensure that students from different posting group and backgrounds would be able to socialise well?**
+**6. How will your school ensure that students from different posting group and backgrounds would be able to socialise well?**
 <br>
 Our school fosters a caring and supportive culture from the start of the school year. To facilitate positive relationships, we will have programmes to strengthen the bonds between teachers and students and among peers, establish a strong sense of class identity and belonging to the school community, and empower students to develop healthy self-concepts and grow to the best of their abilities.
 
