@@ -7,7 +7,20 @@ third_nav_title: First Day of School
 ---
 <p>The Sec 1 Journey will start with the Orientation Programme. Please refer
 to the<strong> <a rel="noopener noreferrer nofollow" target="_blank">document</a></strong> for
-Orientation Programme outline. Academic lessons will commence on <strong>8 Jan 2025 (Wednesday)</strong>.</p>
+Orientation Programme outline.</p>
+<p>The dismissal time for each day is as follows:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2 Jan: 2.25pm</p>
+</li>
+<li>
+<p>3 Jan: 12.40pm</p>
+</li>
+<li>
+<p>6 &amp; 7 Jan: 2.25pm</p>
+</li>
+</ul>
+<p></p>
 <p>The Orientation Programme aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -25,7 +38,9 @@ and abilities, and be supported to actualize their aspirations</p>
 </ul>
 <p>Our friendly and caring student leaders, together with the form and subject
 teachers, will accompany your child as he/she goes through the orientation
-programme. ☺️
+programme. ☺️</p>
+<p>Academic lessons will commence on <strong>8 Jan 2025 (Wednesday)</strong>.
+The class timetable will be distributed on the first week of school.
 <br>
 </p>
 <p></p>
