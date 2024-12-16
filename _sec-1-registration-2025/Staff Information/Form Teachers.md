@@ -70,7 +70,7 @@ third_nav_title: Staff Information
 <p>Orion 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kasturi</p>
+<p>Mdm Kasturi Kulantayan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Zhuo Yan Ping
