@@ -13,7 +13,7 @@ third_nav_title: First Day of School
 <br>
 **Dismissal Time:** Refer to the Orientation Programme &nbsp;&nbsp;
 <br>
-**Attire :** ADSS full school uniform / School Polo T-shirt with uniform bottoms*
+**Attire :** ADSS full school uniform / school polo t-shirt with uniform bottoms*
 <br>
 **Venue :** School Canteen (Students will be ushered to the assembly area)
 <br>
@@ -22,7 +22,7 @@ third_nav_title: First Day of School
 ##### **What to bring on the first day of school?**
 
 * Water bottle
-* Student Card/School Smart Card/Ezlink Card and Primary School Report Book
+* Student Card/School Smart Card/Ezlink Card
 * Writing materials (e.g., pen, pencil, notebook)
 * Money for recess
 * Positive attitude!
