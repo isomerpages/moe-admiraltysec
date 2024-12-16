@@ -7,9 +7,8 @@ description: ""
 <p>Admiralty Secondary School warmly welcomes all 2025 Secondary 1 students!</p>
 <p>A welcome letter will be sent via Parents Gateway by the end of Sec 1
 Posting Day on <strong>18 Dec 2024</strong>. It contains information on
-class allocation and offer of subjects at a more demanding level (if applicable).
-To kickstart your Admiralty Experience, you may refer to the relevant information
-under <strong><a rel="noopener noreferrer nofollow" target="_blank">“2025 Sec 1 Info” </a></strong>Tab.</p>
+class allocation and subject combination. To kickstart your Admiralty Experience,
+you may refer to the relevant information under <strong><a rel="noopener noreferrer nofollow" target="_blank">“2025 Sec 1 Info” </a></strong>Tab.</p>
 <p>The textbooks and school uniforms stores are open according to the following
 schedule. Online purchase of textbooks is also available until <strong><u>24 December 2024</u></strong>.</p>
 <table style="minWidth: 50px">
