@@ -35,6 +35,8 @@ A printed copy of the timetable will be given to students on the first day of sc
 **7.**&nbsp;&nbsp;&nbsp; **Are students allowed to bring mobile phones to school?**
 <br>
 Students are allowed to use them at Level 1 common areas during recess, before and after school.
+
+**8.**&nbsp;&nbsp;&nbsp; **Appeal for school transfer to ADSS here**
  
 ##### CCA Matters
  
@@ -148,7 +150,7 @@ These lessons will be conducted at a common level regardless of posting group.
 
 Our teachers will&nbsp; adopt a variety of pedagogical approaches to cater to the different learning needs of students.
 
-**6.How will your school ensure that students from different posting group and backgrounds would be able to socialise well?**
+**6. How will your school ensure that students from different posting group and backgrounds would be able to socialise well?**
 <br>
 Our school fosters a caring and supportive culture from the start of the school year. To facilitate positive relationships, we will have programmes to strengthen the bonds between teachers and students and among peers, establish a strong sense of class identity and belonging to the school community, and empower students to develop healthy self-concepts and grow to the best of their abilities.
 
