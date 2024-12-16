@@ -26,4 +26,4 @@ Education at Admiralty Secondary School (ADSS) aims to provide students with a h
 
 This prospectus aims to provide reference for new students of ADSS and to help them decide which CCA is suitable for them. It is intended to guide the student to understand what is involved in each CCA, whether it will suit him/her and the likely commitment called for.
 
-You can download a copy of the CCA Prospectus 2025 [here.](/files/ADSS%20CCA%20Prospectus%202022.pdf)
+A copy of the CCA Prospectus 2025 will be made available by end December 2024.
