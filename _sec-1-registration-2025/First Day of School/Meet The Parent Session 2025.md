@@ -23,7 +23,7 @@ third_nav_title: First Day of School
 and CCA Policy</p>
 </li>
 <li>
-<p>Dialogue with Form Teachers and KPs</p>
+<p>Dialogue with Form Teachers and Key Personnel</p>
 </li>
 </ul>
 <p>Parents can indicate their attendance in the Parent Gateway letter that
