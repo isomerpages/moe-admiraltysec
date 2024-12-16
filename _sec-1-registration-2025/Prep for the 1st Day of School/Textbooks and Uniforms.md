@@ -72,7 +72,7 @@ and Paynow
 <br><strong>Website:</strong>  <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a> (An
 account is needed for online purchases.)</p>
 <p>To minimise waiting time and avoid crowd, you may purchase textbooks online.
-Online purchase is available until <strong>27 December 2024</strong>. You
+Online purchase is available until <strong>24 December 2024</strong>. You
 may opt for home-delivery (delivery fee applies) or collection at the school
 bookshop. You may choose the delivery or collection date upon purchase
 of textbooks online.</p>
@@ -85,7 +85,7 @@ of school.</p>
 <br><a href="/files/S1__G3_.pdf" rel="noopener noreferrer nofollow" target="_blank">3. Sec 1 (G3) 2025</a>
 <br><a href="/files/S1__G1_.pdf" rel="noopener noreferrer nofollow" target="_blank">4. Sec 1 (G1, G2, G3) 2025</a>
 </p>
-<p><strong>Please note the following:</strong> 
+<p><strong>Please note the following:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -115,7 +115,7 @@ non-refundable.</p>
 </p>
 </li>
 <li>
-<p>Exchange can be made within30 days with proof of purchase and the uniforms
+<p>Exchange can be made within 30 days with proof of purchase and the uniforms
 must be in good condition (it must not be washed or stained). Please note
 that socks are non-exchangeable due to hygiene issues.</p>
 </li>
