@@ -1,6 +1,6 @@
 ---
 title: Welcome Message by Principal
-permalink: /sec-1-registration-2023/welcome-msg-by-p/
+permalink: /sec-1-registration-2025/welcome-msg-by-p/
 variant: markdown
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Personalised Digital Learning Programme
-permalink: /sec-1-registration-2023/welcome-and-introduction/pdlp-hodict/
+permalink: /sec-1-registration-2025/welcome-and-introduction/pdlp-hodict/
 variant: tiptap
 description: ""
 ---
