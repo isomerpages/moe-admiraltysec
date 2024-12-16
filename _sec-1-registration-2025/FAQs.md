@@ -35,6 +35,8 @@ A printed copy of the timetable will be given to students on the first day of sc
 **7.**&nbsp;&nbsp;&nbsp; **Are students allowed to bring mobile phones to school?**
 <br>
 Students are allowed to use them at Level 1 common areas during recess, before and after school.
+
+**8.**&nbsp;&nbsp;&nbsp; **Appeal for school transfer to ADSS here**
  
 ##### CCA Matters
  
