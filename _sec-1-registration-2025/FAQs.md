@@ -36,7 +36,9 @@ A printed copy of the timetable will be given to students on the first day of sc
 <br>
 Students are allowed to use them at Level 1 common areas during recess, before and after school.
 
-**8.**&nbsp;&nbsp;&nbsp; **Appeal for school transfer to ADSS here**
+**7.**&nbsp;&nbsp;&nbsp; **How do I appeal to transfer to ADSS?**
+<br>
+Please contact the General Office at 6365 1733.
  
 ##### CCA Matters
  
