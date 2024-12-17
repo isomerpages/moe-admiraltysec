@@ -6,7 +6,7 @@ description: ""
 third_nav_title: First Day of School
 ---
 <p>The Sec 1 Journey will start with the Orientation Programme. Please refer
-to the<strong> <a href="/files/Sec_1_Orientation_2025_schedule__student__as_of_16_Dec.pdf" rel="noopener nofollow" target="_blank">document</a></strong> for
+to the<strong> <a href="/files/Sec_1_Orientation_2025_schedule__student__as_of_16_Dec_v1.pdf" rel="noopener nofollow" target="_blank">document</a></strong> for
 Orientation Programme outline.</p>
 <p>The dismissal time for each day is as follows:</p>
 <ul data-tight="true" class="tight">
