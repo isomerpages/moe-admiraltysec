@@ -20,6 +20,14 @@ sections:
           description: ""
           url: /parents/permalink/
   - infopic:
+      title: 2025 Sec 1 Registration
+      subtitle: News and highlights
+      id: infopic
+      button: Click here to find out more
+      url: /sec-1-registration-2025/permalink/
+      alt: Image alt text
+      image: /images/WhatsApp_Image_2024_12_16_at_15_43_47.jpg
+  - infopic:
       title: 2024 Open House
       id: infopic
       description: 16 Nov (Sat) 8:30 am to 12:30am
@@ -36,32 +44,6 @@ sections:
       url: /2024nrpc/news-and-highlights/permalink/
       image: /images/2024nrpc_motd3.png
       alt: Image alt text
-  - infopic:
-      title: 2024 Sec 1 Orientation
-      subtitle: News and Highlights
-      id: infopic
-      description: Lets Welcome our Sec 1 Admirals!
-      button: CLICK HERE TO FIND OUT MORE
-      url: /2024secone/news-and-highlights/permalink/
-      image: /images/2024_SEC1Orientation_Photo3.jpg
-      alt: Image alt text
-  - infopic:
-      title: Start Right Day 2024
-      id: infopic
-      description: Announcement for Start Right Day
-      button: Click here to find out more
-      url: /start-right-day-2024/students/permalink/
-      alt: Image alt text
-      image: /images/WhatsApp_Image_2023_12_28_at_10_06_51_v2.jpg
-  - infopic:
-      title: 2024 Sec 1 Registration
-      subtitle: News and highlights
-      id: infopic
-      button: Click here to find out more
-      url: /sec-1-registration-2025/permalink/
-      alt: Image alt text
-      image: /images/WhatsApp_Image_2024_12_16_at_15_43_47.jpg
-      description: More details can be found in 2024 Sec 1 Info tab
   - infopic:
       title: "A New School of Thought: Full SBB"
       subtitle: CNA INSIDER
