@@ -10,5 +10,5 @@ for the first day of school.</p>
 purchase of textbooks and uniforms, the use of School Smart Card, Subject-based
 Banding (SBB), Secondary One Orientation etc.</p>
 <p></p>
-<p>Download <a href="/files/Sec_1_Registration_Admin_Slides_2025_2.pdf" rel="noopener nofollow" target="_blank">Sec 1 Registration Admin Slides 2025</a>
+<p>Download <a href="/files/Sec_1_Registration_Admin_Slides_2025_v1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Registration Admin Slides 2025</a>
 </p>
