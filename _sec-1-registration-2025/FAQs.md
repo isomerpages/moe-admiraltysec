@@ -38,7 +38,7 @@ Students are allowed to use them at Level 1 common areas during recess, before a
 
 **7.**&nbsp;&nbsp;&nbsp; **How do I appeal to transfer to ADSS?**
 <br>
-Please contact the General Office at 6365 1733.
+You can send in your appeal through this **[link](https://go.gov.sg/admission-adss)**
  
 ##### CCA Matters
  
