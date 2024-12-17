@@ -60,7 +60,7 @@ sections:
       button: Click here to find out more
       url: /sec-1-registration-2025/permalink/
       alt: Image alt text
-      image: /images/Picture1.png
+      image: /images/WhatsApp_Image_2024_12_16_at_15_43_47.jpg
       description: More details can be found in 2024 Sec 1 Info tab
   - infopic:
       title: "A New School of Thought: Full SBB"
