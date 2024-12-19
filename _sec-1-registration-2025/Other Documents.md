@@ -19,7 +19,7 @@ As your child moves from primary to secondary school, it is natural that you wan
 PSG provides a great opportunity for us to be closer to our children. Our children benefit greatly when we understand them better, and they tend to show a more positive attitudes. The school and PSG would like to extend our invitation to you to join in this meaningful partnership.
 
 * [PSG Welcome Letter 2025](/files/PSG_Welcome_Letter_for_2025_Sec_1.pdf)
-* [PSG E Flyer](/files/PSG_e_Flyer_pdf.pdf)
+* [PSG E flyer](/files/e_Flyer_PSG_.pdf)
   
 **3. MOE Financial Assistance Scheme (MOE FAS)**
 <br>
