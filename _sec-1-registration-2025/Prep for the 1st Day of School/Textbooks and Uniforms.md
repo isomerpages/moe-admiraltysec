@@ -120,5 +120,5 @@ must be in good condition (it must not be washed or stained). Please note
 that socks are non-exchangeable due to hygiene issues.</p>
 </li>
 </ul>
-<p>Download <a href="/files/My_Uniform_Shop__ASIA__Pte_Ltd___Admiralty_Secondary_School_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">My Uniform Shop - Information for Parents/Guardians</a>
+<p>Download <a href="/files/My_Uniform_Shop__ASIA__Pte_Ltd___Admiralty_Secondary_School_2024___06_Nov_24.pdf" rel="noopener nofollow" target="_blank">My Uniform Shop - Information for Parents/Guardians</a>
 </p>
