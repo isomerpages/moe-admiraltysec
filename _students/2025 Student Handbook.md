@@ -1,6 +1,6 @@
 ---
 title: 2025 Student Handbook
-permalink: /students/2024handbook/permalink/
+permalink: /students/2025handbook/permalink/
 variant: markdown
 description: ""
 ---
