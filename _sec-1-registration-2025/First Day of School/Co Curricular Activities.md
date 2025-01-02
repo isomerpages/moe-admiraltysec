@@ -10,9 +10,9 @@ third_nav_title: First Day of School
 
 | Physical Sports (PS)| Uniformed Groups (UG)| Clubs & Societies (CS) | Visual & Performing Arts (VPA) |
 | -------- | -------- | -------- | -------- |
-| Athletics| National Cadet Corp (Land - Boys) | Lighthouse Production (IT/AVA)| Concert Band|
-| Badminton | National Civil Defence Cadet Corp | Robotics Enterprise | Dance Club |
-| Netball (Girls) | National Police Cadet Corp| Art & Environment Club| Drama Club|
+| Track & Field| National Cadet Corp (Land) | Lighthouse Production (IT/AVA)| Concert Band|
+| Badminton | National Civil Defence Cadet Corp | Robotics Club | Modern Dance Club |
+| Netball (Girls) | National Police Cadet Corp| Art & Environment Club| English Drama Club|
 | Rugby (Boys) |  | | Guzheng Ensemble|
 | Wushu | |  ||
 
@@ -26,4 +26,4 @@ Education at Admiralty Secondary School (ADSS) aims to provide students with a h
 
 This prospectus aims to provide reference for new students of ADSS and to help them decide which CCA is suitable for them. It is intended to guide the student to understand what is involved in each CCA, whether it will suit him/her and the likely commitment called for.
 
-A copy of the CCA Prospectus 2025 will be made available by end December 2024.
+Download a copy of the CCA Prospectus 2025 [here.](/files/ADSS_CCA_Prospectus_2025.pdf)
