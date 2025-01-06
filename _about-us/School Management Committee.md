@@ -20,6 +20,6 @@ variant: markdown
 |![](/images/amizah%20sh%20ml.jpg)|![](/images/21%20mdm%20samantha%20woo%20lai%20yee.jpg)|![](/images/17%20mdm%20goh%20jia%20ying%20jocelyn.jpg)|![](/images/22%20mr%20tay%20peiyong.jpg)|
 |![](/images/16%20dr%20choe%20kee%20cheng.jpg)|![](/images/20%20mdm%20renuka%20devi%20do%20ragunathan.jpg)|![](/images/Mr_Tung_Cheng_Boon_Adrian.jpg)|![](/images/Suhaimi_AYH.jpg)|
 |![](/images/15%20mdm%20chin%20hui%20jing.jpg)|![](/images/19%20mdm%20nur%20amalina%20binte%20mohamed%20salleh.jpg)|![](/images/14%20mdm%20chew%20wei%20xin.jpg)||
-|![](/images/Karen_LT_new.jpg)|![](/images/Yip_LT.jpg)|![](/images/coleman%20chong.jpg)|![](/images/ray%20chua.jpg)|
-|![](/images/hong%20tatt.jpg)|![](/images/2_nuriah_ST.jpg)|||
+|![](/images/Karen_LT_new.jpg)|![](/images/Yip_LT.jpg)|![](/images/coleman%20chong.jpg)||
+|![](/images/hong%20tatt.jpg)|![](/images/2_nuriah_ST.jpg)|![](/images/ray%20chua.jpg)||
 |![](/images/mdm%20tan%20huiping%20apple.jpg)|![](/images/mr%20tay%20chek%20foo.jpg)|![](/images/Miss_Yeo_Li_Wen.jpg)|![](/images/Ms_Nur_Atiqah_Mohd_Yusoff.jpg)|
