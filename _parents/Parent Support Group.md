@@ -14,7 +14,7 @@ The Parent Support Group (PSG) was formed with the aim of benefiting our Admiral
 
 ### Key Parent Support Group Members
 
-![](/images/2023_10th_PSG_EXCO_all.png)
+![](/images/2024_11th_PSG_EXCO.jpg)
 
 The objectives of the PSG are as follows:
 
@@ -27,46 +27,35 @@ The objectives of the PSG are as follows:
 
 PSG also provides a platform for parents to voice out their opinions and ideas about the school, for the school and through the school.
 
-### 2023 Activities
-
-### PSG Appreciation Day
-
-On 11 Nov 2023 Parents, students, alumni attended the PSG Appreciation Day. 
-
-Carnival game stalls, various games, photo booth and lucky draw had been arranged. It was nice to be able to bring a smile to people’s faces enjoying the games and creating great memories.  All these would not be possible without highly committed and supportive school leaders, PSG teachers in-charge, PSG EXCO members, parents, students and alumni. We thank them for their strong support and partnership in fostering a caring and loving learning environment in ADSS.
-
-Let’s continue growing stronger!
-
-![](/images/Photo_Collage_PSG_Appreciation_Day_2023_small.png)
-
-### ADSS Open House
-
-![](/images/Photo_Collage_ADSS_Open_House_2023.png)
-
-
-### PSG Balloon Decorations for Graduation Ceremony
-
-![](/images/Photo_Collage_Balloon_Decorations_for_Graduation_Ceremony_2023_small.png)
-
-### Staff Appreciation Day
-![](/images/Photo_Collage_Staff_Appreciation_Day_2023.PNG)
-
-### PSG Bonding cum Gift Making 
-![](/images/Photo_Collage_PSG_Members_Bonding_cum_Gift_Making_Session_2023_small.png)
-
-### Parent-Child Bonding Session
-![](/images/Photo_Collage_Parent_Child_Bonding_Session_Jurong_Lake_Gardens_2023.PNG)
-![](/images/Photo_Collage_Parent_Child_Bonding_Session_Sentosa_2022_small.png)
-
-### Tea Session with School Leaders
-
-![](/images/Photo_Collage_Tea_Session_With_School_Leaders_2023.PNG)
-
-### Partner of Admiralty Award
-![](/images/Photo_Partners_of_Admiralty_Award_2022.png)
+### 2024 Activities
 
 ### Admirals' Run
-![](/images/Photo_Collage_Admirals__Run_2023.JPG)
+
+![](/images/Admirals__Run_2024_.png)
+
+### The Recipients of the Partner of Admiralty Award (Individual)
+![](/images/The_Recipients_of_the_Partner_of_Admiralty_Award.png)
+
+### Tea Session With School Leaders
+![](/images/Tea_Session_with_School_Leaders_2024.png)
+
+
+### PSG Members Bonding cum Gifts Making Session
+![](/images/PSG_Members_Bonding_cum_Gifts_Making_Session_2024_.png)
+
+### Performance by PSG for Staff Appreciation Day
+![](/images/Performance_by_PSG_for_Staff_Appreciation_Day_2024.png)
+
+### A Motivational Treat from PSG
+
+![](/images/A_Motivational_Treat_from_PSG_2024_.png)
+
+### PSG Appreciation Day
+![](/images/PSG_Appreciation_Day_2024.png)
+
+### Balloon Decorations for Graduation Ceremony 
+![](/images/Balloon_Decorations_for_Graduation_Ceremony_2024_.png)
+
 
 ### Let Us Chat!
 ![](/images/Let_Us_Chat_Poster_Signature_Programme.png)
