@@ -14,7 +14,7 @@ The Parent Support Group (PSG) was formed with the aim of benefiting our Admiral
 
 ### Key Parent Support Group Members
 
-![](/images/2023_10th_PSG_EXCO_all.png)
+![](/images/2024_11th_PSG_EXCO.jpg)
 
 The objectives of the PSG are as follows:
 
@@ -27,7 +27,33 @@ The objectives of the PSG are as follows:
 
 PSG also provides a platform for parents to voice out their opinions and ideas about the school, for the school and through the school.
 
-### 2023 Activities
+### 2024 Activities
+
+### Admirals' Run
+
+![](/images/Admirals__Run_2024_.png)
+
+### The Recipients of the Partner of Admiralty Award (Individual)
+![](/images/The_Recipients_of_the_Partner_of_Admiralty_Award.png)
+
+### Tea Session With School Leaders
+![](/images/Tea_Session_with_School_Leaders_2024.png)
+
+
+### PSG Members Bonding cum Gifts Making Session
+![](/images/PSG_Members_Bonding_cum_Gifts_Making_Session_2024_.png)
+
+### Performance by PSG for Staff Appreciation Day
+![](/images/Performance_by_PSG_for_Staff_Appreciation_Day_2024.png)
+
+### A Motivational Treat from PSG
+
+![](/images/A_Motivational_Treat_from_PSG_2024_.png)
+
+### PSG Appreciation Day
+![](/images/PSG_Appreciation_Day_2024.png)
+
+###
 
 ### PSG Appreciation Day
 
