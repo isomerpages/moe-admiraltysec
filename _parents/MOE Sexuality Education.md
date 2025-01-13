@@ -23,7 +23,7 @@ variant: markdown
 
 You may&nbsp;[click here](https://www.moe.gov.sg/programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-##### OVERVIEW OF ADMIRALTY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024
+##### OVERVIEW OF ADMIRALTY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025
 
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may&nbsp;[click here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -83,7 +83,3 @@ You may&nbsp;[click here](https://www.moe.gov.sg/programmes/sexuality-education)
 | Sexuality Education (SEd) Coordinators :  |
 | -------- |
 | Mdm Chow Shin Yun<br>Mdm Nur Amalina Binte Mohamed Salleh|
-
-
-
-
