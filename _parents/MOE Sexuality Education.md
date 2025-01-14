@@ -4,7 +4,7 @@ permalink: /moesed/parents/permalink/
 description: ""
 variant: markdown
 ---
-1. Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+1.  Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
 1. The **Goals** of Sexuality Education are to:
 
@@ -21,11 +21,11 @@ variant: markdown
 * Make responsible decisions for yourself, your family and society; and 
 * Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may&nbsp;[click here](https://www.moe.gov.sg/programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.
+You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on MOE Sexuality Education.
 
 ##### OVERVIEW OF ADMIRALTY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025
 
-4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may&nbsp;[click here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on the scope of Sexuality Education in the school curriculum.
 
 5. The subjects that incorporate topics on sexuality include:
 * Science
@@ -72,9 +72,9 @@ You may&nbsp;[click here](https://www.moe.gov.sg/programmes/sexuality-education)
 ### Information for Parents
 10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is found here:[https://form.gov.sg/677b3c2e6ce32a3b2a4398d9.](https://form.gov.sg/677b3c2e6ce32a3b2a4398d9.). he completed form is to be submitted by 07/02/2025.
+11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is found here:[https://form.gov.sg/677b3c2e6ce32a3b2a4398d9.](https://form.gov.sg/677b3c2e6ce32a3b2a4398d9). he completed form is to be submitted by 07/02/2025.
 
-12. Parents who wish to opt their children in Secondary 3 out of the eTeens programme need to complete an opt-out form. This form is found here:[https://form.gov.sg/677b3c2e6ce32a3b2a4398d9.](https://form.gov.sg/677b3c2e6ce32a3b2a4398d9.). The completed form is to be submitted by 09/02/2024.
+12. Parents who wish to opt their children in Secondary 3 out of the eTeens programme need to complete an opt-out form. This form is found here:[https://form.gov.sg/677b3c2e6ce32a3b2a4398d9.](https://form.gov.sg/677b3c2e6ce32a3b2a4398d9). The completed form is to be submitted by 09/02/2024.
 
 13. Parents can contact the school at (63651733) for discussion or to seek clarification about the school’s sexuality education programme.
 
