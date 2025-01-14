@@ -74,7 +74,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 
 11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is found here:[https://form.gov.sg/677b3c2e6ce32a3b2a4398d9.](https://form.gov.sg/677b3c2e6ce32a3b2a4398d9). he completed form is to be submitted by 07/02/2025.
 
-12. Parents who wish to opt their children in Secondary 3 out of the eTeens programme need to complete an opt-out form. This form is found here:[https://form.gov.sg/677b3c2e6ce32a3b2a4398d9.](https://form.gov.sg/677b3c2e6ce32a3b2a4398d9). The completed form is to be submitted by 09/02/2024.
+12. Parents who wish to opt their children in Secondary 3 out of the eTeens programme need to complete an opt-out form. This form is found here: [https://form.gov.sg/677b40b05b01d5dbed6efa74](https://form.gov.sg/677b40b05b01d5dbed6efa74). The completed form is to be submitted by 09/02/2024.
 
 13. Parents can contact the school at (63651733) for discussion or to seek clarification about the school’s sexuality education programme.
 
