@@ -58,7 +58,7 @@ PSG also provides a platform for parents to voice out their opinions and ideas a
 
 
 ### Let Us Chat!
-![](/images/Let_Us_Chat_Poster_Signature_Programme.png)
+![](/images/2025letuschat_sm.png)
 
 
 All these activities, efforts and memories would not be possible without a group of highly committed, inspiring, and positive thinking Coordinators, Assistant Coordinators, EXCO members as well as supportive School Leaders, PSG teachers in-charge and parents.
