@@ -20,6 +20,15 @@ sections:
           description: ""
           url: /parents/permalink/
   - infopic:
+      title: 2025 NRPC
+      subtitle: Calling all primary schools!
+      id: infopic
+      description: Registration is now open until 7 March 2025!
+      button: CLICK HERE TO FIND OUT MORE
+      url: /2025nrpc/news-and-highlights/permalink/
+      image: /images/2025nrpc_motd.png
+      alt: Image alt text
+  - infopic:
       title: 2025 Sec 1 Registration
       subtitle: News and highlights
       id: infopic
@@ -34,15 +43,6 @@ sections:
       button: Click here to find out more
       url: /2024-open-house/news-and-highlights/permalink/
       image: /images/ADSS_Experience_MOTD_01.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 NRPC
-      subtitle: Calling all primary schools!
-      id: infopic
-      description: Registration is now open until 17 March 2024
-      button: CLICK HERE TO FIND OUT MORE
-      url: /2024nrpc/news-and-highlights/permalink/
-      image: /images/2024nrpc_motd3.png
       alt: Image alt text
   - infopic:
       title: "A New School of Thought: Full SBB"
