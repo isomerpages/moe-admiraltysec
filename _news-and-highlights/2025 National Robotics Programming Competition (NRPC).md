@@ -50,7 +50,7 @@ the f2f surprise mission on 23 May 2024.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2019nrpc.jpg">
 </div>
 <p>NRPC aims to challenge young minds by stretching their potential in STEM
-and providing them an opportunity to exhibit their enterprising skills.
+and providing them an opportunity to develop skills such as problem solving, computational thinking, creative thinking and team spirit.
 Admiralty Secondary School started National Robopreneur Carnival (NRPC)
 in 2007. In 2009, Nanyang Polytechnic came onboard to co-organise this
 meaningful competition. In 2017, we updated NRPC to National Robotics Programming
