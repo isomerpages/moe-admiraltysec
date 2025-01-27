@@ -4,8 +4,21 @@ permalink: /2025nrpc/news-and-highlights/permalink/
 variant: markdown
 description: ""
 ---
+# 2025 NRPC
+
+<p></p>
+<p>Here are the registration details.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025nrpc_motd.png">
+</div>
+<p>Click on the link below to get more details regarding 17th NRPC.</p>
+<p><a href="/files/17th_NRPC_Infosheet.pdf" rel="noopener noreferrer nofollow" target="_blank">17th NRPC Infosheet</a>
+</p>
+
+
+### 2024 NRPC Photos
 <p>Thank you to all participants of 16th NRPC, here are some photos from
-the f2f surprise mission on 23 May.</p>
+the f2f surprise mission on 23 May 2024.</p>
 <p>Briefing to all participants on the surprise mission.</p>
 
 |||
@@ -28,14 +41,7 @@ the f2f surprise mission on 23 May.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpc1.jpg">
 </div>
-<p></p>
-<p>Here are the registration details.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024nrpc_motd3.png">
-</div>
-<p>Click on the link below to get more details regarding 16th NRPC.</p>
-<p><a href="/files/16th_NRPC_Infosheet.pdf" rel="noopener noreferrer nofollow" target="_blank">16th NRPC Infosheet</a>
-</p>
+
 <p></p>
 <p><u>Brief History of NRPC</u>
 </p>
