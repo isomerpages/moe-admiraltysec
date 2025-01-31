@@ -29,13 +29,13 @@ sections:
       image: /images/2025nrpc_motd.png
       alt: Image alt text
   - infopic:
-      title: 2025 Sec 1 Registration
+      title: 2024 ADSS Yearbook
       subtitle: News and highlights
       id: infopic
       button: Click here to find out more
-      url: /sec-1-registration-2025/permalink/
+      url: https://issuu.com/avantgardemediaarts/docs/admiralty_secondary_school_-_yearbook_2024_pages?fr=sODRmZjY0MDU0OTI
       alt: Image alt text
-      image: /images/WhatsApp_Image_2024_12_16_at_15_43_47.jpg
+      image: /images/2024ADSSYearbook.png
   - infopic:
       title: 2024 Open House
       id: infopic
