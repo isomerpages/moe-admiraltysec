@@ -32,7 +32,7 @@ sections:
       title: 2024 ADSS Yearbook
       subtitle: News and highlights
       id: infopic
-      button: Click here to find out more
+      button: Click to view the Yearbook
       url: https://issuu.com/avantgardemediaarts/docs/admiralty_secondary_school_-_yearbook_2024_pages?fr=sODRmZjY0MDU0OTI
       alt: Image alt text
       image: /images/2024ADSSYearbook.png
