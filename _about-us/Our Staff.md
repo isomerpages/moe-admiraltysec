@@ -2,7 +2,7 @@
 title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h4>2025 Sec 1 Form Teachers</h4>
 <table style="minWidth: 75px">
@@ -207,8 +207,8 @@ variant: tiptap
 <p>Phoenix 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Maizuriah Binte Mohd Yasin
-<br><a href="mailto:maizuriah_mohd_yasin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maizuriah_mohd_yasin@moe.edu.sg</a>
+<p>Mdm Tay Kai Yun Karen
+<br><a href="mailto:tay_kai_yun_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kai_yun_karen@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
