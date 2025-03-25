@@ -208,7 +208,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tay Kai Yun Karen
-<br><a href="mailto:tay_kai_yun_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maizuriah_mohd_yasin@moe.edu.sg</a>
+<br><a href="mailto:tay_kai_yun_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kai_yun_karen@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
