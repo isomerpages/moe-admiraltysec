@@ -58,7 +58,7 @@ related to the talent they are selected for from year 1-4.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;<a href="/track-and-field/co-curricular-activities/sports/permalink" rel="noopener noreferrer nofollow" target="_blank">Track and Field (Girls and Boys)</a>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2024, 11am
+The application is free-of-charge and will be open from 7 May 2025, 11am
 to 3 Jun 2024, 3pm. For more details, please refer to MOE website –&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p>Shortlisted students will be notified by the school by end June regarding
