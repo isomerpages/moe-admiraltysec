@@ -17,7 +17,21 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
-		
+		  <tr>
+    <td>SYF 2025 Arts Presention for Drama</td>
+    <td>Distinction</td>
+    <td>Drama CCA</td>
+  </tr>
+			<tr>
+    <td>SYF 2025 Arts Presention for Band - Concert</td>
+    <td>Accomplishment</td>
+    <td>Concert Band CCA</td>
+  </tr>
+		  <tr>
+    <td>SYF 2025 Arts Presention for Guzheng Ensemble</td>
+    <td>Accomplishment</td>
+    <td>Guzheng Ensemble CCA</td>
+  </tr>
 <tr>
     <td>2024 National School Games (Track &amp; Field) </td>
     <td>Gold (B Division Boys - 800m)</td>
@@ -58,7 +72,7 @@ variant: markdown
     <td>Accomplishment (International Dance)</td>
     <td>Dance CCA</td>
   </tr>
-						  <tr>
+	<tr>
     <td>SYF 2023 Arts Presention for Band - Concert</td>
     <td>Commendation</td>
     <td>Concert Band CCA</td>
@@ -79,6 +93,26 @@ variant: markdown
     <th style="width=40%">Title</th>
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
+  </tr>
+		 <tr>
+    <td>Unit Recognition 2024
+    </td><td>Distinction</td>
+    <td>NCC (Land)</td>
+  </tr>
+  <tr>
+    <td>Unit Overall Proficiency Award 2024</td>
+    <td>Distinction</td>
+    <td>NPCC</td>
+  </tr>
+		  <tr>
+    <td>Unit Overall Proficiency Award 2024</td>
+    <td>Distinction</td>
+    <td>NCDCC</td>
+  </tr>
+  <tr>
+    <td>Unit Recognition 2024</td>
+    <td>Distinction</td>
+    <td>NCC (Land)</td>
   </tr>
 	  <tr>
     <td>NPCC Inter-Unit Drill Competition 2024
