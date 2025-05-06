@@ -32,6 +32,16 @@ variant: markdown
     <td>Accomplishment</td>
     <td>Guzheng Ensemble CCA</td>
   </tr>
+			<tr>
+    <td>2025 National School Games (Track &amp; Field) </td>
+    <td>Gold (B Division Boys - 1500m) New Record 4:09.03</td>
+    <td>Oliver Fiore (L6)</td>
+  </tr>
+		  <tr>
+    <td>2025 National School Games (Rugby B Division)</td>
+    <td>4th (Bowl Championship)</td>
+    <td>Rugby B Division</td>
+  </tr>
 <tr>
     <td>2024 National School Games (Track &amp; Field) </td>
     <td>Gold (B Division Boys - 800m)</td>
