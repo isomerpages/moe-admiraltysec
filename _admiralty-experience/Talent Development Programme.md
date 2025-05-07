@@ -2,6 +2,7 @@
 title: Talent Development Programme
 permalink: /admiralty-experience/talent-development-programme/
 description: ""
+variant: markdown
 ---
 Introduction
 ------------
@@ -11,7 +12,7 @@ Everyone is born with certain talents and those talents need to be nurtured in o
 STEM Related Talent Development
 -------------------------------
 
-The Tier 2 Applied Lifelong Learning Program (ALLP) curriculum caters to all interested and abled Admirals to provide them with opportunities to apply their learning in ALP meaningfully. This programme aims to develop students’ creative problem-solving and thinking skills where they think critically about existing problems, generate ideas to improve current situations and develop prototypes to test and improve their ideas.
+The Tier 2 Applied Lifelong Learning Programme (ALLP) curriculum caters to all interested and abled Admirals to provide them with opportunities to apply their learning in ALP meaningfully. This programme aims to develop students’ creative problem-solving and thinking skills where they think critically about existing problems, generate ideas to improve current situations and develop prototypes to test and improve their ideas.
 
   
 
@@ -27,5 +28,3 @@ There are also many opportunities to represent the school in competitions:
 *   National Robotics Competition (NRC)
 *   National Olympiad in Informatics (NOI)
 *   Tan Kah Kee Young Inventors’ Award
-
-

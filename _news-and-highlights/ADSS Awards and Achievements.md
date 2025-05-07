@@ -17,7 +17,31 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
-		
+		  <tr>
+    <td>SYF 2025 Arts Presention for Drama</td>
+    <td>Distinction</td>
+    <td>Drama CCA</td>
+  </tr>
+			<tr>
+    <td>SYF 2025 Arts Presention for Band - Concert</td>
+    <td>Accomplishment</td>
+    <td>Concert Band CCA</td>
+  </tr>
+		  <tr>
+    <td>SYF 2025 Arts Presention for Guzheng Ensemble</td>
+    <td>Accomplishment</td>
+    <td>Guzheng Ensemble CCA</td>
+  </tr>
+			<tr>
+    <td>2025 National School Games (Track &amp; Field) </td>
+    <td>Gold (B Division Boys - 1500m) New Record 4:09.03</td>
+    <td>Oliver Fiore (L6)</td>
+  </tr>
+		  <tr>
+    <td>2025 National School Games (Rugby B Division)</td>
+    <td>4th (Bowl Championship)</td>
+    <td>Rugby B Division</td>
+  </tr>
 <tr>
     <td>2024 National School Games (Track &amp; Field) </td>
     <td>Gold (B Division Boys - 800m)</td>
@@ -58,7 +82,7 @@ variant: markdown
     <td>Accomplishment (International Dance)</td>
     <td>Dance CCA</td>
   </tr>
-						  <tr>
+	<tr>
     <td>SYF 2023 Arts Presention for Band - Concert</td>
     <td>Commendation</td>
     <td>Concert Band CCA</td>
@@ -79,6 +103,26 @@ variant: markdown
     <th style="width=40%">Title</th>
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
+  </tr>
+		 <tr>
+    <td>Unit Recognition 2024
+    </td><td>Distinction</td>
+    <td>NCC (Land)</td>
+  </tr>
+  <tr>
+    <td>Unit Overall Proficiency Award 2024</td>
+    <td>Distinction</td>
+    <td>NPCC</td>
+  </tr>
+		  <tr>
+    <td>Unit Overall Proficiency Award 2024</td>
+    <td>Distinction</td>
+    <td>NCDCC</td>
+  </tr>
+  <tr>
+    <td>Unit Recognition 2024</td>
+    <td>Distinction</td>
+    <td>NCC (Land)</td>
   </tr>
 	  <tr>
     <td>NPCC Inter-Unit Drill Competition 2024
@@ -131,6 +175,12 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+				<tr>
+			<td>Robotics: First Lego League 2025 </td>
+			<td>Champion Category - Overall Championship Award, 2nd Runners Up<br>Robot Performance Category - Champion Award</td>
+			<td>Robotics Club CCA
+</td>
+		</tr>
 							<tr>
 			<td>2024 World Robot Olympiad (WRO) </td>
 			<td>1. Runner Up- Overall Championship<br>2. Exploration Awards</td>
