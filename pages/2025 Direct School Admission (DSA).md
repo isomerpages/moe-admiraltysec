@@ -60,10 +60,14 @@ related to the talent they are selected for from year 1-4.</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
 to 3 Jun 2025, 3pm. For more details, please refer to MOE website –&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
 <p>Shortlisted students will be notified by the school by early July regarding
 their interview session. The interview sessions will likely be conducted
 from Term 3 Week 2 to Term 3 Week 4.</p>
+<p>We will inform applicants of the selection outcomes during 25 Aug 2025
+– 4 Sep 2025 via email.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
