@@ -64,6 +64,9 @@ to 3 Jun 2025, 3pm. For more details, please refer to MOE website –&nbsp;
 <p>Shortlisted students will be notified by the school by early July regarding
 their interview session. The interview sessions will likely be conducted
 from Term 3 Week 2 to Term 3 Week 4.</p>
+<p>We will inform applicants of the selection outcomes during 25 Aug 2025
+– 4 Sep 2025 via email.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
