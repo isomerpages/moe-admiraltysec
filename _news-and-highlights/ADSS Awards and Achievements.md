@@ -175,6 +175,12 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+				<tr>
+			<td>Robotics: First Lego League 2025 </td>
+			<td>Champion Category - Overall Championship Award, 2nd Runners Up<br>Robot Performance Category - Champion Award</td>
+			<td>Robotics Club CCA
+</td>
+		</tr>
 							<tr>
 			<td>2024 World Robot Olympiad (WRO) </td>
 			<td>1. Runner Up- Overall Championship<br>2. Exploration Awards</td>
