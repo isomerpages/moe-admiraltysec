@@ -19,6 +19,12 @@ the area of talent.</p>
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
 <h3>The Admiralty Experience</h3>
+<h4>2025 Open House</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025Openhouse_small.jpg">
+</div>
+<p></p>
 <h4>20th Anniversary Video</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OuUCoDbaHHc"></iframe>
