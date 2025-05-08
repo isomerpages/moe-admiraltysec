@@ -17,6 +17,11 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+				  <tr>
+    <td>SYF 2025 Arts Presention for International Dance</td>
+    <td>Distinction</td>
+    <td>Dance CCA</td>
+  </tr>
 		  <tr>
     <td>SYF 2025 Arts Presention for Drama</td>
     <td>Distinction</td>
