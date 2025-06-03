@@ -16,31 +16,23 @@ description: ""
 </p>
 
 
-### 2024 NRPC Photos
-<p>Thank you to all participants of 16th NRPC, here are some photos from
-the f2f surprise mission on 23 May 2024.</p>
-<p>Briefing to all participants on the surprise mission.</p>
+### 2025 NRPC Photos
+<p>Thank you to all participants of 17th NRPC, here are some photos from
+the f2f surprise mission on 28 May 2025.</p>
 
-|||
-| :-: | :-: |
-|![](/images/nrpcc.jpg)|![](/images/nrpcb.jpg)|
-|![](/images/nrpca.jpg)||
+![](/images/25nrpc1.jpg)
+
+![](/images/25nrpc3.jpg)
+
+![](/images/25nrpc2.jpg)
+
+![](/images/25nrpc4.jpg)
+
 
 
 <p></p>
-<p>Participants in action, watching their run.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpc7.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpc5.jpg">
-</div>
-<p></p>
-<p>Presenting the Admirals (students and staff) behind the 16th NRPC.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpc1.jpg">
-</div>
+
+
 
 <p></p>
 <p><u>Brief History of NRPC</u>
