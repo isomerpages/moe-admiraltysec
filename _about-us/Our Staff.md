@@ -317,7 +317,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Hannan Bin Hassan
-<br>
+<br><a href="mailto:muhammad_hannan_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hannan_hassan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
