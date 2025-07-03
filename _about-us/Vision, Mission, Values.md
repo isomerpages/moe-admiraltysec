@@ -2,6 +2,7 @@
 title: Vision, Mission, Values
 permalink: /about-us/vmv/permalink/
 description: ""
+variant: markdown
 ---
 ### School Vision
 ![](/images/school%20vision.jpg)
@@ -31,3 +32,5 @@ ADSS Values -> Desired Behavioural Outcome
 **High Expectations** -> Admirals set high expectations to fulfil responsibility to self & others.
 
 **Teamwork** -> Admirals appreciate diversity and multiple perspectives to promote unity and social cohesions.
+
+**Self-Discipline** -> Admirals exercise self-control to manage emotions and actions.
