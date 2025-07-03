@@ -158,7 +158,9 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ren Wong Zhong You</p>
+<p>Mr Ren Wong Zhong You
+	<br><a href="mailto:ren_wong_zhong_you@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ren_wong_zhong_you@moe.edu.sg</a>
+	</p>
 </td>
 </tr>
 <tr>
