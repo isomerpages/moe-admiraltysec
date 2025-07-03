@@ -33,7 +33,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zhang Zilong</p>
+<p>Mr Zhang Zilong
+	<br><a href="mailto:zhang_zilong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_zilong@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -61,7 +62,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shariffah Nadhirah Binte Bagal</p>
+<p>Ms Shariffah Nadhirah Binte Bagal
+	<br><a href="mailto:shariffah_nadhirah_bagal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariffah_nadhirah_bagal@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -69,7 +71,9 @@ variant: markdown
 <p>Orion 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kasturi Kulantayan</p>
+<p>Mdm Kasturi Kulantayan
+<br><a href="mailto:kasturi_kulantayan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kasturi_kulantayan@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Zhuo Yan Ping
