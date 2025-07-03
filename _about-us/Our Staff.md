@@ -346,8 +346,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kong Tze Xin
-<br><a href="mailto:kong_tze_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_tze_xin@moe.edu.sg</a>
+<p>
 </p>
 </td>
 </tr>
