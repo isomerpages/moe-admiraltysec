@@ -186,6 +186,24 @@ variant: markdown
 			<td>Robotics Club CCA
 </td>
 		</tr>
+							<tr>
+			<td>STEM ALP Learning Festival </td>
+			<td>Platinum (Top 3)</td>
+			<td>1. Jayden Chan Kai Lun (A5)<br>
+2)	Tay Yong LeE (A6)<br>
+3)	Tristan Yeow Xuan Xiang (A8)
+</td>
+		</tr>
+					<tr>
+			<td>STEM ALP Learning Festival </td>
+			<td>Gold</td>
+			<td>1. Lau Guang Zheng, Yakhin (P5)<br>
+2)	Kyle Tan Jun Xuan (P5)<br>
+3)	Umar Al Faruq Bin Osman (A5)<br>
+4)	Tan Le Yang (A5)<br>
+5) Hoo Jia Jun (A6)
+</td>
+		</tr>
 		<tr>
 			<td>MOE Innovation Programme (2024) </td>
 			<td>Distinction</td>
