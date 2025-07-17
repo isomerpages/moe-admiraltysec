@@ -187,6 +187,36 @@ variant: markdown
 </td>
 		</tr>
 							<tr>
+			<td>STEM ALP Learning Festival (2024)</td>
+			<td>Platinum (Top 3)</td>
+			<td>1. Jayden Chan Kai Lun (A5)<br>
+2)	Tay Yong Le (A6)<br>
+3)	Tristan Yeow Xuan Xiang (A8)
+</td>
+		</tr>
+					<tr>
+			<td>STEM ALP Learning Festival (2024)</td>
+			<td>Gold</td>
+			<td>1. Lau Guang Zheng, Yakhin (P5)<br>
+2)	Kyle Tan Jun Xuan (P5)<br>
+3)	Umar Al Faruq Bin Osman (A5)<br>
+4)	Tan Le Yang (A5)<br>
+5) Hoo Jia Jun (A6)
+</td>
+		</tr>
+		<tr>
+			<td>MOE Innovation Programme (2024) </td>
+			<td>Distinction</td>
+			<td>1. Jayden Chan (L5) <br>
+2. Tristan Yeow (L8) <br>
+3. Tay Yong Le  (L6) <br>
+4. Hoo Jia Jun (L6) <br>
+5. Tan Le Yang (L5) <br>
+6. Umar AL Faruq Bin Osman (L5) 
+
+</td>
+		</tr>
+							<tr>
 			<td>2024 World Robot Olympiad (WRO) </td>
 			<td>1. Runner Up- Overall Championship<br>2. Exploration Awards</td>
 			<td>1. Low Zi Jun Jaydon (P5)<br>2. Lin Zhiyuan Jeremy (P5)
