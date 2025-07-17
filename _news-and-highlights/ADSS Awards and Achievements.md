@@ -187,7 +187,7 @@ variant: markdown
 </td>
 		</tr>
 							<tr>
-			<td>STEM ALP Learning Festival </td>
+			<td>STEM ALP Learning Festival (2024)</td>
 			<td>Platinum (Top 3)</td>
 			<td>1. Jayden Chan Kai Lun (A5)<br>
 2)	Tay Yong Le (A6)<br>
@@ -195,7 +195,7 @@ variant: markdown
 </td>
 		</tr>
 					<tr>
-			<td>STEM ALP Learning Festival </td>
+			<td>STEM ALP Learning Festival (2024)</td>
 			<td>Gold</td>
 			<td>1. Lau Guang Zheng, Yakhin (P5)<br>
 2)	Kyle Tan Jun Xuan (P5)<br>
