@@ -186,6 +186,18 @@ variant: markdown
 			<td>Robotics Club CCA
 </td>
 		</tr>
+		<tr>
+			<td>MOE Innovation Programme (2024) </td>
+			<td>Distinction</td>
+			<td>1. Jayden Chan (L5) <br>
+2. Tristan Yeow (L8) <br>
+3. Tay Yong Le  (L6) <br>
+4. Hoo Jia Jun (L6) <br>
+5. Tan Le Yang (L5) <br>
+6. Umar AL Faruq Bin Osman (L5) 
+
+</td>
+		</tr>
 							<tr>
 			<td>2024 World Robot Olympiad (WRO) </td>
 			<td>1. Runner Up- Overall Championship<br>2. Exploration Awards</td>
