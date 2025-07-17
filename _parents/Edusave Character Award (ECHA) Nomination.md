@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Please refer the the slides below for more details.</p>
-<p><a href="/files/For_Website__ECHA_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ECHA Nomination Proce</a>
-<a href="/files/For_Website__ECHA_2025.pdf" rel="noopener nofollow" target="_blank">filefile</a><a href="/files/For_Website__ECHA_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ss</a>
+<p><a href="/files/For_Website__ECHA_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ECHA Nomination Process</a>
 </p>
 <p></p>
 <p>Please refer to the pdf nomination form.</p>
