@@ -2,7 +2,7 @@ collections:
   news-and-highlights:
     output: true
     order:
-      - Scam Adviosry.md
+      - Scam Advisory.md
       - ADSS Awards and Achievements.md
       - Happenings at ADSS!.md
       - 2025 National Robotics Programming Competition (NRPC).md
