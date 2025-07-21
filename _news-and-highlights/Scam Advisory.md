@@ -4,14 +4,27 @@ permalink: /scam-advisory/
 variant: tiptap
 description: ""
 ---
-<h3>Scam Alert: Impersonation</h3>
-<p>We have been alerted to incidents where members of public have encountered
-unsolicited visits to their home by individuals impersonating as students
-from Admiralty Secondary School seeking donation for a fundraising programme.</p>
+<h3>Scam Alert: Impersonation for Donation</h3>
+<p>It has come to our attention that members of the public have encountered
+individuals making<strong> unsolicited visits to their homes</strong>,
+impersonating to be students from Admiralty Secondary School and soliciting
+donations for a fund-raising programme.</p>
+<p>We would like to clarify that:</p>
+<p><strong>Admiralty Secondary School is not conducting or supporting any fund-raising activities at this time.</strong>
+</p>
 <p></p>
-<p>We would like to inform that Admiralty Secondary School is currently not
-involved in any fundraising activities.</p>
 <p></p>
+<h3>Tips for Safer Giving</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Verify the fund-raising using Ministry of Culture, Community and Youth
+(MCCY) <a href="https://www.charities.gov.sg/" rel="noopener nofollow" target="_blank">Charity Portal</a>.</p>
+</li>
+<li>
+<p><a href="https://www.charities.gov.sg/Pages/Fund-Raising/Safer-Giving.aspx" rel="noopener nofollow" target="_blank">Click here</a> to
+learn more about Safer Giving.</p>
+</li>
+</ul>
 <h3>Report Incidents:</h3>
 <ul data-tight="true" class="tight">
 <li>
