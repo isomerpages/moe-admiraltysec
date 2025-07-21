@@ -10,7 +10,7 @@ individuals making<strong> unsolicited visits to their homes</strong>,
 impersonating to be students from Admiralty Secondary School and soliciting
 donations for a fund-raising programme.</p>
 <p>We would like to clarify that:
-</p><pre><strong>Admiralty Secondary School is not conducting or supporting any fund-raising activities at this time.</strong>
+</p><pre><strong>Admiralty Secondary School is not conducting or supporting any fund-raising activities at this time.</strong><p></p>
 <p></p>
 <h3>Tips for Safer Giving</h3>
 <ul data-tight="true" class="tight">
