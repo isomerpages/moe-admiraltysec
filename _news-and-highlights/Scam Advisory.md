@@ -4,13 +4,11 @@ permalink: /scam-advisory/
 variant: tiptap
 description: ""
 ---
-<h3>Scam Alert: Impersonation for Donation</h3>
+<h3>Scam Alert: Impersonation for Donations</h3>
 <p>It has come to our attention that members of the public have encountered
-individuals making<strong> unsolicited visits to their homes</strong>,
-impersonating to be students from Admiralty Secondary School and soliciting
-donations for a fund-raising programme.</p>
-<p>We would like to clarify that:
-</p><pre><strong>Admiralty Secondary School is not conducting or supporting any fund-raising activities at this time.</strong></pre>
+individuals making<strong> unsolicited visits to their homes</strong>, <strong>impersonating to be students from Admiralty Secondary School</strong> and <strong>soliciting donations</strong> for
+a fund-raising programme.</p>
+<p>We would like to clarify that:</p><pre><code>Admiralty Secondary School is not conducting or supporting any fund-raising activities at this time.</code></pre>
 <p></p>
 <p></p>
 <h3>Tips for Safer Giving</h3>
