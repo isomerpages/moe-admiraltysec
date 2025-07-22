@@ -18,6 +18,16 @@ a fund-raising programme.</p>
 (MCCY) <a href="https://www.charities.gov.sg/" rel="noopener nofollow" target="_blank">Charity Portal</a>.</p>
 </li>
 <li>
+<p><strong>Scan</strong> QR code on organisation's appeal letter carried by
+fund-raiser.</p>
+</li>
+<li>
+<p><strong>SMS</strong> FR&lt;space&gt;Organisation name to 79777</p>
+</li>
+<li>
+<p><strong>Call</strong> Charities Unit hotline at 6337 6597</p>
+</li>
+<li>
 <p><a href="https://www.charities.gov.sg/Pages/Fund-Raising/Safer-Giving.aspx" rel="noopener nofollow" target="_blank">Click here</a> to
 learn more about Safer Giving.</p>
 </li>
