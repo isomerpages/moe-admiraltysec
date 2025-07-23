@@ -551,6 +551,14 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Ng Jing Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_jing_min@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Cheok Soh Peng Jocelyn Mary (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -565,14 +573,7 @@ variant: markdown
 <p>kam_kit_yin@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Yok Ten (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Radhakrishnan N S (FAJT)</p>
@@ -587,6 +588,40 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_boon_hwee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Arasumani (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>arasumani@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Thiam Lye (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_thiam_lye@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Maizuriah Binte Mohd Yasin
+ (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>maizuriah_mohd_yasin_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Masriani Bte Mahat
+(FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>masriani_mahat@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
