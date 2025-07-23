@@ -576,7 +576,8 @@ variant: markdown
 
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Radhakrishnan N S (FAJT)</p>
+<p>Mr Narayanan S Radhakrishnan
+(FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>narayanan_s_radhakrishnan@moe.edu.sg</p>
