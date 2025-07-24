@@ -609,9 +609,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Allirani D/O Venugopal
-
- (FAJT)</p>
+<p>Ms Allirani D/O Venugopal (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:allirani_venugopal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">allirani_venugopal@moe.edu.sg</a></p><a href="mailto:allirani_venugopal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
