@@ -556,7 +556,23 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_jing_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jing_min@moe.edu.sg</a></p><a href="mailto:ng_jing_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
 </a></td>
-</tr>
+	</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kong Tze Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kong_tze_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_tze_xin@moe.edu.sg</a></p><a href="mailto:kong_tze_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
+</a></td>
+	</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gee Wai Hoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gee_wai_hoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gee_wai_hoo@moe.edu.sg</a></p><a href="mailto:gee_wai_hoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
+</a></td>
+	</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Cheok Soh Peng Jocelyn Mary (FAJT)</p>
