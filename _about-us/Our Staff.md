@@ -554,40 +554,35 @@ variant: markdown
 <p>Ms Ng Jing Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_jing_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jing_min@moe.edu.sg</a></p><a href="mailto:ng_jing_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:ng_jing_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jing_min@moe.edu.sg</a></p></td>
 	</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Kong Tze Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kong_tze_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_tze_xin@moe.edu.sg</a></p><a href="mailto:kong_tze_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:kong_tze_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_tze_xin@moe.edu.sg</a></p></td>
 	</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Gee Wai Hoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gee_wai_hoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gee_wai_hoo@moe.edu.sg</a></p><a href="mailto:gee_wai_hoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:gee_wai_hoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gee_wai_hoo@moe.edu.sg</a></p></td>
 	</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Cheok Soh Peng Jocelyn Mary (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheok_soh_peng_jocelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheok_soh_peng_jocelyn@moe.edu.sg</a></p><a href="mailto:cheok_soh_peng_jocelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:cheok_soh_peng_jocelyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheok_soh_peng_jocelyn@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Kam Kit Yin (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kam_kit_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kam_kit_yin@moe.edu.sg</a></p><a href="mailto:kam_kit_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:kam_kit_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kam_kit_yin@moe.edu.sg</a></p></td>
 </tr>
 
 <tr>
@@ -596,40 +591,36 @@ variant: markdown
 (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:narayanan_s_radhakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">narayanan_s_radhakrishnan@moe.edu.sg</a></p><a href="mailto:narayanan_s_radhakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:narayanan_s_radhakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">narayanan_s_radhakrishnan@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tay Boon Hwee (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_boon_hween@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_boon_hwee@moe.edu.sg</a></p><a href="mailto:tay_boon_hween@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:tay_boon_hween@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_boon_hwee@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Arasumani (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:arasumani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arasumani@moe.edu.sg</a></p><a href="mailto:arasumani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:arasumani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arasumani@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Thiam Lye (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_thiam_lye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_thiam_lye@moe.edu.sg</a></p><a href="mailto:ong_thiam_lye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:ong_thiam_lye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_thiam_lye@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Allirani D/O Venugopal (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:allirani_venugopal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">allirani_venugopal@moe.edu.sg</a></p><a href="mailto:allirani_venugopal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:allirani_venugopal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">allirani_venugopal@moe.edu.sg</a></p>
+	</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -637,8 +628,7 @@ variant: markdown
 (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:masriani_mahat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">masriani_mahat@moe.edu.sg</a></p><a href="mailto:masriani_mahat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:masriani_mahat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">masriani_mahat@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -646,8 +636,7 @@ variant: markdown
 (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chun_yen_daniel_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun_yen_daniel_a@moe.edu.sg</a></p><a href="mailto:lee_chun_yen_daniel_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:lee_chun_yen_daniel_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun_yen_daniel_a@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -655,8 +644,7 @@ variant: markdown
 (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rashidah_mohamad_yaakob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_mohamad_yaakob@moe.edu.sg</a></p><a href="mailto:rashidah_mohamad_yaakob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-</a></td>
+<p><a href="mailto:rashidah_mohamad_yaakob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_mohamad_yaakob@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
