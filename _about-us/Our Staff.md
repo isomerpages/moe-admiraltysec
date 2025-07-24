@@ -609,11 +609,39 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Maizuriah Binte Mohd Yasin
+<p>Ms Allirani D/O Venugopal
+
  (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maizuriah_mohd_yasin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maizuriah_mohd_yasin_a@moe.edu.sg</a></p><a href="mailto:maizuriah_mohd_yasin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
+<p><a href="mailto:allirani_venugopal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">allirani_venugopal@moe.edu.sg</a></p><a href="mailto:allirani_venugopal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
+</a></td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Masriani Bte Mahat
+(FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:masriani_mahat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">masriani_mahat@moe.edu.sg</a></p><a href="mailto:masriani_mahat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
+</a></td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Chun Yen Daniel
+(FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chun_yen_daniel_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun_yen_daniel_a@moe.edu.sg</a></p><a href="mailto:lee_chun_yen_daniel_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
+</a></td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rashidah Binte Mohamad Yaakob
+(FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rashidah_mohamad_yaakob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_mohamad_yaakob@moe.edu.sg</a></p><a href="mailto:rashidah_mohamad_yaakob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
 </a></td>
 </tr>
 <tr>
