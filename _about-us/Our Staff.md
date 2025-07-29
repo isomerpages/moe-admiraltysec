@@ -76,8 +76,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Zhuo Yan Ping
-<br><a href="" rel="noopener nofollow" target="_blank">zhuo_yanping@moe.edu.sg</a>
+<p>Mr Ong Thiam Lye
+<br><a href="" rel="noopener nofollow" target="_blank">ong_thiam_lye@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -606,13 +606,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:arasumani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arasumani@moe.edu.sg</a></p></td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Thiam Lye (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_thiam_lye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_thiam_lye@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
