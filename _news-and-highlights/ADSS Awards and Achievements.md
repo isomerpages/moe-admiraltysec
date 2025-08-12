@@ -435,6 +435,23 @@ variant: markdown
     <th style="width=20%">Awardees</th>
   </tr>
 		<tr>
+			<td>2025 Text Recital Competition (Chinese) </td>
+			<td>Bronze (Lower Sec Group)</td>
+			<td>Jenny Tan Xuan Ni (P7)<br>Ng Wing Yee (P6) </td>
+		</tr>
+				<tr>
+			<td>2025 Text Recital Competition (Chinese) </td>
+			<td>Certificate of Participation (Upper Sec Group)</td>
+			<td>Pui Yi Xuan (L7)<br>Chloe Tan Yee Shuen (L7)<br>Pan Sheng Yuan (L6)
+</td>
+		</tr>
+						<tr>
+			<td>2025 Text Recital Competition (Chinese) </td>
+			<td>Certificate of Participation (Upper Sec Individual)</td>
+			<td>Lee Ying Xuan (L7)
+</td>
+		</tr>
+		<tr>
 			<td>5th Text Recital Competition (Chinese) (2022)</td>
 			<td>Silver</td>
 			<td>Chang Si Ting Joy (P5)</td>
