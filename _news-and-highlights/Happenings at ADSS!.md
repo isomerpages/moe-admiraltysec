@@ -11,7 +11,7 @@ variant: markdown
 
 |  |  |
 | -------- | -------- | 
-|![](/images/25social65.png)|![](/images/25socia65.png)|
+|![](/images/25social65.png)|![](/images/25social66.png)|
 |![](/images/25social63.png)|![](/images/25social64.png)|
 |![](/images/25social61.png)|![](/images/25social62.png)|
 |![](/images/25social59.png)|![](/images/25social60.png)|
