@@ -180,6 +180,12 @@ variant: markdown
     <th style="width=40%">Award</th>
     <th style="width=20%">Awardees</th>
   </tr>
+		<tr>
+			<td>23rd Elementz Science Project Competition </td>
+			<td>Bronzw Award</td>
+			<td>1. Kaung Htet Zaw<br>2. Qistina Binti Zainal Abidin <br>3. Rianne Loong Xuan Ling <br>4. Safiya Anisa Binte Mohamed Razi
+</td>
+		</tr>
 				<tr>
 			<td>Robotics: First Lego League 2025 </td>
 			<td>Champion Category - Overall Championship Award, 2nd Runners Up<br>Robot Performance Category - Champion Award</td>
