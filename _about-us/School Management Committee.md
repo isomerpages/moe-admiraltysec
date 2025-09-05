@@ -83,13 +83,230 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Asistant Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nur Amalina Binte Mohamed Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_amalina_mohamed_salleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amalina_mohamed_salleh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Yee Leong Keynes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Keynes_Lee@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">keynes_lee@school.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/SDT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wang Xiang Jun Kenny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_xiang_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_xiang_jun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Diyana Binti Jumahat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:diyana_jumahat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">diyana_jumahat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Huan Bok Kelvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_huan_bok_kelvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_huan_bok_kelvin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Julianah Bte Othman (Mrs Sabar)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:julianah_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">julianah_othman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kuek May Lin Florence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Florence_Kuek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Florence_Kuek@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lau Charmaine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lau_charmaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_charmaine@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/Special Proj-K M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Phua Tian Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phua_tian_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phua_tian_peng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Subashini A/p Varlivell</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:subashini_varlivell@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">subashini_varlivell@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Chuen Wei (Mrs Goh)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chuen_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chuen_wei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/ML</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amizah Bte Mohamed Azhar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:amizah_mohamed_azhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amizah_mohamed_azhar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/Special Needs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chin Hui Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chin_hui_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_hui_jing@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH/EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Choe Kee Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choe_kee_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choe_kee_cheng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH/EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Renuka Devi d/o Raghunathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:renuka_devi_raghunathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">renuka_devi_raghunathan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH/LS Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Jia Ying Jocelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_jia_ying_jocelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jia_ying_jocelyn@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/D&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Samantha Woo Lai Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:samantha_woo_lai_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_woo_lai_yee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Peiyong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_peiyong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_peiyong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tung Cheng Boon Adrian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tung_cheng_boon_adrian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tung_cheng_boon_adrian@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
