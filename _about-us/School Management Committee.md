@@ -309,6 +309,113 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tay Kai Yun Karen (Mrs Yap)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_kai_yun_karen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kai_yun_karen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Yip Hoe Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yip_hoe_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_hoe_yin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ch'ng Hong Tatt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chng_hong_tatt@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_hong_tatt@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chong Lee Soong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_lee_soong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_lee_soong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Khoon Siong Ray</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_khoon_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_khoon_siong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nuriah Binte Mohd Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nuriah_mohd_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuriah_mohd_noor@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager (AM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeo Li Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Yeo_Li_Wen_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yeo_Li_Wen_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager (OM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Huiping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_huiping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_huiping@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager (ICT M)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Atiqah Mohd Yusoff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_atiqah_mohd_yusoff@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
