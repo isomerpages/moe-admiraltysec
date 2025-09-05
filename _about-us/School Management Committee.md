@@ -30,7 +30,8 @@ variant: tiptap
 <p>Mr Tan Kelly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_kelly@schools.gov.sg</p>
+<p><a href="tan_kelly@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_kelly@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -413,7 +414,8 @@ variant: tiptap
 <p>Nur Atiqah Mohd Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_atiqah_mohd_yusoff@schools.gov.sg</p>
+<p><a href="nur_atiqah_mohd_yusoff@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_atiqah_mohd_yusoff@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
