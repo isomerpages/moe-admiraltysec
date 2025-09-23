@@ -45,7 +45,7 @@ variant: tiptap
 <p>Mr Chan Yew Ren Eugene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VP/Academic</p>
+<p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sl_admiraltyss@schools.gov.sg</p>
@@ -56,7 +56,7 @@ variant: tiptap
 <p>Mr Tan Hock Chuan Michael</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VP/Administration</p>
+<p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sl_admiraltyss@schools.gov.sg</p>
