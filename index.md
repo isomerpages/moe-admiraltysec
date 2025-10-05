@@ -23,6 +23,15 @@ sections:
           description: ""
           url: /parents/permalink/
   - infopic:
+      title: 2025 ADSS Experience
+      id: infopic
+      description: Join us at our Open House 2025 and experience first-hand what makes
+        our school truly unique!
+      button: Click here to find out more
+      url: /2025-adss-experience/
+      image: /images/2025_ADSS_Experience_Poster__002_.png
+      alt: Image alt text
+  - infopic:
       title: 2025 NRPC
       subtitle: Calling all primary schools!
       id: infopic
@@ -70,13 +79,4 @@ sections:
       url: /social/news-and-highlights/permalink/
       alt: Image alt text
       image: /images/2023rugbybowl.jpg
-  - infopic:
-      title: 2025 ADSS Experience
-      id: infopic
-      description: Join us at our Open House 2025 and experience first-hand what makes
-        our school truly unique!
-      button: Click here to find out more
-      url: /2025-adss-experience/
-      image: /images/2025_ADSS_Experience_Poster__002_.png
-      alt: Image alt text
 ---
