@@ -74,7 +74,7 @@ sections:
       title: 2025 ADSS Experience
       id: infopic
       description: Join us at our Open House 2025 and experience first-hand what makes
-        our school truly unique.
+        our school truly unique!
       button: Click here to find out more
       url: /2025-adss-experience/
       image: /images/2025_ADSS_Experience_Poster__002_.png
