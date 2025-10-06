@@ -29,7 +29,7 @@ sections:
         our school truly unique!
       button: Click here to find out more
       url: /2025-adss-experience/
-      image: /images/2025_ADSS_Experience_Poster__002_.png
+      image: /images/2025_ADSS_Experience_Poster__002__small.png
       alt: Image alt text
   - infopic:
       title: 2024 ADSS Yearbook
