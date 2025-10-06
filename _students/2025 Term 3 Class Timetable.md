@@ -1,6 +1,6 @@
 ---
 title: 2025 Term 3 Class Timetable
-permalink: /students/permalink/
+permalink: /students/permalink/2025term3tt/
 variant: tiptap
 description: ""
 ---
