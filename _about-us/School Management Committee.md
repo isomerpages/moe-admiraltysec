@@ -188,7 +188,7 @@ variant: tiptap
 <p>Mr Wang Xiang Jun Kenny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/SM</p>
+<p>HOD/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wang_xiang_jun@moe.edu.sg</p>
