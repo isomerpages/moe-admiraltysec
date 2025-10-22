@@ -6,12 +6,6 @@ variant: tiptap
 ---
 <p>Dear Admirals,
 <br>Please find the booklists for 2026 below.</p>
-<p><strong>Sec 1 2025 Booklists:</strong>
-<br><a href="/files/S1.pdf" rel="noopener nofollow" target="_blank">1. Sec 1</a>
-<br><a href="/files/S1__G1_.pdf" rel="noopener nofollow" target="_blank">2. Sec 1 (G1)</a>
-<br><a href="/files/S1__G2_.pdf" rel="noopener nofollow" target="_blank">3. Sec 1 (G2)</a>
-<br><a href="/files/S1__G3_.pdf" rel="noopener nofollow" target="_blank">4. Sec 1 (G3)</a>
-</p>
 <p><strong>Sec 2 2026 Booklists:</strong>
 <br><a href="/files/2026/S2.pdf" rel="noopener nofollow" target="_blank">1. Sec 2</a>
 <br><a href="/files/2026/S2__G1_.pdf" rel="noopener nofollow" target="_blank">2. Sec 2 (G1)</a>
