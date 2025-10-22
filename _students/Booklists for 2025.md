@@ -19,7 +19,7 @@ variant: tiptap
 <br><a href="/files/2026/S2__G3_.pdf" rel="noopener nofollow" target="_blank">4. Sec 2 (G3)</a>
 <br>
 <br><strong>Sec 3 2026 Booklists:</strong>
-<br><a href="/files/2026/S3__G1_.pdf" rel="noopener nofollow" target="_blank">1. Sec 3</a>
+<br><a href="/files/2026/S3.pdf" rel="noopener nofollow" target="_blank">1. Sec 3</a>
 <br><a href="/files/2026/S3__G1_.pdf" rel="noopener nofollow" target="_blank">2. Sec 3 (G1)</a>
 <br><a href="/files/2026/S3__G2_.pdf" rel="noopener nofollow" target="_blank">3. Sec 3 (G2)</a>
 <br><a href="/files/2026/S3__G3_.pdf" rel="noopener nofollow" target="_blank">4. Sec 3 (G3)</a>
