@@ -1,6 +1,6 @@
 ---
 title: Booklists for 2026
-permalink: /students/booklist/
+permalink: /students/2026booklist/permalink/
 description: ""
 variant: tiptap
 ---
