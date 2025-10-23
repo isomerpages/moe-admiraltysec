@@ -2,10 +2,10 @@ collections:
   students:
     output: true
     order:
-      - 2025 Sec 1,2,3 EOY Script Checking Timetable (13 to 15 Oct).md
-      - 2025 Term 3 Class Timetable.md
-      - 2025 Student Handbook.md
-      - Start Right Day 2024.md
       - Booklists for 2026.md
       - Addylink (Students).md
+      - 2025 Student Handbook.md
       - Library OPAC.md
+      - 2025 Sec 1,2,3 EOY Script Checking Timetable (13 to 15 Oct).md
+      - 2025 Term 3 Class Timetable.md
+      - Start Right Day 2024.md
