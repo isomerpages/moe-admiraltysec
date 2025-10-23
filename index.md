@@ -18,7 +18,7 @@ sections:
           url: /awards/news-and-highlights/permalink/
         - title: Students
           description: ""
-          url: /students/permalink/
+          url: /students/2026booklist/permalink/
         - title: Parents
           description: ""
           url: /parents/permalink/
