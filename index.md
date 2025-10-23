@@ -18,7 +18,7 @@ sections:
           url: /awards/news-and-highlights/permalink/
         - title: Students
           description: ""
-          url: /students/permalink/
+          url: https://www.admiraltysec.moe.edu.sg/students/
         - title: Parents
           description: ""
           url: /parents/permalink/
