@@ -182,7 +182,7 @@ variant: markdown
   </tr>
 		<tr>
 			<td>23rd Elementz Science Project Competition </td>
-			<td>Bronzw Award</td>
+			<td>Bronze Award</td>
 			<td>1. Kaung Htet Zaw<br>2. Qistina Binti Zainal Abidin <br>3. Rianne Loong Xuan Ling <br>4. Safiya Anisa Binte Mohamed Razi
 </td>
 		</tr>
