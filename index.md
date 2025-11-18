@@ -22,6 +22,13 @@ sections:
         - title: Parents
           description: ""
           url: /parents/permalink/
+  - infobar:
+      title: Booklists for 2026
+      subtitle: Notification
+      id: infobar
+      description: "To view the booklists for 2026, please click the hyperlink below:"
+      button: Booklists for 2026
+      url: https://www.admiraltysec.moe.edu.sg/students/2026booklist/permalink/
   - infopic:
       title: 2025 ADSS Experience
       id: infopic
