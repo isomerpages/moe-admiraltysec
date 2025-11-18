@@ -32,13 +32,13 @@ sections:
       image: /images/Open_House_Poster_IG.png
       alt: Image alt text
   - infopic:
-      title: 2024 ADSS Yearbook
+      title: 2025 ADSS Yearbook
       subtitle: News and highlights
       id: infopic
       button: Click to view the Yearbook
-      url: https://issuu.com/avantgardemediaarts/docs/admiralty_secondary_school_-_yearbook_2024_pages?fr=sODRmZjY0MDU0OTI
+      url: https://drive.google.com/file/d/1CnMjU-XtMXIr8dtFGh2-SrpAQO9Ynd04/view?usp=drive_link
       alt: Image alt text
-      image: /images/2024ADSSYearbook.png
+      image: /images/2025_Yearbook_cover.png
   - infopic:
       title: ADSS
       image: /images/2023rugbyaward.jpg
