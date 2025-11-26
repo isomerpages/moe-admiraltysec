@@ -243,7 +243,7 @@ variant: tiptap
 <p>Mdm Nur Amalina Binte Mohamed Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asistant Year Head (Lower Sec)</p>
+<p>Assistant Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_amalina_mohamed_salleh@moe.edu.sg</p>
