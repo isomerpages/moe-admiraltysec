@@ -2,6 +2,7 @@ collections:
   sec-1-registration-2026:
     output: true
     order:
+      - Orientation Week/Secondary 1 Orientation Programme.md
       - Orientation Week/Reporting Details for First Day of School.md
       - Orientation Week/.keep
       - Reporting details/.keep
