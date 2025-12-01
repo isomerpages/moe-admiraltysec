@@ -32,8 +32,7 @@ to the broad programme outline below. Academic lessons will commence on <strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan 2026&nbsp;&nbsp;</p>
-<p>(Fri)&nbsp;</p>
+<p>2 Jan 2026 (Fri)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 a.m.&nbsp;</p>
@@ -160,8 +159,7 @@ to the broad programme outline below. Academic lessons will commence on <strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Jan 2026&nbsp;</p>
-<p>(Thur)&nbsp;</p>
+<p>6 Jan 2026 (Thur)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 a.m.&nbsp;</p>
