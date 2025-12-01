@@ -2,9 +2,15 @@ collections:
   sec-1-registration-2026:
     output: true
     order:
+      - Orientation Week/.keep
+      - Orientation Week/Reporting Details for First Day of School.md
+      - Orientation Week/Secondary 1 Orientation Programme.md
+      - Orientation Week/Parents' Breakfast with School Leaders.md
+      - Orientation Week/Meet the Parent Session.md
+      - Reporting details/.keep
       - 2026 Sec 1 Registration Announcement.md
       - Welcome Message by Principal.md
-      - Administration Information by Assistant Year Head (AYH) Sec 1.md
+      - Administration Information.md
       - Prep for the 1st Day of School/.keep
       - Prep for the 1st Day of School/Textbooks and Uniforms.md
       - Prep for the 1st Day of School/Getting To ADSS.md
