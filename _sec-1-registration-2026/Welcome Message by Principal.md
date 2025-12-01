@@ -6,6 +6,8 @@ description: ""
 ---
 #### **Welcome Message by Principal**
 
+https://youtu.be/JfdkPlT3JGE?si=FY2b5Jjh6muqtbAw
+
 Welcome, Admirals! Your incredible journey towards your dreams starts right here, right now!
 
 Each of you is a unique star in our constellation, and we've crafted an exciting array of academic and co-curricular adventures to equip you with the skills and knowledge you'll need to reach for the stars. Get ready to shine!
