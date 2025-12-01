@@ -2,11 +2,11 @@ collections:
   sec-1-registration-2026:
     output: true
     order:
-      - Orientation Week/Meet the Parent Session.md
-      - Orientation Week/Parents' Breakfast with School Leaders.md
-      - Orientation Week/Secondary 1 Orientation Programme.md
-      - Orientation Week/Reporting Details for First Day of School.md
       - Orientation Week/.keep
+      - Orientation Week/Reporting Details for First Day of School.md
+      - Orientation Week/Secondary 1 Orientation Programme.md
+      - Orientation Week/Parents' Breakfast with School Leaders.md
+      - Orientation Week/Meet the Parent Session.md
       - Reporting details/.keep
       - 2026 Sec 1 Registration Announcement.md
       - Welcome Message by Principal.md
