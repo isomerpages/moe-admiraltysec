@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Prep for the 1st Day of School
 ---
-<h4><strong>School Gate Operating Hour</strong></h4>
+<h4><strong>School Gate Operating Hours</strong></h4>
 <p>ADSS has four school gates.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_01_124034.png">
