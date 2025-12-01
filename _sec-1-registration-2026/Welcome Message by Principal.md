@@ -27,3 +27,5 @@ Full steam ahead, Admirals!
 Mr Tan Kelly
 <br>
 Principal
+
+#### **Welcome Message by Student Council President**
