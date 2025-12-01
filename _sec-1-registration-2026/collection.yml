@@ -2,13 +2,13 @@ collections:
   sec-1-registration-2026:
     output: true
     order:
-      - 2025 Sec 1 Registration Announcement.md
+      - 2026 Sec 1 Registration Announcement.md
       - Welcome Message by Principal.md
       - Administration Information by Assistant Year Head (AYH) Sec 1.md
-      - Personalised Digital Learning Programme by HOD ICT.md
       - Prep for the 1st Day of School/.keep
       - Prep for the 1st Day of School/Textbooks and Uniforms.md
       - Prep for the 1st Day of School/Getting To ADSS.md
+      - Prep for the 1st Day of School/School Gate Operating Hours.md
       - First Day of School/.keep
       - First Day of School/Reporting Details.md
       - First Day of School/Secondary 1 Orientation Programme 2025.md
@@ -16,6 +16,7 @@ collections:
       - First Day of School/General Timetable Structure.md
       - First Day of School/Co Curricular Activities.md
       - "First Day of School/School Smart Card: EZ Link card.md"
+      - Personalised Digital Learning Programme by HOD ICT.md
       - Staff Information/.keep
       - Staff Information/School Management Committee.md
       - Staff Information/Form Teachers.md

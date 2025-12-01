@@ -7,24 +7,17 @@ third_nav_title: Prep for the 1st Day of School
 ---
 #### **Getting to ADSS**
 
-**Address:** 31 Woodlands Crescent, Singapore 737916
+ADSS is located at **31 Woodlands Crescent, Singapore 737916**
 <br>
-**Tel:** 6365 1733
-<br>
-**Fax:** 6365 2774  
-**Email:** [admiralty\_ss@moe.edu.sg](mailto:admiralty_ss@moe.edu.sg)
-<br>
-Any parent/guardian visiting the school is to report to the Security Counter to obtain a visitor’s sticker, before proceeding to the General Office.
 ![Getting to ADSS](/images/Getting_to_ADSS.png)
 <br>
-**BY MRT**
+**By MRT**
 <br>
-Admiralty MRT Station (North-South Line) followed by a 10 – 15 minute walk.
+*   Take a train to Admiralty MRT Station (North-South Line).&nbsp;&nbsp;
+*   Take a 15-minute walk to ADSS via Woodlands Ave 7, Woodlands Drive 72 and Woodlands Crescent.
 
-**BY BUS**
+**By Bus**
 <br>
-Bus stop **1**, across the school’s main gate is served by bus service 904.
-<br>
-Bus stop **2**, at Woodsvale Condominium is served by bus services 962, 965 and 969. This is followed by a 5-10 minute walk to ADSS through the school’s main gate.
-<br>
-Bus stop **3**, across Woodlands Mart (Block 786A) is served by bus services 913 and 964. This is followed by a 10 minute walk to ADSS.
+*   Take 904 to **Bus stop 1**, which is across the school’s main gate. Cross the road at the traffic crossing to enter ADSS.&nbsp;
+*   Take 962, 965 or 969 to **Bus stop 2** at Woodsvale Condominium. Take a 10-minute walk to ADSS via Woodlands Drive 72 and Woodlands Crescent.&nbsp;&nbsp;
+*   Take 913 or 964 to **Bus stop 3**, which is across Woodlands Mart (Block 786A). Take a 10-minute walk to ADSS via Woodlands Crescent.
