@@ -5,10 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Prep for the 1st Day of School
 ---
-<p>#### <strong>School Gate Operating Hour</strong>
-</p>
-<p>
-<br>ADSS has four school gates.</p>
+<h4><strong>School Gate Operating Hour</strong></h4>
+<p>ADSS has four school gates.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_01_124034.png">
 </div>
@@ -39,8 +37,7 @@ third_nav_title: Prep for the 1st Day of School
 <br>(For vehicular entry)&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>
-<br><u>During school term&nbsp;</u>&nbsp;
+<p><u>During school term&nbsp;</u>&nbsp;
 <br>0600 hrs to 1830 hrs&nbsp;&nbsp;</p>
 </td>
 </tr>
@@ -77,7 +74,6 @@ pedestrian crossing&nbsp;
 <p>Friday:&nbsp;
 <br>0700 hrs to 0755 hrs
 <br>1240 hrs to 1325 hrs&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -95,8 +91,7 @@ pedestrian crossing&nbsp;
 <br>
 </p>
 <p>Friday:&nbsp;
-<br>1240 hrs to 1830 hrs&nbsp;</p>
-<p>&nbsp;</p>
+<br>1240 hrs to 1830 hrs</p>
 </td>
 </tr>
 </tbody>
