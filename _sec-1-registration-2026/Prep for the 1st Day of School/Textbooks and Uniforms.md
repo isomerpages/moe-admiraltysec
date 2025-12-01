@@ -25,19 +25,21 @@ at more demanding levels.&nbsp;</p>
 information on student finance is available <u>&lt;insert link to 6.5&gt;</u>.&nbsp;</p>
 </li>
 </ul>
-<p><strong><u>Textbooks</u></strong>&nbsp;</p>
-<p><strong>Payment mode</strong>: Cash, Visa / Mastercard, Debit card, Paylah
-and Paynow&nbsp;</p>
-<p><strong>Vendor: </strong>Pacific Bookstores Pte. Ltd.&nbsp;</p>
-<p><strong>Tel: </strong>6559 2269 <strong>Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank"><u>sales@pacificbookstores.com</u></a></strong>&nbsp;</p>
-<p><strong>Website: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank"><u>www.pacificbookstores.com</u></a> </strong>(An
-account is needed for online purchases.)&nbsp;</p>
-<p>To minimise waiting time and avoid crowd, <strong>you are encouraged to purchase textbooks online.</strong> Online
+<p><strong><u>Textbooks</u></strong>&nbsp;
+<br><strong>Payment mode</strong>: Cash, Visa / Mastercard, Debit card, Paylah
+and Paynow&nbsp;
+<br><strong>Vendor: </strong>Pacific Bookstores Pte. Ltd.
+<br><strong>Tel: </strong>6559 2269 <strong>Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank"><u>sales@pacificbookstores.com</u></a></strong>
+<br><strong>Website: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank"><u>www.pacificbookstores.com</u></a> </strong>(An
+account is needed for online purchases.)
+<br>
+<br>To minimise waiting time and avoid crowd, <strong>you are encouraged to purchase textbooks online.</strong> Online
 purchase is available until <strong><u>24 December 2024</u></strong>. You
 may opt for home-delivery (delivery fee applies) or collection at the school
 bookshop. You may choose the delivery or collection date upon purchase
-of textbooks online.&nbsp;&nbsp;</p>
-<p>Textbooks can still be purchased from the bookshop during the first week
+of textbooks online.
+<br>
+<br>Textbooks can still be purchased from the bookshop during the first week
 of school.&nbsp;&nbsp;</p>
 <h5><strong>Booklists for Sec 1s 2025</strong></h5>
 <p><a href="/files/S1__G1_.pdf" rel="noopener nofollow" target="_blank">1. Sec 1 (G1) 2025</a>
@@ -57,14 +59,16 @@ of school.&nbsp;&nbsp;</p>
 for exchange. For exchanges, do so at the school bookshop within 1 week
 of purchase with the school’s booklist and official receipt and note that
 items to be exchanged are in original condition. All items purchased are
-non-refundable.&nbsp;&nbsp;</p>
+non-refundable.&nbsp;
+<br>
+<br>
+</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong><u>School Uniforms</u></strong>&nbsp;</p>
-<p><strong>Payment mode</strong>: Cash / Paynow&nbsp;</p>
-<p><strong>Vendor:</strong> myuniform SHOP&nbsp;</p>
-<p><strong>Tel:</strong> 6276 6689 <strong>Website:</strong>  <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank"><u>www.myuniformshop.com.sg</u></a><u>&nbsp;</u>&nbsp;</p>
+<p><strong><u>School Uniforms</u></strong>
+<br><strong>Payment mode</strong>: Cash / Paynow
+<br><strong>Vendor:</strong> myuniform SHOP
+<br><strong>Tel:</strong> 6276 6689 <strong>Website:</strong>  <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank"><u>www.myuniformshop.com.sg</u></a><u>&nbsp;</u>&nbsp;</p>
 <p><strong>Please note the following</strong>:&nbsp;</p>
 <ul>
 <li>
