@@ -6,7 +6,7 @@ description: ""
 ---
 #### **Welcome Message by Principal**
 
-https://youtu.be/JfdkPlT3JGE?si=FY2b5Jjh6muqtbAw
+`<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://youtu.be/JfdkPlT3JGE?si=FY2b5Jjh6muqtbAw"></iframe>`
 
 Welcome, Admirals! Your incredible journey towards your dreams starts right here, right now!
 
