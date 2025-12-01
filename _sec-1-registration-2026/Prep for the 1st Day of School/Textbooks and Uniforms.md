@@ -68,7 +68,8 @@ non-refundable.&nbsp;
 <p><strong><u>School Uniforms</u></strong>
 <br><strong>Payment mode</strong>: Cash / Paynow
 <br><strong>Vendor:</strong> myuniform SHOP
-<br><strong>Tel:</strong> 6276 6689 <strong>Website:</strong>  <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank"><u>www.myuniformshop.com.sg</u></a><u>&nbsp;</u>&nbsp;</p>
+<br><strong>Tel:</strong> 6276 6689
+<br><strong>Website:</strong>  <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank"><u>www.myuniformshop.com.sg</u></a><u>&nbsp;</u>&nbsp;</p>
 <p><strong>Please note the following</strong>:&nbsp;</p>
 <ul>
 <li>
