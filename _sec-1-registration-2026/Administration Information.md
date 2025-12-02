@@ -57,8 +57,7 @@ and (ii) Meet-the-Parents session&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Purchase books and uniform <u>after </u>checking subject allocations (&lt;insert
-link to 4.1 at ‘books and uniform’&gt;&nbsp;</p>
+<p>Purchase books and uniform <u>after </u>checking subject allocations here.&nbsp;</p>
 </li>
 </ul>
 <ul>
