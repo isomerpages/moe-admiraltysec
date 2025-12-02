@@ -63,8 +63,8 @@ and (ii) Meet-the-Parents session&nbsp;</p>
 </ul>
 <ul>
 <li>
-<p>Familiarise your child with route to school (&lt;insert link to 4.2 and
-4.3 at ‘route to school’&gt;&nbsp;</p>
+<p>Familiarise your child with route to school <a href="/sec-1-registration-2023/prep-for-the-1st-day-of-school/getting-to-adss/" rel="noopener nofollow" target="_blank">here</a> and
+<a href="https://admiraltysec.moe.edu.sg/school-gate-operating-hours/" rel="noopener nofollow" target="_blank">the school gate operating hours</a>.&nbsp;</p>
 </li>
 </ul>
 </td>
