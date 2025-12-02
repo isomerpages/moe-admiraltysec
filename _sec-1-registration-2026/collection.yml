@@ -2,10 +2,6 @@ collections:
   sec-1-registration-2026:
     output: true
     order:
-      - Frequently Asked Questions (FAQs).md
-      - Staff Information/.keep
-      - Staff Information/School Management Committee.md
-      - Staff Information/Form Teachers.md
       - 2026 Sec 1 Registration Announcement.md
       - Welcome Message by Principal.md
       - Administration Information.md
@@ -26,6 +22,10 @@ collections:
       - Key Info for Sec 1 & Parents/Student Finance.md
       - "Key Info for Sec 1 & Parents/School Smart Card: EZ Link Card.md"
       - Key Info for Sec 1 & Parents/Parent Support Group (PSG).md
+      - Staff Information/.keep
+      - Staff Information/School Management Committee.md
+      - Staff Information/Form Teachers.md
+      - Frequently Asked Questions (FAQs).md
       - Staff Information 2025/.keep
       - Staff Information 2025/School Management Committee.md
       - Staff Information 2025/Form Teachers.md
