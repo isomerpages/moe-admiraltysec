@@ -2,6 +2,7 @@ collections:
   sec-1-registration-2026:
     output: true
     order:
+      - Staff Information/School Management Committee.md
       - Staff Information/Form Teachers.md
       - Staff Information/.keep
       - 2026 Sec 1 Registration Announcement.md
