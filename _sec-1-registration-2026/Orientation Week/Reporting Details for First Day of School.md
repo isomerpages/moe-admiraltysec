@@ -18,7 +18,7 @@ of school, can report in their primary school uniform. Please see <a href="https
 more information on expected attire.
 <br>
 <br><strong>Parents are invited to attend the Parents’ Breakfast with School Leaders on 2 Jan at 7.45 a.m.. </strong>More
-information may be found at &lt;insert link to 5.3&gt;&nbsp;
+information may be found at <a href="https://admiraltysec.moe.edu.sg/parents-breakfast-with-school-leaders/" rel="noopener nofollow" target="_blank">here</a>.
 <br>
 <br><strong>Packing list for our new Admirals</strong>
 <br>1. Water bottle
