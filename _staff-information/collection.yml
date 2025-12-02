@@ -1,4 +1,5 @@
 collections:
   staff-information:
     output: true
-    order: []
+    order:
+      - School Management Committee/.keep
