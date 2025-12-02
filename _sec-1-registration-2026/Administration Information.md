@@ -116,7 +116,8 @@ more information)</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Meet our staff on 9 Jan at 5.00 p.m. (click here for more information)</p>
+<p>Meet our staff on 9 Jan at 5.00 p.m. (click <a href="https://admiraltysec.moe.edu.sg/meet-the-parent-session/" rel="noopener nofollow" target="_blank">here</a> for
+more information)</p>
 </li>
 </ul>
 </td>
