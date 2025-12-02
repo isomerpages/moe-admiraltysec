@@ -3,7 +3,7 @@ title: Meet The Parent Session 2025
 permalink: /sec-1-registration-2023/first-day-of-school/sec1-mps-2024/
 variant: tiptap
 description: ""
-third_nav_title: First Day of School
+third_nav_title: First Day of School 2025
 ---
 <h4><strong>Meet The Parent Session for Secondary 1 Students</strong></h4>
 <p><strong>Date:</strong> 17 Jan 2025, Friday

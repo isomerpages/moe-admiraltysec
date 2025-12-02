@@ -1,5 +1,5 @@
 ---
-title: Personalised Digital Learning Programme by HOD ICT
+title: Personalised Digital Learning Programme by HOD ICT 2025
 permalink: /sec-1-registration-2025/welcome-and-introduction/pdlp-hodict/
 variant: tiptap
 description: ""

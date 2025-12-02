@@ -3,7 +3,7 @@ title: Co Curricular Activities
 permalink: /sec-1-registration-2023/first-day-of-school/cca/
 variant: markdown
 description: ""
-third_nav_title: First Day of School
+third_nav_title: First Day of School 2025
 ---
 #### **Co-curricular Activities (CCAs) Offered**
 

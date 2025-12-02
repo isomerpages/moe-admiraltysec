@@ -3,7 +3,7 @@ title: Reporting Details
 permalink: /sec-1-registration-2023/first-day-of-school/reporting-details/
 variant: markdown
 description: ""
-third_nav_title: First Day of School
+third_nav_title: First Day of School 2025
 ---
 #### **Reporting Details on the First Day of School**
 

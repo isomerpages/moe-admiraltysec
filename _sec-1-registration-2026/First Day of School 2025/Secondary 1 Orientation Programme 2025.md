@@ -3,7 +3,7 @@ title: Secondary 1 Orientation Programme 2025
 permalink: /secondary-1-orientation-programme-2025/
 variant: tiptap
 description: ""
-third_nav_title: First Day of School
+third_nav_title: First Day of School 2025
 ---
 <p>The Sec 1 Journey will start with the Orientation Programme. Please refer
 to the<strong> <a href="/files/Sec_1_Orientation_2025_schedule__student__as_of_18_Dec.pdf" rel="noopener nofollow" target="_blank">document</a></strong> for
