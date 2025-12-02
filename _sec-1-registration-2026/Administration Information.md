@@ -115,8 +115,7 @@ more information)&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Meet our staff on 9 Jan at 5.00 p.m. &lt;insert link to 5.4 at ‘meet our
-staff’&gt;&nbsp;</p>
+<p>Meet our staff on 9 Jan at 5.00 p.m. (click here for more information)</p>
 </li>
 </ul>
 </td>
