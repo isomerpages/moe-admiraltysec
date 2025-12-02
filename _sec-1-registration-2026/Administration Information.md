@@ -57,7 +57,8 @@ and (ii) Meet-the-Parents session&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Purchase books and uniform <u>after </u>checking subject allocations here.&nbsp;</p>
+<p>Purchase books and uniform <u>after </u>checking subject allocations
+<a href="/sec-1-registration-2023/prep-for-the-1st-day-of-school/textbooks-and-uniform/" rel="noopener nofollow" target="_blank">here</a>.&nbsp;</p>
 </li>
 </ul>
 <ul>
