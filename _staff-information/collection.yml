@@ -2,4 +2,4 @@ collections:
   staff-information:
     output: true
     order:
-      - School Management Committee/.keep
+      - Staff Information/.keep
