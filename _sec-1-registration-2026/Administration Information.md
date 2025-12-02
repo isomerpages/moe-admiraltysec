@@ -79,14 +79,14 @@ and (ii) Meet-the-Parents session&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Report to ADSS on 2 Jan at 7.30 a.m. (&lt;insert link to 5.1 at ‘report
-to ADSS&gt;&nbsp;&nbsp;</p>
+<p>Report to ADSS on 2 Jan at 7.30 a.m. (click <a href="https://admiraltysec.moe.edu.sg/reporting-details-for-first-day-of-school/" rel="noopener nofollow" target="_blank">here</a> for
+more information)&nbsp;&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p>Note reporting and dismissal times for Orientation week &lt;insert link
-to 5.2 at ‘reporting and dismissal times’&gt;&nbsp;</p>
+<p>Note reporting and dismissal times for Orientation week here &lt;insert
+link to 5.2 at ‘reporting and dismissal times’&gt;&nbsp;</p>
 </li>
 </ul>
 </td>
