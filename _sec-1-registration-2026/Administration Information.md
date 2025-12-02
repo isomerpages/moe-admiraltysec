@@ -100,7 +100,8 @@ more information)&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Meet our school leaders on 2 Jan at 7.45 a.m. (click here for more information)</p>
+<p>Meet our school leaders on 2 Jan at 7.45 a.m. (click <a href="https://admiraltysec.moe.edu.sg/parents-breakfast-with-school-leaders/" rel="noopener nofollow" target="_blank">here</a> for
+more information)</p>
 </li>
 </ul>
 </td>
