@@ -85,8 +85,7 @@ more information)&nbsp;&nbsp;</p>
 </ul>
 <ul>
 <li>
-<p>Note reporting and dismissal times for Orientation week here &lt;insert
-link to 5.2 at ‘reporting and dismissal times’&gt;&nbsp;</p>
+<p>Note reporting and dismissal times for Orientation week <a href="https://admiraltysec.moe.edu.sg/secondary-1-orientation-programme/" rel="noopener nofollow" target="_blank">here</a>&nbsp;</p>
 </li>
 </ul>
 </td>
@@ -101,8 +100,7 @@ link to 5.2 at ‘reporting and dismissal times’&gt;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Meet our school leaders on 2 Jan at 7.45 a.m. &lt;insert link to 5.3 at
-‘meet our school leaders’&gt;&nbsp;</p>
+<p>Meet our school leaders on 2 Jan at 7.45 a.m. (click here for more information)</p>
 </li>
 </ul>
 </td>
