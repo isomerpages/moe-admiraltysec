@@ -2,9 +2,9 @@ collections:
   sec-1-registration-2026:
     output: true
     order:
-      - Key Info for Sec 1 & Parents/Timetable Structure.md
-      - Key Info for Sec 1 & Parents/Full Subject Based Banding.md
       - Key Info for Sec 1 & Parents/.keep
+      - Key Info for Sec 1 & Parents/Full Subject Based Banding.md
+      - Key Info for Sec 1 & Parents/Timetable Structure.md
       - 2026 Sec 1 Registration Announcement.md
       - Welcome Message by Principal.md
       - Administration Information.md
