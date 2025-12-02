@@ -2,6 +2,7 @@ collections:
   sec-1-registration-2026:
     output: true
     order:
+      - Key Info for Sec 1 & Parents/Parent Support Group (PSG).md
       - "Key Info for Sec 1 & Parents/School Smart Card: EZ Link Card.md"
       - Key Info for Sec 1 & Parents/Student Finance.md
       - Key Info for Sec 1 & Parents/Personalised Digital Learning Programme.md
