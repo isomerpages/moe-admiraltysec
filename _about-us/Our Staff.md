@@ -106,8 +106,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Xu Ping
-<br><a href="" rel="noopener nofollow" target="_blank">xu_ping@moe.edu.sg</a>
+<p>Mdm Cheok Soh Peng Jocelyn
+<br><a href="" rel="noopener nofollow" target="_blank">cheok_soh_peng_jocelyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -116,13 +116,13 @@ variant: markdown
 <p>Orion 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ming Hui
-<br><a href="" rel="noopener nofollow" target="_blank">tan_ming_hui_1@moe.edu.sg</a>
+<p>Mr Ch'ng Hong Tatt
+<br><a href="" rel="noopener nofollow" target="_blank">chng_hong_tatt@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Marlinda Bte Aziz
-<br><a href="" rel="noopener nofollow" target="_blank">Nur_Marlinda_Aziz@moe.edu.sg</a>
+<p>Mdm Lim Ching Ching
+<br><a href="" rel="noopener nofollow" target="_blank">lim_ching_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
