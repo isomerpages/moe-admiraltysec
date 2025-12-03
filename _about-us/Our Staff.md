@@ -28,13 +28,13 @@ variant: markdown
 <p>Orion 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thein Ying Jie Elena
-<br><a href="mailto:thein_ying_jie_elena@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thien_ying_jie_elena@moe.edu.sg</a>
+<p>Ms Nuriah Binte Mohd Noor
+<br><a href="mailto:nuriah_mohd_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuriah_mohd_noor@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zhang Zilong
-	<br><a href="mailto:zhang_zilong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_zilong@moe.edu.sg</a></p>
+<p>Mr Ren Wong Zhong You
+	<br><a href="mailto:ren_wong_zhong_you@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ren_wong_zhong_you@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -42,13 +42,13 @@ variant: markdown
 <p>Orion 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ngoi Sheau Neng
-<br><a href="" rel="noopener nofollow" target="_blank">ngoi_sheau_neng@moe.edu.sg</a>
+<p>Ms Amelia Choo Shu Xian
+<br><a href="" rel="noopener nofollow" target="_blank">amelia_choo_shu_xian@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Arun Vasudev Krishnan
-<br><a href="" rel="noopener nofollow" target="_blank">arun_vasudev_krishnan@moe.edu.sg</a>
+<p>Mdm Koh Yin
+<br><a href="" rel="noopener nofollow" target="_blank">yin_koh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -57,13 +57,13 @@ variant: markdown
 <p>Orion 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Khoon Siong Ray
-<br><a href="" rel="noopener nofollow" target="_blank">chua_khoon_siong@moe.edu.sg</a>
+<p>Mdm Vanitha Govallau
+<br><a href="" rel="noopener nofollow" target="_blank">vanitha_govallau@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shariffah Nadhirah Binte Bagal
-	<br><a href="mailto:shariffah_nadhirah_bagal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariffah_nadhirah_bagal@moe.edu.sg</a></p>
+<p>Mr Tang Zhi Ming
+	<br><a href="mailto:tang_zhi_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_zhi_ming@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -71,13 +71,13 @@ variant: markdown
 <p>Orion 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kasturi Kulantayan
-<br><a href="mailto:kasturi_kulantayan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kasturi_kulantayan@moe.edu.sg</a>
+<p>Ms Nge Hui Peng
+<br><a href="mailto:nge_hui_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nge_hui_peng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Thiam Lye
-<br><a href="" rel="noopener nofollow" target="_blank">ong_thiam_lye@moe.edu.sg</a>
+<p>Ms Audrey Goh Xin Yun
+<br><a href="" rel="noopener nofollow" target="_blank">goh_xin_yun_audrey@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -86,13 +86,13 @@ variant: markdown
 <p>Orion 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Minyi Jamie
-<br><a href="" rel="noopener nofollow" target="_blank">ong_minyi_jamie@moe.edu.sg</a>
+<p>Ms Mok Kaie See
+<br><a href="" rel="noopener nofollow" target="_blank">mok_kaie_see@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jacqueline Lim Sok Hian
-<br><a href="" rel="noopener nofollow" target="_blank">lim_sok_hian@moe.edu.sg</a>
+<p>
+<br><a href="" rel="noopener nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
@@ -101,8 +101,8 @@ variant: markdown
 <p>Orion 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tamil Selvi d/o Ramanujam
-<br><a href="" rel="noopener nofollow" target="_blank">tamil_selvi_ramanujam@moe.edu.sg</a>
+<p>Mr Chong Lee Soong
+<br><a href="" rel="noopener nofollow" target="_blank">chong_lee_soong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
