@@ -22,7 +22,7 @@ at more demanding levels.&nbsp;</p>
 <ul>
 <li>
 <p><strong>Parents / students who intend to apply for the MOE Financial Assistance Scheme or School-Based Financial Assistance Scheme should wait for the confirmation of FAS status before purchasing any books or uniform.</strong> More
-information on student finance is available <u>&lt;insert link to 6.5&gt;</u>.&nbsp;</p>
+information on student finance is available <a href="https://www.admiraltysec.moe.edu.sg/student-finance/" rel="noopener nofollow" target="_blank">here</a>.&nbsp;</p>
 </li>
 </ul>
 <p><strong><u>Textbooks</u></strong>&nbsp;
