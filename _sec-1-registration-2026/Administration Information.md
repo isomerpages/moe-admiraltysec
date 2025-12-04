@@ -57,8 +57,8 @@ and (ii) Meet-the-Parents session&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Purchase books and uniform <u>after </u>checking subject allocations
-<a href="/sec-1-registration-2023/prep-for-the-1st-day-of-school/textbooks-and-uniform/" rel="noopener nofollow" target="_blank">here</a>.&nbsp;</p>
+<p>Purchase <a href="https://admiraltysec.moe.edu.sg/sec-1-registration-2023/prep-for-the-1st-day-of-school/textbooks-and-uniform/" rel="noopener nofollow" target="_blank">books and uniform</a>  <u>after </u>checking
+subject allocations</p>
 </li>
 </ul>
 <ul>
