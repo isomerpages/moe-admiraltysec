@@ -63,8 +63,8 @@ subject allocations</p>
 </ul>
 <ul>
 <li>
-<p>Familiarise your child with route to school <a href="/sec-1-registration-2023/prep-for-the-1st-day-of-school/getting-to-adss/" rel="noopener nofollow" target="_blank">here</a> and
-<a href="https://admiraltysec.moe.edu.sg/school-gate-operating-hours/" rel="noopener nofollow" target="_blank">the school gate operating hours</a>.&nbsp;</p>
+<p>Familiarise your child with <a href="https://www.admiraltysec.moe.edu.sg/sec-1-registration-2023/prep-for-the-1st-day-of-school/getting-to-adss/" rel="noopener nofollow" target="_blank">route to school</a> and
+<a href="https://www.admiraltysec.moe.edu.sg/school-gate-operating-hours/" rel="noopener nofollow" target="_blank">the school gate operating hours</a>.&nbsp;</p>
 </li>
 </ul>
 </td>
