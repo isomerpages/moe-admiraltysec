@@ -34,7 +34,7 @@ third_nav_title: Staff Information 2025
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zhang Zilong</p>
+<p>Mr Zhang Zilong.</p>
 </td>
 </tr>
 <tr>
