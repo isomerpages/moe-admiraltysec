@@ -49,21 +49,26 @@ are required to purchase the same device bundle at ADSS, as per MOE guidelines.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 1 MPS 9 Jan 2026 (Fri)</strong>&nbsp;</p>
+<p><strong>2 Jan 2026 (Fri)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>There will be a briefing on PDLP matters during the Sec 1 Meet the Parents
 Session.&nbsp;</p>
+<p></p>
+<p>Parents would receive a letter on 2 Jan 2026 about the purchase of PLDs
+from the school via Parents’ Gateway (PG) or hardcopy through the Form
+Teachers (for parents not yet onboard PG)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 Jan 2026 (Fri)</strong>&nbsp;</p>
+<p><strong>Sec 1 Meet-the-Parents Session: 9 Jan 2026 (Fri)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents would receive a letter on 2 Jan 2026 about the purchase of PLDs
-from the school via Parents’ Gateway (PG) or hardcopy through the Form
-Teachers (for parents not yet onboard PG)</p>
+<p>There will be a briefing on PDLP matters during the Sec 1 Meet the Parents
+Session.</p>
 </td>
 </tr>
 <tr>
