@@ -34,8 +34,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Access Parents Gateway for information on class and subject allocations
-(&lt;insert link to 6.1 at ‘subject allocations’&gt;)&nbsp;</p>
+<p>Access Parents Gateway for information on class and <a href="https://admiraltysec.moe.edu.sg/full-subject-based-banding/" rel="noopener nofollow" target="_blank">subject allocation</a>
+</p>
 </li>
 </ul>
 <ul>
