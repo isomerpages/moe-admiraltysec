@@ -22,7 +22,7 @@ at more demanding levels.&nbsp;</p>
 <ul>
 <li>
 <p><strong>Parents / students who intend to apply for the MOE Financial Assistance Scheme or School-Based Financial Assistance Scheme should wait for the confirmation of FAS status before purchasing any books or uniform.</strong> More
-information on student finance is available <u>&lt;insert link to 6.5&gt;</u>.&nbsp;</p>
+information on student finance is available <a href="https://www.admiraltysec.moe.edu.sg/student-finance/" rel="noopener nofollow" target="_blank">here</a>.&nbsp;</p>
 </li>
 </ul>
 <p><strong><u>Textbooks</u></strong>&nbsp;
@@ -34,7 +34,7 @@ and Paynow&nbsp;
 account is needed for online purchases.)
 <br>
 <br>To minimise waiting time and avoid crowd, <strong>you are encouraged to purchase textbooks online.</strong> Online
-purchase is available until <strong><u>24 December 2024</u></strong>. You
+purchase is available until <strong><u>24 December 2026</u></strong>. You
 may opt for home-delivery (delivery fee applies) or collection at the school
 bookshop. You may choose the delivery or collection date upon purchase
 of textbooks online.

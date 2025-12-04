@@ -34,8 +34,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Access Parents Gateway for information on class and subject allocations
-(&lt;insert link to 6.1 at ‘subject allocations’&gt;)&nbsp;</p>
+<p>Access Parents Gateway for information on class and <a href="https://admiraltysec.moe.edu.sg/full-subject-based-banding/" rel="noopener nofollow" target="_blank">subject allocation</a>
+</p>
 </li>
 </ul>
 <ul>
@@ -57,14 +57,14 @@ and (ii) Meet-the-Parents session&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Purchase books and uniform <u>after </u>checking subject allocations
-<a href="/sec-1-registration-2023/prep-for-the-1st-day-of-school/textbooks-and-uniform/" rel="noopener nofollow" target="_blank">here</a>.&nbsp;</p>
+<p>Purchase <a href="https://admiraltysec.moe.edu.sg/sec-1-registration-2023/prep-for-the-1st-day-of-school/textbooks-and-uniform/" rel="noopener nofollow" target="_blank">books and uniform</a>  <u>after </u>checking
+subject allocations</p>
 </li>
 </ul>
 <ul>
 <li>
-<p>Familiarise your child with route to school <a href="/sec-1-registration-2023/prep-for-the-1st-day-of-school/getting-to-adss/" rel="noopener nofollow" target="_blank">here</a> and
-<a href="https://admiraltysec.moe.edu.sg/school-gate-operating-hours/" rel="noopener nofollow" target="_blank">the school gate operating hours</a>.&nbsp;</p>
+<p>Familiarise your child with <a href="https://www.admiraltysec.moe.edu.sg/sec-1-registration-2023/prep-for-the-1st-day-of-school/getting-to-adss/" rel="noopener nofollow" target="_blank">route to school</a> and
+<a href="https://www.admiraltysec.moe.edu.sg/school-gate-operating-hours/" rel="noopener nofollow" target="_blank">the school gate operating hours</a>.&nbsp;</p>
 </li>
 </ul>
 </td>
@@ -79,13 +79,14 @@ and (ii) Meet-the-Parents session&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Report to ADSS on 2 Jan at 7.30 a.m. (click <a href="https://admiraltysec.moe.edu.sg/reporting-details-for-first-day-of-school/" rel="noopener nofollow" target="_blank">here</a> for
-more information)&nbsp;&nbsp;</p>
+<p><a href="https://www.admiraltysec.moe.edu.sg/reporting-details-for-first-day-of-school/" rel="noopener nofollow" target="_blank">Report to ADSS</a> on
+2 Jan at 7.30 a.m.&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p>Note reporting and dismissal times for Orientation week <a href="https://admiraltysec.moe.edu.sg/secondary-1-orientation-programme/" rel="noopener nofollow" target="_blank">here</a>&nbsp;</p>
+<p>Note <a href="https://www.admiraltysec.moe.edu.sg/secondary-1-orientation-programme/" rel="noopener nofollow" target="_blank">reporting and dismissal times</a> for
+Orientation week.</p>
 </li>
 </ul>
 </td>
@@ -100,8 +101,8 @@ more information)&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Meet our school leaders on 2 Jan at 7.45 a.m. (click <a href="https://admiraltysec.moe.edu.sg/parents-breakfast-with-school-leaders/" rel="noopener nofollow" target="_blank">here</a> for
-more information)</p>
+<p><a href="https://www.admiraltysec.moe.edu.sg/parents-breakfast-with-school-leaders/" rel="noopener nofollow" target="_blank">Meet our school leaders</a> on
+2 Jan at 7.45 a.m.</p>
 </li>
 </ul>
 </td>
@@ -116,8 +117,8 @@ more information)</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Meet our staff on 9 Jan at 5.00 p.m. (click <a href="https://admiraltysec.moe.edu.sg/meet-the-parent-session/" rel="noopener nofollow" target="_blank">here</a> for
-more information)</p>
+<p><a href="https://www.admiraltysec.moe.edu.sg/meet-the-parent-session/" rel="noopener nofollow" target="_blank">Meet our staff</a> on
+9 Jan at 5.00 p.m.</p>
 </li>
 </ul>
 </td>
