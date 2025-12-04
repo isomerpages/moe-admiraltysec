@@ -58,7 +58,7 @@ to the broad programme outline below. Academic lessons will commence on <strong>
 </p>
 </li>
 <li>
-<p>Icebreakers
+<p>Games
 <br>
 </p>
 </li>
@@ -70,7 +70,7 @@ to the broad programme outline below. Academic lessons will commence on <strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Jan 2026 (Mon)&nbsp;</p>
+<p>5 Jan 2026 (Mon)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8.00 a.m.&nbsp;</p>
@@ -91,7 +91,7 @@ to the broad programme outline below. Academic lessons will commence on <strong>
 </p>
 </li>
 <li>
-<p>Teambuilding
+<p>Class Contact Time
 <br>
 </p>
 </li>
@@ -108,7 +108,7 @@ to the broad programme outline below. Academic lessons will commence on <strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Jan 2026 (Tue)&nbsp;</p>
+<p>6 Jan 2026 (Tue)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8.00 a.m.&nbsp;</p>
@@ -119,7 +119,7 @@ to the broad programme outline below. Academic lessons will commence on <strong>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Briefing (Timetable)
+<p>Briefings (Timetable and CCA)
 <br>
 </p>
 </li>
@@ -127,11 +127,17 @@ to the broad programme outline below. Academic lessons will commence on <strong>
 <p>CCA Experience&nbsp;</p>
 </li>
 </ul>
+<p></p>
+<ul>
+<li>
+<p>Level Assembly</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Jan 2026 (Wed)&nbsp;</p>
+<p>7 Jan 2026 (Wed)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8.00 a.m.&nbsp;</p>
@@ -159,13 +165,13 @@ to the broad programme outline below. Academic lessons will commence on <strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Jan 2026 (Thur)&nbsp;</p>
+<p>8 Jan 2026 (Thur)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 a.m.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.40 p.m.&nbsp;</p>
+<p>1.10 p.m.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -175,7 +181,7 @@ to the broad programme outline below. Academic lessons will commence on <strong>
 </p>
 </li>
 <li>
-<p>Class Contact Time
+<p>Workshop
 <br>
 </p>
 </li>
