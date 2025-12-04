@@ -55,8 +55,7 @@ pathways, please see <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-s
 <p>&nbsp;Beyond the start of Secondary One, students may offer subjects at
 a more demanding level subsequently, based on their performance in the
 subject and a holistic assessment by the school to ensure that the student
-can cope with the subject and overall workload. &nbsp;</p>
-<p></p>
+can cope with the subject and overall workload.</p>
 <p>However, these students would miss out on content that was covered, and
 be required to attend bridging lessons to close learning gaps. As such,
 we encourage students to take subjects at more demanding levels as early
