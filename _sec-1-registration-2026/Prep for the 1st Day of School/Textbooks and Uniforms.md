@@ -42,10 +42,10 @@ of textbooks online.
 <br>Textbooks can still be purchased from the bookshop during the first week
 of school.&nbsp;&nbsp;</p>
 <h5><strong>Booklists for Sec 1s 2025</strong></h5>
-<p><a href="/files/S1__G1_.pdf" rel="noopener nofollow" target="_blank">1. Sec 1 (G1) 2025</a>
-<br><a href="/files/S1__G2_.pdf" rel="noopener noreferrer nofollow" target="_blank">2. Sec 1 (G2) 2025</a>
-<br><a href="/files/S1__G3_.pdf" rel="noopener noreferrer nofollow" target="_blank">3. Sec 1 (G3) 2025</a>
-<br><a href="/files/S1__G1_.pdf" rel="noopener noreferrer nofollow" target="_blank">4. Sec 1 (G1, G2, G3) 2025</a>
+<p><a href="/files/2026/S1__G1_.pdf" rel="noopener nofollow" target="_blank">1. Sec 1 (G1) 2026</a>
+<br><a href="/files/2026/S1__G2_.pdf" rel="noopener noreferrer nofollow" target="_blank">2. Sec 1 (G2) 2026</a>
+<br><a href="/files/2026/S1__G3_.pdf" rel="noopener noreferrer nofollow" target="_blank">3. Sec 1 (G3) 2026</a>
+<br><a href="/files/2026/S1__G1__G2__G3_.pdf" rel="noopener noreferrer nofollow" target="_blank">4. Sec 1 (G1, G2, G3) 2026</a>
 </p>
 <p><strong>Please note the following</strong>:&nbsp;</p>
 <ul>
