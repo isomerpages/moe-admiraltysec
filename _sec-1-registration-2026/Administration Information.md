@@ -26,7 +26,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18/19 Dec 2025</p>
+<p>19 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Posting Day&nbsp;</p>
