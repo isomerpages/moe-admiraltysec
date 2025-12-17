@@ -7,7 +7,7 @@ description: ""
 #### **Welcome Message by Principal**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JfdkPlT3JGE?si=FY2b5Jjh6muqtbAw" height="315" width="560"></iframe>
-A warm welcome from our Principle, Mr Kelly Tan.
+A warm welcome from our Principal, Mr Kelly Tan.
 
 #### **Welcome Message by Student Council President**
 
