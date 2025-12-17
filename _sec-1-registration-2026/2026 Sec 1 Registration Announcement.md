@@ -16,7 +16,7 @@ to read through the information, before purchasing any books.&nbsp;&nbsp;</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Class allocations;</p>
+<p>Class allocation;</p>
 </li>
 <li>
 <p>Subject listing;&nbsp;</p>
