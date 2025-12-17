@@ -7,7 +7,7 @@ third_nav_title: Orientation Week
 ---
 <h4><strong><u>Reporting details for First Day of School</u></strong></h4>
 <p></p>
-<p><strong>Date</strong>: 2 Jan 2025, Friday
+<p><strong>Date</strong>: 2 Jan 2026, Friday
 <br><strong>Reporting Time</strong>: 7.30 a.m.
 <br><strong>Dismissal Time</strong>: Refer to the Orientation Programme&nbsp;
 <br><strong>Reporting Venue</strong>: School Canteen
