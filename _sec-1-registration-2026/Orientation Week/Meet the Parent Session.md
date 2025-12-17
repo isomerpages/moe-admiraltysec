@@ -10,17 +10,14 @@ third_nav_title: Orientation Week
 <br>Join us to learn more about the Admiral Experience, and how we can support
 our children’s journeys!&nbsp;
 <br>
-<br><strong>Date:</strong> 9 Jan 2025 (Friday)
+<br><strong>Date:</strong> 9 Jan 2026 (Friday)
 <br><strong>Time:</strong> 5.00 p.m. to 7.00 p.m.
 <br><strong>Venue</strong>  <strong>: </strong>School Hall<strong>&nbsp;</strong>&nbsp;&nbsp;
 <br>
-<br><strong>You can look forward to:&nbsp;</strong>&nbsp;</p>
-<ul>
-<li>
-<p>CCA Showcase
+<br><strong>You can look forward to:&nbsp;</strong>&nbsp;
 <br>
 </p>
-</li>
+<ul>
 <li>
 <p>Principal’s talk
 <br>
