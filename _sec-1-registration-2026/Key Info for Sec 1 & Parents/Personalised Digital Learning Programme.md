@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Key Info for Sec 1 & Parents
 ---
-<h4><strong><u>Personalised Digital Learning Programme</u></strong></h4>
+<h4><strong><u>Personalised Digital Learning Programme (PDLP)</u></strong></h4>
 <p></p>
 <p><strong><u>Introduction</u></strong>&nbsp;
 <br>MOE launched the National Digital Literacy Programme (NDLP) in March 2020
