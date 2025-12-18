@@ -27,12 +27,13 @@ sections:
       id: announcements
       subtitle: 2026 Secondary 1 students
       announcement_items:
-        - title: Parents Gateway (PG)
+        - title: Secondary 1 Posting
           date: 19 December 2025
           announcement: A welcome letter will be sent via Parents Gateway (PG) by the end
             of Sec 1 Posting Day, with information on class and subject
-            allocations. Additional information on the offer of subjects at more
-            demanding levels will also be sent
+            allocations. Please note that PG will not be available for 1-2 hours
+            on 19 Dec (Fri) between 12pm to 5pm.  click here for more
+            information
           link_text: ""
           link_url: ""
   - infobar:
