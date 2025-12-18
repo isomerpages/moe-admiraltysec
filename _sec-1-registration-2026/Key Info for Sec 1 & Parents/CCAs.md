@@ -27,5 +27,5 @@ cater to the students’ varied interests and capabilities.&nbsp;</p>
 to help them decide which CCA is suitable for them. It is intended to guide
 the student to understand what is involved in each CCA, whether it will
 suit him/her and the likely commitment called for.&nbsp;</p>
-<p>You can download a copy of the CCA Prospectus <a href="https://www.admiraltysec.moe.edu.sg/files/ADSS_CCA_Prospectus_2024.pdf" class="Hyperlink SCXW221479106 BCX0" rel="noreferrer noopener" target="_blank"><u>here.</u></a>&nbsp;</p>
+<p>You can download a copy of the CCA Prospectus <a href="/files/2026/ADSS_CCA_Prospectus_2026.pdf" class="Hyperlink SCXW221479106 BCX0" rel="noreferrer noopener" target="_blank"><u>here.</u></a>&nbsp;</p>
 <p>&nbsp;</p>
