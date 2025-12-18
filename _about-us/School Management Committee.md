@@ -45,7 +45,7 @@ variant: tiptap
 <p>Mr Chan Yew Ren Eugene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sl_admiraltyss@schools.gov.sg</p>
@@ -56,7 +56,7 @@ variant: tiptap
 <p>Mr Tan Hock Chuan Michael</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sl_admiraltyss@schools.gov.sg</p>
@@ -64,13 +64,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chew Shuhan Evelyn</p>
+<p>Ms Chew Shuhan Evelyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>evelyn_chew@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Kai Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_kai_qing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -86,6 +97,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Goh Hock Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Student Engagement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_hock_meng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Goh Huan Bok Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,13 +119,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Julianah Bte Othman (Mrs Sabar)</p>
+<p>Mr M. Siva Balan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>julianah_othman@moe.edu.sg</p>
+<p>m_siva_balan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -119,28 +141,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lau Charmaine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lau_charmaine@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Yee Leong Keynes</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_yee_leong_keynes@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Phua Tian Peng&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,17 +148,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>phua_tian_peng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Subashini A/p Varlivell</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>subashini_varlivell@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -181,6 +170,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_han_yu_melvin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Siew Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head/Upper Secondary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -251,17 +251,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Renuka Devi d/o Raghunathan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH/EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>renuka_devi_raghunathan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Samantha Woo Lai Yee&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -287,10 +276,21 @@ variant: tiptap
 <p>Mr Tung Cheng Boon Adrian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Management</p>
+<p>SH/Student Management (Covering SH/Geography)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tung_cheng_boon_adrian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yam Chaur Shin Chelsea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yam_chaur_shin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -335,17 +335,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_lee_soong@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Khoon Siong Ray</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_khoon_siong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
