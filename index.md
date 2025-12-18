@@ -32,7 +32,7 @@ sections:
           announcement: "A welcome letter will be sent via Parents Gateway (PG) by the end
             of Sec 1 Posting Day, with information on class and subject
             allocations. Please note that PG will not be available for 1-2 hours
-            on 19 Dec (Fri) between 12pm to 5pm. please click the hyperlink
+            on 19 Dec (Fri) between 12pm to 5pm. Please click the hyperlink
             below for more info:"
           link_text: Sec 1 Registration 2026
           link_url: /sec-1-registration-2026/
