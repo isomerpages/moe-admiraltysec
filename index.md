@@ -22,6 +22,27 @@ sections:
         - title: Parents
           description: ""
           url: /parents/permalink/
+  - announcements:
+      title: Welcome to Admiralty Secondary School
+      id: announcements
+      subtitle: 2026 Secondary 1 students
+      announcement_items:
+        - title: Secondary 1 Posting
+          date: 19 December 2025
+          announcement: "A welcome letter will be sent via Parents Gateway (PG) by the end
+            of Sec 1 Posting Day, with information on class and subject
+            allocations. Please note that PG will not be available for 1-2 hours
+            on 19 Dec (Fri) between 12pm to 5pm. Please click the hyperlink
+            below for more info:"
+          link_text: Sec 1 Registration 2026
+          link_url: /sec-1-registration-2026/
+  - infobar:
+      title: Appeal for a transfer
+      subtitle: 2026 Secondary 1 students
+      id: infobar
+      description: To appeal for a transfer to ADSS, please click the hyperlink below
+      button: Appeal for a transfer
+      url: https://go.gov.sg/admission-adss
   - infobar:
       title: Booklists for 2026
       subtitle: Notification
