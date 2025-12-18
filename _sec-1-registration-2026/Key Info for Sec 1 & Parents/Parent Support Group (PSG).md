@@ -16,4 +16,5 @@ and adopt more positive attitudes when they know that they are supported.&nbsp;&
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_04_093955.png">
 </div>
-<p>Click here for the PSG Welcome Letter and PSG e-Flyer.</p>
+<p>Click here for the <a href="/files/2026/2026_PSG_Welcome_Letter_for_2026_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">PSG Welcome Letter</a> and
+<a href="/files/2026/2026_e_Flyer_PSG.pdf" rel="noopener noreferrer nofollow" target="_blank">PSG e-Flyer</a>.</p>
