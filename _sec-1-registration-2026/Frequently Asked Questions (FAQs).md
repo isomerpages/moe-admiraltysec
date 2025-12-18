@@ -21,7 +21,7 @@ call the General Office at 6365 1733.&nbsp;</p>
 <br>It is important to encourage your child/ward to share his/her feelings,
 and acknowledge these thoughts and feelings. It is also important to assure
 them by teaching them ways to cope and manage their emotions. More tips
-may be found in <a class="Hyperlink SCXW193284955 BCX0" rel="noreferrer noopener" target="_blank"><u>MOE Resource Kit - Primary to Secondary Transition</u></a>.&nbsp;</p>
+may be found in <a href="https://file.go.gov.sg/pk-ready-secondary-go.pdf" class="Hyperlink SCXW193284955 BCX0" rel="noreferrer noopener" target="_blank"><u>MOE Resource Kit - Primary to Secondary Transition</u></a>.&nbsp;</p>
 </li>
 </ol>
 <p></p>
