@@ -14,10 +14,18 @@ third_nav_title: Orientation Week
 <br><strong>Attire</strong>: ADSS full school uniform*, white socks and black
 laced schools&nbsp;&nbsp;</p>
 <p>* Students who are unable to purchase ADSS school uniform before 1<sup>st</sup> day
-of school, can report in their primary school uniform. Please see <a href="https://sgmoe-my.sharepoint.com/:p:/g/personal/evelyn_chew_schools_gov_sg/IQCyt_e8W2O6T4V7LDizvktRAR11RjwGtxV8revljQygm6g?e=bnINvL" class="Hyperlink SCXW267327980 BCX0" rel="noreferrer noopener" target="_blank"><u>First Day of School Attire.pptx</u></a>&nbsp;for
-more information on expected attire.
-<br>
-<br><strong>Parents are invited to attend the Parents’ Breakfast with School Leaders on 2 Jan at 7.45 a.m.. </strong>More
+of school, can report in their primary school uniform. Please refer to
+the picture below for more information on the expected attire.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fds_female.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fds_male.png">
+</div>
+<p><strong>Parents are invited to attend the Parents’ Breakfast with School Leaders on 2 Jan at 7.45 a.m.. </strong>More
 information may be found at <a href="https://admiraltysec.moe.edu.sg/parents-breakfast-with-school-leaders/" rel="noopener nofollow" target="_blank">here</a>.
 <br>
 <br><strong>Packing list for our new Admirals</strong>
