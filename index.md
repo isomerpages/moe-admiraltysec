@@ -41,7 +41,7 @@ sections:
       id: infobar
       description: To appeal for a transfer to ADSS, please click the hyperlink below
       button: Appeal for a transfer
-      url: https://form.gov.sg/6760f85446706fba0d9f718f
+      url: https://go.gov.sg/admission-adss
   - infobar:
       title: Booklists for 2026
       subtitle: Notification
