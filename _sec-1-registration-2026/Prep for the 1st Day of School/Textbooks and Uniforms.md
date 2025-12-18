@@ -7,9 +7,8 @@ third_nav_title: Prep for the 1st Day of School
 ---
 <p><strong><u>General information on the bookshop and school uniform store</u></strong>&nbsp;</p>
 <p>The opening hours for the bookshop and school uniform store are as follows:&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_01_123131.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/textbook_and_uni.png">
 </div>
 <p><strong>Please note the following</strong>:&nbsp;</p>
 <ul>
