@@ -12,7 +12,7 @@ third_nav_title: Orientation Week
 <br><strong>Dismissal Time</strong>: Refer to the Orientation Programme&nbsp;
 <br><strong>Reporting Venue</strong>: School Canteen
 <br><strong>Attire</strong>: ADSS full school uniform*, white socks and black
-laced schools&nbsp;&nbsp;</p>
+laced shoes</p>
 <p>* Students who are unable to purchase ADSS school uniform before 1<sup>st</sup> day
 of school, can report in their primary school uniform. Please refer to
 the picture below for more information on the expected attire.</p>
