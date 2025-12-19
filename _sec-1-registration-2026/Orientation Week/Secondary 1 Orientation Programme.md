@@ -171,7 +171,7 @@ to the broad programme outline below. Academic lessons will commence on <strong>
 <p>7.30 a.m.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.10 p.m. / 1.40 p.m. (selected students only)</p>
+<p>1.10 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
