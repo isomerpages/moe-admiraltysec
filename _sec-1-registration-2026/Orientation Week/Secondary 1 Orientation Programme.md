@@ -143,7 +143,7 @@ to the broad programme outline below. Academic lessons will commence on <strong>
 <p>8.00 a.m.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.10 p.m.&nbsp;</p>
+<p>2.10 p.m.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
