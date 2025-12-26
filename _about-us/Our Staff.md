@@ -320,7 +320,10 @@ variant: markdown
 <br><a href="mailto:chew_wei_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_wei_xin@moe.edu.sg</a>
 </p>
 </td>
-</tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zelia Liu Xuan
+<br><a href="mailto:Zelia_Liu_Xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zelia_Liu_Xuan@moe.edu.sg</a>
+</p></td></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Aquila 3</p>
