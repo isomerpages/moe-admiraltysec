@@ -509,7 +509,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurain Binte Mohammed Zulkepli
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p></td></tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -531,7 +530,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
