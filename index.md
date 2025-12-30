@@ -27,7 +27,10 @@ sections:
       subtitle: welcome back to school
       id: infobar
       description: Dear Admirals, Let us begin the term on a positive note by
-        presenting ourselves with pride, discipline, and responsibility.
+        presenting ourselves with pride, discipline, and responsibility.  Please
+        click the hyperlink below.
+      button: Code of conduct 2026
+      url: https://staging-lite.d17khhul5ugc6d.amplifyapp.com/welcome-back-to-school/
   - announcements:
       title: Welcome to Admiralty Secondary School
       id: announcements
