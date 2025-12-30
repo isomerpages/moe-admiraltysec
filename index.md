@@ -26,9 +26,9 @@ sections:
       title: Start Right Day
       subtitle: welcome back to school
       id: infobar
-      description: Dear Admirals, Let us begin the term on a positive note by
-        presenting ourselves with pride, discipline, and responsibility.  Please
-        click the hyperlink below.
+      description: Dear Admirals, Let us begin the term by presenting ourselves with
+        pride, discipline, and responsibility.  Please click the hyperlink below
+        to find out
       button: Code of conduct 2026
       url: https://admiraltysec.moe.edu.sg/welcome-back-to-school/
   - announcements:
