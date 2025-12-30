@@ -10,7 +10,7 @@ third_nav_title: Start Right Day 2026
 <br>We would also like to remind all students of the importance of upholding
 the school’s grooming standards. A <strong>grooming check will be conducted on the first day of school</strong>.
 Please ensure that you adhere to the following guidelines:</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Male Students</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -46,6 +46,9 @@ allowed.</p>
 <p>Only <strong>black shoes</strong> and <strong>plain white socks (without designs)</strong> are
 permitted as part of the school attire.</p>
 </li>
-</ul>
+<li>
 <p>Students with <strong>dyed hair or outlandish hairstyles</strong> will be
 required to <strong>return home to rectify the issue</strong>.</p>
+</li>
+</ul>
+<p></p>
