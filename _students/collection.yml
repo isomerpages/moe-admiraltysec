@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Start Right Day 20261/Start Right Day 2026.md
       - Start Right Day 20261/.keep
       - Booklists for 2026.md
       - Addylink (Students).md
