@@ -6,8 +6,7 @@ description: ""
 third_nav_title: Start Right Day 2026
 ---
 <h4><strong><u>Grooming Expectations</u></strong></h4>
-<p><strong>Grooming Expectations</strong>
-<br>We would also like to remind all students of the importance of upholding
+<p>We would also like to remind all students of the importance of upholding
 the school’s grooming standards. A <strong>grooming check will be conducted on the first day of school</strong>.
 Please ensure that you adhere to the following guidelines:</p>
 <p></p>
