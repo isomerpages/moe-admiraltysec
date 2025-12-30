@@ -29,7 +29,7 @@ sections:
       description: Dear Admirals, Let us begin the term by presenting ourselves with
         pride, discipline, and responsibility.  Please click the hyperlink below
         to find out
-      button: Code of conduct 2026
+      button: important things to take note
       url: https://admiraltysec.moe.edu.sg/welcome-back-to-school/
   - announcements:
       title: Welcome to Admiralty Secondary School
