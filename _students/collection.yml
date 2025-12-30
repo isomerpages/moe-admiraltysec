@@ -2,9 +2,9 @@ collections:
   students:
     output: true
     order:
-      - Start Right Day 2026/Grooming Expectations.md
-      - Start Right Day 2026/Welcome Back to School.md
       - Start Right Day 2026/.keep
+      - Start Right Day 2026/Welcome Back to School.md
+      - Start Right Day 2026/Grooming Expectations.md
       - Booklists for 2026.md
       - Addylink (Students).md
       - 2025 Student Handbook.md
