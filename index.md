@@ -30,7 +30,7 @@ sections:
         pride, discipline, and responsibility.  Please click the hyperlink below
         to find out
       button: important things to take note
-      url: https://admiraltysec.moe.edu.sg/welcome-back-to-school/
+      url: /students/welcome-back-to-school/permalink/
   - announcements:
       title: Welcome to Admiralty Secondary School
       id: announcements
