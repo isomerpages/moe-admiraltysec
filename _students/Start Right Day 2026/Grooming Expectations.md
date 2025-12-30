@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Start Right Day 2026
 ---
-<p></p>
-<p></p>
-<p></p>
+<h4><strong><u>Grooming Expectations</u></strong></h4>
 <p><strong>Grooming Expectations</strong>
 </p>
 <p>We would also like to remind all students of the importance of upholding
