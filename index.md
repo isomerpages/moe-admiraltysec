@@ -22,6 +22,15 @@ sections:
         - title: Parents
           description: ""
           url: /parents/permalink/
+  - infobar:
+      title: Start Right Day
+      subtitle: welcome back to school
+      id: infobar
+      description: Dear Admirals, Let us begin the term by presenting ourselves with
+        pride, discipline, and responsibility.  Please click the hyperlink below
+        to find out
+      button: important things to take note
+      url: /students/welcome-back-to-school/permalink/
   - announcements:
       title: Welcome to Admiralty Secondary School
       id: announcements
