@@ -130,6 +130,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Uma Mahdawan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>uma_mahdawan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Kuek May Lin Florence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,7 +191,7 @@ variant: tiptap
 <p>Year Head/Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>teo_siew_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
