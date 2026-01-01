@@ -2,6 +2,7 @@ collections:
   news-and-highlights:
     output: true
     order:
+      - 2026 Student Handbook.md
       - 2025 Adss Experience.md
       - Scam Advisory.md
       - ADSS Awards and Achievements.md
