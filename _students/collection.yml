@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Class Timetable.md
+      - Class Timetable 2026.md
       - Start Right Day 2026/.keep
       - Start Right Day 2026/Welcome Back to School.md
       - Start Right Day 2026/Start Right Day Overview 2026.md
