@@ -497,7 +497,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lisda Bte Mohd Amin
-<br><a href="mailto:lisda_muhd_amin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lisda_muhd_amin@moe.edu.sg</a>
+<br><a href="mailto:lisda_mohd_amin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lisda_mohd_amin@moe.edu.sg</a>
 </p></td></tr><tr>
 <td rowspan="1" colspan="1">
 <p>Lyra 7</p>
