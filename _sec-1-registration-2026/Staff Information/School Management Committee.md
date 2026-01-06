@@ -181,7 +181,7 @@ third_nav_title: Staff Information
 <p>Year Head/Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>teo_siew_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
