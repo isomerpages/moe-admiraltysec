@@ -23,7 +23,7 @@ variant: markdown
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on MOE Sexuality Education.
 
-##### OVERVIEW OF ADMIRALTY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025
+##### OVERVIEW OF ADMIRALTY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026
 
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -31,21 +31,25 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 * Science
 * Character and Citizenship Education (CCE)
 
-6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
+##### Sexuality Education Lessons: 
+
+6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his or her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-### 2025 Sexuality Education Lessons
+### 2026 Sexuality Education Lessons
 
 
 #### Secondary 1
+![](/images/1.png)
 
-![](/images/2024_Sec1_SEd.png)
-![](/images/2025_S1_SEd1.png)
+
 #### Secondary 2
+![](/images/3.png)
 
-![](/images/2025_S2_Sed.png)
-![](/images/2025_S2_Sed1.png)
+![](/images/4.png)
+
+![](/images/5.png)
 #### Secondary 3
 
 ![](/images/2025_S3_Sed.png)
