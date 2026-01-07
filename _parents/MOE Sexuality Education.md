@@ -8,11 +8,11 @@ variant: markdown
 
 1. The **Goals** of Sexuality Education are to:
 
-(a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships. 
+(a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.  
 
-(b)	Guide students to make wise, informed and responsible decisions on sexuality matters. 
+(b)	Guide students to make wise, informed and responsible decisions on sexuality matters.
 
-(c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. 
+(c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.  
 
 
 3. The key messages of Sexuality Education are:
@@ -23,7 +23,7 @@ variant: markdown
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on MOE Sexuality Education.
 
-##### OVERVIEW OF ADMIRALTY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025
+##### OVERVIEW OF ADMIRALTY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026
 
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -31,29 +31,30 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 * Science
 * Character and Citizenship Education (CCE)
 
-6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
+##### Sexuality Education Lessons: 
+
+6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his or her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-### 2025 Sexuality Education Lessons
+### 2026 Sexuality Education Lessons
 
 
 #### Secondary 1
+![](/images/1.png)
+![](/images/2.png)
 
-![](/images/2024_Sec1_SEd.png)
-![](/images/2025_S1_SEd1.png)
 #### Secondary 2
-
-![](/images/2025_S2_Sed.png)
-![](/images/2025_S2_Sed1.png)
+![](/images/3.png)
+![](/images/4.png)
+![](/images/5.png)
 #### Secondary 3
-
-![](/images/2025_S3_Sed.png)
-![](/images/2025_S3_Sed1.png)
+![](/images/6.png)
+![](/images/7.png)
 #### Secondary 4
-
-![](/images/2024_S4_Sed.png)
-![](/images/2025_S4_Sed1.png)
+![](/images/8.png)
+![](/images/9.png)
+![](/images/10.png)
 
 #### Secondary 5
 
@@ -61,25 +62,20 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 
 ### eTeens Programme:
 
-8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+8. eTeens is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.
 
-9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
-**At Admiralty Secondary School, the eTeens programme will be implemented as follows in 2025:**
+**At Admiralty Secondary School, the eTeens programme will be implemented as follows in 2026:**
 
-![](/images/2025eteens.png)
+![](/images/12.png)
+
 
 ### Information for Parents
 10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is found here:[https://form.gov.sg/677b3c2e6ce32a3b2a4398d9.](https://form.gov.sg/677b3c2e6ce32a3b2a4398d9). he completed form is to be submitted by 07/02/2025.
+11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is found here: https://go.gov.sg/2026sedoptout. The completed form is to be submitted by 06/02/2026.
 
-12. Parents who wish to opt their children in Secondary 3 out of the eTeens programme need to complete an opt-out form. This form is found here: [https://form.gov.sg/677b40b05b01d5dbed6efa74](https://form.gov.sg/677b40b05b01d5dbed6efa74). The completed form is to be submitted by 09/02/2024.
+12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form is found here: https://go.gov.sg/2026eteensoptout.  The completed form is to be submitted by 06/02/2026.
 
-13. Parents can contact the school at (63651733) for discussion or to seek clarification about the school’s sexuality education programme.
-
-**ORGANISATION**
-
-| Sexuality Education (SEd) Coordinators :  |
-| -------- |
-| Mdm Chow Shin Yun<br>Mdm Nur Amalina Binte Mohamed Salleh|
+13. Parents can contact the school at 63651733 or admiralty_ss@moe.edu.sg to seek clarification about the school’s Sexuality Education programme.
