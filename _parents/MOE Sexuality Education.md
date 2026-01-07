@@ -79,9 +79,3 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form is found here: https://go.gov.sg/2026eteensoptout.  The completed form is to be submitted by 06/02/2026.
 
 13. Parents can contact the school at 63651733 or admiralty_ss@moe.edu.sg to seek clarification about the school’s Sexuality Education programme.
-
-**ORGANISATION**
-
-| Sexuality Education (SEd) Coordinators :  |
-| -------- |
-| Mdm Chow Shin Yun<br>Mdm Nur Amalina Binte Mohamed Salleh|
