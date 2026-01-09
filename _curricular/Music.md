@@ -2,6 +2,7 @@
 title: Music
 permalink: /curricular/music/
 description: ""
+variant: markdown
 ---
 Introduction
 ------------
@@ -22,6 +23,3 @@ In Secondary 1, students learn about the elements in music and apply their knowl
 In Secondary 2, students learn how to use digital audio software on their personal learning devices and learn how to arrange and create music using loops and digital instruments. They also learn how to play the guitar in the second semester, thereby developing their theory and technical music skills, as they will learn how to read guitar tablature too.
 
 ![](/images/music3.png)
-
-
-Mr Marcus Goh Wei Ming
