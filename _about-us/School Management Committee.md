@@ -163,13 +163,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Chuen Wei (Mrs Goh)</p>
+<p>Uma Mahdawan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Math&nbsp;</p>
+<p>HOD/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chuen_wei@moe.edu.sg</p>
+<p>uma_mahdawan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
