@@ -364,7 +364,9 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Ms Siti Nur Sarah Binte Yusman
+<br><a href="mailto:siti_nur_sarah_yusman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_sarah_yusman@moe.edu.sg</a>
+</p><p>
 </p>
 </td>
 </tr>
@@ -378,7 +380,9 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ruqaiyah Binti Rosli
+<br><a href="mailto:ruqaiyah_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ruqaiyah_rosli@moe.edu.sg</a>
+</p><p></p>
 </td>
 </tr>
 <tr>
@@ -391,7 +395,9 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Jessica Charisse Ganadhi
+<br><a href="mailto:jessica_charisse_ganadhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_charisse_ganadhi@moe.edu.sg</a>
+</p><p></p>
 </td>
 </tr>
 </tbody>
