@@ -142,6 +142,17 @@ third_nav_title: Staff Information
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Uma Mahdawan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>uma_mahdawan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Phua Tian Peng&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
