@@ -509,6 +509,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurain Binte Mohammed Zulkepli
+<br><a href="mailto:nurain_binte_mohammed_zulkepli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurain_binte_mohammed_zulkepli@moe.edu.sg</a>
 </p></td></tr>
 <tr>
 <td rowspan="1" colspan="1">
