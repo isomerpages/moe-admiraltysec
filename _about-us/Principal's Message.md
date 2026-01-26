@@ -9,21 +9,27 @@ Principal's Message
 
 Dear Admiralty Secondary School Family, Parents, and Admirals,
 
-It is with great excitement and honour that I join Admiralty Secondary School (ADSS) as your fifth Principal. I am thrilled to embark on this meaningful journey with you, building on the strong foundations laid since our school’s inception in 2002. Together, we will continue to shape our Admirals into self-directed, concerned, confident, and contributing leaders who bring light to those around them.
+At Admiralty Secondary School, we believe every Admiral is the hero of their own story, and our mission is to **Empower Admirals to Actualise their Aspirations**. We are excited to embark on our "next bound" together, a journey that was shaped by deep, transformative conversations during our recent **Key Personnel and Staff Retreats**. Moving beyond simple refinements, we utilised **Double-Loop Learning** to question our underlying assumptions and reframed our goals to ensure we are truly serving our students’ needs.
 
-At ADSS, we take pride in being a value-centric, thinking school. Our mission is to empower our Admirals to realise their aspirations, guided by our refreshed values: **R³ich in LIGHTS**—Respect, Resilience, Responsibility (R³), Lifelong Learning, Integrity, Graciousness, High Expectations, Teamwork, and Self-Discipline. These values form the foundation of our approach, guiding our Admirals to lead purposeful and impactful lives.
+![](/images/doubleloop.png)
 
-We are passionate about fostering a culture of lifelong learning. Learning at ADSS goes beyond textbooks and classrooms—we strive to ignite each Admiral’s curiosity and passion, transforming their educational journey into one of wonder, growth, and discovery. Through this, we inspire them to embrace continuous learning and meaningful contributions throughout their lives.
+This collaborative process has led us to a refreshed vision that we are eager to share with everyone.
 
-In today’s ever-changing world, we are committed to equipping our students with 21st-century competencies, ensuring they are prepared to navigate uncertainties with confidence and resilience. While the road ahead may have its challenges, we are resolute in our focus on resilience and adaptability to empower our Admirals to face any storm.
+To help our Admirals navigate a changing world with confidence, we are anchoring everything we do in two powerful **Strategic Approaches:**
 
-As the saying goes, "It takes a village to raise a child." At ADSS, we are dedicated to providing a nurturing and empowering environment where every Admiral can thrive. We value the vital partnership with parents and stakeholders to ensure consistent and coherent developmental opportunities for all.
+• **Design Thinking Mindset:** We are nurturing a culture where we approach every challenge through **empathy, defining the problem, ideating, prototyping, and iterating.** This mindset transforms "failure" into a valuable step for growth and resilience.
 
-When our Admirals complete their journey with us, we hope they will not only be captains of their own ships but also stewards of their communities—individuals who embody our school’s desired outcomes by contributing meaningfully back to society.
+• **Empowering Voice and Agency:** We believe our school experience should be **co-created.** By giving students a **voice** to share their ideas and the **agency** to take responsibility for their learning, we ensure they are the active architects of their own growth.
 
-As we set sail together, I am confident that the experiences at ADSS will equip our Admirals to captain their own ships, ready to embark on meaningful contributions to the world. With your support, I look forward to steering our school to greater heights, honouring our legacy while pursuing excellence in every aspect of our students’ development.
+Our shared efforts are directed toward three refreshed **Student Outcomes**, which serve as the destination for every Admiral’s four-year journey:
 
-Thank you for your trust and support. I am eager to work closely with all of you in the exciting years ahead.
+1. **Future-Ready Problem Solver:** Adaptive thinking, Shaping tomorrow. Our Admirals will learn to navigate real-world problems with innovation and adaptability.
+
+2. **Active Citizen:** Actively representing, Serving community. We are growing individuals who make values-based decisions and contribute meaningfully to those around them.
+
+3. **Caring Leader:** Leading heart, Inspiring change. We empower our students to support their peers with care and lead positive transformation within our school and beyond.
+
+We invite every parent and partner to join us in this inspiring mission. Our school motto, **"Be a Guiding Light that Shines,"** reminds us that when we work together with a common purpose, we can illuminate the path for our Admirals to achieve their dreams. This is a future full of possibility, and we look forward to shaping it together.
 
 **Full steam ahead, Admirals!**
 
@@ -31,7 +37,3 @@ Warm regards,<br>
 Mr Tan Kelly<br>
 Principal<br>
 Admiralty Secondary School
-
-
-
-
