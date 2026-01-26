@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2026_hero_1.gif
+      background: /images/2026_hero_26_jan.gif
       url: /contact-us/
       key_highlights:
         - title: 2025 DSA
