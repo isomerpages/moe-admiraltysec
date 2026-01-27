@@ -74,8 +74,8 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 ### Information for Parents
 10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is found here: https://go.gov.sg/2026sedoptout. The completed form is to be submitted by 06/02/2026.
+11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is found here: [https://go.gov.sg/2026sedoptout](https://go.gov.sg/2026sedoptout). The completed form is to be submitted by 06/02/2026.
 
-12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form is found here: https://go.gov.sg/2026eteensoptout.  The completed form is to be submitted by 06/02/2026.
+12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form is found here: [https://go.gov.sg/2026eteensoptout](https://go.gov.sg/2026eteensoptout)  The completed form is to be submitted by 06/02/2026.
 
 13. Parents can contact the school at 63651733 or admiralty_ss@moe.edu.sg to seek clarification about the school’s Sexuality Education programme.
