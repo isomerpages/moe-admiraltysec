@@ -46,13 +46,6 @@ sections:
           link_text: Sec 1 Registration 2026
           link_url: /sec-1-registration-2026/
   - infobar:
-      title: Appeal for a transfer
-      subtitle: 2026 Secondary 1 students
-      id: infobar
-      description: To appeal for a transfer to ADSS, please click the hyperlink below
-      button: Appeal for a transfer
-      url: https://go.gov.sg/admission-adss
-  - infobar:
       title: Booklists for 2026
       subtitle: Notification
       id: infobar
