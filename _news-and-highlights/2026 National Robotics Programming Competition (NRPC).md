@@ -1,18 +1,18 @@
 ---
-title: 2025 National Robotics Programming Competition (NRPC)
-permalink: /2025nrpc/news-and-highlights/permalink/
+title: 2026 National Robotics Programming Competition (NRPC)
+permalink: /2026nrpc/news-and-highlights/permalink/
 variant: markdown
 description: ""
 ---
-# 2025 NRPC
+# 2026 NRPC
 
 <p></p>
 <p>Here are the registration details.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025nrpc_motd.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026nrpc_motd2.png">
 </div>
-<p>Click on the link below to get more details regarding 17th NRPC.</p>
-<p><a href="/files/17th_NRPC_Infosheet_1.pdf" rel="noopener noreferrer nofollow" target="_blank">17th NRPC Infosheet</a>
+<p>Click on the link below to get more details regarding 18th NRPC.</p>
+<p><a href="/files/18th_NRPC_Infosheet.pdf" rel="noopener noreferrer nofollow" target="_blank">18th NRPC Infosheet</a>
 </p>
 
 
@@ -48,7 +48,7 @@ in 2007. In 2009, Nanyang Polytechnic came onboard to co-organise this
 meaningful competition. In 2017, we updated NRPC to National Robotics Programming
 Competition to better reflect the coding and computational thinking aspect.
 The competition took a 2 year break in 2020 and 2021 due to COVID and transited
-to online format in 2022 offering only to primary schools.</p>
+to online format in 2022 offering only to primary schools. In 2026, NRPC is open to both primary and secondary schools, with Admiralty Secondary School and Nanyang Polytechnic helming the respective categories.</p>
 <p></p>
 <p></p>
 <p></p>
