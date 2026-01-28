@@ -48,7 +48,7 @@ in 2007. In 2009, Nanyang Polytechnic came onboard to co-organise this
 meaningful competition. In 2017, we updated NRPC to National Robotics Programming
 Competition to better reflect the coding and computational thinking aspect.
 The competition took a 2 year break in 2020 and 2021 due to COVID and transited
-to online format in 2022 offering only to primary schools.</p>
+to online format in 2022 offering only to primary schools. In 2026, NRPC is open to both primary and secondary schools, with Admiralty Secondary School and Nanyang Polytechnic helming the respective categories.</p>
 <p></p>
 <p></p>
 <p></p>
