@@ -12,7 +12,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026nrpc_motd2.png">
 </div>
 <p>Click on the link below to get more details regarding 18th NRPC.</p>
-<p><a href="/files/18th_NRPC_Infosheet.pdf" rel="noopener noreferrer nofollow" target="_blank">18th NRPC Infosheet</a>
+<p><a href="/files/18th_NRPC_Infosheet_1.pdf" rel="noopener noreferrer nofollow" target="_blank">18th NRPC Infosheet</a>
 </p>
 
 
