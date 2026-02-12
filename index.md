@@ -42,6 +42,14 @@ sections:
       url: /announcements/
       image: /images/2026_POSTER_ver_MOE_260204.png
       alt: Image alt text
+  - infopic:
+      title: Arif Budiman Malay Language Teacher Award (AGAB) 2026
+      subtitle: NOMINATION FOR
+      id: infopic
+      description: The closing date for nominations is 13 March 2026 (Friday).
+      button: nominate here!
+      url: /announcements/
+      image: /images/2__AGAB_2026_Poster.jpg
   - infobar:
       title: Start Right Day
       subtitle: welcome back to school
