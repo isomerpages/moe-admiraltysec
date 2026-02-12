@@ -68,9 +68,8 @@ Teachers’ Union (STTU).</p>
 <p>This award recognises outstanding Tamil language teachers who have made
 significant contributions to the teaching and learning of Tamil language
 in our schools.</p>
-<p>Online nominations can be made via QR code below or <a href="https://go.gov.sg/mitt2026nominations" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/mitt2026nominations</u></a>
-<a href="https://go.gov.sg/mitt2026nominations" rel="noopener nofollow" target="_blank"><u>.</u>
-</a>The closing date for nominations is <strong>13 March 2026</strong>.</p>
+<p>Online nominations can be made via QR code below or <a href="https://go.gov.sg/mitt2026nominations." rel="noopener nofollow" target="_blank">https://go.gov.sg/mitt2026nominations.</a> The
+closing date for nominations is <strong>13 March 2026</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 676.25px;" height="auto" width="100%" alt="" src="https://www.ferngreenpri.moe.edu.sg/images/Annoucements/2__MITT_2026_Poster_Reduce_Size.jpg">
 </div>
