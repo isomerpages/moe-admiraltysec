@@ -22,6 +22,15 @@ sections:
         - title: Parents
           description: ""
           url: /parents/permalink/
+  - infopic:
+      title: Distinguished Chinese Language Teachers Awards 2026
+      subtitle: NOMINATION FOR
+      id: infopic
+      description: The closing date for nominations is 30 April 2026 (Thursday).
+      button: nominate here!
+      url: https://www.admiraltysec.moe.edu.sg/scam-advisory/
+      image: /images/2026_POSTER_ver_MOE_260204.png
+      alt: Image alt text
   - infobar:
       title: Start Right Day
       subtitle: welcome back to school
