@@ -23,6 +23,17 @@ sections:
           description: ""
           url: /parents/permalink/
   - infopic:
+      title: Inspiring Teacher of English Award 2026
+      subtitle: NOMINATION FOR
+      id: infopic
+      description: All students, parents, and teachers are invited to send in
+        nominations for the Teaching Award to the Principal of the nominee’s
+        school by 6pm on 23 March 2026.
+      button: nominate here!
+      image: /images/EL_Award_2026.jpg
+      alt: Image alt text
+      url: /announcements/
+  - infopic:
       title: Distinguished Chinese Language Teachers Awards 2026
       subtitle: NOMINATION FOR
       id: infopic
@@ -30,6 +41,24 @@ sections:
       button: nominate here!
       url: /announcements/
       image: /images/2026_POSTER_ver_MOE_260204.png
+      alt: Image alt text
+  - infopic:
+      title: Arif Budiman Malay Language Teacher Award (AGAB) 2026
+      subtitle: NOMINATION FOR
+      id: infopic
+      description: The closing date for nominations is 13 March 2026 (Friday).
+      button: nominate here!
+      url: /announcements/
+      image: /images/2__AGAB_2026_Poster_111.jpg
+      alt: Image alt text
+  - infopic:
+      title: Most Inspiring Tamil Teachers' Award (MITT) 2026
+      subtitle: NOMINATION FOR
+      id: infopic
+      description: The closing date for nominations is 13 March 2026 (Friday).
+      button: nominate here!
+      url: /announcements/
+      image: /images/2__MITT_2026_Poster_Reduce_Size.jpg
       alt: Image alt text
   - infobar:
       title: Start Right Day
