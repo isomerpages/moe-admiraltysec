@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: The closing date for nominations is 30 April 2026 (Thursday).
       button: nominate here!
-      url: https://www.admiraltysec.moe.edu.sg/scam-advisory/
+      url: https://admiraltysec.moe.edu.sg/announcements/
       image: /images/2026_POSTER_ver_MOE_260204.png
       alt: Image alt text
   - infobar:
