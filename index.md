@@ -29,9 +29,10 @@ sections:
       description: All students, parents, and teachers are invited to send in
         nominations for the Teaching Award to the Principal of the nominee’s
         school by 6pm on 23 March 2026.
-      button: Button Text
+      button: nominate here!
       image: /images/EL_Award_2026.jpg
       alt: Image alt text
+      url: /announcements/
   - infopic:
       title: Distinguished Chinese Language Teachers Awards 2026
       subtitle: NOMINATION FOR
