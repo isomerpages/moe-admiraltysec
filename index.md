@@ -50,6 +50,15 @@ sections:
       button: nominate here!
       url: /announcements/
       image: /images/2__AGAB_2026_Poster.jpg
+  - infopic:
+      title: Most Inspiring Tamil Teachers' Award (MITT) 2026
+      subtitle: NOMINATION FOR
+      id: infopic
+      description: The closing date for nominations is 13 March 2026 (Friday).
+      button: nominate here!
+      url: /announcements/
+      image: /images/2__MITT_2026_Poster_Reduce_Size.jpg
+      alt: Image alt text
   - infobar:
       title: Start Right Day
       subtitle: welcome back to school
