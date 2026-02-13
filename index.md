@@ -23,16 +23,6 @@ sections:
           description: ""
           url: /parents/permalink/
   - infopic:
-      title: Student Device Information Kit
-      subtitle: for secondary 1s only
-      id: infopic
-      description: Please access and complete the A1.2g File Management and Data
-        Back-up, an SLS self-paced module.
-      button: click here
-      url: https://go.gov.sg/sls-dlts-8
-      image: /images/Screenshot_2026_02_13_153905.png
-      alt: Image alt text
-  - infopic:
       title: Inspiring Teacher of English Award 2026
       subtitle: NOMINATION FOR
       id: infopic
