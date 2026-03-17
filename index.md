@@ -22,6 +22,13 @@ sections:
         - title: Parents
           description: ""
           url: /parents/permalink/
+  - infobar:
+      title: 2026 Term 2 Timetable
+      id: infobar
+      description: Dear Admirals, Term 2 W1 & W2 will follow the Term 1 timetable.
+        Updates on the Term 2 timetable will be shared when available.
+      button: Term 1 Timetable
+      url: https://www.admiraltysec.moe.edu.sg/class-timetable-term-1-sem-1-2026/
   - infopic:
       title: Inspiring Teacher of English Award 2026
       subtitle: NOMINATION FOR
@@ -123,11 +130,4 @@ sections:
       url: /social/news-and-highlights/permalink/
       alt: Image alt text
       image: /images/2023rugbybowl.jpg
-  - infobar:
-      title: 2026 Term 2 Timetable
-      id: infobar
-      description: Dear Admirals, Term 2 W1 & W2 will follow the Term 1 timetable.
-        Updates on the Term 2 timetable will be shared when available.
-      button: Term 1 Timetable
-      url: https://www.admiraltysec.moe.edu.sg/class-timetable-term-1-sem-1-2026/
 ---
