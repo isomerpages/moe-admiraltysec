@@ -93,8 +93,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br><a href="" rel="noopener nofollow" target="_blank"></a>
+<p>Mr Desmond Ng Jia Jie
+<br><a href="" rel="noopener nofollow" target="_blank">desmond_ng_jia_jie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
