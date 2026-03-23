@@ -78,8 +78,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Audrey Goh Xin Yun
-<br><a href="" rel="noopener nofollow" target="_blank">goh_xin_yun_audrey@moe.edu.sg</a>
+<p>Mr Gomez Gavin
+<br><a href="" rel="noopener nofollow" target="_blank">gomez_gavin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -93,8 +93,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br><a href="" rel="noopener nofollow" target="_blank"></a>
+<p>Mr Desmond Ng Jia Jie
+<br><a href="" rel="noopener nofollow" target="_blank">desmond_ng_jia_jie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -113,8 +113,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Desmond Ng Jia Jie
-<br><a href="" rel="noopener nofollow" target="_blank">Desmond_Ng_Jia_Jie@moe.edu.sg</a>
+<p>
+<br><a href="" rel="noopener nofollow" target="_blank"></a>
 </p></td></tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -585,13 +585,6 @@ variant: markdown
 	</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gee Wai Hoo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gee_wai_hoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gee_wai_hoo@moe.edu.sg</a></p></td>
-	</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Cheok Soh Peng Jocelyn Mary (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -615,13 +608,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Boon Hwee (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_boon_hween@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_boon_hwee@moe.edu.sg</a></p></td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Arasumani (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -642,14 +628,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:masriani_mahat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">masriani_mahat@moe.edu.sg</a></p></td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Chun Yen Daniel
-(FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chun_yen_daniel_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun_yen_daniel_a@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
