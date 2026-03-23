@@ -78,8 +78,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Audrey Goh Xin Yun
-<br><a href="" rel="noopener nofollow" target="_blank">goh_xin_yun_audrey@moe.edu.sg</a>
+<p>Mr Gomez Gavin
+<br><a href="" rel="noopener nofollow" target="_blank">gomez_gavin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
