@@ -25,9 +25,9 @@ sections:
   - infobar:
       title: 2026 Term 2 Timetable
       id: infobar
-      description: Dear Admirals, Term 2 W1 & W2 will follow the Term 1 timetable.
-        Updates on the Term 2 timetable will be shared when available.
-      button: Term 1 Timetable
+      description: Dear Admirals, Term 2 w.e.f Week 3 timetable has been updated.
+        Kindly click on the link below to view the updated timetable.
+      button: Term 2 Timetable
       url: https://www.admiraltysec.moe.edu.sg/class-timetable-term-1-sem-1-2026/
   - infopic:
       title: Inspiring Teacher of English Award 2026
