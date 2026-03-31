@@ -28,7 +28,7 @@ sections:
       description: Dear Admirals, Term 2 w.e.f Week 3 timetable has been updated.
         Kindly click on the link below to view the updated timetable.
       button: Term 2 Timetable
-      url: https://www.admiraltysec.moe.edu.sg/class-timetable-term-1-sem-1-2026/
+      url: https://www.admiraltysec.moe.edu.sg/class-timetable-term-2-sem-2-2026/
   - infopic:
       title: Inspiring Teacher of English Award 2026
       subtitle: NOMINATION FOR
