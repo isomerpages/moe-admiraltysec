@@ -21,4 +21,3 @@ Parents may refer to the following guide based on the DMA Options that they have
 
 **For Option B:**<br>
 [[DMA Parent Guide - Option B (PDF Guide)](/files/ChromeOS_DMA_Parent_Option_B.pdf)
-
