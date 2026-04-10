@@ -2,6 +2,7 @@
 title: DMA Resources for Parents
 permalink: /parents/dma-resourcesforparents/
 description: ""
+variant: markdown
 ---
 All students’ devices are installed with the MOE Device Management Application (DMA) as part of the measures to enable a safe and conducive learning environment for students. The purpose of the MOE DMA is to:
 
@@ -13,17 +14,11 @@ Parents may refer to the following guide based on the DMA Options that they have
 
 **For Default Option:**
 <br>
-1. [DMA Parent Guide - Default Option (PDF Guide)](https://drive.google.com/file/d/1yVtOrHYdGiJVtKg871-RiHAiG8mHCpul/view?usp=drive_link)
+ [DMA Parent Guide - Default Option (PDF Guide)](/files/ChromeOS_DMA_Parent_Default_Option.pdf)
 
 **For Option A:** <br>
-2. [DMA Parent Guide - Option A (PDF Guide)](https://drive.google.com/file/d/1ndlVvz9DY245bg9cb3PxAA6mdPLfUAEV/view?usp=drive_link)
-<br>
-3. [Overriding School Sleep Hours - for Option A (Video Guide)](https://drive.google.com/file/d/1kOqaTftEgQ_SW4KDIGxWIK1pDyhmQS1I/view?usp=drive_link)
-<br>
-4. [Setting Rules to Restrict Usage for Option A (Video Guide)](https://drive.google.com/file/d/1TOWBZshlsci8tW3fllP8DJXriP4jThmm/view?usp=drive_link)
+[DMA Parent Guide - Option A (PDF Guide)](/files/ChromeOS_DMA_Parent_Option_A.pdf)
 
 **For Option B:**<br>
-5. [DMA Parent Guide - Option B (PDF Guide)](https://drive.google.com/file/d/1XYaezWURQej9iwafLj9Zvgy5W8OpFdrl/view?usp=drive_link)
+[[DMA Parent Guide - Option B (PDF Guide)](/files/ChromeOS_DMA_Parent_Option_B.pdf)
 
-**For All Parent Account Holders:** <br>
-6. [Parent Account Password Reset (Video Guide)](https://drive.google.com/file/d/187LudzSGrl4mynHBEt4THBvPgvtzMISr/view?usp=drive_link)
