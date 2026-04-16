@@ -2,9 +2,9 @@ collections:
   parents:
     output: true
     order:
-      - MOE Group Personal Accident (GPA) Insurance.md
-      - Edusave Character Award (ECHA) Nomination (2025).md
       - Parent Support Group.md
+      - Edusave Character Award (ECHA) Nomination (2025).md
+      - MOE Group Personal Accident (GPA) Insurance.md
       - Full Subject Based Banding.md
       - MOE Sexuality Education.md
       - Cyberwellness Partnership.md
