@@ -1,6 +1,6 @@
 ---
-title: Announcements
-permalink: /announcements/
+title: Nominations (expired)
+permalink: /nominations/
 variant: tiptap
 description: ""
 ---
