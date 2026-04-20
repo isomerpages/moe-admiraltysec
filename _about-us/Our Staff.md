@@ -547,7 +547,7 @@ variant: markdown
 </table>
 <p><strong>Non-Form Teachers</strong>
 </p>
-<table style="minWidth: 50px">
+<p>&nbsp;</p><table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -598,8 +598,7 @@ variant: markdown
 <p><a href="mailto:kam_kit_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kam_kit_yin@moe.edu.sg</a></p></td>
 </tr>
 
-<tr>
-<td rowspan="1" colspan="1">
+<tr><td rowspan="1" colspan="1">
 <p>Mr Narayanan S Radhakrishnan
 (FAJT)</p>
 </td>
@@ -630,26 +629,10 @@ variant: markdown
 <p><a href="mailto:masriani_mahat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">masriani_mahat@moe.edu.sg</a></p></td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Rashidah Binte Mohamad Yaakob
-(FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rashidah_mohamad_yaakob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_mohamad_yaakob@moe.edu.sg</a></p></td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Masriani Bte Mahat
-(FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:masriani_mahat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">masriani_mahat@moe.edu.sg</a></p></td>
-</tr>
-</tbody>
-</table>
 
-<p>&nbsp;</p>
-<table style="minWidth: 75px">
+
+
+</tr></tbody></table><table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -697,7 +680,7 @@ variant: markdown
 <p>Ms Nadiah Binte Abdul Khalid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AED (LBS)</p>
+<p>SENO</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nadiah_abdul_khalid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_abdul_khalid@moe.edu.sg</a>
