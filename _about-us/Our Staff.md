@@ -598,13 +598,7 @@ variant: markdown
 <p><a href="mailto:kam_kit_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kam_kit_yin@moe.edu.sg</a></p></td>
 </tr>
 
-<tr><td rowspan="1" colspan="1">
-<p>Mr Narayanan S Radhakrishnan
-(FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:narayanan_s_radhakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">narayanan_s_radhakrishnan@moe.edu.sg</a></p></td>
-</tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Arasumani (FAJT)</p>
