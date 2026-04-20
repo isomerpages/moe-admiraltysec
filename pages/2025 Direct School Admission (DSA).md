@@ -19,19 +19,13 @@ the area of talent.</p>
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
 <h3>The Admiralty Experience</h3>
-<h4>2025 Open House</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025Openhouse_small.jpg">
-</div>
-<p></p>
 <h4>20th Anniversary Video</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OuUCoDbaHHc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OuUCoDbaHHc"></iframe>
 </div>
 <h4>Outreach Video</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ts3OTNvzUDA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ts3OTNvzUDA"></iframe>
 </div>
 <p><a href="/admiralty-experience/permalink/" rel="noopener noreferrer nofollow" target="_blank">Click here for more video highlights!</a>
 </p>
@@ -64,15 +58,21 @@ related to the talent they are selected for from year 1-4.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;<a href="/track-and-field/co-curricular-activities/sports/permalink" rel="noopener noreferrer nofollow" target="_blank">Track and Field (Girls and Boys)</a>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 Jun 2025, 3pm. For more details, please refer to MOE website –&nbsp;
+The application is free-of-charge and will be open from 6 May 2026, 11am
+to 2 Jun 2026, 4:30pm. For more details, please refer to MOE website –&nbsp;
 <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
-<p>Shortlisted students will be notified by the school by early July regarding
-their interview session. The interview sessions will likely be conducted
-from Term 3 Week 2 to Term 3 Week 4.</p>
-<p>We will inform applicants of the selection outcomes during 25 Aug 2025
-– 4 Sep 2025 via email.</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+<p>You will receive notification from the school by 17 July 2026, if your
+child has been shortlisted to undergo Direct School Admission (DSA) selection.
+The interview sessions will likely be conducted from Term 3 Week 4 to Term
+3 Week 5.</p>
+<p>All applicants will receive their application outcomes between 17 and
+28 Aug 2026.</p>
+<p></p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
