@@ -12,12 +12,9 @@ and medical expenses due to accidents. The proximate or triggering causes
 of injuries must be reasonably attributed to an accident.</p>
 <p>Parents/guardians will have to pay for medical treatments upfront, before
 submitting claims to Income Insurance Limited (Income Insurance) for reimbursement.
-Please note the applicable limits and coverage for medical expenses. Ineligible
-expenses or expenses in excess of the limits will be borne by the students/parents/guardians.</p>
-<p>Parents/guardians should also take note that medical treatments at private
-hospitals will typically cost higher, and parents/guardians may need to
-pay more out-of-pocket expenses if treatment costs exceed the policy’s
-coverage limits.</p>
+Please note the applicable limits and coverage for medical expenses. <strong>Ineligible expenses or expenses in excess of the limits will be borne by the students/parents/guardians</strong>.</p>
+<p>Parents/guardians should also take note that <strong>medical treatments at private hospitals will typically cost higher, and parents/guardians may need to pay more out-of-pocket expenses if treatment costs exceed the policy’s coverage limits.</strong>
+</p>
 <p>All claims must be submitted online as soon as possible subject to a cap
 of 365 calendar days from the date of accident.</p>
 <h4><strong>Claims Submission</strong></h4>
