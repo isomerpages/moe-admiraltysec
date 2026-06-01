@@ -41,7 +41,7 @@ related to the talent they are selected for from year 1-4.</p>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/admiralty-experience/applied-learning-programme/permalink/" rel="noopener noreferrer nofollow" target="_blank">STEM (Girls and Boys)</a>
 </p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/learning-for-life-programme/permalink" rel="noopener noreferrer nofollow" target="_blank">Community Youth Leadership (Girls and Boys)</a>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/admiralty-experience/learning-for-life-programme/permalink/" rel="noopener noreferrer nofollow" target="_blank">Community Youth Leadership (Girls and Boys)</a>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/national-civil-defence-cadet-corps/co-curricular-activities/uniform-groups/permalink" rel="noopener noreferrer nofollow" target="_blank">National Civil Defence Cadet Corps (NCDCC) (Boys and Girls)</a>
 </p>
@@ -139,7 +139,7 @@ the community using STEM knowledge.</p>
 <p>Leadership and Uniformed Groups</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/learning-for-life-programme/permalink" rel="noopener noreferrer nofollow" target="_blank">Community Youth Leadership (Girls and Boys)</a>
+<p><a href="/admiralty-experience/learning-for-life-programme/permalink/" rel="noopener noreferrer nofollow" target="_blank">Community Youth Leadership (Girls and Boys)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
