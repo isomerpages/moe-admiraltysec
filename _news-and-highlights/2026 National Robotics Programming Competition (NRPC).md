@@ -15,6 +15,40 @@ description: ""
 <p><a href="/files/18th_NRPC_Infosheet_1.pdf" rel="noopener noreferrer nofollow" target="_blank">18th NRPC Infosheet</a>
 </p>
 
+### 2026 NRPC Photos
+<p>Thank you to all participants of 18th NRPC, here are some photos from
+the f2f surprise mission on 28 May 2026.</p>
+
+## Primary School Category
+![](/images/2026nrpcpri.jpg)
+
+![](/images/2026nrpcpri0.jpg)
+
+![](/images/2026nrpcpri1.jpg)
+
+![](/images/2026nrpcpri2.jpg)
+
+![](/images/2026nrpcpri3.jpg)
+
+![](/images/2026nrpcpri4.jpg)
+
+![](/images/2026nrpcpri5.jpg)
+
+## Secondary School Category
+
+![](/images/2026nrpcsec.jpg)
+
+![](/images/2026nrpcsec1.jpg)
+
+![](/images/2026nrpcsec5.jpg)
+
+![](/images/2026nrpcsec6.jpg)
+
+![](/images/2026nrpcsec3.jpg)
+
+![](/images/2026nrpcsec4.jpg)
+
+![](/images/2026nrpcsec2.jpg)
 
 ### 2025 NRPC Photos
 <p>Thank you to all participants of 17th NRPC, here are some photos from
