@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Admirals,</p>
-<p>Please refer to the following timetable, effective from<strong> Term 2 Week 3</strong> onwards.</p>
-<p><a href="/files/2026/Sec_1_Orion_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Orion Timetable</a>
-<br><a href="/files/2026/Sec_2_Phoenix_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Phoenix Timetable</a>
-<br><a href="/files/2026/Sec_3_Aquila_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Aquila Timetable</a>
-<br><a href="/files/2026/Sec_4_and_5_Lyra_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5 Lyra Timetable</a>
+<p>Please refer to the following timetable, effective from<strong> Term 3 Week 1</strong> onwards.</p>
+<p><a href="/files/Sem_2_TT___Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Orion Timetable</a>
+<br><a href="/files/Sem_2_TT___Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Phoenix Timetable</a>
+<br><a href="/files/Sem_2_TT___Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 Aquila Timetable</a>
+<br><a href="/files/Sem_2_TT___Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4/5 Lyra Timetable</a>
 </p>
 <p>Thank you.</p>
