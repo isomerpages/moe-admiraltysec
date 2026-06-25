@@ -28,7 +28,7 @@ sections:
       description: Dear Admirals, Term 3 timetable has been uploaded. Click on the
         link below to view the new timetable.
       button: Term 3 Timetable
-      url: https://www.admiraltysec.moe.edu.sg//class-timetable-term-3-sem-2-2026/
+      url: https://www.admiraltysec.moe.edu.sg/class-timetable-term-3-sem-2-2026/
   - infobar:
       title: Start Right Day
       subtitle: welcome back to school
