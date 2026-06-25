@@ -1,6 +1,6 @@
 ---
 title: Class Timetable 2026
-permalink: /class-timetable-term-2-sem-2-2026/
+permalink: /class-timetable-term-3-sem-2-2026/
 variant: tiptap
 description: ""
 ---

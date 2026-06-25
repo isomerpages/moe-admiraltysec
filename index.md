@@ -23,12 +23,12 @@ sections:
           description: ""
           url: /parents/permalink/
   - infobar:
-      title: 2026 Term 2 Timetable
+      title: 2026 Term 3 Timetable
       id: infobar
-      description: Dear Admirals, Term 2 w.e.f Week 3 timetable has been updated.
-        Kindly click on the link below to view the updated timetable.
-      button: Term 2 Timetable
-      url: https://www.admiraltysec.moe.edu.sg/class-timetable-term-2-sem-2-2026/
+      description: Dear Admirals, Term 3 timetable has been uploaded. Click on the
+        link below to view the new timetable.
+      button: Term 3 Timetable
+      url: https://www.admiraltysec.moe.edu.sg//class-timetable-term-3-sem-2-2026/
   - infobar:
       title: Start Right Day
       subtitle: welcome back to school
