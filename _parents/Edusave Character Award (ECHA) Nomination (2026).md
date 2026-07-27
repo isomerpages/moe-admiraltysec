@@ -13,7 +13,6 @@ description: ""
 <p>(Deadline for submission : 11 August 2026)</p>
 <p></p>
 <p><a href="/files/ECHA_Nomination_Form_2026_ADSS.pdf" rel="noopener nofollow" target="_blank">2026 ECHA Nomination Form</a>
-<a href="/files/ECHA_Nomination_Form_2025_ADSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Form</a>
 </p>
 <p></p>
 <p></p>
