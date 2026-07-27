@@ -5,12 +5,15 @@ variant: tiptap
 description: ""
 ---
 <p>Please refer the the slides below for more details.</p>
-<p><a href="/files/For_Website__ECHA_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">ECHA Nomination Process</a>
+<p><a href="/files/ECHA_Nomination_Process_2026_Website.pdf" rel="noopener nofollow" target="_blank">ECHA Nomination Process</a>
 </p>
 <p></p>
 <p></p>
 <p>Please refer to the pdf nomination form.</p>
-<p>(Deadline for submission : 1 August 2025)</p>
-<p><a href="/files/ECHA_Nomination_Form_2025_ADSS.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 ECHA Nomination Form</a>
+<p>(Deadline for submission : 11 August 2026)</p>
+<p></p>
+<p><a href="/files/ECHA_Nomination_Form_2026_ADSS.pdf" rel="noopener nofollow" target="_blank">2026 ECHA Nomination Form</a>
+<a href="/files/ECHA_Nomination_Form_2025_ADSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Form</a>
 </p>
+<p></p>
 <p></p>
