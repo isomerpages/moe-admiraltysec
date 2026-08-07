@@ -108,17 +108,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Huan Bok Kelvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/PE&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_huan_bok_kelvin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr M. Siva Balan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,13 +152,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Chuen Wei (Mrs Goh)</p>
+<p>Mdm Lee Li Lian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chuen_wei@moe.edu.sg</p>
+<p>lee_li_lian_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -236,17 +225,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>choe_kee_cheng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Goh Jia Ying Jocelyn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH/LS Science&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_jia_ying_jocelyn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
