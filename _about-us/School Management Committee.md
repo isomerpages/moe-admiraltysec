@@ -284,6 +284,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Sebastian Poh Yi Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sebastian_poh_yi_jie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Janice Lim Hong Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>janice_lim_hong_min@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Tay Kai Yun Karen (Mrs Yap)</p>
 </td>
 <td rowspan="1" colspan="1">
